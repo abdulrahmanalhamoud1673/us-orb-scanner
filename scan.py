@@ -48,6 +48,21 @@ def parse_args() -> tuple[list[str], date | None]:
     return tickers, forced_date
 
 
+def extract(data: pd.DataFrame, ticker: str) -> pd.DataFrame | None:
+    """يستخرج أعمدة سهم واحد من نتيجة yfinance.
+
+    شكل الأعمدة يختلف حسب عدد الأسهم المطلوبة وإصدار المكتبة:
+    قد يكون الرمز في المستوى الأول أو الثاني أو غير موجود أصلاً (سهم واحد).
+    """
+    cols = data.columns
+    if not isinstance(cols, pd.MultiIndex):
+        return data
+    for level in (0, 1):
+        if ticker in cols.get_level_values(level):
+            return data.xs(ticker, axis=1, level=level)
+    return None
+
+
 def fetch(tickers: list[str]) -> dict[str, pd.DataFrame]:
     """يجلب شموع 5 دقائق لآخر 5 أيام لكل سهم، على دفعات."""
     frames: dict[str, pd.DataFrame] = {}
@@ -69,10 +84,8 @@ def fetch(tickers: list[str]) -> dict[str, pd.DataFrame]:
             continue
 
         for ticker in batch:
-            try:
-                # عند جلب سهم واحد فقط، yfinance لا يضع مستوى الرمز في الأعمدة
-                df = data[ticker] if len(batch) > 1 else data
-            except KeyError:
+            df = extract(data, ticker)
+            if df is None:
                 continue
             df = df.dropna(how="all")
             if df.empty:

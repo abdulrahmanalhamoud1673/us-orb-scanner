@@ -56,6 +56,48 @@
   @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(15,209,143,.55)}70%{box-shadow:0 0 0 9px rgba(15,209,143,0)}100%{box-shadow:0 0 0 0 rgba(15,209,143,0)}}
   .mkt{font-weight:800}.mkt.open{color:var(--up)}.mkt.closed{color:var(--down)}
 
+  /* شريط الأزرار + اللوحات المنسدلة */
+  .barwrap{display:flex;gap:9px;flex-wrap:wrap;align-items:center}
+  .pill{background:var(--glass);border:1px solid var(--br);color:var(--muted);
+        border-radius:999px;padding:8px 16px;font-size:12.5px;font-weight:700;
+        font-family:inherit;cursor:pointer;transition:.15s;text-decoration:none;
+        backdrop-filter:blur(8px);white-space:nowrap}
+  .pill:hover{border-color:var(--br2);color:var(--text)}
+  .pill.on{background:var(--gold2);border-color:var(--gold);color:var(--gold)}
+  .panel{display:none;margin-top:11px;background:var(--glass);border:1px solid var(--br);
+         border-radius:16px;padding:15px 17px;backdrop-filter:blur(10px)}
+  .panel.on{display:block;animation:fade .18s ease}
+  .sw{display:flex;align-items:center;gap:10px;padding:7px 0;font-size:13px;
+      color:var(--muted);cursor:pointer}
+  .sw input{width:17px;height:17px;accent-color:var(--accent);cursor:pointer;flex:none}
+  .sw:hover span{color:var(--text)}
+  .ghost{margin-top:9px;background:var(--glass2);border:1px solid var(--br);color:var(--muted);
+         border-radius:10px;padding:8px 16px;font-size:12.5px;font-family:inherit;
+         font-weight:700;cursor:pointer;transition:.15s}
+  .ghost:hover{border-color:var(--accent);color:var(--accent)}
+  .frow{display:flex;gap:12px;flex-wrap:wrap}
+  .frow label{flex:1;min-width:150px;font-size:12.5px;color:var(--muted);
+              display:flex;flex-direction:column;gap:6px}
+  .frow input{background:rgba(0,0,0,.28);border:1px solid var(--br);color:var(--text);
+              border-radius:11px;padding:10px 13px;font-size:15px;font-weight:800;
+              font-family:inherit;direction:ltr;text-align:right;width:100%}
+  .frow input:focus{outline:none;border-color:var(--accent)}
+  .hint{font-size:11.5px;color:var(--dim);margin-top:10px;line-height:1.7}
+
+  /* الإشعارات المنبثقة */
+  .toasts{position:fixed;top:14px;left:50%;transform:translateX(-50%);
+          z-index:120;display:flex;flex-direction:column;gap:8px;
+          width:min(360px,92vw);pointer-events:none}
+  .toast{background:linear-gradient(150deg,#16203a,#0e1526);border:1px solid var(--br2);
+         border-radius:14px;padding:12px 15px;font-size:13px;font-weight:700;
+         box-shadow:0 12px 34px rgba(0,0,0,.5);animation:drop .3s cubic-bezier(.3,1.3,.5,1);
+         display:flex;align-items:center;gap:10px}
+  .toast.buy{border-color:rgba(15,209,143,.5)}
+  .toast.sell{border-color:rgba(251,85,115,.5)}
+  .toast b{font-size:15px;direction:ltr}
+  .toast small{display:block;font-weight:500;color:var(--muted);font-size:11px;margin-top:2px}
+  @keyframes drop{from{transform:translateY(-16px);opacity:0}}
+
   /* ============ الإحصائيات ============ */
   .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(112px,1fr));
          gap:9px;margin:15px 0 16px}
@@ -215,12 +257,34 @@
   </div>
 </header>
 
-<div class="livebar">
-  <span class="dot" id="liveDot"></span>
-  <span id="liveTxt">جاري الاتصال بالأسعار المباشرة…</span>
-  <span style="color:var(--dim)">|</span>
-  <span>السوق: <span class="mkt" id="mktState">—</span></span>
+<div class="barwrap">
+  <div class="livebar">
+    <span class="dot" id="liveDot"></span>
+    <span id="liveTxt">جاري الاتصال بالأسعار المباشرة…</span>
+    <span style="color:var(--dim)">|</span>
+    <span>السوق: <span class="mkt" id="mktState">—</span></span>
+  </div>
+  <button class="pill" id="btnAlert" title="تنبيه عند كل إشارة جديدة">🔔 التنبيهات</button>
+  <button class="pill" id="btnRisk" title="حجم الصفقة وإدارة المخاطرة">🧮 المخاطرة</button>
+  <a class="pill" href="backtest.html" title="أداء الاستراتيجية تاريخياً">📉 الأداء</a>
 </div>
+
+<div class="panel" id="alertPanel">
+  <label class="sw"><input type="checkbox" id="alSound"> <span>🔊 صوت تنبيه عند إشارة جديدة</span></label>
+  <label class="sw"><input type="checkbox" id="alNotif"> <span>📱 إشعار على الجهاز (حتى لو الصفحة بالخلفية)</span></label>
+  <label class="sw"><input type="checkbox" id="alFavOnly"> <span>⭐ المفضلة فقط (بدون هذا: كل الأسهم)</span></label>
+  <button class="ghost" id="alTest">جرّب التنبيه الآن</button>
+</div>
+
+<div class="panel" id="riskPanel">
+  <div class="frow">
+    <label>رأس المال <input type="number" id="rkCap" min="1" step="100" placeholder="5000"></label>
+    <label>نسبة المخاطرة % <input type="number" id="rkPct" min="0.1" max="100" step="0.1" placeholder="1"></label>
+  </div>
+  <p class="hint">تظهر النتيجة داخل تفاصيل كل سهم: كم سهم تشتري، وكم أقصى خسارة إذا خرجت عند مستوى البيع.</p>
+</div>
+
+<div class="toasts" id="toasts"></div>
 
 <div class="stats" id="stats"></div>
 
@@ -271,6 +335,95 @@ function toggleFav(t){
   if(openTicker===t) openDetail(t);
 }
 
+/* ══════════ 2ب) الإعدادات: التنبيهات والمخاطرة ══════════ */
+const CFG_KEY="orb-cfg";
+const cfg = Object.assign(
+  {sound:true, notif:false, favOnly:false, capital:null, riskPct:1},
+  JSON.parse(localStorage.getItem(CFG_KEY)||"{}"));
+const saveCfg = ()=>localStorage.setItem(CFG_KEY,JSON.stringify(cfg));
+
+alSound.checked=cfg.sound; alNotif.checked=cfg.notif; alFavOnly.checked=cfg.favOnly;
+rkCap.value=cfg.capital??""; rkPct.value=cfg.riskPct;
+
+alSound.onchange  = ()=>{cfg.sound=alSound.checked; saveCfg(); syncPills();};
+alFavOnly.onchange= ()=>{cfg.favOnly=alFavOnly.checked; saveCfg();};
+alNotif.onchange  = async()=>{
+  if(alNotif.checked && "Notification" in window && Notification.permission!=="granted"){
+    const p = await Notification.requestPermission();
+    if(p!=="granted"){ alNotif.checked=false; toast("⚠️","تم رفض الإذن","فعّل الإشعارات من إعدادات المتصفح"); }
+  }
+  cfg.notif=alNotif.checked; saveCfg(); syncPills();
+};
+rkCap.oninput = ()=>{cfg.capital=parseFloat(rkCap.value)||null; saveCfg(); if(openTicker) openDetail(openTicker);};
+rkPct.oninput = ()=>{cfg.riskPct=parseFloat(rkPct.value)||1;    saveCfg(); if(openTicker) openDetail(openTicker);};
+
+const panelToggle=(btn,panel)=>btn.onclick=()=>{
+  panel.classList.toggle("on"); btn.classList.toggle("on",panel.classList.contains("on"));
+};
+panelToggle(btnAlert,alertPanel); panelToggle(btnRisk,riskPanel);
+function syncPills(){ btnAlert.textContent = (cfg.sound||cfg.notif)?"🔔 التنبيهات مفعّلة":"🔕 التنبيهات"; }
+syncPills();
+
+/* صوت التنبيه — نغمة مولّدة، بلا ملفات خارجية */
+let audioCtx=null;
+function beep(up=true){
+  if(!cfg.sound) return;
+  try{
+    audioCtx = audioCtx || new (window.AudioContext||window.webkitAudioContext)();
+    if(audioCtx.state==="suspended") audioCtx.resume();
+    const notes = up?[660,880,1170]:[520,400,300];
+    notes.forEach((f,i)=>{
+      const o=audioCtx.createOscillator(), g=audioCtx.createGain();
+      o.type="sine"; o.frequency.value=f;
+      const t=audioCtx.currentTime+i*0.11;
+      g.gain.setValueAtTime(0.0001,t);
+      g.gain.exponentialRampToValueAtTime(0.32,t+0.02);
+      g.gain.exponentialRampToValueAtTime(0.0001,t+0.20);
+      o.connect(g); g.connect(audioCtx.destination); o.start(t); o.stop(t+0.22);
+    });
+  }catch(e){}
+}
+function toast(icon,title,sub,kind=""){
+  const el=document.createElement("div");
+  el.className="toast "+kind;
+  el.innerHTML=`<span style="font-size:20px">${icon}</span><div><b>${title}</b><small>${sub}</small></div>`;
+  toasts.appendChild(el);
+  setTimeout(()=>{el.style.transition="opacity .4s";el.style.opacity="0";
+                  setTimeout(()=>el.remove(),400);},6000);
+}
+alTest.onclick=()=>{
+  beep(true);
+  toast("🟢","AAPL — إشارة دخول","تجربة · $000.00","buy");
+  if(cfg.notif && Notification.permission==="granted")
+    new Notification("تجربة التنبيه ✅",{body:"هيك رح يوصلك التنبيه عند أي إشارة جديدة"});
+};
+
+/* كشف الإشارات الجديدة بين كل تحديث والتالي */
+let sigSeen=null;   // ticker → "Buy@09:45"  (null = أول تحميل، لا ننبّه)
+function checkNewSignals(d){
+  const now={};
+  d.all.forEach(r=>{ if(r.signals.length){
+    const s=r.signals[r.signals.length-1]; now[r.ticker]=s.kind+"@"+s.time; }});
+  if(sigSeen){
+    for(const tk in now){
+      if(now[tk]===sigSeen[tk]) continue;               // لا جديد
+      if(cfg.favOnly && !isFav(tk)) continue;           // مفضلة فقط
+      const r=d.all.find(x=>x.ticker===tk);
+      const s=r.signals[r.signals.length-1];
+      const buy=s.kind==="Buy";
+      beep(buy);
+      toast(buy?"🟢":"🔴", `${tk} — ${buy?"إشارة دخول":"إشارة خروج"}`,
+            `${money(s.price)} · ${s.time} ET`, buy?"buy":"sell");
+      if(cfg.notif && "Notification" in window && Notification.permission==="granted"){
+        const n=new Notification(`${tk} — ${buy?"🟢 إشارة دخول":"🔴 إشارة خروج"}`,
+          {body:`السعر ${money(s.price)} · الساعة ${s.time} ET`, tag:tk+s.time});
+        n.onclick=()=>{window.focus(); openDetail(tk);};
+      }
+    }
+  }
+  sigSeen=now;
+}
+
 /* ══════════ 3) الحالة ══════════ */
 let DATA=null, filter="buy", openTicker=null;
 const live={};   // ticker → {price,chgPct}   آخر تسعيرة مباشرة
@@ -285,7 +438,9 @@ const byT   = t => DATA.all.find(r=>r.ticker===t);
 async function loadResults(){
   try{
     const r = await fetch("results.json?v="+Date.now(),{cache:"no-store"});
-    DATA = await r.json(); render(); subscribe();
+    DATA = await r.json();
+    checkNewSignals(DATA);          // تنبيه قبل الرسم
+    render(); subscribe();
     if(openTicker) openDetail(openTicker);
   }catch(e){ scanInfo.textContent="⚠️ تعذّر تحميل الإشارات"; }
 }
@@ -367,6 +522,33 @@ document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{
 
 /* ══════════ 5) نافذة التفاصيل ══════════
    كل الأرقام أدناه تأتي كما هي من نتائج استراتيجيتك — بدون أي حساب جديد.  */
+/* حاسبة حجم الصفقة — حساب رياضي بحت على مستويات الاستراتيجية، لا يغيّرها.
+   المسافة للخروج = السعر الحالي − مستوى البيع (VWAP).  */
+function riskBox(r,px){
+  if(!cfg.capital) return `<div class="sec">🧮 حجم الصفقة</div>
+    <div class="hint" style="margin:0">أدخل رأس مالك من زر «🧮 المخاطرة» بالأعلى ليُحسب لك عدد الأسهم وأقصى خسارة.</div>`;
+
+  const stop = r.vwap, risk = cfg.capital*(cfg.riskPct/100), dist = px-stop;
+  if(dist<=0) return `<div class="sec">🧮 حجم الصفقة</div>
+    <div class="hint" style="margin:0">السعر الحالي تحت مستوى البيع (${money(stop)}) — لا يوجد دخول صالح الآن حسب الاستراتيجية.</div>`;
+
+  const shares=Math.floor(risk/dist), cost=shares*px;
+  const overCap = cost>cfg.capital;
+  const t1=r.targets[0], rr=(t1-px)/dist;
+  return `<div class="sec">🧮 حجم الصفقة</div>
+    <div class="tgts">
+      <div class="tg"><span class="n">#</span><span>عدد الأسهم</span>
+        <span class="d" style="color:var(--text);font-weight:800">${shares.toLocaleString()} سهم</span></div>
+      <div class="tg"><span class="n">$</span><span>تكلفة الصفقة</span>
+        <span class="d" style="color:${overCap?"var(--down)":"var(--text)"};font-weight:800">${money(cost)}${overCap?" ⚠️ أكبر من رأس مالك":""}</span></div>
+      <div class="tg"><span class="n">↓</span><span>أقصى خسارة (خروج عند ${money(stop)})</span>
+        <span class="d" style="color:var(--down);font-weight:800">−${money(shares*dist)}</span></div>
+      <div class="tg"><span class="n">⚖</span><span>عائد/مخاطرة حتى الهدف الأول</span>
+        <span class="d" style="font-weight:800">${rr.toFixed(2)} : 1</span></div>
+    </div>
+    <div class="hint" style="margin-top:8px">محسوبة على مخاطرة ${cfg.riskPct}% من ${money(cfg.capital)} = ${money(risk)}. لا تشمل العمولات ولا الانزلاق السعري.</div>`;
+}
+
 function openDetail(tk){
   const r=byT(tk); if(!r) return;
   openTicker=tk;
@@ -422,8 +604,10 @@ function openDetail(tk){
       </div>
     </div>
 
+    ${riskBox(r,px)}
+
     <div class="sec">🎯 الأهداف</div>
-    <div class="tgts">${tgs}</div>
+    <div class="tgts" id="tgList">${tgs}</div>
 
     <div class="sec">🕐 إشارات اليوم</div>
     <div class="log">${log}</div>
@@ -494,9 +678,9 @@ function paintModal(q,doFlash=true){
   mEls.p.textContent=money(q.price);
   if(doFlash) flash(mEls.p,dir,"m");
   if(q.chgPct!==undefined){ mEls.c.textContent=pct(q.chgPct); mEls.c.className="chg "+(q.chgPct>=0?"up":"down"); }
-  // تحديث "باقي X%" للأهداف مع كل نبضة سعر
+  // تحديث "باقي X%" للأهداف مع كل نبضة سعر (قائمة الأهداف فقط، لا صفوف المخاطرة)
   const r=byT(openTicker); if(!r) return;
-  document.querySelectorAll("#modal .tg").forEach((el,i)=>{
+  document.querySelectorAll("#tgList .tg").forEach((el,i)=>{
     if(el.classList.contains("hit")) return;
     const away=(r.targets[i]/q.price-1)*100;
     const d=el.querySelector(".d"); if(d) d.textContent="باقي "+away.toFixed(2)+"%";

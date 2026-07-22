@@ -65,6 +65,15 @@
   /* ═══ البطاقات ═══ */
   .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(258px,1fr));gap:13px}
   .card{background:var(--card);border:1px solid var(--line);border-radius:16px;padding:17px 18px}
+  .card.saved{border-color:rgba(245,180,60,.34)}
+  /* منطقة لمس مريحة للإصبع دون تكبير النجمة بصرياً */
+  .star{background:none;border:none;cursor:pointer;font-size:17px;line-height:1;
+        width:34px;height:34px;margin:-8px -6px -8px -8px;
+        display:grid;place-items:center;
+        border-radius:8px;color:var(--dim);font-family:inherit;
+        transition:color .15s,transform .15s}
+  .star:hover{color:var(--amber);transform:scale(1.15)}
+  .star.on{color:var(--amber)}
 
   .row1{display:flex;justify-content:space-between;align-items:center;margin-bottom:12px}
   .tkr{font-size:18px;font-weight:800;letter-spacing:.5px;direction:ltr}
@@ -161,6 +170,7 @@
   <button class="tab on" data-f="buy">إشارات شراء</button>
   <button class="tab" data-f="sell">خرجت</button>
   <button class="tab" data-f="all">كل الأسهم</button>
+  <button class="tab" data-f="saved">المحفوظة <span id="savedN"></span></button>
   <button class="tab" data-f="news">أخبار السوق <span id="newsN"></span></button>
 </div>
 
@@ -230,6 +240,16 @@ setInterval(()=>{
 let DATA=null, filter="buy";
 const live={}, els={};
 
+/* ═══ الأسهم المحفوظة (تبقى محفوظة بمتصفحك) ═══ */
+const SAVED_KEY="orb-saved";
+let saved=new Set(JSON.parse(localStorage.getItem(SAVED_KEY)||"[]"));
+const isSaved=t=>saved.has(t);
+function toggleSaved(t){
+  saved.has(t) ? saved.delete(t) : saved.add(t);
+  localStorage.setItem(SAVED_KEY,JSON.stringify([...saved]));
+  draw();
+}
+
 const money=n=>"$"+Number(n).toFixed(2);
 const pct  =n=>(n>=0?"+":"")+Number(n).toFixed(2)+"%";
 
@@ -289,15 +309,23 @@ function draw(){
     <div class="sm"><b style="color:var(--down)">${d.sell_count}</b><small>خرجت من الصفقة</small></div>
     <div class="sm"><b>${d.scanned}</b><small>سهم مفحوص</small></div>`;
 
+  savedN.textContent = saved.size ? `(${saved.size})` : "";
+
   let list=d.all;
-  if(filter==="buy")  list=d.opportunities;
-  if(filter==="sell") list=d.all.filter(r=>r.state===-1);
+  if(filter==="buy")   list=d.opportunities;
+  if(filter==="sell")  list=d.all.filter(r=>r.state===-1);
+  if(filter==="saved") list=d.all.filter(r=>isSaved(r.ticker));
+  // المحفوظة تُثبَّت بأول القائمة في كل التبويبات
+  list=[...list].sort((a,b)=>(isSaved(b.ticker)?1:0)-(isSaved(a.ticker)?1:0));
 
   for(const k in els) delete els[k];
 
   if(!list.length){
-    cards.innerHTML=`<div class="empty">لا توجد إشارات في هذا القسم
-      <small>الإشارات تظهر بعد إغلاق الشموع التالية لشمعة الافتتاح</small></div>`;
+    cards.innerHTML = filter==="saved"
+      ? `<div class="empty">ما حفظت أي سهم بعد
+         <small>اضغط النجمة على أي سهم ليظهر هنا</small></div>`
+      : `<div class="empty">لا توجد إشارات في هذا القسم
+         <small>الإشارات تظهر بعد إغلاق الشموع التالية لشمعة الافتتاح</small></div>`;
     return;
   }
 
@@ -313,9 +341,14 @@ function draw(){
       </div>`;
     }).join("");
 
-    return `<div class="card">
+    return `<div class="card${isSaved(r.ticker)?" saved":""}">
       <div class="row1">
-        <span class="tkr">${r.ticker}</span>
+        <span style="display:flex;align-items:center;gap:7px">
+          <button class="star${isSaved(r.ticker)?" on":""}" data-save="${r.ticker}"
+                  title="${isSaved(r.ticker)?"إزالة من المحفوظة":"حفظ السهم"}"
+                  aria-label="حفظ ${r.ticker}">${isSaved(r.ticker)?"★":"☆"}</button>
+          <span class="tkr">${r.ticker}</span>
+        </span>
         <span class="tag ${tag[0]}">${tag[1]}</span>
       </div>
       <div class="pxrow">
@@ -348,6 +381,11 @@ function draw(){
     paint(r.ticker, live[r.ticker] ?? {price:r.price}, false);
   });
 }
+
+cards.addEventListener("click",e=>{
+  const b=e.target.closest("[data-save]");
+  if(b) toggleSaved(b.dataset.save);
+});
 
 document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{
   document.querySelectorAll(".tab").forEach(x=>x.classList.remove("on"));

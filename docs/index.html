@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>فرص السوق الأمريكي — شمعة الافتتاح</title>
+<style>
+  :root{
+    --bg:#0b1020; --panel:#141b2f; --panel2:#1b2440; --line:#28324e;
+    --text:#e8edf7; --muted:#8b97b3;
+    --up:#12c57a; --down:#f2495c; --accent:#4c8dff; --warn:#f5a524;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+       font-family:"Segoe UI",Tahoma,system-ui,sans-serif;padding:16px}
+  header{display:flex;flex-wrap:wrap;gap:12px;align-items:center;
+         justify-content:space-between;margin-bottom:18px}
+  h1{font-size:22px;margin:0}
+  h1 span{color:var(--accent)}
+  .meta{font-size:13px;color:var(--muted);line-height:1.7}
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));
+         gap:10px;margin-bottom:20px}
+  .stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
+  .stat b{display:block;font-size:26px;margin-bottom:2px}
+  .stat small{color:var(--muted);font-size:12px}
+  .tabs{display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap}
+  .tab{background:var(--panel);border:1px solid var(--line);color:var(--muted);
+       padding:8px 16px;border-radius:999px;cursor:pointer;font-size:14px}
+  .tab.on{background:var(--accent);border-color:var(--accent);color:#fff}
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;
+        padding:16px;transition:.15s}
+  .card:hover{border-color:var(--accent);transform:translateY(-2px)}
+  .card.long{border-right:4px solid var(--up)}
+  .card.short{border-right:4px solid var(--down)}
+  .card.flat{border-right:4px solid var(--muted);opacity:.75}
+  .top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:12px}
+  .tkr{font-size:21px;font-weight:700;letter-spacing:.5px}
+  .tkr a{color:inherit;text-decoration:none}
+  .tkr a:hover{color:var(--accent)}
+  .badge{font-size:11px;padding:4px 10px;border-radius:999px;font-weight:600}
+  .b-long{background:rgba(18,197,122,.15);color:var(--up)}
+  .b-short{background:rgba(242,73,92,.15);color:var(--down)}
+  .b-flat{background:rgba(139,151,179,.15);color:var(--muted)}
+  .price{font-size:26px;font-weight:700}
+  .chg{font-size:14px;font-weight:600;margin-inline-start:8px}
+  .up{color:var(--up)} .down{color:var(--down)} .warn{color:var(--warn)}
+  .rows{margin-top:12px;font-size:13px}
+  .row{display:flex;justify-content:space-between;padding:5px 0;
+       border-bottom:1px dashed var(--line)}
+  .row:last-child{border:0}
+  .row span:first-child{color:var(--muted)}
+  .tgt{display:flex;gap:5px;margin-top:12px}
+  .tgt i{flex:1;height:7px;border-radius:4px;background:var(--panel2);font-style:normal}
+  .tgt i.done{background:var(--up)}
+  .note{font-size:11px;color:var(--muted);margin-top:8px;text-align:center}
+  .empty{text-align:center;padding:60px 20px;color:var(--muted)}
+  .empty div{font-size:52px;margin-bottom:12px}
+  footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
+         font-size:12px;color:var(--muted);line-height:1.9}
+  @media(max-width:600px){.cards{grid-template-columns:1fr}h1{font-size:18px}}
+</style>
+</head>
+<body>
+
+<header>
+  <div>
+    <h1>📊 فرص السوق الأمريكي — <span>استراتيجية شمعة الافتتاح</span></h1>
+    <div class="meta" id="meta">جاري تحميل البيانات…</div>
+  </div>
+</header>
+
+<div class="stats" id="stats"></div>
+
+<div class="tabs">
+  <div class="tab on" data-f="buy">🟢 فرص الشراء</div>
+  <div class="tab" data-f="sell">🔴 خرجت (بيع)</div>
+  <div class="tab" data-f="all">📋 كل الأسهم</div>
+</div>
+
+<div class="cards" id="cards"></div>
+
+<footer>
+  ⚙️ يعتمد على شموع 5 دقائق. الإشارة تُحسب على <b>إغلاق</b> الشمعة، لا داخلها.<br>
+  ⚠️ هذه أداة مساعدة للتحليل فقط وليست توصية استثمارية. القرار والمسؤولية عليك.
+</footer>
+
+<script>
+let DATA = null, filter = "buy";
+
+const money = n => "$" + Number(n).toFixed(2);
+const pct   = n => (n >= 0 ? "+" : "") + Number(n).toFixed(2) + "%";
+
+async function load() {
+  try {
+    // ?v= يمنع المتصفح من عرض نسخة قديمة مخزّنة
+    const res = await fetch("results.json?v=" + Date.now());
+    DATA = await res.json();
+    render();
+  } catch (e) {
+    document.getElementById("meta").textContent =
+      "⚠️ تعذّر تحميل results.json — شغّل السكانر أولاً (python scan.py)";
+  }
+}
+
+function render() {
+  const d = DATA;
+  document.getElementById("meta").innerHTML =
+    `آخر تحديث: <b>${d.updated_amman || d.updated_riyadh}</b> (بتوقيت الأردن) — ` +
+    `${d.updated_ny} نيويورك<br>جلسة ${d.session_date || "—"}`;
+
+  const waiting = d.waiting
+    ? `<div class="stat"><b class="warn">${d.waiting}</b><small>بانتظار شموع كافية</small></div>` : "";
+
+  document.getElementById("stats").innerHTML = `
+    <div class="stat"><b>${d.scanned}</b><small>سهم مفحوص${d.requested ? " من " + d.requested : ""}</small></div>
+    <div class="stat"><b class="up">${d.buy_count}</b><small>فرصة شراء نشطة</small></div>
+    <div class="stat"><b class="down">${d.sell_count}</b><small>خرج من الصفقة</small></div>
+    ${waiting}
+    <div class="stat"><b>${d.all.filter(r => r.above_ema200).length}</b><small>فوق EMA 200</small></div>`;
+
+  let list = d.all;
+  if (filter === "buy")  list = d.opportunities;
+  if (filter === "sell") list = d.all.filter(r => r.state === -1);
+
+  const box = document.getElementById("cards");
+  if (!list.length) {
+    box.innerHTML = `<div class="empty" style="grid-column:1/-1">
+      <div>🔍</div>لا توجد نتائج في هذا التبويب حالياً.<br>
+      <small>السكانر يحدّث كل 5 دقائق خلال ساعات التداول.</small></div>`;
+    return;
+  }
+  box.innerHTML = list.map(card).join("");
+}
+
+function card(r) {
+  const cls   = r.state === 1 ? "long" : r.state === -1 ? "short" : "flat";
+  const label = r.state === 1 ? "🟢 في صفقة شراء"
+              : r.state === -1 ? "🔴 خرج (بيع)" : "⚪ لا إشارة";
+  const bcls  = r.state === 1 ? "b-long" : r.state === -1 ? "b-short" : "b-flat";
+  const chg   = r.state === 1 ? r.change_pct : r.day_change_pct;
+  const chgLbl= r.state === 1 ? "من الدخول" : "من الافتتاح";
+
+  const bars = r.targets.map((t, i) =>
+    `<i class="${i < r.targets_hit ? "done" : ""}" title="هدف ${i+1}: ${money(t)}"></i>`).join("");
+
+  const rows = [
+    r.entry_price ? ["سعر الدخول", money(r.entry_price)] : null,
+    ["قمة شمعة الافتتاح", money(r.open_high)],
+    ["مدى شمعة الافتتاح", money(r.open_range)],
+    ["VWAP", `<span class="${r.price > r.vwap ? "up" : "down"}">${money(r.vwap)}</span>`],
+    ["EMA 200", `<span class="${r.above_ema200 ? "up" : "down"}">${money(r.ema200)}</span>`],
+    r.next_target ? ["الهدف القادم", `${money(r.next_target)} (${pct(r.next_target_pct)})`] : null,
+    r.last_signal_time ? ["وقت آخر إشارة", r.last_signal_time + " ET"] : null,
+  ].filter(Boolean)
+   .map(([k, v]) => `<div class="row"><span>${k}</span><span>${v}</span></div>`).join("");
+
+  return `<div class="card ${cls}">
+    <div class="top">
+      <div class="tkr"><a href="https://www.tradingview.com/chart/?symbol=${r.ticker}"
+         target="_blank" rel="noopener">${r.ticker}</a></div>
+      <div class="badge ${bcls}">${label}</div>
+    </div>
+    <div>
+      <span class="price">${money(r.price)}</span>
+      <span class="chg ${chg >= 0 ? "up" : "down"}">${pct(chg)}</span>
+      <small style="color:var(--muted)"> ${chgLbl}</small>
+    </div>
+    <div class="rows">${rows}</div>
+    <div class="tgt">${bars}</div>
+    <div class="note">الأهداف المحققة: ${r.targets_hit} من 5</div>
+  </div>`;
+}
+
+document.querySelectorAll(".tab").forEach(t => t.onclick = () => {
+  document.querySelectorAll(".tab").forEach(x => x.classList.remove("on"));
+  t.classList.add("on");
+  filter = t.dataset.f;
+  render();
+});
+
+load();
+setInterval(load, 60000);   // إعادة تحميل النتائج كل دقيقة
+</script>
+</body>
+</html>

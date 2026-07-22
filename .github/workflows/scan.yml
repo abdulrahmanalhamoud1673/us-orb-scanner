@@ -1,0 +1,47 @@
+name: فحص السوق الأمريكي
+
+on:
+  schedule:
+    # كل 5 دقائق، من 13:30 حتى 21:00 UTC، أيام الاثنين–الجمعة
+    # (يغطي جلسة نيويورك 9:30–16:00 صيفاً وشتاءً)
+    - cron: "*/5 13-21 * * 1-5"
+  workflow_dispatch: # يسمح لك بتشغيله يدوياً من تبويب Actions
+
+# مطلوب حتى يستطيع الـ workflow حفظ النتائج في المستودع
+permissions:
+  contents: write
+
+concurrency:
+  group: scan
+  cancel-in-progress: false # لا نلغي فحصاً جارياً، ننتظره
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: تثبيت المكتبات
+        run: pip install -r requirements.txt
+
+      - name: تشغيل السكانر
+        run: python scan.py
+
+      - name: حفظ النتائج
+        run: |
+          git config user.name  "orb-scanner-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add docs/results.json
+          # --quiet يرجع 0 إذا لا يوجد تغيير، فنتخطى الـ commit
+          git diff --staged --quiet && echo "لا تغييرات" && exit 0
+          git commit -m "تحديث النتائج $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # إعادة المحاولة: قد يكون تشغيل آخر سبقنا بالدفع
+          git pull --rebase --autostash origin ${{ github.ref_name }}
+          git push

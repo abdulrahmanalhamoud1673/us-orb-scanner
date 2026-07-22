@@ -1,0 +1,89 @@
+# قائمة الأسهم التي يفحصها البوت — سهم واحد بكل سطر
+# احذف أو أضف ما تشاء. الأسطر التي تبدأ بـ # يتم تجاهلها.
+
+# --- التكنولوجيا الكبرى ---
+AAPL
+MSFT
+NVDA
+GOOGL
+AMZN
+META
+TSLA
+AVGO
+AMD
+NFLX
+CRM
+ORCL
+ADBE
+INTC
+MU
+QCOM
+PLTR
+SMCI
+ARM
+MRVL
+
+# --- المالية ---
+JPM
+BAC
+GS
+MS
+WFC
+C
+SCHW
+COIN
+HOOD
+V
+MA
+PYPL
+SOFI
+
+# --- الطاقة والصناعة ---
+XOM
+CVX
+OXY
+SLB
+CAT
+BA
+GE
+UBER
+DAL
+LMT
+
+# --- الصحة والاستهلاك ---
+LLY
+UNH
+JNJ
+PFE
+MRNA
+ABBV
+COST
+WMT
+NKE
+SBUX
+MCD
+DIS
+CVS
+
+# --- أسهم نشطة / مضاربية ---
+RIVN
+LCID
+NIO
+F
+GM
+RIOT
+MARA
+MSTR
+SNAP
+PINS
+RBLX
+DKNG
+AFRM
+CVNA
+GME
+
+# --- مؤشرات (ETFs) ---
+SPY
+QQQ
+IWM
+DIA

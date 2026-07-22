@@ -20,6 +20,7 @@
     --up:#12cf90;
     --down:#fb5573;
     --accent:#5b8dff;
+    --amber:#f5b43c;
   }
   *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
   body{
@@ -40,8 +41,12 @@
   .state{display:inline-flex;align-items:center;gap:7px;font-weight:700}
   .dot{width:7px;height:7px;border-radius:50%;background:var(--dim)}
   .dot.on{background:var(--up);animation:pulse 2s infinite}
+  .dot.ext{background:var(--amber);animation:pulse2 2.4s infinite}
   @keyframes pulse{0%{box-shadow:0 0 0 0 rgba(18,207,144,.5)}70%{box-shadow:0 0 0 7px rgba(18,207,144,0)}}
-  .state.open{color:var(--up)} .state.closed{color:var(--dim)}
+  @keyframes pulse2{0%{box-shadow:0 0 0 0 rgba(245,180,60,.5)}70%{box-shadow:0 0 0 7px rgba(245,180,60,0)}}
+  .state.open{color:var(--up)}
+  .state.pre,.state.after{color:var(--amber)}
+  .state.closed{color:var(--dim)}
 
   /* ═══ الملخص ═══ */
   .summary{display:flex;gap:26px;flex-wrap:wrap;margin:22px 0;
@@ -77,6 +82,8 @@
   .day{font-size:13px;font-weight:700;direction:ltr;font-variant-numeric:tabular-nums}
   .day.u{color:var(--up)} .day.d{color:var(--down)}
   .lbl{font-size:10.5px;color:var(--dim);font-weight:600}
+  .extbadge{font-size:10.5px;color:var(--amber);background:rgba(245,180,60,.09);
+            border-radius:8px;padding:6px 10px;margin-bottom:9px;line-height:1.6}
 
   /* قائمة الشراء والبيع */
   .lv{display:flex;justify-content:space-between;align-items:center;
@@ -144,6 +151,7 @@
     <span>الأردن <b id="cJo">--:--:--</b></span>
     <span>نيويورك <b id="cNy">--:--:--</b></span>
     <span id="scan">…</span>
+    <span id="tick"></span>
   </div>
 </header>
 
@@ -169,21 +177,53 @@
 /* ═══ الساعات وحالة السوق ═══ */
 const fJo=new Intl.DateTimeFormat("en-GB",{timeZone:"Asia/Amman",hour12:false,hour:"2-digit",minute:"2-digit",second:"2-digit"});
 const fNy=new Intl.DateTimeFormat("en-GB",{timeZone:"America/New_York",hour12:false,hour:"2-digit",minute:"2-digit",second:"2-digit"});
-const fD =new Intl.DateTimeFormat("en-US",{timeZone:"America/New_York",weekday:"short",hour:"2-digit",minute:"2-digit",hour12:false});
+const fD =new Intl.DateTimeFormat("en-US",{timeZone:"America/New_York",weekday:"short",
+           hour:"2-digit",minute:"2-digit",second:"2-digit",hour12:false});
 
-function isOpen(){
+/* جلسات السوق الأمريكي بتوقيت نيويورك (بالدقائق من منتصف الليل):
+     ما قبل الافتتاح   4:00  → 9:30    (240 → 570)
+     السوق الرسمي      9:30  → 16:00   (570 → 960)   ← الاستراتيجية تعمل هنا فقط
+     ما بعد الإغلاق   16:00  → 20:00   (960 → 1200)                                 */
+function nyNow(){
   const p=Object.fromEntries(fD.formatToParts(new Date()).map(x=>[x.type,x.value]));
-  if(p.weekday==="Sat"||p.weekday==="Sun") return false;
-  const m=(+p.hour)*60+(+p.minute);
-  return m>=570 && m<960;                      // 9:30 → 16:00
+  return {wd:p.weekday, min:(+p.hour)*60+(+p.minute), sec:+p.second};
 }
+function session(){
+  const {wd,min}=nyNow();
+  if(wd==="Sat"||wd==="Sun")
+    return {key:"closed", label:"عطلة نهاية الأسبوع", until:null};
+  if(min>=240 && min<570)
+    return {key:"pre",   label:"ما قبل الافتتاح", until:570,  next:"يفتح السوق الرسمي بعد"};
+  if(min>=570 && min<960)
+    return {key:"open",  label:"السوق الرسمي",     until:960,  next:"يغلق بعد"};
+  if(min>=960 && min<1200)
+    return {key:"after", label:"ما بعد الإغلاق",   until:1200, next:"ينتهي التداول بعد"};
+  // بين 20:00 ومنتصف الليل، أو قبل 4:00 صباحاً
+  return {key:"closed", label:"السوق مغلق",
+          until: min<240 ? 240 : 240+1440, next:"يبدأ ما قبل الافتتاح بعد"};
+}
+function countdown(s){
+  if(s.until===null) return "";
+  const {min,sec}=nyNow();
+  let left=(s.until-min)*60-sec;
+  if(left<=0) return "";
+  const h=Math.floor(left/3600), m=Math.floor(left%3600/60), x=left%60;
+  return (h?`${h}:${String(m).padStart(2,"0")}`:`${m}`)+`:${String(x).padStart(2,"0")}`;
+}
+
+let SESS=session();
 setInterval(()=>{
   const n=new Date();
   cJo.textContent=fJo.format(n); cNy.textContent=fNy.format(n);
-  const o=isOpen();
-  mktTxt.textContent=o?"السوق مفتوح":"السوق مغلق";
-  mkt.className="state "+(o?"open":"closed");
-  dot.className="dot"+(o?" on":"");
+
+  const s=session();
+  const changed = s.key!==SESS.key;
+  SESS=s;
+  const cd=countdown(s);
+  mktTxt.textContent = s.label + (cd?` · ${s.next} ${cd}`:"");
+  mkt.className="state "+s.key;
+  dot.className="dot"+(s.key==="open"?" on":s.key==="pre"||s.key==="after"?" ext":"");
+  if(changed && DATA) draw();     // تتغيّر لافتة السعر على البطاقات
 },1000);
 
 /* ═══ الحالة ═══ */
@@ -283,6 +323,8 @@ function draw(){
         <span class="day" id="c-${r.ticker}">—</span>
         <span class="lbl" id="l-${r.ticker}"></span>
       </div>
+      ${SESS.key==="pre"||SESS.key==="after"
+        ? `<div class="extbadge">سعر ${SESS.label} — الإشارات لا تُحتسب خارج السوق الرسمي</div>` : ""}
       ${r.entry_price?`<div class="lv e"><span>سعر الإشارة</span><b>${money(r.entry_price)}</b></div>`:""}
       <div class="lv b"><span>شراء فوق</span><b>${money(r.open_high)}</b></div>
       <div class="lv s"><span>بيع تحت</span><b>${money(r.vwap)}</b></div>
@@ -313,7 +355,17 @@ document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{
 });
 
 /* ═══ البث المباشر للأسعار ═══ */
-let ws=null, retry=2000;
+let ws=null, retry=2000, lastTick=0;
+
+/* مؤشر صحة البث: يطمئنك أن الأسعار حيّة فعلاً وليست قديمة */
+setInterval(()=>{
+  if(!lastTick){ tick.textContent = ws&&ws.readyState===1 ? "بانتظار أول سعر" : "البث غير متصل"; return; }
+  const s=Math.round((Date.now()-lastTick)/1000);
+  tick.textContent = s<3 ? "الأسعار مباشرة الآن"
+                   : s<90 ? `آخر سعر قبل ${s} ثانية`
+                   : `آخر سعر قبل ${Math.round(s/60)} دقيقة`;
+  tick.style.color = s<90 ? "var(--up)" : "var(--dim)";
+},1000);
 
 /* فكّ ترميز رسالة ياهو (protobuf): 1=الرمز، 2=السعر، 8=تغيّر٪ */
 function decode(b64){
@@ -378,7 +430,11 @@ function connect(){
       if(typeof b==="string"&&b[0]==="{"){ const j=JSON.parse(b); b=j.message||j.data||""; }
       if(!b) return;
       const q=decode(b);
-      if(q.id&&q.price){ live[q.id]={price:q.price,chg:q.chg}; paint(q.id,live[q.id]); }
+      if(q.id&&q.price){
+        live[q.id]={price:q.price,chg:q.chg};
+        paint(q.id,live[q.id]);
+        lastTick=Date.now();          // لمؤشر "آخر سعر" أعلى الصفحة
+      }
     }catch(e){}
   };
   ws.onclose=()=>{ setTimeout(connect,retry); retry=Math.min(retry*2,30000); };

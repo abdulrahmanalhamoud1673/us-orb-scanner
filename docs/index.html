@@ -225,6 +225,26 @@
   .lg .k.sell{background:var(--down2);color:var(--down)}
   .lg .t{color:var(--muted);direction:ltr;font-size:11.5px}
 
+  /* صندوق مركزي */
+  .posbox{background:rgba(0,0,0,.22);border:1px solid var(--br);border-radius:15px;padding:14px}
+  .muted2{color:var(--dim);font-size:10.5px;font-weight:400}
+  .prow{display:flex;gap:8px;margin-top:10px;flex-wrap:wrap}
+  .prow .ghost{margin-top:0;flex:1;min-width:120px}
+  .pnl{border-radius:14px;padding:14px 16px;margin-top:13px;text-align:center;border:1px solid}
+  .pnl.pos{background:var(--up2);border-color:rgba(15,209,143,.34)}
+  .pnl.neg{background:var(--down2);border-color:rgba(251,85,115,.34)}
+  .pnl .big{font-size:34px;font-weight:900;direction:ltr;font-variant-numeric:tabular-nums;line-height:1.1}
+  .pnl.pos .big,.pnl.pos .cash{color:var(--up)}
+  .pnl.neg .big,.pnl.neg .cash{color:var(--down)}
+  .pnl .cash{font-size:19px;font-weight:800;direction:ltr;font-variant-numeric:tabular-nums;margin-top:2px}
+  .pnl .det{font-size:11px;color:var(--muted);margin-top:7px;line-height:1.85;direction:rtl}
+  .pnl .det b{color:var(--text);direction:ltr;display:inline-block;font-variant-numeric:tabular-nums}
+  .tg.loss{background:var(--down2);border-color:rgba(251,85,115,.3)}
+  .tg .pos{color:var(--up);font-weight:800}
+  .tg .neg{color:var(--down);font-weight:800}
+  .crow.mine{border-top-color:rgba(255,201,60,.28)}
+  .crow.mine span:first-child{color:var(--gold);font-size:11px}
+
   .mfav{width:100%;margin-top:17px;padding:12px;border-radius:13px;cursor:pointer;
         font-family:inherit;font-size:13.5px;font-weight:800;transition:.16s;
         background:var(--glass);border:1px solid var(--br);color:var(--muted)}
@@ -424,6 +444,16 @@ function checkNewSignals(d){
   sigSeen=now;
 }
 
+/* ══════════ 2ج) مراكزي: سعر شرائي الفعلي لكل سهم ══════════ */
+const POS_KEY="orb-pos";
+let pos = JSON.parse(localStorage.getItem(POS_KEY)||"{}");   // ticker → {entry, qty}
+const savePos = ()=>localStorage.setItem(POS_KEY,JSON.stringify(pos));
+function setPos(tk,entry,qty){
+  if(!entry||entry<=0) delete pos[tk];
+  else pos[tk]={entry:+entry, qty:+qty||0};
+  savePos();
+}
+
 /* ══════════ 3) الحالة ══════════ */
 let DATA=null, filter="buy", openTicker=null;
 const live={};   // ticker → {price,chgPct}   آخر تسعيرة مباشرة
@@ -432,6 +462,10 @@ let mEls=null;   // عناصر النافذة المفتوحة
 
 const money = n => "$"+Number(n).toFixed(2);
 const pct   = n => (n>=0?"+":"")+Number(n).toFixed(2)+"%";
+/* دقة عالية لأرقام المركز: ٣ خانات للنسبة، ٤ للسعر */
+const pct3  = n => (n>=0?"+":"")+Number(n).toFixed(3)+"%";
+const usd   = n => (n>=0?"+$":"−$")+Math.abs(Number(n)).toFixed(2);
+const px4   = n => "$"+Number(n).toFixed(4);
 const byT   = t => DATA.all.find(r=>r.ticker===t);
 
 /* ══════════ 4) تحميل نتائج الاستراتيجية ══════════ */
@@ -441,7 +475,9 @@ async function loadResults(){
     DATA = await r.json();
     checkNewSignals(DATA);          // تنبيه قبل الرسم
     render(); subscribe();
-    if(openTicker) openDetail(openTicker);
+    // لا نعيد بناء النافذة إذا كان المستخدم يكتب في حقل — يفقد التركيز وما كتبه
+    const typing = document.activeElement?.closest?.("#modal .frow");
+    if(openTicker && !typing) openDetail(openTicker);
   }catch(e){ scanInfo.textContent="⚠️ تعذّر تحميل الإشارات"; }
 }
 setInterval(loadResults,45000);
@@ -493,6 +529,8 @@ function render(){
         <span class="chg" id="c-${r.ticker}">—</span>
         <small style="color:var(--dim);font-size:11px"> اليوم</small>
       </div>
+      ${pos[r.ticker]?`<div class="crow mine"><span>💼 من سعر شرائي ${px4(pos[r.ticker].entry)}</span>
+        <b class="pl" id="m-${r.ticker}">—</b></div>`:""}
       ${r.entry_price?`<div class="crow"><span>منذ الإشارة</span>
         <b class="pl" id="g-${r.ticker}">${pct(r.change_pct)}</b></div>`:""}
       <div class="tbar">${bars}</div>
@@ -503,6 +541,7 @@ function render(){
   list.forEach(r=>{
     els[r.ticker]={p:document.getElementById("p-"+r.ticker),c:document.getElementById("c-"+r.ticker),
                    g:document.getElementById("g-"+r.ticker),t:document.getElementById("t-"+r.ticker),
+                   m:document.getElementById("m-"+r.ticker),
                    entry:r.entry_price,last:live[r.ticker]?.price ?? r.price};
     if(live[r.ticker]) paintCard(r.ticker,live[r.ticker],false);
   });
@@ -547,6 +586,60 @@ function riskBox(r,px){
         <span class="d" style="font-weight:800">${rr.toFixed(2)} : 1</span></div>
     </div>
     <div class="hint" style="margin-top:8px">محسوبة على مخاطرة ${cfg.riskPct}% من ${money(cfg.capital)} = ${money(risk)}. لا تشمل العمولات ولا الانزلاق السعري.</div>`;
+}
+
+/* حساب المركز من سعر شرائك أنت — يُستدعى مع كل نبضة سعر.
+   لا يمسّ الاستراتيجية: مستويات الأهداف والخروج تأتي منها كما هي،
+   والجديد فقط أنها تُقاس من سعرك بدل سعر الإشارة. */
+function renderPos(tk){
+  const host=document.getElementById("posLive"); if(!host) return;
+  const r=byT(tk); if(!r) return;
+  const p=pos[tk];
+  if(!p){
+    host.innerHTML=`<div class="hint" style="margin-top:10px">
+      أدخل سعر شرائك ليُحسب الربح والخسارة والمسافة لكل هدف من سعرك أنت — بدقة ولحظياً.</div>`;
+    return;
+  }
+  const px  = live[tk]?.price ?? r.price;
+  const qty = p.qty||0;
+  const diff = px - p.entry;                 // فرق السعر للسهم الواحد
+  const gain = (px/p.entry - 1) * 100;       // نسبة الربح/الخسارة
+  const cash = diff * qty;                   // بالدولار (إن أدخلت الكمية)
+  const stop = r.vwap;                       // مستوى الخروج من الاستراتيجية
+  const stopPct = (stop/p.entry - 1) * 100;  // نتيجتك لو خرجت عنده
+  const g = gain>=0?"pos":"neg";
+
+  const tRows = r.targets.map((t,i)=>{
+    const reached = px>=t;
+    const fromMe  = (t/p.entry - 1)*100;     // ربحك لو وصل، من سعرك
+    const away    = (t/px - 1)*100;          // كم باقي من السعر الحالي
+    return `<div class="tg ${reached?"hit":""}">
+      <span class="n">${reached?"✓":i+1}</span>
+      <span class="v">${money(t)}</span>
+      <span class="d">${reached
+        ? `<span class="pos">تحقق · ${pct3(fromMe)}</span>`
+        : `باقي ${away.toFixed(3)}% · لك ${pct3(fromMe)}${qty?` = ${usd((t-p.entry)*qty)}`:""}`}</span>
+    </div>`;
+  }).join("");
+
+  host.innerHTML=`
+    <div class="pnl ${g}">
+      <div class="big">${pct3(gain)}</div>
+      ${qty?`<div class="cash">${usd(cash)}</div>`:""}
+      <div class="det">
+        السعر الآن <b>${px4(px)}</b> · شرائي <b>${px4(p.entry)}</b> ·
+        الفرق <b>${(diff>=0?"+":"−")+"$"+Math.abs(diff).toFixed(4)}</b> للسهم
+        ${qty?` · ${qty.toLocaleString()} سهم · قيمة المركز <b>${money(px*qty)}</b>`:""}
+      </div>
+    </div>
+    <div class="tgts" style="margin-top:9px">
+      <div class="tg ${stopPct>=0?"":"loss"}">
+        <span class="n">⛔</span><span>لو خرجت عند مستوى البيع ${money(stop)}</span>
+        <span class="d ${stopPct>=0?"pos":"neg"}">${pct3(stopPct)}${qty?` = ${usd((stop-p.entry)*qty)}`:""}</span>
+      </div>
+    </div>
+    <div class="sec" style="margin:14px 0 8px">🎯 الأهداف محسوبة من سعرك</div>
+    <div class="tgts">${tRows}</div>`;
 }
 
 function openDetail(tk){
@@ -604,6 +697,23 @@ function openDetail(tk){
       </div>
     </div>
 
+    <div class="sec">💼 مركزي — احسب من سعر شرائي</div>
+    <div class="posbox">
+      <div class="frow">
+        <label>سعر الشراء الفعلي
+          <input type="number" id="myEntry" step="0.0001" placeholder="0.00"
+                 value="${pos[tk]?.entry ?? ""}"></label>
+        <label>عدد الأسهم <span class="muted2">(اختياري)</span>
+          <input type="number" id="myQty" step="1" placeholder="0"
+                 value="${pos[tk]?.qty || ""}"></label>
+      </div>
+      <div class="prow">
+        <button class="ghost" id="useNow">استخدم السعر الحالي</button>
+        <button class="ghost" id="clrPos">مسح</button>
+      </div>
+      <div id="posLive"></div>
+    </div>
+
     ${riskBox(r,px)}
 
     <div class="sec">🎯 الأهداف</div>
@@ -620,6 +730,16 @@ function openDetail(tk){
   document.body.style.overflow="hidden";
   mEls={p:document.getElementById("mp"),c:document.getElementById("mc"),
         last:px,entry:r.entry_price};
+
+  // ربط حقول المركز — التغيير يُحفظ فوراً ويُعاد الحساب بلا إعادة رسم النافذة
+  const eIn=document.getElementById("myEntry"), qIn=document.getElementById("myQty");
+  const sync=()=>{ setPos(tk,eIn.value,qIn.value); renderPos(tk); render(); };
+  eIn.oninput=sync; qIn.oninput=sync;
+  document.getElementById("useNow").onclick=()=>{
+    eIn.value=(live[tk]?.price ?? r.price).toFixed(4); sync(); };
+  document.getElementById("clrPos").onclick=()=>{ eIn.value=""; qIn.value=""; sync(); };
+  renderPos(tk);
+
   if(live[tk]) paintModal(live[tk],false);
   document.getElementById("mx").onclick=closeDetail;
 }
@@ -670,6 +790,11 @@ function paintCard(id,q,doFlash=true){
   if(doFlash) flash(e.p,dir,"c"+id);
   if(q.chgPct!==undefined&&e.c){ e.c.textContent=pct(q.chgPct); e.c.className="chg "+(q.chgPct>=0?"up":"down"); }
   if(e.entry&&e.g){ const g=(q.price/e.entry-1)*100; e.g.textContent=pct(g); e.g.className="pl "+(g>=0?"up":"down"); }
+  if(e.m&&pos[id]){                       // ربحي من سعر شرائي، بدقة عالية
+    const p=pos[id], g=(q.price/p.entry-1)*100;
+    e.m.textContent=pct3(g)+(p.qty?` · ${usd((q.price-p.entry)*p.qty)}`:"");
+    e.m.className="pl "+(g>=0?"up":"down");
+  }
   if(e.t) e.t.textContent=fJo.format(new Date());
 }
 function paintModal(q,doFlash=true){
@@ -683,8 +808,9 @@ function paintModal(q,doFlash=true){
   document.querySelectorAll("#tgList .tg").forEach((el,i)=>{
     if(el.classList.contains("hit")) return;
     const away=(r.targets[i]/q.price-1)*100;
-    const d=el.querySelector(".d"); if(d) d.textContent="باقي "+away.toFixed(2)+"%";
+    const d=el.querySelector(".d"); if(d) d.textContent="باقي "+away.toFixed(3)+"%";
   });
+  renderPos(openTicker);   // أرقام مركزك تتحرك مع كل نبضة
 }
 function subscribe(){
   if(ws&&ws.readyState===1&&DATA)

@@ -100,6 +100,27 @@
   .empty{grid-column:1/-1;text-align:center;padding:74px 20px;color:var(--muted);font-size:14px}
   .empty small{display:block;margin-top:9px;color:var(--dim);font-size:12.5px}
 
+  /* ═══ الأخبار ═══ */
+  .news{display:flex;flex-direction:column;gap:9px}
+  .nw{display:block;background:var(--card);border:1px solid var(--line);
+      border-radius:14px;padding:15px 17px;text-decoration:none;color:inherit;
+      transition:border-color .16s,transform .16s;position:relative;
+      border-inline-start:3px solid var(--dim)}
+  .nw:hover{border-color:rgba(255,255,255,.16);transform:translateX(-3px)}
+  .nw.up{border-inline-start-color:var(--up)}
+  .nw.down{border-inline-start-color:var(--down)}
+  .nw h3{font-size:14.5px;font-weight:700;line-height:1.65;margin-bottom:9px}
+  .nfoot{display:flex;align-items:center;gap:9px;flex-wrap:wrap;font-size:11.5px;color:var(--dim)}
+  .nsrc{color:var(--muted);font-weight:600}
+  .ntime{direction:ltr;font-variant-numeric:tabular-nums}
+  .ndir{font-size:10.5px;font-weight:700;padding:2px 9px;border-radius:5px}
+  .ndir.up{background:rgba(18,207,144,.13);color:var(--up)}
+  .ndir.down{background:rgba(251,85,115,.13);color:var(--down)}
+  .ndir.neutral{background:rgba(139,151,174,.11);color:var(--muted)}
+  .nlink{margin-inline-start:auto;color:var(--accent);font-weight:600}
+  .nnote{font-size:11.5px;color:var(--dim);line-height:1.8;margin-bottom:14px;
+         padding:11px 15px;background:rgba(255,255,255,.028);border-radius:11px}
+
   footer{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);
          font-size:11.5px;color:var(--dim);line-height:1.9;text-align:center}
 
@@ -130,6 +151,7 @@
   <button class="tab on" data-f="buy">إشارات شراء</button>
   <button class="tab" data-f="sell">خرجت</button>
   <button class="tab" data-f="all">كل الأسهم</button>
+  <button class="tab" data-f="news">أخبار السوق <span id="newsN"></span></button>
 </div>
 
 <div class="cards" id="cards"></div>
@@ -178,8 +200,45 @@ async function load(){
 }
 setInterval(load,45000);
 
+/* ═══ أخبار السوق ═══ */
+let NEWS=null;
+async function loadNews(){
+  try{
+    const r=await fetch("news.json?v="+Date.now(),{cache:"no-store"});
+    NEWS=await r.json();
+    newsN.textContent = NEWS.count ? `(${NEWS.count})` : "";
+    if(filter==="news") draw();
+  }catch(e){ NEWS={items:[],count:0}; }
+}
+setInterval(loadNews,120000);
+
+function drawNews(){
+  if(!NEWS){ cards.innerHTML=`<div class="empty">جاري تحميل الأخبار…</div>`; return; }
+  if(!NEWS.items.length){
+    cards.innerHTML=`<div class="empty">لا توجد أخبار مؤثرة حالياً
+      <small>تُجلب الأخبار تلقائياً مع كل فحص</small></div>`;
+    return;
+  }
+  const lbl={up:"مرجّح صعودي",down:"مرجّح هبوطي",neutral:"مهم"};
+  cards.innerHTML=`
+    <div class="nnote">التصنيف (صعودي/هبوطي) تقديري آلي حسب كلمات العنوان — افتح الخبر من مصدره واحكم بنفسك.</div>
+    <div class="news">${NEWS.items.map(n=>`
+      <a class="nw ${n.direction}" href="${n.url}" target="_blank" rel="noopener">
+        <h3>${n.title}</h3>
+        <div class="nfoot">
+          <span class="ndir ${n.direction}">${lbl[n.direction]}</span>
+          <span class="nsrc">${n.source}</span>
+          ${n.amman?`<span class="ntime">${n.amman}</span>`:""}
+          <span class="nlink">المصدر ↗</span>
+        </div>
+      </a>`).join("")}</div>`;
+}
+
 function draw(){
   const d=DATA;
+  cards.className = filter==="news" ? "" : "cards";
+  if(filter==="news"){ drawNews(); return; }
+
   const ago=Math.max(0,Math.round((Date.now()-Date.parse(d.updated_ny.replace(" ","T")+"-04:00"))/60000));
   scan.textContent=`آخر فحص قبل ${isFinite(ago)?ago:"?"} دقيقة`;
 
@@ -306,7 +365,7 @@ function connect(){
   ws.onerror=()=>ws.close();
 }
 
-load(); connect();
+load(); loadNews(); connect();
 </script>
 </body>
 </html>

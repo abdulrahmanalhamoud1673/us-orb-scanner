@@ -1,9 +1,17 @@
 {
-  "updated_amman": "2026-07-23 00:54",
-  "count": 32,
-  "up": 7,
+  "updated_amman": "2026-07-23 01:45",
+  "count": 33,
+  "up": 8,
   "down": 4,
   "items": [
+    {
+      "title": "مؤشرات الأسهم الأمريكية تغلق تعاملات الأربعاء على تباين",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5oc0xGR1NBQ0NDcGdLN2FUS2VwcXJod3NoSGlOamVURm5UaEt2Um54cUQyclVJdWhrLU9JSW9sdnBUc3NTcl9HLQ?oc=5",
+      "source": "عاجل",
+      "direction": "neutral",
+      "ts": "2026-07-22T21:52:00+00:00",
+      "amman": "00:52"
+    },
     {
       "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
       "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
@@ -29,6 +37,14 @@
       "amman": "23:44"
     },
     {
+      "title": "وول ستريت تغلق متباينة مع ترقب نتائج ألفابت وتسلا",
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPM2pYWWwtSGk2ZjZfcE0zd1otbWFpMXFxX2s0bkw0NS1CYTEyUDFMZHZZY3VLLWRLV2dGSmNrUXptNVktalQtVUhPdXlvdFh5V1EyOEU4bXFBQ2RfUEFRbW9XS1V2QU5vRTJFZmlic1FnTmhtcmxIWDVKTnE4VDlNSVd0WnlxcEFZMkhyekw5VFdvdktqMTRIcGZCbDFoblNkdXBqV3RZdmtHWW5nbWN5VlpmRlpsTTM1U3JCLV8tYVlqMndkTjNSbXh3MXJaUlI0N1BYMExxMXhjVTZZN0MwRmVXUWpmaWJubmtHcldHaWFFa3kxbFpfRXlxT0dSamdUSENyWENRVHZIQmZnUTYwLUFhVDB4QVgtNWNaWU5zdmNMVWp1RENqTFlIcnZvZEVhd3NFYldVMW1yQ1FjX3VjcVhsY01LbmhwU3d3NmY3UEJwMi02NkptaGZvZzlzaTV3SDdmZnZQaHR1cnZhZG1ndVBRZWJoNlZtXzBta01sbm92QXFPaTYtWG9fbnBZWVJCQW9qZHdKLWV1QVVhRmhPZXpwNHFCRVVoNDBVWlRXYkxQVmJKQ01v?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "neutral",
+      "ts": "2026-07-22T20:37:17+00:00",
+      "amman": "23:37"
+    },
+    {
       "title": "The Treasury market touches a worrying milestone not seen since 2007",
       "url": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -45,14 +61,6 @@
       "amman": "23:10"
     },
     {
-      "title": "وول ستريت تغلق متباينة مع ترقب نتائج ألفابت وتسلا",
-      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPM2pYWWwtSGk2ZjZfcE0zd1otbWFpMXFxX2s0bkw0NS1CYTEyUDFMZHZZY3VLLWRLV2dGSmNrUXptNVktalQtVUhPdXlvdFh5V1EyOEU4bXFBQ2RfUEFRbW9XS1V2QU5vRTJFZmlic1FnTmhtcmxIWDVKTnE4VDlNSVd0WnlxcEFZMkhyekw5VFdvdktqMTRIcGZCbDFoblNkdXBqV3RZdmtHWW5nbWN5VlpmRlpsTTM1U3JCLV8tYVlqMndkTjNSbXh3MXJaUlI0N1BYMExxMXhjVTZZN0MwRmVXUWpmaWJubmtHcldHaWFFa3kxbFpfRXlxT0dSamdUSENyWENRVHZIQmZnUTYwLUFhVDB4QVgtNWNaWU5zdmNMVWp1RENqTFlIcnZvZEVhd3NFYldVMW1yQ1FjX3VjcVhsY01LbmhwU3d3NmY3UEJwMi02NkptaGZvZzlzaTV3SDdmZnZQaHR1cnZhZG1ndVBRZWJoNlZtXzBta01sbm92QXFPaTYtWG9fbnBZWVJCQW9qZHdKLWV1QVVhRmhPZXpwNHFCRVVoNDBVWlRXYkxQVmJKQ01v?oc=5",
-      "source": "CNN الاقتصادية",
-      "direction": "neutral",
-      "ts": "2026-07-22T19:54:17+00:00",
-      "amman": "22:54"
-    },
-    {
       "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
       "url": "https://www.marketwatch.com/story/the-bull-market-faces-higher-likelihood-of-a-fed-rate-hike-as-iran-crisis-intensifies-58f268e8?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -67,6 +75,14 @@
       "direction": "neutral",
       "ts": "2026-07-22T19:06:33+00:00",
       "amman": "22:06"
+    },
+    {
+      "title": "مؤشر ستاندرد آند بورز 500 يرتفع الأربعاء بشكل طفيف وسط ارتفاع أسعار النفط",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQM1NvRWVQNGxRekRRY29VRS1KVTFRMXRldlJVUk9jX21ESUJfRGZHeFh4WkZQUlltTE50aElSWVRtMGVRWTlTNG55ak0tZnZBTndRUXg5S3FsOWhISTVVSXJDZWphU0UwUWVoYzZXVWlZQ1ZLLXlFdDJTRFBzcl9MZWpfajdXMHJzLTZSNWZ4U3R5VW9uVTBqSmRXWi12V3Axck1PUUJvYVlrY0pmbTVvSGwwNUJOdlpDNVpvRkxIYWhKbW9WMWNQWVB4dWQwZ1BVSXYtRHlzNUpZcmNibEJHektFRW5jc0dabnZkcmJvQ2JhRU9tUHZCYjdKNllGNXJzajZGLWNIS3BXcWhHcjBlSnljalNCTmJkZjJzcGhkdU13T3QyVndwS09uVmxjOVdHMWIyX1RNZ0owMlNQRllUSURGd1ZqZHRscEE?oc=5",
+      "source": "جريدة المال",
+      "direction": "up",
+      "ts": "2026-07-22T17:36:11+00:00",
+      "amman": "20:36"
     },
     {
       "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
@@ -243,14 +259,6 @@
       "direction": "neutral",
       "ts": "2026-07-22T00:51:30+00:00",
       "amman": "03:51"
-    },
-    {
-      "title": "أسعار الذهب اليوم، 22 يوليو: ترتفع وسط توقعات بخفض التصعيد في الصراعات في الشرق الأوسط.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbkxacmlsZGZKdnJJT21BdW92WHdCbWdUMXU2SzNydFdTN0ppTFNiZ082dmxTZlUwbW9MWHhHWVQ0cjhwRkY1dHN0REZiNFh0bEUxNXdUeTJ3c1kwRVpMRmFxU0tpRzl5VWFrRmhLeTh0SmdKWmNlZkE5Z1BnR3JiRDd0MENjX0JFa1BIOF9YcjlxU1U2NF9qSA?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-07-21T23:24:36+00:00",
-      "amman": "02:24"
     },
     {
       "title": "الأسهم الأمريكية تغلق على ارتفاع مع صعود شركات أشباه الموصلات",

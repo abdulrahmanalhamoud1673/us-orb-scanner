@@ -76,12 +76,14 @@
   .px.d{color:var(--down);background:rgba(251,85,115,.12)}
   .day{font-size:13px;font-weight:700;direction:ltr;font-variant-numeric:tabular-nums}
   .day.u{color:var(--up)} .day.d{color:var(--down)}
+  .lbl{font-size:10.5px;color:var(--dim);font-weight:600}
 
   /* قائمة الشراء والبيع */
   .lv{display:flex;justify-content:space-between;align-items:center;
       padding:9px 12px;border-radius:10px;font-size:12.5px;font-weight:600;margin-bottom:6px}
   .lv.b{background:rgba(18,207,144,.09);color:var(--up)}
   .lv.s{background:rgba(251,85,115,.09);color:var(--down)}
+  .lv.e{background:rgba(91,141,255,.1);color:var(--accent)}
   .lv b{font-size:14.5px;font-weight:800;direction:ltr;font-variant-numeric:tabular-nums}
 
   /* قائمة الأهداف */
@@ -278,8 +280,10 @@ function draw(){
       </div>
       <div class="pxrow">
         <span class="px" id="p-${r.ticker}">${money(px)}</span>
-        <span class="day ${r.day_change_pct>=0?"u":"d"}" id="c-${r.ticker}">${pct(r.day_change_pct)}</span>
+        <span class="day" id="c-${r.ticker}">—</span>
+        <span class="lbl" id="l-${r.ticker}"></span>
       </div>
+      ${r.entry_price?`<div class="lv e"><span>سعر الإشارة</span><b>${money(r.entry_price)}</b></div>`:""}
       <div class="lv b"><span>شراء فوق</span><b>${money(r.open_high)}</b></div>
       <div class="lv s"><span>بيع تحت</span><b>${money(r.vwap)}</b></div>
       <div class="htxt">الأهداف</div>
@@ -291,11 +295,15 @@ function draw(){
     els[r.ticker]={
       p:document.getElementById("p-"+r.ticker),
       c:document.getElementById("c-"+r.ticker),
+      l:document.getElementById("l-"+r.ticker),
       t:r.targets.map((_,i)=>document.getElementById(`g-${r.ticker}-${i}`)),
       targets:r.targets,
+      entry:r.entry_price,           // سعر الإشارة — مرجع حساب الربح
+      dayOpen:r.day_change_pct,
       last:live[r.ticker]?.price ?? r.price
     };
-    if(live[r.ticker]) paint(r.ticker,live[r.ticker],false);
+    // نرسم فوراً بالسعر المتاح حتى لا تبقى النسبة "—" قبل أول نبضة
+    paint(r.ticker, live[r.ticker] ?? {price:r.price}, false);
   });
 }
 
@@ -336,7 +344,19 @@ function paint(id,q,fl=true){
     e.p.classList.add(dir>0?"u":"d");
     clearTimeout(timers[id]); timers[id]=setTimeout(()=>e.p.classList.remove("u","d"),550);
   }
-  if(q.chg!==undefined){ e.c.textContent=pct(q.chg); e.c.className="day "+(q.chg>=0?"u":"d"); }
+  /* النسبة المعروضة:
+     - إن كان السهم داخل صفقة → الربح/الخسارة من سعر الإشارة (ما يهمّ فعلاً)
+     - غير ذلك → تغيّر السهم اليوم
+     ملاحظة: q.chg من ياهو هو تغيّر اليوم من إغلاق أمس، ولا يصلح كربح من الشراء. */
+  if(e.entry){
+    const g=(q.price/e.entry-1)*100;
+    e.c.textContent=pct(g); e.c.className="day "+(g>=0?"u":"d");
+    if(e.l) e.l.textContent="من سعر الإشارة";
+  }else{
+    const g = q.chg!==undefined ? q.chg : e.dayOpen;
+    e.c.textContent=pct(g); e.c.className="day "+(g>=0?"u":"d");
+    if(e.l) e.l.textContent="اليوم";
+  }
   // الأهداف: تتحقق وتُحدَّث مسافتها مع كل نبضة سعر
   e.t.forEach((el,i)=>{
     if(!el) return;
@@ -367,5 +387,6 @@ function connect(){
 
 load(); loadNews(); connect();
 </script>
+<script type="module" src="auth.js"></script>
 </body>
 </html>

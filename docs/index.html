@@ -285,7 +285,6 @@
     <span>السوق: <span class="mkt" id="mktState">—</span></span>
   </div>
   <button class="pill" id="btnAlert" title="تنبيه عند كل إشارة جديدة">🔔 التنبيهات</button>
-  <button class="pill" id="btnRisk" title="حجم الصفقة وإدارة المخاطرة">🧮 المخاطرة</button>
   <a class="pill" href="backtest.html" title="أداء الاستراتيجية تاريخياً">📉 الأداء</a>
 </div>
 
@@ -294,14 +293,6 @@
   <label class="sw"><input type="checkbox" id="alNotif"> <span>📱 إشعار على الجهاز (حتى لو الصفحة بالخلفية)</span></label>
   <label class="sw"><input type="checkbox" id="alFavOnly"> <span>⭐ المفضلة فقط (بدون هذا: كل الأسهم)</span></label>
   <button class="ghost" id="alTest">جرّب التنبيه الآن</button>
-</div>
-
-<div class="panel" id="riskPanel">
-  <div class="frow">
-    <label>رأس المال <input type="number" id="rkCap" min="1" step="100" placeholder="5000"></label>
-    <label>نسبة المخاطرة % <input type="number" id="rkPct" min="0.1" max="100" step="0.1" placeholder="1"></label>
-  </div>
-  <p class="hint">تظهر النتيجة داخل تفاصيل كل سهم: كم سهم تشتري، وكم أقصى خسارة إذا خرجت عند مستوى البيع.</p>
 </div>
 
 <div class="toasts" id="toasts"></div>
@@ -355,15 +346,14 @@ function toggleFav(t){
   if(openTicker===t) openDetail(t);
 }
 
-/* ══════════ 2ب) الإعدادات: التنبيهات والمخاطرة ══════════ */
+/* ══════════ 2ب) إعدادات التنبيهات ══════════ */
 const CFG_KEY="orb-cfg";
 const cfg = Object.assign(
-  {sound:true, notif:false, favOnly:false, capital:null, riskPct:1},
+  {sound:true, notif:false, favOnly:false},
   JSON.parse(localStorage.getItem(CFG_KEY)||"{}"));
 const saveCfg = ()=>localStorage.setItem(CFG_KEY,JSON.stringify(cfg));
 
 alSound.checked=cfg.sound; alNotif.checked=cfg.notif; alFavOnly.checked=cfg.favOnly;
-rkCap.value=cfg.capital??""; rkPct.value=cfg.riskPct;
 
 alSound.onchange  = ()=>{cfg.sound=alSound.checked; saveCfg(); syncPills();};
 alFavOnly.onchange= ()=>{cfg.favOnly=alFavOnly.checked; saveCfg();};
@@ -374,13 +364,10 @@ alNotif.onchange  = async()=>{
   }
   cfg.notif=alNotif.checked; saveCfg(); syncPills();
 };
-rkCap.oninput = ()=>{cfg.capital=parseFloat(rkCap.value)||null; saveCfg(); if(openTicker) openDetail(openTicker);};
-rkPct.oninput = ()=>{cfg.riskPct=parseFloat(rkPct.value)||1;    saveCfg(); if(openTicker) openDetail(openTicker);};
-
-const panelToggle=(btn,panel)=>btn.onclick=()=>{
-  panel.classList.toggle("on"); btn.classList.toggle("on",panel.classList.contains("on"));
+btnAlert.onclick=()=>{
+  alertPanel.classList.toggle("on");
+  btnAlert.classList.toggle("on", alertPanel.classList.contains("on"));
 };
-panelToggle(btnAlert,alertPanel); panelToggle(btnRisk,riskPanel);
 function syncPills(){ btnAlert.textContent = (cfg.sound||cfg.notif)?"🔔 التنبيهات مفعّلة":"🔕 التنبيهات"; }
 syncPills();
 
@@ -561,32 +548,6 @@ document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{
 
 /* ══════════ 5) نافذة التفاصيل ══════════
    كل الأرقام أدناه تأتي كما هي من نتائج استراتيجيتك — بدون أي حساب جديد.  */
-/* حاسبة حجم الصفقة — حساب رياضي بحت على مستويات الاستراتيجية، لا يغيّرها.
-   المسافة للخروج = السعر الحالي − مستوى البيع (VWAP).  */
-function riskBox(r,px){
-  if(!cfg.capital) return `<div class="sec">🧮 حجم الصفقة</div>
-    <div class="hint" style="margin:0">أدخل رأس مالك من زر «🧮 المخاطرة» بالأعلى ليُحسب لك عدد الأسهم وأقصى خسارة.</div>`;
-
-  const stop = r.vwap, risk = cfg.capital*(cfg.riskPct/100), dist = px-stop;
-  if(dist<=0) return `<div class="sec">🧮 حجم الصفقة</div>
-    <div class="hint" style="margin:0">السعر الحالي تحت مستوى البيع (${money(stop)}) — لا يوجد دخول صالح الآن حسب الاستراتيجية.</div>`;
-
-  const shares=Math.floor(risk/dist), cost=shares*px;
-  const overCap = cost>cfg.capital;
-  const t1=r.targets[0], rr=(t1-px)/dist;
-  return `<div class="sec">🧮 حجم الصفقة</div>
-    <div class="tgts">
-      <div class="tg"><span class="n">#</span><span>عدد الأسهم</span>
-        <span class="d" style="color:var(--text);font-weight:800">${shares.toLocaleString()} سهم</span></div>
-      <div class="tg"><span class="n">$</span><span>تكلفة الصفقة</span>
-        <span class="d" style="color:${overCap?"var(--down)":"var(--text)"};font-weight:800">${money(cost)}${overCap?" ⚠️ أكبر من رأس مالك":""}</span></div>
-      <div class="tg"><span class="n">↓</span><span>أقصى خسارة (خروج عند ${money(stop)})</span>
-        <span class="d" style="color:var(--down);font-weight:800">−${money(shares*dist)}</span></div>
-      <div class="tg"><span class="n">⚖</span><span>عائد/مخاطرة حتى الهدف الأول</span>
-        <span class="d" style="font-weight:800">${rr.toFixed(2)} : 1</span></div>
-    </div>
-    <div class="hint" style="margin-top:8px">محسوبة على مخاطرة ${cfg.riskPct}% من ${money(cfg.capital)} = ${money(risk)}. لا تشمل العمولات ولا الانزلاق السعري.</div>`;
-}
 
 /* حساب المركز من سعر شرائك أنت — يُستدعى مع كل نبضة سعر.
    لا يمسّ الاستراتيجية: مستويات الأهداف والخروج تأتي منها كما هي،
@@ -714,8 +675,6 @@ function openDetail(tk){
       <div id="posLive"></div>
     </div>
 
-    ${riskBox(r,px)}
-
     <div class="sec">🎯 الأهداف</div>
     <div class="tgts" id="tgList">${tgs}</div>
 
@@ -803,7 +762,7 @@ function paintModal(q,doFlash=true){
   mEls.p.textContent=money(q.price);
   if(doFlash) flash(mEls.p,dir,"m");
   if(q.chgPct!==undefined){ mEls.c.textContent=pct(q.chgPct); mEls.c.className="chg "+(q.chgPct>=0?"up":"down"); }
-  // تحديث "باقي X%" للأهداف مع كل نبضة سعر (قائمة الأهداف فقط، لا صفوف المخاطرة)
+  // تحديث "باقي X%" للأهداف مع كل نبضة سعر (قائمة الأهداف الرئيسية فقط)
   const r=byT(openTicker); if(!r) return;
   document.querySelectorAll("#tgList .tg").forEach((el,i)=>{
     if(el.classList.contains("hit")) return;

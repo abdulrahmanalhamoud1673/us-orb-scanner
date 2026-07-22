@@ -1,9 +1,17 @@
 {
-  "updated_amman": "2026-07-22 23:30",
-  "count": 35,
-  "up": 10,
-  "down": 4,
+  "updated_amman": "2026-07-22 23:44",
+  "count": 32,
+  "up": 9,
+  "down": 3,
   "items": [
+    {
+      "title": "داو ثابت بينما S&P 500 وناسداك يتراجعا قبل أرباح التكنولوجيا وارتفاع النفط",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHR2TXJqOUktOVJORi0zT3BYTW9sSkVlR09Bc0ZDbmRhYloxdEZ6Y050YjRydWtmQzNXLVJlbmdpRHp3UVo2RlFDUjEzZllYT2ViT2tIcHVTSVh6S0xEZG9sVlFhelhGMm96YnliWHhyZlFLQ2FoWWFQM3FaSTBNeWNPaGVuUHhoMjVzNjdxNjRBVDZ0WDB0ZUlhZ1kzSEJZcXdIWEtrY1U?oc=5",
+      "source": "Invezz",
+      "direction": "neutral",
+      "ts": "2026-07-22T20:44:27+00:00",
+      "amman": "23:44"
+    },
     {
       "title": "The Treasury market touches a worrying milestone not seen since 2007",
       "url": "https://www.marketwatch.com/story/the-treasury-market-is-on-the-verge-of-a-worrying-milestone-not-seen-since-2007-81158082?mod=mw_rss_topstories",
@@ -19,6 +27,14 @@
       "direction": "neutral",
       "ts": "2026-07-22T20:10:00+00:00",
       "amman": "23:10"
+    },
+    {
+      "title": "وول ستريت تغلق متباينة مع ترقب نتائج ألفابت وتسلا",
+      "url": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPM2pYWWwtSGk2ZjZfcE0zd1otbWFpMXFxX2s0bkw0NS1CYTEyUDFMZHZZY3VLLWRLV2dGSmNrUXptNVktalQtVUhPdXlvdFh5V1EyOEU4bXFBQ2RfUEFRbW9XS1V2QU5vRTJFZmlic1FnTmhtcmxIWDVKTnE4VDlNSVd0WnlxcEFZMkhyekw5VFdvdktqMTRIcGZCbDFoblNkdXBqV3RZdmtHWW5nbWN5VlpmRlpsTTM1U3JCLV8tYVlqMndkTjNSbXh3MXJaUlI0N1BYMExxMXhjVTZZN0MwRmVXUWpmaWJubmtHcldHaWFFa3kxbFpfRXlxT0dSamdUSENyWENRVHZIQmZnUTYwLUFhVDB4QVgtNWNaWU5zdmNMVWp1RENqTFlIcnZvZEVhd3NFYldVMW1yQ1FjX3VjcVhsY01LbmhwU3d3NmY3UEJwMi02NkptaGZvZzlzaTV3SDdmZnZQaHR1cnZhZG1ndVBRZWJoNlZtXzBta01sbm92QXFPaTYtWG9fbnBZWVJCQW9qZHdKLWV1QVVhRmhPZXpwNHFCRVVoNDBVWlRXYkxQVmJKQ01v?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "neutral",
+      "ts": "2026-07-22T19:54:17+00:00",
+      "amman": "22:54"
     },
     {
       "title": "The bull market faces higher likelihood of a Fed rate hike as Iran crisis intensifies",
@@ -125,28 +141,12 @@
       "amman": "12:39"
     },
     {
-      "title": "أسعار الذهب ترتفع 1.6% وسط صراع الشرق الأوسط والاحتياطي الفيدرالي",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQbk96eko0bVUwb2tfV0h2OThQUXktZXlMOWZHSnVqOWlFN2tIM0JTSFZoX1lpMmpBM0g3cXFrUUs3WllURXRCdG1yLS1fM0swcnZKSWJzWXhob3g2MzY4ZF9pTC1yVWozRUtvWmpHbndLTGpmY1lla2xwWDVZWGtxa2Rpb1U5OVUxNk1uNkdGbWpmd3N0aFF2ajhDWlEzMndILWtVaWJpU05zTU1nSzVCeGp6U3RLZ1ZFU0lPdUlGbjR5OWVNZTlEclRqM2ctdnBocHVublV3U1VfUGVhUWZZVVRqVFp0MzFza2x4Y1JjNDhYMDlPazJIeWpjMXY2YVp6dHhJQURONDRWSFZ1ckhpWUt0a3hKT0UtMUVR?oc=5",
-      "source": "IDNFinancials.com",
-      "direction": "neutral",
-      "ts": "2026-07-22T08:40:00+00:00",
-      "amman": "11:40"
-    },
-    {
       "title": "الذهب عند أعلى مستوى فى أسبوعين بدعم التوترات الجيوسياسية وترقب اجتماع الفيدرالى الأمريكى",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxQYVloeGRSdG9NMnJENlNzS2liblhmbWZmbnFKdzhHc1VZcFhUVVZEYTEtYVFNcE1PMVh2dDN5U0w0NGlmTGNKQ0ZkQmNCbzAxcEExOTQ4eXgxRkJjd2EwVy1xX1BFdDJHQ3VWTWJyMmpMWnJuaEJXSE5iU2NvUkxUZlJvakZMNEVXa2JIaFRCUUMyU1FXLVpSYXR0bGYxQkt3THV1NHFWbzg1bzZtazJTdFVzY09JXzJnUVBtc0ktZ2VrX0d3LTk0UFI4Vm5Pc2pEX3BValZYU0duN1plNkl3b0NmekdXUGxlQm8wRnBvTFRacTZKQ3R3bm5fR1NKWnAxTDBkN3BEQVFIR2FEOWdPdnBBLWxEYklXajY5YlM2UHBpOVlCNWxPVFd5MF9BY29VMWpzM2pWcC00SDdGTmhkVA?oc=5",
       "source": "قناة النيل للأخبار",
       "direction": "neutral",
       "ts": "2026-07-22T08:37:42+00:00",
       "amman": "11:37"
-    },
-    {
-      "title": "العقود الآجلة لمؤشر داو جونز تتراجع مع تبني المتداولين الحذر بشأن التوترات بين الولايات المتحدة وإيران",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaGJuZ1JfaXVfSFR6TERQekVXZnJFSF9hckwzR3JVbG5fenVVekljMjNJeGk0eHlRTFMzNWJ1bGk1dHBESHI5ZGdMallpa181TEgtRkxZSkkyckJhaElOSG5sQ0JJX3dTZXNwWTROTkV0WF9XZm9iQjU5cGhZc2cwUWxwTHQ5bWRralhuUDJQR3NFOVFRTXJZQ3p3UjJwa1d2dUpnZkZpcEZYdUZGX1Q0N2ZsV05VWDg4QTVfckpQSmhnRjVrUXp2MC1R0gHKAUFVX3lxTE1oYm5nUl9pdV9IVHpMRFB6RVdmckVIX2FyTDNHclVsbl96dVV6SWMyM0l4aTR4eVFMUzM1YnVsaTV0cERIcjlkZ0xqWWlrXzVMSC1GTFlKSTJyQmFoSU5IbmxDQklfd1Nlc3BZNE5ORXRYX1dmb2JCNTlwaFlzZzBRbHBMdDltZGtqWG5QMlBHc0U5UVFNcllDendSMnBrV3Z1SmdmRmlwRlh1RkZfVDQ3ZmxXTlVYODhBNV9ySlBKaGdGNWtRenYwLVE?oc=5",
-      "source": "FXStreet",
-      "direction": "down",
-      "ts": "2026-07-22T08:12:09+00:00",
-      "amman": "11:12"
     },
     {
       "title": "سعر الذهب العالمي يصعد وسط ترقب لمسار الفائدة الأمريكية",
@@ -213,14 +213,6 @@
       "amman": "04:33"
     },
     {
-      "title": "الذهب فى السعودية يواصل الاستقرار مع بداية تعاملات الأربعاء وترقب الأسواق لقرارات الفيدرالي الأمريكي",
-      "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPSU83dzQ0d3huNTM1NXFta0plWE1OWnhUTzVja2JxYzlfTFplNGpJendSQ1pvTlJSQ0diZDZ0TTFEZzl6MWxJYjVvYXpSeVB5WjNhT3pZek1NNHl2Q0lONk56dWlqQ1JmakpwZDZLSmRwTDNxZmRwaXVBVWFMbU5oVGdVc0w1ajYtb0ZpV0dBYXRWdWRhXzRLYVpWSWlPeWFZNk1sSkRNM0pjTGpDTWhWVllpWi1vN2c0MEIydVNGdFAwaXI5N0F6RVBtN0lkeXdiR3dBSTlSV20zYmZlekxzWXJSTjcybTJ1MzV5SWxWam1IU3hzZjZjczd0T3h5SXR6QUhnRkxBNGtlV09qa2hYYTZCTjhNZ1dLSU1RLXVWRjVteDJuNjJrS2NycUlJeGhfbHo4RzI5c2tKZDFKeVlpQ2dyTXVrUkd0Qjl1OExST2hYOFc0RG8xVjIwYUFvVFVZZE9OZmd4VEJuNzhuLW94bjg2cnp6ZHM1YnY4TUg2M09SZzRoc1NMajRIU0ZwYXR3YWpGT2k4TXN2TXRVUFlZV1JOTWQwcGxROUh4aDBwbU9KeHF1ZnhEWkl5T3RSdGtDRk03bmRFMHJiZ2EyTk9CNFV6aUhwTGg1XzZucERVdTlhYThFY2Y4Q25IS2RraVQwZmV4cVU3UXBJVmFYbEhNdVJKamhuZE9rZTJRSjB1bFY0aTJ2aGl3Nk9GLVNxdUJiN1c3SnRB0gGgBEFVX3lxTE1iRjV5VUxjMFRISWozVzVTYWRpNnlzQk00UG0tY1JqWUdRY0poOG5aN3A2ZWtiRVAzVUQ1N2JQVHlhd2FXb1pMNE93S2hQYVJzWm94Y3doQ0lpWUc0UUx0RGxJS0hHaElINlY3UTJNODYzWUU0cVRFT3BYTDctb0RyZHZzVkZXeDNCMEhtYUdrS3VZd3lDZ0lmTXlWQ3dzWi1zSXVnSVFEbG01NC1ieHlwcmEtLXZrQWJPdmw5aTNweS1rb1B3MWtUSk9ZNnpBQWlEbDhYdXR0SlN4amdiYUVscEI4Ry14R0tyUEpLNnVlaF9Db0tkSmM4aXl0Y1Z4d0lfbXRGdXhHZTJvNGkzNzdnUDBGTzNZTFNlR3V0NGdjMS1LOUNKcEpiam1PNDJOdWNtSXJoWVhWZU5rZkZ4anBqRmVFOV9xc1lKVDEyTjhYN0drd2FrWmRvaVd6SmpTLXRSc0N6VjJQUk12dWpRbndWUUpNa2VwYks3LXFxVUMxS3cxcXE1bElCX25VcGhObElXMkdsUklLUzNaQTVPSXVEaXNzNW5LMzhONnFVa21JejZsV0xCbGZOU1NkS1FYcy13ZEJhWF8wSGl6MVV2dmZEZjdGdVdlTEJmcDIxQnY3MktwdEtkWDMzMmZjd3lsbWdsRWk1LWpPc0xMYjU0RXUxRmVxczNtTmJkeUZQbExnaWxnZUQySkNucF9DaW96c3M?oc=5",
-      "source": "اليوم السابع",
-      "direction": "neutral",
-      "ts": "2026-07-22T01:00:00+00:00",
-      "amman": "04:00"
-    },
-    {
       "title": "سعر صرف الدولار الأمريكي اليوم (22 يوليو): ارتفع الدولار الأمريكي للجلسة الرابعة على التوالي مع تصاعد التوترات في الشرق الأوسط.",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYmVYWFUwVHdacVMzcExXN0dNVVMzV29UZ2ZzNlFMTmxNZEtYbG9ZVmVoY0I2Y3hka3FEOTl4LWZGbTdsR2lPOTJfMlpjM2hYRE5kRXNQQmxMSmY2Z2ZaRUIzNjRfTmhHUjE3Y2VaVVVENzdZQWtObGVzMjc5VkgxdGE2Y1ZTdW9JZVc2ZFdlUmo2enRfdXYwY1ZmSkl6WFl1UEtJYUw5ckhNT1pQeWhCdkE1djFwU051dU91NWtVM0M?oc=5",
       "source": "Vietnam.vn",
@@ -267,22 +259,6 @@
       "direction": "up",
       "ts": "2026-07-21T20:54:31+00:00",
       "amman": "23:54"
-    },
-    {
-      "title": "وول ستريت تغلق على ارتفاع.. والداوجونز يقفز نحو 400 نقطة",
-      "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxQTDhBdXoyMnl0UEx6RFlPTWZ2TEkyaFdUQ0pYeDV1c1o3WnFKeE5NRU9kMHZocm1nbWhBekNEMkxyVGFnVUI0dmFKdjhZRW96T3VBaTR1d1d0Y0VZV0VuX0E5VC1qc3dpZ1BoZE9XRHJjcjkzQ3haVGpmX0F5NjJFVWFrV0tfTzZvUzgxdVZreDVtS19zbzFVRFhqWGRib0hrbGNjUmdvemlRN2pfeGVzdkJsOW5Gdzl6Tm1aN3lQRUw0QmwwNC1XeFNpY2dCeWo5aWhDLU1VdFp2M3M1RzZDRUZ2TlNibG04ZDlXUG5OSDVkVFo5WGRFeVRsbklpZjQ0VFhPc2JGeWxJM3Jha0xxalNuRl95NTB1OHF3S1h2SGxnbG4yVXNLbzNIaURyMXQtZDlEMGt4b0lneVZpRkxzZEU3dTZTUnlMRlpmTi1FaVZ1YVNvNnJVVkYyVWo0WmJjOFdVZE9aQUw3c0k3VWhiWVBkS0xpSDNJbloyTGYza2dxdzUxUXJOdndOYkNmRzhqUEtwcDRsS1F2RzBDYWxnMXF2ZXVBUFJMUXFqaEVuUDVCS1BCLWdRdWpJSTBzVmdMRnpUQXFaQy0?oc=5",
-      "source": "المتداول العربي",
-      "direction": "up",
-      "ts": "2026-07-21T20:35:11+00:00",
-      "amman": "23:35"
-    },
-    {
-      "title": "مؤشرات الأسهم في الولايات المتحدة ارتفعت عند نهاية جلسة اليوم؛ مؤشر داو جونز الصناعي صعد نحو 0.74%",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xNk4zUldsdG1FT205dTNLaHhEcGlLUXpudEY4N2FGWDdsTDNTb3VCdnZzMlJaVzVoWGlSMnp5QVR1VjdKN1ZueGM4WktwLUFIR1U0OUhRLUdTSnlsRVhPN3N2bWxPdWtWOWx6d2V3bVM?oc=5",
-      "source": "Investing.com",
-      "direction": "neutral",
-      "ts": "2026-07-21T20:31:00+00:00",
-      "amman": "23:31"
     }
   ]
 }

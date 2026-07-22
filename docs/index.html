@@ -3,184 +3,342 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>فرص السوق الأمريكي — شمعة الافتتاح</title>
+<title>فرص السوق الأمريكي</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700;800&display=swap" rel="stylesheet">
 <style>
   :root{
-    --bg:#0b1020; --panel:#141b2f; --panel2:#1b2440; --line:#28324e;
-    --text:#e8edf7; --muted:#8b97b3;
-    --up:#12c57a; --down:#f2495c; --accent:#4c8dff; --warn:#f5a524;
+    --bg0:#070b14; --bg1:#0b1120;
+    --card:rgba(255,255,255,.035); --card-br:rgba(255,255,255,.09);
+    --text:#eef2fa; --muted:#93a0bb; --dim:#5c6885;
+    --up:#10c98f; --up-soft:rgba(16,201,143,.13);
+    --down:#f4506b; --down-soft:rgba(244,80,107,.13);
+    --accent:#4f8dff;
   }
-  *{box-sizing:border-box}
-  body{margin:0;background:var(--bg);color:var(--text);
-       font-family:"Segoe UI",Tahoma,system-ui,sans-serif;padding:16px}
-  header{display:flex;flex-wrap:wrap;gap:12px;align-items:center;
-         justify-content:space-between;margin-bottom:18px}
-  h1{font-size:22px;margin:0}
-  h1 span{color:var(--accent)}
-  .meta{font-size:13px;color:var(--muted);line-height:1.7}
-  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(130px,1fr));
-         gap:10px;margin-bottom:20px}
-  .stat{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:14px}
-  .stat b{display:block;font-size:26px;margin-bottom:2px}
-  .stat small{color:var(--muted);font-size:12px}
+  *{box-sizing:border-box;margin:0;padding:0}
+  body{
+    background:
+      radial-gradient(900px 480px at 85% -10%, rgba(79,141,255,.14), transparent 60%),
+      radial-gradient(700px 420px at 0% 110%, rgba(16,201,143,.08), transparent 60%),
+      linear-gradient(160deg,var(--bg0),var(--bg1));
+    min-height:100vh;color:var(--text);
+    font-family:"Tajawal",Tahoma,sans-serif;
+    padding:clamp(12px,3vw,28px);
+  }
+  /* ===== الهيدر ===== */
+  header{display:flex;flex-wrap:wrap;gap:14px;align-items:center;
+         justify-content:space-between;margin-bottom:20px}
+  .brand h1{font-size:clamp(18px,3.4vw,26px);font-weight:800;letter-spacing:.2px}
+  .brand h1 em{font-style:normal;background:linear-gradient(90deg,#6ea8ff,#37e0b0);
+               -webkit-background-clip:text;background-clip:text;color:transparent}
+  .sub{color:var(--muted);font-size:12.5px;margin-top:3px}
+  .clocks{display:flex;gap:10px;flex-wrap:wrap}
+  .clock{background:var(--card);border:1px solid var(--card-br);border-radius:12px;
+         padding:8px 14px;text-align:center;min-width:96px}
+  .clock b{font-size:17px;font-variant-numeric:tabular-nums;display:block;direction:ltr}
+  .clock small{color:var(--muted);font-size:11px}
+  /* شريط الحالة الحية */
+  .livebar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;
+           background:var(--card);border:1px solid var(--card-br);
+           border-radius:999px;padding:7px 16px;font-size:12.5px;color:var(--muted)}
+  .dot{width:9px;height:9px;border-radius:50%;background:var(--dim);flex:none}
+  .dot.on{background:var(--up);box-shadow:0 0 0 0 rgba(16,201,143,.5);animation:pulse 1.6s infinite}
+  @keyframes pulse{70%{box-shadow:0 0 0 8px rgba(16,201,143,0)}100%{box-shadow:0 0 0 0 rgba(16,201,143,0)}}
+  .mkt{font-weight:700}
+  .mkt.open{color:var(--up)} .mkt.closed{color:var(--down)}
+  /* ===== الإحصائيات ===== */
+  .stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));
+         gap:10px;margin:16px 0 18px}
+  .stat{background:var(--card);border:1px solid var(--card-br);border-radius:14px;
+        padding:13px 15px}
+  .stat b{font-size:24px;font-weight:800;font-variant-numeric:tabular-nums}
+  .stat small{display:block;color:var(--muted);font-size:11.5px;margin-top:2px}
+  /* ===== التبويبات ===== */
   .tabs{display:flex;gap:8px;margin-bottom:14px;flex-wrap:wrap}
-  .tab{background:var(--panel);border:1px solid var(--line);color:var(--muted);
-       padding:8px 16px;border-radius:999px;cursor:pointer;font-size:14px}
-  .tab.on{background:var(--accent);border-color:var(--accent);color:#fff}
-  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(310px,1fr));gap:14px}
-  .card{background:var(--panel);border:1px solid var(--line);border-radius:14px;
-        padding:16px;transition:.15s}
-  .card:hover{border-color:var(--accent);transform:translateY(-2px)}
-  .card.long{border-right:4px solid var(--up)}
-  .card.short{border-right:4px solid var(--down)}
-  .card.flat{border-right:4px solid var(--muted);opacity:.75}
-  .top{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:12px}
-  .tkr{font-size:21px;font-weight:700;letter-spacing:.5px}
+  .tab{background:var(--card);border:1px solid var(--card-br);color:var(--muted);
+       padding:8px 18px;border-radius:999px;cursor:pointer;font-size:13.5px;
+       font-family:inherit;font-weight:500;transition:.15s}
+  .tab.on{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:700}
+  /* ===== البطاقات ===== */
+  .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:12px}
+  .card{background:var(--card);border:1px solid var(--card-br);border-radius:16px;
+        padding:16px;position:relative;overflow:hidden;transition:border-color .2s}
+  .card:hover{border-color:rgba(79,141,255,.45)}
+  .card::before{content:"";position:absolute;inset:0 0 auto;height:3px;border-radius:16px 16px 0 0}
+  .card.long::before{background:linear-gradient(90deg,var(--up),transparent 70%)}
+  .card.short::before{background:linear-gradient(90deg,var(--down),transparent 70%)}
+  .chead{display:flex;justify-content:space-between;align-items:center;margin-bottom:10px}
+  .tkr{font-size:19px;font-weight:800;letter-spacing:.6px}
   .tkr a{color:inherit;text-decoration:none}
   .tkr a:hover{color:var(--accent)}
-  .badge{font-size:11px;padding:4px 10px;border-radius:999px;font-weight:600}
-  .b-long{background:rgba(18,197,122,.15);color:var(--up)}
-  .b-short{background:rgba(242,73,92,.15);color:var(--down)}
-  .b-flat{background:rgba(139,151,179,.15);color:var(--muted)}
-  .price{font-size:26px;font-weight:700}
-  .chg{font-size:14px;font-weight:600;margin-inline-start:8px}
-  .up{color:var(--up)} .down{color:var(--down)} .warn{color:var(--warn)}
-  .rows{margin-top:12px;font-size:13px}
-  .row{display:flex;justify-content:space-between;padding:5px 0;
-       border-bottom:1px dashed var(--line)}
-  .row:last-child{border:0}
-  .row span:first-child{color:var(--muted)}
-  .tgt{display:flex;gap:5px;margin-top:12px}
-  .tgt i{flex:1;height:7px;border-radius:4px;background:var(--panel2);font-style:normal}
-  .tgt i.done{background:var(--up)}
-  .note{font-size:11px;color:var(--muted);margin-top:8px;text-align:center}
-  .empty{text-align:center;padding:60px 20px;color:var(--muted)}
-  .empty div{font-size:52px;margin-bottom:12px}
-  footer{margin-top:34px;padding-top:16px;border-top:1px solid var(--line);
-         font-size:12px;color:var(--muted);line-height:1.9}
-  @media(max-width:600px){.cards{grid-template-columns:1fr}h1{font-size:18px}}
+  .badge{font-size:11px;padding:4px 11px;border-radius:999px;font-weight:700}
+  .b-long{background:var(--up-soft);color:var(--up)}
+  .b-short{background:var(--down-soft);color:var(--down)}
+  .b-flat{background:rgba(147,160,187,.12);color:var(--muted)}
+  .price{font-size:30px;font-weight:800;font-variant-numeric:tabular-nums;
+         direction:ltr;text-align:right;line-height:1.15;
+         transition:color .35s;display:inline-block;border-radius:8px;padding:0 4px}
+  .price.up{color:var(--up);background:var(--up-soft)}
+  .price.down{color:var(--down);background:var(--down-soft)}
+  .chg{font-size:13.5px;font-weight:700;font-variant-numeric:tabular-nums;direction:ltr;display:inline-block}
+  .chg.up{color:var(--up)} .chg.down{color:var(--down)}
+  .crow{display:flex;justify-content:space-between;align-items:baseline;
+        font-size:12.5px;color:var(--muted);margin-top:9px;
+        border-top:1px dashed rgba(255,255,255,.07);padding-top:8px}
+  .crow b{color:var(--text);font-variant-numeric:tabular-nums;direction:ltr}
+  .pl{font-weight:800}
+  .pl.up{color:var(--up)} .pl.down{color:var(--down)}
+  .tick-time{position:absolute;bottom:8px;left:12px;font-size:10px;color:var(--dim);
+             direction:ltr;font-variant-numeric:tabular-nums}
+  .empty{grid-column:1/-1;text-align:center;padding:70px 20px;color:var(--muted)}
+  .empty div{font-size:50px;margin-bottom:10px}
+  footer{margin-top:30px;padding-top:14px;border-top:1px solid rgba(255,255,255,.07);
+         font-size:11.5px;color:var(--dim);line-height:1.9;text-align:center}
+  @media(max-width:560px){
+    .cards{grid-template-columns:repeat(auto-fill,minmax(160px,1fr))}
+    .price{font-size:24px}
+  }
 </style>
 </head>
 <body>
 
 <header>
-  <div>
-    <h1>📊 فرص السوق الأمريكي — <span>استراتيجية شمعة الافتتاح</span></h1>
-    <div class="meta" id="meta">جاري تحميل البيانات…</div>
+  <div class="brand">
+    <h1>⚡ <em>فرص السوق الأمريكي</em></h1>
+    <div class="sub" id="scanInfo">جاري التحميل…</div>
+  </div>
+  <div class="clocks">
+    <div class="clock"><b id="clockJo">--:--:--</b><small>🇯🇴 الأردن</small></div>
+    <div class="clock"><b id="clockNy">--:--:--</b><small>🇺🇸 نيويورك</small></div>
   </div>
 </header>
+
+<div class="livebar">
+  <span class="dot" id="liveDot"></span>
+  <span id="liveTxt">جاري الاتصال بالأسعار المباشرة…</span>
+  <span style="margin:0 4px;color:var(--dim)">|</span>
+  <span>السوق: <span class="mkt" id="mktState">—</span></span>
+</div>
 
 <div class="stats" id="stats"></div>
 
 <div class="tabs">
-  <div class="tab on" data-f="buy">🟢 فرص الشراء</div>
-  <div class="tab" data-f="sell">🔴 خرجت (بيع)</div>
-  <div class="tab" data-f="all">📋 كل الأسهم</div>
+  <button class="tab on" data-f="buy">🟢 فرص الشراء</button>
+  <button class="tab" data-f="sell">🔴 خرجت</button>
+  <button class="tab" data-f="all">📋 الكل</button>
 </div>
 
 <div class="cards" id="cards"></div>
 
 <footer>
-  ⚙️ يعتمد على شموع 5 دقائق. الإشارة تُحسب على <b>إغلاق</b> الشمعة، لا داخلها.<br>
-  ⚠️ هذه أداة مساعدة للتحليل فقط وليست توصية استثمارية. القرار والمسؤولية عليك.
+  الأسعار تُبث مباشرةً لحظة بلحظة · الإشارات تُحدَّث كل ~5 دقائق<br>
+  ⚠️ أداة مساعدة للتحليل فقط وليست توصية استثمارية — القرار والمسؤولية عليك
 </footer>
 
 <script>
-let DATA = null, filter = "buy";
+"use strict";
+/* ============================================================
+   1) الساعات الحية (تتحرك كل ثانية)
+============================================================ */
+const fmtJo = new Intl.DateTimeFormat("en-GB",{timeZone:"Asia/Amman",hour12:false,hour:"2-digit",minute:"2-digit",second:"2-digit"});
+const fmtNy = new Intl.DateTimeFormat("en-GB",{timeZone:"America/New_York",hour12:false,hour:"2-digit",minute:"2-digit",second:"2-digit"});
+const fmtNyD = new Intl.DateTimeFormat("en-US",{timeZone:"America/New_York",weekday:"short",hour:"2-digit",minute:"2-digit",hour12:false});
 
-const money = n => "$" + Number(n).toFixed(2);
-const pct   = n => (n >= 0 ? "+" : "") + Number(n).toFixed(2) + "%";
+function marketOpen(){
+  const p = Object.fromEntries(fmtNyD.formatToParts(new Date()).map(x=>[x.type,x.value]));
+  if(p.weekday==="Sat"||p.weekday==="Sun") return false;
+  const m = (+p.hour)*60 + (+p.minute);
+  return m >= 570 && m < 960;             // 9:30 → 16:00
+}
+setInterval(()=>{
+  const now = new Date();
+  document.getElementById("clockJo").textContent = fmtJo.format(now);
+  document.getElementById("clockNy").textContent = fmtNy.format(now);
+  const el = document.getElementById("mktState");
+  const open = marketOpen();
+  el.textContent = open ? "مفتوح ●" : "مغلق";
+  el.className = "mkt " + (open?"open":"closed");
+},1000);
 
-async function load() {
-  try {
-    // ?v= يمنع المتصفح من عرض نسخة قديمة مخزّنة
-    const res = await fetch("results.json?v=" + Date.now());
-    DATA = await res.json();
+/* ============================================================
+   2) نتائج السكانر (الإشارات) — كل 45 ثانية
+============================================================ */
+let DATA=null, filter="buy";
+const live = {};        // ticker → {price, chgPct}  آخر تسعيرة مباشرة
+const els  = {};        // ticker → عناصر DOM للتحديث اللحظي
+
+const money = n => "$"+Number(n).toFixed(2);
+const pct   = n => (n>=0?"+":"")+Number(n).toFixed(2)+"%";
+
+async function loadResults(){
+  try{
+    const r = await fetch("results.json?v="+Date.now(),{cache:"no-store"});
+    DATA = await r.json();
     render();
-  } catch (e) {
-    document.getElementById("meta").textContent =
-      "⚠️ تعذّر تحميل results.json — شغّل السكانر أولاً (python scan.py)";
+    subscribe();
+  }catch(e){
+    document.getElementById("scanInfo").textContent = "⚠️ تعذّر تحميل الإشارات";
   }
 }
+setInterval(loadResults, 45000);
 
-function render() {
+function render(){
   const d = DATA;
-  document.getElementById("meta").innerHTML =
-    `آخر تحديث: <b>${d.updated_amman || d.updated_riyadh}</b> (بتوقيت الأردن) — ` +
-    `${d.updated_ny} نيويورك<br>جلسة ${d.session_date || "—"}`;
-
-  const waiting = d.waiting
-    ? `<div class="stat"><b class="warn">${d.waiting}</b><small>بانتظار شموع كافية</small></div>` : "";
+  const ago = Math.max(0, Math.round((Date.now() - Date.parse(d.updated_ny.replace(" ","T")+"-04:00"))/60000));
+  document.getElementById("scanInfo").textContent =
+    `آخر فحص للإشارات: قبل ${isFinite(ago)?ago:"?"} دقيقة · جلسة ${d.session_date||"—"}`;
 
   document.getElementById("stats").innerHTML = `
-    <div class="stat"><b>${d.scanned}</b><small>سهم مفحوص${d.requested ? " من " + d.requested : ""}</small></div>
-    <div class="stat"><b class="up">${d.buy_count}</b><small>فرصة شراء نشطة</small></div>
-    <div class="stat"><b class="down">${d.sell_count}</b><small>خرج من الصفقة</small></div>
-    ${waiting}
-    <div class="stat"><b>${d.all.filter(r => r.above_ema200).length}</b><small>فوق EMA 200</small></div>`;
+    <div class="stat"><b style="color:var(--up)">${d.buy_count}</b><small>فرصة شراء نشطة</small></div>
+    <div class="stat"><b style="color:var(--down)">${d.sell_count}</b><small>خرجت من الصفقة</small></div>
+    <div class="stat"><b>${d.scanned}${d.requested?"/"+d.requested:""}</b><small>سهم مفحوص</small></div>
+    ${d.waiting?`<div class="stat"><b style="color:#f5a524">${d.waiting}</b><small>بانتظار بيانات</small></div>`:""}`;
 
   let list = d.all;
-  if (filter === "buy")  list = d.opportunities;
-  if (filter === "sell") list = d.all.filter(r => r.state === -1);
+  if(filter==="buy")  list = d.opportunities;
+  if(filter==="sell") list = d.all.filter(r=>r.state===-1);
 
   const box = document.getElementById("cards");
-  if (!list.length) {
-    box.innerHTML = `<div class="empty" style="grid-column:1/-1">
-      <div>🔍</div>لا توجد نتائج في هذا التبويب حالياً.<br>
-      <small>السكانر يحدّث كل 5 دقائق خلال ساعات التداول.</small></div>`;
+  for(const k in els) delete els[k];
+
+  if(!list.length){
+    box.innerHTML = `<div class="empty"><div>🔍</div>لا توجد نتائج هنا حالياً<br>
+      <small>أول الإشارات تظهر بعد دقائق من فتح السوق</small></div>`;
     return;
   }
-  box.innerHTML = list.map(card).join("");
+
+  box.innerHTML = list.map(r=>{
+    const cls  = r.state===1?"long":r.state===-1?"short":"flat";
+    const bdg  = r.state===1?["b-long","🟢 إشارة شراء"]:r.state===-1?["b-short","🔴 خرج"]:["b-flat","⚪ لا إشارة"];
+    return `<div class="card ${cls}">
+      <div class="chead">
+        <div class="tkr"><a target="_blank" rel="noopener"
+          href="https://www.tradingview.com/chart/?symbol=${r.ticker}">${r.ticker}</a></div>
+        <div class="badge ${bdg[0]}">${bdg[1]}</div>
+      </div>
+      <div>
+        <span class="price" id="p-${r.ticker}">${money(r.price)}</span>
+        <div style="margin-top:4px">
+          <span class="chg" id="c-${r.ticker}">—</span>
+          <small style="color:var(--dim)"> اليوم</small>
+        </div>
+      </div>
+      ${r.entry_price?`
+      <div class="crow"><span>سعر الإشارة (${r.last_signal_time} ET)</span><b>${money(r.entry_price)}</b></div>
+      <div class="crow"><span>منذ الإشارة</span><b class="pl" id="g-${r.ticker}">${pct(r.change_pct)}</b></div>`:""}
+      <div class="tick-time" id="t-${r.ticker}"></div>
+    </div>`;
+  }).join("");
+
+  // ربط العناصر + تطبيق آخر تسعيرة حية إن وُجدت
+  list.forEach(r=>{
+    els[r.ticker] = {
+      p: document.getElementById("p-"+r.ticker),
+      c: document.getElementById("c-"+r.ticker),
+      g: document.getElementById("g-"+r.ticker),
+      t: document.getElementById("t-"+r.ticker),
+      entry: r.entry_price, last: live[r.ticker]?.price ?? r.price,
+    };
+    if(live[r.ticker]) paint(r.ticker, live[r.ticker], false);
+  });
 }
 
-function card(r) {
-  const cls   = r.state === 1 ? "long" : r.state === -1 ? "short" : "flat";
-  const label = r.state === 1 ? "🟢 في صفقة شراء"
-              : r.state === -1 ? "🔴 خرج (بيع)" : "⚪ لا إشارة";
-  const bcls  = r.state === 1 ? "b-long" : r.state === -1 ? "b-short" : "b-flat";
-  const chg   = r.state === 1 ? r.change_pct : r.day_change_pct;
-  const chgLbl= r.state === 1 ? "من الدخول" : "من الافتتاح";
-
-  const bars = r.targets.map((t, i) =>
-    `<i class="${i < r.targets_hit ? "done" : ""}" title="هدف ${i+1}: ${money(t)}"></i>`).join("");
-
-  const rows = [
-    r.entry_price ? ["سعر الدخول", money(r.entry_price)] : null,
-    ["قمة شمعة الافتتاح", money(r.open_high)],
-    ["مدى شمعة الافتتاح", money(r.open_range)],
-    ["VWAP", `<span class="${r.price > r.vwap ? "up" : "down"}">${money(r.vwap)}</span>`],
-    ["EMA 200", `<span class="${r.above_ema200 ? "up" : "down"}">${money(r.ema200)}</span>`],
-    r.next_target ? ["الهدف القادم", `${money(r.next_target)} (${pct(r.next_target_pct)})`] : null,
-    r.last_signal_time ? ["وقت آخر إشارة", r.last_signal_time + " ET"] : null,
-  ].filter(Boolean)
-   .map(([k, v]) => `<div class="row"><span>${k}</span><span>${v}</span></div>`).join("");
-
-  return `<div class="card ${cls}">
-    <div class="top">
-      <div class="tkr"><a href="https://www.tradingview.com/chart/?symbol=${r.ticker}"
-         target="_blank" rel="noopener">${r.ticker}</a></div>
-      <div class="badge ${bcls}">${label}</div>
-    </div>
-    <div>
-      <span class="price">${money(r.price)}</span>
-      <span class="chg ${chg >= 0 ? "up" : "down"}">${pct(chg)}</span>
-      <small style="color:var(--muted)"> ${chgLbl}</small>
-    </div>
-    <div class="rows">${rows}</div>
-    <div class="tgt">${bars}</div>
-    <div class="note">الأهداف المحققة: ${r.targets_hit} من 5</div>
-  </div>`;
-}
-
-document.querySelectorAll(".tab").forEach(t => t.onclick = () => {
-  document.querySelectorAll(".tab").forEach(x => x.classList.remove("on"));
-  t.classList.add("on");
-  filter = t.dataset.f;
-  render();
+document.querySelectorAll(".tab").forEach(t=>t.onclick=()=>{
+  document.querySelectorAll(".tab").forEach(x=>x.classList.remove("on"));
+  t.classList.add("on"); filter=t.dataset.f; render();
 });
 
-load();
-setInterval(load, 60000);   // إعادة تحميل النتائج كل دقيقة
+/* ============================================================
+   3) البث المباشر للأسعار — WebSocket من Yahoo Finance
+      كل حركة سعر تصل خلال أجزاء من الثانية وتُرسم فوراً
+============================================================ */
+let ws=null, retry=2000;
+
+function setLive(on,msg){
+  document.getElementById("liveDot").className = "dot"+(on?" on":"");
+  document.getElementById("liveTxt").textContent = msg;
+}
+
+/* فكّ ترميز رسالة Yahoo (protobuf مبسّط):
+   الحقل 1=الرمز، 2=السعر، 8=تغير اليوم٪، 12=التغير */
+function decode(b64){
+  const raw = atob(b64), buf = new Uint8Array(raw.length);
+  for(let i=0;i<raw.length;i++) buf[i]=raw.charCodeAt(i);
+  let pos=0; const out={};
+  const varint=()=>{let r=0n,s=0n;for(;;){const b=buf[pos++];r|=BigInt(b&127)<<s;if(!(b&128))return r;s+=7n;if(pos>buf.length)throw 0;}};
+  while(pos<buf.length){
+    const tag=Number(varint()), f=tag>>3, w=tag&7;
+    if(w===0) varint();
+    else if(w===1) pos+=8;
+    else if(w===5){
+      const v=new DataView(buf.buffer,pos,4).getFloat32(0,true); pos+=4;
+      if(f===2)out.price=v; else if(f===8)out.chgPct=v;
+    }
+    else if(w===2){
+      const len=Number(varint());
+      if(f===1) out.id=new TextDecoder().decode(buf.subarray(pos,pos+len));
+      pos+=len;
+    } else break;
+  }
+  return out;
+}
+
+function paint(id, q, flash=true){
+  const e = els[id]; if(!e) return;
+  const dir = q.price>e.last?1:q.price<e.last?-1:0;
+  e.last = q.price;
+  e.p.textContent = money(q.price);
+  if(flash && dir){
+    e.p.classList.remove("up","down");
+    void e.p.offsetWidth;                       // إعادة تشغيل الأنيميشن
+    e.p.classList.add(dir>0?"up":"down");
+    clearTimeout(e._f);
+    e._f = setTimeout(()=>e.p.classList.remove("up","down"), 500);
+  }
+  if(q.chgPct!==undefined && e.c){
+    e.c.textContent = pct(q.chgPct);
+    e.c.className = "chg "+(q.chgPct>=0?"up":"down");
+  }
+  if(e.entry && e.g){
+    const g = (q.price/e.entry-1)*100;
+    e.g.textContent = pct(g);
+    e.g.className = "pl "+(g>=0?"up":"down");
+  }
+  if(e.t) e.t.textContent = fmtJo.format(new Date());
+}
+
+function subscribe(){
+  if(ws && ws.readyState===1 && DATA)
+    ws.send(JSON.stringify({subscribe: DATA.all.map(r=>r.ticker)}));
+}
+
+function connect(){
+  try{ ws = new WebSocket("wss://streamer.finance.yahoo.com/?version=2"); }
+  catch(e){ setLive(false,"البث المباشر غير متاح — الأسعار من آخر فحص"); return; }
+
+  ws.onopen = ()=>{ retry=2000; setLive(true,"الأسعار مباشرة ⚡ لحظة بلحظة"); subscribe(); };
+  ws.onmessage = ev=>{
+    try{
+      let b64 = ev.data;
+      if(typeof b64==="string" && b64[0]==="{"){
+        const j = JSON.parse(b64);
+        b64 = j.message || j.data || "";
+      }
+      if(!b64) return;
+      const q = decode(b64);
+      if(q.id && q.price){ live[q.id]={price:q.price,chgPct:q.chgPct}; paint(q.id,live[q.id]); }
+    }catch(e){/* رسالة غير معروفة — نتجاهلها */}
+  };
+  ws.onclose = ()=>{
+    setLive(false,"انقطع البث — إعادة الاتصال…");
+    setTimeout(connect, retry); retry=Math.min(retry*2,30000);
+  };
+  ws.onerror = ()=>ws.close();
+}
+
+loadResults();
+connect();
 </script>
 </body>
 </html>

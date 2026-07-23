@@ -13,9 +13,12 @@
 """
 
 from dataclasses import dataclass, field, asdict
-from datetime import date
+from datetime import date, datetime
+from zoneinfo import ZoneInfo
 
 import pandas as pd
+
+NY = ZoneInfo("America/New_York")
 
 # حالات الصفقة
 NO_TRADE = 0
@@ -104,6 +107,16 @@ def analyze(
     session = df[df.index.date == last_day]
     # الجلسة النظامية فقط: من 9:30 حتى 16:00 بتوقيت نيويورك
     session = session.between_time("09:30", "15:59")
+
+    # احترام barstate.isconfirmed تماماً كما في الـ Pine Script:
+    # الشمعة تُغلق بعد 5 دقائق من بدايتها؛ إن كانت آخر شمعة ما تزال قيد التكوّن
+    # (الآن قبل انتهاء نافذتها) نُسقطها فلا تُحتسب إشارة إلا على شمعة مغلقة.
+    # الجلسات التاريخية لا شمعة قيد التكوّن فيها، فلا تتأثر.
+    if len(session):
+        last_start = session.index[-1]
+        if datetime.now(NY) < last_start + pd.Timedelta(minutes=5):
+            session = session.iloc[:-1]
+
     if len(session) < 2:
         return None
 

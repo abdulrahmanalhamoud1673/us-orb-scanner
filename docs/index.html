@@ -254,9 +254,7 @@
   <button class="tab on" data-f="buy">إشارات شراء</button>
   <button class="tab" data-f="sell">خرجت</button>
   <button class="tab" data-f="verge">على وشك <span id="vergeN"></span></button>
-  <button class="tab" data-f="all">كل الأسهم</button>
   <button class="tab" data-f="saved">المحفوظة <span id="savedN"></span></button>
-  <button class="tab" data-f="log">سجل اليوم <span id="logN"></span></button>
   <button class="tab" data-f="news">أخبار السوق <span id="newsN"></span></button>
 </div>
 
@@ -485,42 +483,6 @@ function drawNews(){
       </a>`).join("")}</div>`;
 }
 
-/* سجل كل إشارات اليوم عبر كل الأسهم، الأحدث أولاً */
-function drawLog(){
-  const rows=[];
-  DATA.all.forEach(r=>(r.signals||[]).forEach(s=>rows.push({tk:r.ticker,...s})));
-  rows.sort((a,b)=>b.time.localeCompare(a.time));   // الوقت "HH:MM" يقارن نصياً
-  if(!rows.length){
-    cards.innerHTML=`<div class="empty">لا توجد إشارات اليوم بعد
-      <small>تظهر هنا كل إشارات الدخول والخروج فور حدوثها</small></div>`;
-    return;
-  }
-  // ملخّص اليوم — إحصاء وصفي بسيط من الإشارات ونتائج الأهداف
-  const buys=rows.filter(s=>s.kind==="Buy").length;
-  const sells=rows.filter(s=>s.kind==="Sell").length;
-  const reachedT1=DATA.all.filter(r=>r.targets_hit>=1).length;
-  const best=DATA.all.filter(r=>r.state===1)
-    .sort((a,b)=>b.change_pct-a.change_pct)[0];
-  const summary=`<div class="daysum">
-    <div class="ds"><b>${rows.length}</b><small>إجمالي الإشارات اليوم</small></div>
-    <div class="ds"><b style="color:var(--up)">${buys}</b><small>إشارات دخول</small></div>
-    <div class="ds"><b style="color:var(--down)">${sells}</b><small>إشارات خروج</small></div>
-    <div class="ds"><b>${reachedT1}</b><small>سهم بلغ الهدف الأول</small></div>
-    ${best?`<div class="ds"><b style="color:var(--up)">${best.ticker}</b>
-      <small>الأفضل الآن ${pct(best.change_pct)}</small></div>`:""}
-  </div>`;
-
-  cards.innerHTML=summary+`<div class="log">${rows.map(s=>{
-    const buy=s.kind==="Buy";
-    return `<div class="lg">
-      <span class="k ${buy?"b":"s"}">${buy?"دخول":"خروج"}</span>
-      <span class="lt">${s.tk}</span>
-      <span class="lp">${money(s.price)}</span>
-      <span class="lm">${s.time} ET</span>
-    </div>`;
-  }).join("")}</div>`;
-}
-
 /* ═══ على وشك الاختراق ═══
    أسهم لم تدخل صفقة بعد (state=0)، سعرها الحيّ تحت قمة الافتتاح بقليل
    وفوق VWAP — أي على بُعد خطوة من تحقيق شرط الدخول في الاستراتيجية.
@@ -567,14 +529,12 @@ function drawVerge(){
 
 function draw(){
   const d=DATA;
-  const gridMode = filter!=="news" && filter!=="log";
-  const sortMode = ["buy","sell","all","saved"].includes(filter);
+  const gridMode = filter!=="news";
+  const sortMode = ["buy","sell","saved"].includes(filter);
   cards.className = gridMode ? "cards" : "";
   sortbar.style.display = sortMode ? "flex" : "none";
 
   savedN.textContent = saved.size ? `(${saved.size})` : "";
-  const logTotal = d.all.reduce((s,r)=>s+(r.signals?.length||0),0);
-  logN.textContent = logTotal ? `(${logTotal})` : "";
   vergeN.textContent = (()=>{const n=vergeList().length; return n?`(${n})`:"";})();
 
   const ago=Math.max(0,Math.round((Date.now()-Date.parse(d.updated_ny.replace(" ","T")+"-04:00"))/60000));
@@ -585,7 +545,6 @@ function draw(){
     <div class="sm"><b>${d.scanned}</b><small>سهم مفحوص</small></div>`;
 
   if(filter==="news"){ drawNews(); return; }
-  if(filter==="log"){ drawLog(); return; }
   if(filter==="verge"){ drawVerge(); return; }
 
   let list=d.all;

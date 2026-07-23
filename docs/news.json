@@ -1,9 +1,65 @@
 {
-  "updated_amman": "2026-07-24 00:15",
+  "updated_amman": "2026-07-24 01:15",
   "count": 45,
-  "up": 7,
-  "down": 15,
+  "up": 8,
+  "down": 19,
   "items": [
+    {
+      "title": "The August stock-market slump is a myth — so why does Wall Street keep repeating it?",
+      "url": "https://www.marketwatch.com/story/the-august-stock-market-slump-is-a-myth-so-why-does-wall-street-keep-repeating-it-bc47db44?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "down",
+      "ts": "2026-07-23T22:12:00+00:00",
+      "amman": "01:12"
+    },
+    {
+      "title": "أسعار الذهب اليوم، 24 يوليو: انخفاض حاد في أسعار سبائك الذهب، حيث خسرت 7 ملايين دونغ فيتنامي للأونصة.",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZFZLSURKQWlhUVFTZTVUWWVTSlJYVklQOTA4VmhVSUYtN3VRWjZvb2JrQUpxc2FOQW9rVnV0dllSc2VpUkRqNW5uQVRhQnJPVmVRNWNLdU5sSGN0ellqQmN5X215OE4wNWREd1ljNUw4NzFfTjdIZmV1eGJ4YzUwNmpuQWN1eHVpQXlsMjBUU3hmdWc?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "down",
+      "ts": "2026-07-23T22:03:52+00:00",
+      "amman": "01:03"
+    },
+    {
+      "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
+      "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-07-23T22:03:00+00:00",
+      "amman": "01:03"
+    },
+    {
+      "title": "Yes, the AI stock selloff looks terrifying. But it might actually save the bull market.",
+      "url": "https://www.marketwatch.com/story/yes-the-ai-stock-selloff-looks-terrifying-but-it-might-actually-save-the-bull-market-3bef59be?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "down",
+      "ts": "2026-07-23T22:02:00+00:00",
+      "amman": "01:02"
+    },
+    {
+      "title": "The stock market’s calm is cracking. Here’s how to prepare for an August shock.",
+      "url": "https://www.marketwatch.com/story/the-stock-markets-calm-surface-is-cracking-heres-how-to-prepare-for-an-august-shock-7d655813?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-07-23T21:53:00+00:00",
+      "amman": "00:53"
+    },
+    {
+      "title": "Trump rolls out a new wave of global tariffs. Here are the latest rates.",
+      "url": "https://www.marketwatch.com/story/trump-rolls-out-a-new-wave-of-tariffs-here-are-the-latest-rates-449af1d3?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-07-23T21:50:00+00:00",
+      "amman": "00:50"
+    },
+    {
+      "title": "These 16 states are offering tax-free shopping days as back-to-school costs soar to over $800 per student",
+      "url": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-07-23T21:15:00+00:00",
+      "amman": "00:15"
+    },
     {
       "title": "مدير «مرصد الذهب»: تراجع الأسعار محليًا وعالميًا وسط ترقب قرارات الفيدرالي وضغوط النفط",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5kMUlpWW1sakVJUU13VnlzZklIRDRTM2UtWVpfZjN0bjJ0bTNGRHB2dHpEYnhocmg0OWtUNmV5YXB1aVQ0WFl6bDJNNlRIRGFtVFEwTUM1N2w5NWNhOGFaTDh3?oc=5",
@@ -13,28 +69,12 @@
       "amman": "00:09"
     },
     {
-      "title": "S&P 500 flashes sell signals — options traders are bracing for wild swings in Apple, Meta and Microsoft",
-      "url": "https://www.marketwatch.com/story/s-p-500-flashes-sell-signals-options-traders-are-bracing-for-wild-swings-in-apple-meta-and-microsoft-83ff7d65?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-07-23T20:47:00+00:00",
-      "amman": "23:47"
-    },
-    {
-      "title": "Japan’s $1.8 trillion pension giant might bring money home. That could jolt U.S. stocks and the Fed.",
-      "url": "https://www.marketwatch.com/story/japans-1-8-trillion-pension-giant-might-bring-money-home-that-could-jolt-u-s-stocks-and-the-fed-908c66d5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
+      "title": "مؤشرات الأسهم في الولايات المتحدة هبطت عند نهاية جلسة اليوم؛ مؤشر داو جونز الصناعي تراجع نحو 0.97%",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ucGxrRHFlMXNYakhqWXQxdjBOOFhTMmxkak9tUHZlQ2pqQ2xfUXNNcHdVYmpJdlhTY1pDZThpaVBCUnczUXVjUzNsdndaUnZRUHVHUUk0R2cxYTVLeUY5U1lLSlRkRk1URjRUNTJBVEU?oc=5",
+      "source": "Investing.com",
+      "direction": "down",
       "ts": "2026-07-23T20:31:00+00:00",
       "amman": "23:31"
-    },
-    {
-      "title": "The rising cost of capital for companies today is starting to spook the stock market: ‘The worry is the spending might not pay off’",
-      "url": "https://www.marketwatch.com/story/the-rising-cost-of-capital-for-companies-today-is-starting-to-spook-the-stock-market-the-worry-is-the-spending-might-not-pay-off-de4c69e4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-07-23T20:20:00+00:00",
-      "amman": "23:20"
     },
     {
       "title": "ويلز فارجو: ارتفاع أسعار النفط قد يعقّد معركة الاحتياطي الفيدرالي ضد التضخم",
@@ -43,14 +83,6 @@
       "direction": "up",
       "ts": "2026-07-23T20:18:25+00:00",
       "amman": "23:18"
-    },
-    {
-      "title": "A ‘generational buying opportunity’ guarantees inflation plus 3% a year, says this hedge-fund manager",
-      "url": "https://www.marketwatch.com/story/a-generational-buying-opportunity-guarantees-inflation-plus-3-a-year-says-this-hedge-fund-manager-eb4cd29c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-07-23T19:51:00+00:00",
-      "amman": "22:51"
     },
     {
       "title": "تزايد توقعات رفع الفيدرالي الأمريكي أسعار الفائدة بسبب صعود النفط",
@@ -91,14 +123,6 @@
       "direction": "down",
       "ts": "2026-07-23T18:22:30+00:00",
       "amman": "21:22"
-    },
-    {
-      "title": "Market Update: IBM, TXN",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_47711_MarketUpdate_1784828700000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-07-23T17:45:00+00:00",
-      "amman": "20:45"
     },
     {
       "title": "الأسواق العالمية تحت ضغط النفط والحرب.. وأسهم التكنولوجيا تعمق خسائر وول ستريت",
@@ -145,8 +169,8 @@
       "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxPYUdoZEpldkpXaHlxRVprN1k4bU1XcEFtUHpyLTRNbGdXcndNdXdIdmw0d1ZxU3BVYkMydkhNNUFXQkU2T2pNa21wbHdBVHdpUWlkaUw1SVRTOElnRjV4OUlCbkdwdjlJcjFrNXVWUG1aSDlKNXUwSy0wbl93MnVIMlJrZFVmZUVoRm1faXdVYjMtSG1uVUVmanM4dVlNNllzUEc2Yk1RY0F5bFRCUWlGR3I1aFc4YzhBMzRWUWZOaDIxZlN0OEVsc1JuLUFxb05iUzBheTUzLXJiQjFBQnVYb1JnYl9BYVo1cE9kQW1JMHotVVpJa29GQ3pTOGhLZ1JvOU52R2d6Y2NsSG1CNWhGSTgyM3RBT3pZQUgtb3B2U3pWazdNdWFsTGJtR3pOOVFkTExFWE8wRVRPOWNrdk9iU1JhVGQ4Tm9qYUdqOG5WblhhQl83U3BNN1JXRjJIcHF4NE9Demh1NTF6RXdRR2RiTU9BUWp2dWpuN2E3aXhicU5KRjBBZldoM2VyQlZnUlVGUG9Fay1lYmhWYlAwci01aUhMTFgzMUdkbkt1Mng4N1hTVmN3Rmh5c2pxTW83RF9CeXRBcUlObHhic0dNbVB3OVV0cERzanQ3WmZPa0NkRl9aaGRaemZxNU9wX1hmeFdRbVJaLWl1WGRBd1JxMEphcFF6ZmY5RTlnaVFJckRRWUtNRWNlV3ctdjJWSUxJbnkzWjNPa3QtMTFMZ094bERLU2RkbEtlVUY0Q2RrSU5vbEEtdmhJZWpFRkJvZ2h3cGIycEpScjVpQjJkXzFIeFhuVkJtN3pkNWZvOGhHajJFdEgtUVhKQk5tcmJiZUZFZFNOdFFR?oc=5",
       "source": "CNN الاقتصادية",
       "direction": "neutral",
-      "ts": "2026-07-23T14:53:42+00:00",
-      "amman": "17:53"
+      "ts": "2026-07-23T14:51:39+00:00",
+      "amman": "17:51"
     },
     {
       "title": "مؤشرات الأسهم الأمريكية تستهل تعاملاتها على انخفاض",
@@ -189,20 +213,20 @@
       "amman": "16:15"
     },
     {
-      "title": "عاجل| الذهب يهوي 2% مع صعود النفط وتصاعد رهانات رفع الفائدة الأميركية",
-      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPaGxwdTZ1bF92OEZ5X0hWNjFKdFZONmNmZlppUDlibGRKbjJqYjRxOXY5NFE0WGFtU2I1dmtoMG9aWjZWMVpKYlFkaVA4SVljTXN2cmtOVDFRUzF6eXdwUmlWdC01cUF5ZmF1dC1kRzZRNGJsdU9TTmlVMC1MX3FST1FsdXNaYWNCazlLMkRydnI2VGZGYS1NMlZsWlkwcUg3THd2cFVGeUhhWUoyaElHWnFZRWo3MmJYQS1hQVRrTlV0X2EyQlMxbjR6bmtIeGpKeF9DZ0FsNTI1aUF0dURPckZYVFNZV2FXQUV3RHNvMWx2SGNNczl5SXoyaVdjLUxESkpaQ0E0RFFuVWZwQnllMUdlLUk1TklTTjd3UU05Tk5YX25PdDF5YXVNeXo3aFY4TU1FV28tZ25PZ2s5aTE3dWJadlB4ejRvRHFzc0xEbW5uNzJJUVJvX1FqdEtBekNLWGN1S2pIVVJrUTFiZE5WalZIa0RGaWRqczV1NWVycUowYjBtYnl3dWZqZ3BSb3hyUV9lOUM3X2RKNEttRl9NSkQySjhKRVo5eUQ1MGdBekNKTnVWQVVkdVZKWEtZSzZtd1NaMnFFdzFxLTJuTDhsMWZsdm9rVTZBR2djMTg3bkRJUFVqcm1sS1BNYnVMT0c0aVN4czZkVC1nYWZ1cjh6QjZJNlVfSjQzYnVvckJpWlcydFdWeldDS3U2b3BHM0doNXVfTXVaNnBoWmg2aVRzaUI3SEhBWm5aaVNhczhn?oc=5",
-      "source": "CNN الاقتصادية",
-      "direction": "neutral",
-      "ts": "2026-07-23T13:13:01+00:00",
-      "amman": "16:13"
-    },
-    {
       "title": "ارتفاع الأسهم الأمريكية مع ترقب المستثمرين نتائج شركات التكنولوجيا والذكاء الاصطناعي",
       "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9hRUtMdlN3S0JWb3pMVjI0MVlkLVYzcEZoRHppTVZuUVFDUEtKOTBPQ3c1VWdvYzVoTVFRUDR1akxlSXVM?oc=5",
       "source": "بانكير",
       "direction": "up",
       "ts": "2026-07-23T13:05:32+00:00",
       "amman": "16:05"
+    },
+    {
+      "title": "عاجل| الذهب يهوي 2% مع صعود النفط وتصاعد رهانات رفع الفائدة الأميركية",
+      "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxPaGxwdTZ1bF92OEZ5X0hWNjFKdFZONmNmZlppUDlibGRKbjJqYjRxOXY5NFE0WGFtU2I1dmtoMG9aWjZWMVpKYlFkaVA4SVljTXN2cmtOVDFRUzF6eXdwUmlWdC01cUF5ZmF1dC1kRzZRNGJsdU9TTmlVMC1MX3FST1FsdXNaYWNCazlLMkRydnI2VGZGYS1NMlZsWlkwcUg3THd2cFVGeUhhWUoyaElHWnFZRWo3MmJYQS1hQVRrTlV0X2EyQlMxbjR6bmtIeGpKeF9DZ0FsNTI1aUF0dURPckZYVFNZV2FXQUV3RHNvMWx2SGNNczl5SXoyaVdjLUxESkpaQ0E0RFFuVWZwQnllMUdlLUk1TklTTjd3UU05Tk5YX25PdDF5YXVNeXo3aFY4TU1FV28tZ25PZ2s5aTE3dWJadlB4ejRvRHFzc0xEbW5uNzJJUVJvX1FqdEtBekNLWGN1S2pIVVJrUTFiZE5WalZIa0RGaWRqczV1NWVycUowYjBtYnl3dWZqZ3BSb3hyUV9lOUM3X2RKNEttRl9NSkQySjhKRVo5eUQ1MGdBekNKTnVWQVVkdVZKWEtZSzZtd1NaMnFFdzFxLTJuTDhsMWZsdm9rVTZBR2djMTg3bkRJUFVqcm1sS1BNYnVMT0c0aVN4czZkVC1nYWZ1cjh6QjZJNlVfSjQzYnVvckJpWlcydFdWeldDS3U2b3BHM0doNXVfTXVaNnBoWmg2aVRzaUI3SEhBWm5aaVNhczhn?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "neutral",
+      "ts": "2026-07-23T12:51:44+00:00",
+      "amman": "15:51"
     },
     {
       "title": "المركزي الأوروبي يثبت أسعار الفائدة عند 2.25%",
@@ -339,30 +363,6 @@
       "direction": "down",
       "ts": "2026-07-23T06:41:53+00:00",
       "amman": "09:41"
-    },
-    {
-      "title": "سعر الذهب اليوم يتراجع عن أعلى مستوى في أسبوعين مع ارتفاع أسعار النفط",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9sZEZzY0dyTVhrWXMwVTBKSl9NUXh3Q1dQMWFFUEpHT1lBa2JhQ2FUSkNXY2ZIQmlvQ2h0cXhobzNabExUemYyUk1qVXdBdVlkYmlQNlFUZXFMandwMlNXczJEdGtnSnUyWXpNeWFucnJPTjBNQXBqR0paSkhGdw?oc=5",
-      "source": "العين الإخبارية",
-      "direction": "neutral",
-      "ts": "2026-07-23T05:46:32+00:00",
-      "amman": "08:46"
-    },
-    {
-      "title": "موقف داو جونز.. مؤشرات الأسهم الأمريكية تغلق على تباين",
-      "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxNb3VPcGszTDhzVUtER1FsZEFoN1JwMmltODhIRnZKMTFKbTNYdWJMa1VFblpHMjFiR2tjV1hVWUp1T0k1MnYxenNYTEs2aDRuZkxuM09sZmFPa0FKNGZua01wNXhhMGxWNWFWSmtfTGlNdENEbTY0R3Y5NkdFbXAwYVpta0pTNWVkWm9JTERFVnY3Nk5DSlF5cGpWWnBvcXFxUmlnRVNtdHNzY0laem5QUFRQQ2VJUU5sNjVUenAwYl9QOGhHY2JUNVBfcDM1RUtSTW5NZjh2VXgwVUxsaUx1bjFwek1pMUNZelloYm96OUlXQXF3WmE2ZzEyQzcyWmtIekhfaS11eUtodmdSRnBIbEVFUF85RG0tWmRIbE16dUtyOEJFUVJSaDF2cUZVbFFfMEl2SnByLVBvMC1NUFEyaWV0OWJZSUw2bHpDOTJ6cm52TmRtcmZHQVlkYmJTbDM2ZXE0bXBwNUVKYm9OMEhaeE5oWnJGNUtKUjlVdWRFMUo2aWRoNTM3eGFBd2hHN2VJWjNfTTBmLXZUbHVMYVZNVWNYRnhhdDJTaC1vQVlQbmk4UGE4QTFtN1lGRFNJVFA4U1BhOEU4Z0Jic1Y0Q1Ytb0dVU3p5Q05MMXdteUVBbEY2Ql9MSTJnSU5vZ1FvUWEzWGQweG9wSk5LZlA5TU9TWVd6VlJVcTltRFRiYUtIN19idzJxdGR6VmVhYnpoQTI1TWVObFNNZjBfWGE5dXpxd2J3MFhhY0xPdDhpWU9QUk0xRG1MWFFLaTBnWTNTSjdrSDdZQUhWWG7SAVNBVV95cUxNY1g4bV9kYXE2emJaQ1dBOVJhZHlKY3VqS0NZVTJhN1hqMUZJcXhxaHJPQWdFT1RBdWlISTF6RE41N3FaVkR0UERQeGQwWUtZaGdWRQ?oc=5",
-      "source": "alyaum",
-      "direction": "neutral",
-      "ts": "2026-07-22T23:30:00+00:00",
-      "amman": "02:30"
-    },
-    {
-      "title": "سعر صرف الدولار الأمريكي اليوم، 23 يوليو 2026: يضعف الدولار الأمريكي قبل اجتماع مجلس الاحتياطي الفيدرالي.",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVHJtR18yNjdxRWM0ZkVIeFE1OGlmU0RrdnFjZGhsX3Q3djVNb19ubm9FX1VLWUhfNEZDVzN5R1MyaGlmV2JQeXo1QWNsd1N0Z1owSlFldG1paWRSNHdIVDhVNmt0cGVTOVp2UEpXbnRHSElBWU1qX202TXk4TWxHYUV5U3ROdkgwMUJIbnBtc1RQcHVua0czbWhaTQ?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-07-22T22:13:43+00:00",
-      "amman": "01:13"
     }
   ]
 }

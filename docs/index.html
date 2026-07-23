@@ -706,8 +706,11 @@ function paint(id,q,fl=true){
     el.querySelector(".n").textContent = hit?"✓":i+1;
     el.querySelector(".r").textContent = hit?"تحقق":"باقي "+((t/q.price-1)*100).toFixed(2)+"%";
   });
-  // صوت لطيف عند تحقق هدف جديد (لا يرنّ عند أول رسم)
-  if(fl && e.hits!==undefined && hits>e.hits) chime();
+  // صوت + شارة تُظهر أي سهم بلغ أي هدف (لا يرنّ عند أول رسم)
+  if(fl && e.hits!==undefined && hits>e.hits){
+    chime();
+    toast("🎯", `${id} — بلغ الهدف ${hits}`, `${money(q.price)}`, "b");
+  }
   e.hits=hits;
 }
 function subscribe(){

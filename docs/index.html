@@ -69,6 +69,11 @@
   .candle{font-weight:700}
   .candle b{color:var(--text);font-variant-numeric:tabular-nums;direction:ltr}
   .candle.soon b{color:var(--amber)}
+  .lastalert{margin-top:11px;font-size:12.5px;color:var(--muted);
+             background:var(--soft);border:1px solid var(--line);border-radius:10px;
+             padding:9px 13px;display:none}
+  .lastalert:not(:empty){display:block}
+  .lastalert b{color:var(--text)}
 
   /* ═══ الملخص ═══ */
   .summary{display:flex;gap:26px;flex-wrap:wrap;margin:22px 0;
@@ -234,7 +239,7 @@
   <div style="display:flex;align-items:center;gap:12px">
     <h1 style="margin-bottom:0">فرص السوق الأمريكي</h1>
     <div class="htools">
-      <button class="hbtn" id="soundBtn" title="صوت عند تحقق هدف">🔔</button>
+      <button class="hbtn" id="soundBtn" title="تنبيه صوتي للأسهم المحفوظة فقط">🔔</button>
       <button class="hbtn" id="themeBtn" title="الوضع النهاري/الليلي">🌙</button>
     </div>
   </div>
@@ -246,6 +251,7 @@
     <span id="tick"></span>
     <span id="candle" class="candle"></span>
   </div>
+  <div id="lastAlert" class="lastalert"></div>
 </header>
 
 <div class="summary" id="sum"></div>
@@ -388,8 +394,12 @@ function toast(icon,title,sub,cls=""){
   el.className="toast "+cls;
   el.innerHTML=`<span style="font-size:19px">${icon}</span><div><b>${title}</b><small>${sub}</small></div>`;
   toasts.appendChild(el);
+  // تبقى الشارة 12 ثانية حتى لا تفوتك
   setTimeout(()=>{el.style.transition="opacity .4s";el.style.opacity="0";
-    setTimeout(()=>el.remove(),400);},6000);
+    setTimeout(()=>el.remove(),400);},12000);
+  // نسجّل التنبيه في سطر ثابت بالأعلى: "آخر تنبيه" — لتعرف دائماً سبب آخر صوت
+  const t=fJo.format(new Date());
+  lastAlert.innerHTML=`🔔 آخر تنبيه: <b>${icon} ${title}</b> — ${sub} <span style="color:var(--dim)">(${t})</span>`;
 }
 
 const money=n=>"$"+Number(n).toFixed(2);
@@ -706,8 +716,8 @@ function paint(id,q,fl=true){
     el.querySelector(".n").textContent = hit?"✓":i+1;
     el.querySelector(".r").textContent = hit?"تحقق":"باقي "+((t/q.price-1)*100).toFixed(2)+"%";
   });
-  // صوت + شارة تُظهر أي سهم بلغ أي هدف (لا يرنّ عند أول رسم)
-  if(fl && e.hits!==undefined && hits>e.hits){
+  // صوت + شارة عند بلوغ هدف — فقط للأسهم المحفوظة (نجمة) حتى لا تنهال الأصوات
+  if(fl && isSaved(id) && e.hits!==undefined && hits>e.hits){
     chime();
     toast("🎯", `${id} — بلغ الهدف ${hits}`, `${money(q.price)}`, "b");
   }

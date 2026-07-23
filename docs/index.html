@@ -14,6 +14,9 @@
     --bg:#080c15;
     --card:#0f1523;
     --line:rgba(255,255,255,.07);
+    --soft:rgba(255,255,255,.028);
+    --soft2:rgba(255,255,255,.045);
+    --chip:rgba(255,255,255,.09);
     --text:#eef2f9;
     --muted:#8b97ae;
     --dim:#5a6478;
@@ -21,6 +24,22 @@
     --down:#fb5573;
     --accent:#5b8dff;
     --amber:#f5b43c;
+  }
+  /* الوضع النهاري */
+  :root[data-theme="light"]{
+    --bg:#f4f6fb;
+    --card:#ffffff;
+    --line:rgba(15,25,50,.10);
+    --soft:rgba(15,25,50,.03);
+    --soft2:rgba(15,25,50,.05);
+    --chip:rgba(15,25,50,.07);
+    --text:#0f1830;
+    --muted:#5a6884;
+    --dim:#8a95ac;
+    --up:#07a86e;
+    --down:#e0384f;
+    --accent:#3f6fe0;
+    --amber:#c98700;
   }
   *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
   body{
@@ -59,8 +78,28 @@
   .tab{background:none;border:none;color:var(--muted);padding:8px 16px;
        border-radius:9px;cursor:pointer;font-size:13.5px;font-family:inherit;
        font-weight:600;transition:.15s}
-  .tab:hover{color:var(--text);background:rgba(255,255,255,.045)}
+  .tab:hover{color:var(--text);background:var(--soft2)}
   .tab.on{background:var(--accent);color:#fff;font-weight:700}
+
+  /* أزرار الهيدر (نهاري/ليلي + كتم الصوت) */
+  .hbtn{background:var(--soft2);border:1px solid var(--line);color:var(--muted);
+        width:34px;height:34px;border-radius:9px;cursor:pointer;font-size:15px;
+        font-family:inherit;display:grid;place-items:center;transition:.15s}
+  .hbtn:hover{color:var(--text);border-color:var(--muted)}
+  .htools{display:flex;gap:7px;margin-inline-start:auto}
+
+  /* شريط الترتيب */
+  .sortbar{display:flex;align-items:center;gap:8px;margin-bottom:14px;font-size:12.5px;color:var(--muted)}
+  .sortbar select{background:var(--card);border:1px solid var(--line);color:var(--text);
+                  border-radius:9px;padding:7px 11px;font-family:inherit;font-size:12.5px;
+                  font-weight:600;cursor:pointer}
+  .sortbar select:focus{outline:none;border-color:var(--accent)}
+
+  /* شارات صغيرة: نشط اليوم / أداء قوي */
+  .chips{display:flex;gap:5px}
+  .chip{font-size:9.5px;font-weight:700;padding:2px 7px;border-radius:5px;white-space:nowrap}
+  .chip.act{background:rgba(91,141,255,.15);color:var(--accent)}
+  .chip.strong{background:rgba(245,180,60,.15);color:var(--amber)}
 
   /* ═══ البطاقات ═══ */
   .cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(258px,1fr));gap:13px}
@@ -139,6 +178,17 @@
   .nnote{font-size:11.5px;color:var(--dim);line-height:1.8;margin-bottom:14px;
          padding:11px 15px;background:rgba(255,255,255,.028);border-radius:11px}
 
+  /* ═══ سجل اليوم ═══ */
+  .log{display:flex;flex-direction:column;gap:7px}
+  .lg{display:flex;align-items:center;gap:12px;background:var(--card);
+      border:1px solid var(--line);border-radius:12px;padding:12px 15px;font-size:13px}
+  .lg .k{font-size:11px;font-weight:800;padding:3px 11px;border-radius:6px;flex:none}
+  .lg .k.b{background:rgba(18,207,144,.14);color:var(--up)}
+  .lg .k.s{background:rgba(251,85,115,.14);color:var(--down)}
+  .lg .lt{font-size:18px;font-weight:800;direction:ltr;letter-spacing:.5px}
+  .lg .lp{margin-inline-start:auto;font-weight:800;direction:ltr;font-variant-numeric:tabular-nums}
+  .lg .lm{color:var(--muted);direction:ltr;font-variant-numeric:tabular-nums;font-size:12px}
+
   footer{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);
          font-size:11.5px;color:var(--dim);line-height:1.9;text-align:center}
 
@@ -154,8 +204,14 @@
 <body>
 
 <header>
-  <h1>فرص السوق الأمريكي</h1>
-  <div class="meta">
+  <div style="display:flex;align-items:center;gap:12px">
+    <h1 style="margin-bottom:0">فرص السوق الأمريكي</h1>
+    <div class="htools">
+      <button class="hbtn" id="soundBtn" title="صوت عند تحقق هدف">🔔</button>
+      <button class="hbtn" id="themeBtn" title="الوضع النهاري/الليلي">🌙</button>
+    </div>
+  </div>
+  <div class="meta" style="margin-top:13px">
     <span class="state" id="mkt"><span class="dot" id="dot"></span><span id="mktTxt">—</span></span>
     <span>الأردن <b id="cJo">--:--:--</b></span>
     <span>نيويورك <b id="cNy">--:--:--</b></span>
@@ -171,7 +227,18 @@
   <button class="tab" data-f="sell">خرجت</button>
   <button class="tab" data-f="all">كل الأسهم</button>
   <button class="tab" data-f="saved">المحفوظة <span id="savedN"></span></button>
+  <button class="tab" data-f="log">سجل اليوم <span id="logN"></span></button>
   <button class="tab" data-f="news">أخبار السوق <span id="newsN"></span></button>
+</div>
+
+<div class="sortbar" id="sortbar">
+  <span>ترتيب:</span>
+  <select id="sortSel">
+    <option value="default">المحفوظة أولاً</option>
+    <option value="near">الأقرب لهدف</option>
+    <option value="recent">الأحدث إشارة</option>
+    <option value="gain">الأعلى ربحاً</option>
+  </select>
 </div>
 
 <div class="cards" id="cards"></div>
@@ -253,6 +320,47 @@ function toggleSaved(t){
 const money=n=>"$"+Number(n).toFixed(2);
 const pct  =n=>(n>=0?"+":"")+Number(n).toFixed(2)+"%";
 
+/* ═══ أسهم أعطت أداءً قوياً في اختبار الاستراتيجية تاريخياً ═══
+   (عرض فقط — لا تؤثر على أي إشارة) */
+const STRONG=new Set(["HOOD","SMCI","RIVN","COIN","LCID","F","TSLA","MRNA","AFRM","GS"]);
+
+/* ═══ الترتيب ═══ */
+let sortBy=localStorage.getItem("orb-sort")||"default";
+sortSel.value=sortBy;
+sortSel.onchange=()=>{ sortBy=sortSel.value; localStorage.setItem("orb-sort",sortBy); draw(); };
+
+/* ═══ الوضع النهاري/الليلي ═══ */
+function applyTheme(t){
+  document.documentElement.setAttribute("data-theme",t);
+  themeBtn.textContent = t==="light" ? "☀️" : "🌙";
+}
+applyTheme(localStorage.getItem("orb-theme")||"dark");
+themeBtn.onclick=()=>{
+  const t=document.documentElement.getAttribute("data-theme")==="light"?"dark":"light";
+  localStorage.setItem("orb-theme",t); applyTheme(t);
+};
+
+/* ═══ صوت عند تحقق هدف ═══ */
+let soundOn=localStorage.getItem("orb-sound")!=="off";
+function syncSound(){ soundBtn.textContent=soundOn?"🔔":"🔕"; soundBtn.style.color=soundOn?"var(--up)":"var(--dim)"; }
+syncSound();
+soundBtn.onclick=()=>{ soundOn=!soundOn; localStorage.setItem("orb-sound",soundOn?"on":"off"); syncSound(); if(soundOn) chime(); };
+let actx=null;
+function chime(){
+  if(!soundOn) return;
+  try{
+    actx=actx||new (window.AudioContext||window.webkitAudioContext)();
+    if(actx.state==="suspended") actx.resume();
+    [660,990].forEach((f,i)=>{
+      const o=actx.createOscillator(), g=actx.createGain(), t=actx.currentTime+i*0.12;
+      o.type="sine"; o.frequency.value=f;
+      g.gain.setValueAtTime(.0001,t); g.gain.exponentialRampToValueAtTime(.25,t+.02);
+      g.gain.exponentialRampToValueAtTime(.0001,t+.22);
+      o.connect(g); g.connect(actx.destination); o.start(t); o.stop(t+.24);
+    });
+  }catch(e){}
+}
+
 /* ═══ تحميل نتائج الاستراتيجية ═══ */
 async function load(){
   try{
@@ -296,27 +404,63 @@ function drawNews(){
       </a>`).join("")}</div>`;
 }
 
+/* سجل كل إشارات اليوم عبر كل الأسهم، الأحدث أولاً */
+function drawLog(){
+  const rows=[];
+  DATA.all.forEach(r=>(r.signals||[]).forEach(s=>rows.push({tk:r.ticker,...s})));
+  rows.sort((a,b)=>b.time.localeCompare(a.time));   // الوقت "HH:MM" يقارن نصياً
+  if(!rows.length){
+    cards.innerHTML=`<div class="empty">لا توجد إشارات اليوم بعد
+      <small>تظهر هنا كل إشارات الدخول والخروج فور حدوثها</small></div>`;
+    return;
+  }
+  cards.innerHTML=`<div class="log">${rows.map(s=>{
+    const buy=s.kind==="Buy";
+    return `<div class="lg">
+      <span class="k ${buy?"b":"s"}">${buy?"دخول":"خروج"}</span>
+      <span class="lt">${s.tk}</span>
+      <span class="lp">${money(s.price)}</span>
+      <span class="lm">${s.time} ET</span>
+    </div>`;
+  }).join("")}</div>`;
+}
+
 function draw(){
   const d=DATA;
-  cards.className = filter==="news" ? "" : "cards";
-  if(filter==="news"){ drawNews(); return; }
+  const isList = filter!=="news" && filter!=="log";
+  cards.className = isList ? "cards" : "";
+  sortbar.style.display = isList ? "flex" : "none";
+
+  savedN.textContent = saved.size ? `(${saved.size})` : "";
+  const logTotal = d.all.reduce((s,r)=>s+(r.signals?.length||0),0);
+  logN.textContent = logTotal ? `(${logTotal})` : "";
 
   const ago=Math.max(0,Math.round((Date.now()-Date.parse(d.updated_ny.replace(" ","T")+"-04:00"))/60000));
   scan.textContent=`آخر فحص قبل ${isFinite(ago)?ago:"?"} دقيقة`;
-
   sum.innerHTML=`
     <div class="sm"><b style="color:var(--up)">${d.buy_count}</b><small>إشارة شراء نشطة</small></div>
     <div class="sm"><b style="color:var(--down)">${d.sell_count}</b><small>خرجت من الصفقة</small></div>
     <div class="sm"><b>${d.scanned}</b><small>سهم مفحوص</small></div>`;
 
-  savedN.textContent = saved.size ? `(${saved.size})` : "";
+  if(filter==="news"){ drawNews(); return; }
+  if(filter==="log"){ drawLog(); return; }
 
   let list=d.all;
   if(filter==="buy")   list=d.opportunities;
   if(filter==="sell")  list=d.all.filter(r=>r.state===-1);
   if(filter==="saved") list=d.all.filter(r=>isSaved(r.ticker));
-  // المحفوظة تُثبَّت بأول القائمة في كل التبويبات
-  list=[...list].sort((a,b)=>(isSaved(b.ticker)?1:0)-(isSaved(a.ticker)?1:0));
+
+  // الترتيب المختار، ثم تثبيت المحفوظة بالأعلى دائماً
+  const px=r=>live[r.ticker]?.price ?? r.price;
+  const nextGap=r=>{ const t=r.targets.find(t=>px(r)<t); return t?(t/px(r)-1):9; };
+  const sorters={
+    near:  (a,b)=>nextGap(a)-nextGap(b),
+    recent:(a,b)=>(a.bars_since_signal??999)-(b.bars_since_signal??999),
+    gain:  (a,b)=>(px(b)/(b.entry_price||px(b))-1)-(px(a)/(a.entry_price||px(a))-1),
+  };
+  list=[...list];
+  if(sorters[sortBy]) list.sort(sorters[sortBy]);
+  list.sort((a,b)=>(isSaved(b.ticker)?1:0)-(isSaved(a.ticker)?1:0));  // المحفوظة أولاً
 
   for(const k in els) delete els[k];
 
@@ -348,6 +492,10 @@ function draw(){
                   title="${isSaved(r.ticker)?"إزالة من المحفوظة":"حفظ السهم"}"
                   aria-label="حفظ ${r.ticker}">${isSaved(r.ticker)?"★":"☆"}</button>
           <span class="tkr">${r.ticker}</span>
+          <span class="chips">
+            ${r.active?`<span class="chip act" title="من أنشط أسهم اليوم">نشط</span>`:""}
+            ${STRONG.has(r.ticker)?`<span class="chip strong" title="أعطى أداءً قوياً في اختبار الاستراتيجية">قوي</span>`:""}
+          </span>
         </span>
         <span class="tag ${tag[0]}">${tag[1]}</span>
       </div>
@@ -448,13 +596,17 @@ function paint(id,q,fl=true){
     if(e.l) e.l.textContent="اليوم";
   }
   // الأهداف: تتحقق وتُحدَّث مسافتها مع كل نبضة سعر
+  let hits=0;
   e.t.forEach((el,i)=>{
     if(!el) return;
-    const t=e.targets[i], hit=q.price>=t;
+    const t=e.targets[i], hit=q.price>=t; if(hit) hits++;
     el.classList.toggle("hit",hit);
     el.querySelector(".n").textContent = hit?"✓":i+1;
     el.querySelector(".r").textContent = hit?"تحقق":"باقي "+((t/q.price-1)*100).toFixed(2)+"%";
   });
+  // صوت لطيف عند تحقق هدف جديد (لا يرنّ عند أول رسم)
+  if(fl && e.hits!==undefined && hits>e.hits) chime();
+  e.hits=hits;
 }
 function subscribe(){
   if(ws&&ws.readyState===1&&DATA) ws.send(JSON.stringify({subscribe:DATA.all.map(r=>r.ticker)}));

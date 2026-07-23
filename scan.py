@@ -10,6 +10,7 @@
 
 import json
 import sys
+import urllib.request
 from datetime import date, datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
@@ -28,6 +29,28 @@ AMMAN = ZoneInfo("Asia/Amman")
 
 # كم سهم نجلبه في الطلب الواحد (yfinance يدعم الجلب الجماعي)
 BATCH_SIZE = 40
+
+# كم سهماً من "الأنشط اليوم" نضيفه تلقائياً لقائمة الفحص
+MOST_ACTIVE_COUNT = 25
+
+
+def most_active() -> list[str]:
+    """أكثر أسهم السوق تداولاً اليوم من شاشة ياهو المجانية.
+
+    مصدر بيانات فقط — لا علاقة له بالاستراتيجية. أي فشل يُتجاهَل بهدوء
+    فيكمل الفحص على قائمة tickers.txt وحدها.
+    """
+    url = ("https://query1.finance.yahoo.com/v1/finance/screener/predefined/"
+           f"saved?scrIds=most_actives&count={MOST_ACTIVE_COUNT}")
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=15) as r:
+            data = json.load(r)
+        quotes = data["finance"]["result"][0]["quotes"]
+        return [q["symbol"].upper() for q in quotes if q.get("symbol")]
+    except Exception as exc:
+        print(f"  تعذّر جلب الأنشط اليوم ({exc}) — سنكمل على القائمة الثابتة")
+        return []
 
 
 def parse_args() -> tuple[list[str], date | None]:
@@ -100,6 +123,18 @@ def fetch(tickers: list[str]) -> dict[str, pd.DataFrame]:
 
 def main() -> None:
     tickers, forced_date = parse_args()
+    explicit = len(sys.argv) > 1 and any(not a.startswith("--") for a in sys.argv[1:])
+
+    # الأنشط اليوم يُضاف تلقائياً فقط عند فحص القائمة الكاملة (لا مع أسهم محددة)
+    active_set: set[str] = set()
+    if not explicit:
+        active_set = set(most_active())
+        if active_set:
+            new = active_set - set(tickers)
+            tickers = tickers + sorted(new)
+            print(f"➕ أضفنا {len(active_set)} من أنشط أسهم اليوم "
+                  f"({len(new)} جديد لم يكن بالقائمة)\n")
+
     now_ny = datetime.now(NY)
     print(f"فحص {len(tickers)} سهم — {now_ny:%Y-%m-%d %H:%M} بتوقيت نيويورك\n")
 
@@ -123,7 +158,9 @@ def main() -> None:
             errors.append(f"{ticker}: {exc}")
             continue
         if result:
-            results.append(result.to_dict())
+            row = result.to_dict()
+            row["active"] = ticker in active_set   # من أنشط أسهم اليوم؟
+            results.append(row)
         else:
             waiting.append(ticker)
 
@@ -141,6 +178,7 @@ def main() -> None:
         "waiting": len(waiting),
         "buy_count": len(buys),
         "sell_count": len(sells),
+        "active_today": sorted(active_set),
         "errors": errors,
         "opportunities": buys,
         "all": sorted(results, key=lambda r: r["ticker"]),

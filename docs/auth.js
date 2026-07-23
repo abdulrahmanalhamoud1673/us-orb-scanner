@@ -6,10 +6,10 @@
    ══════════════════════════════════════════════════════════ */
 
 const FIREBASE_CONFIG = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  appId: "",
+  apiKey: "AIzaSyBRVOvXhW97XpJJoxw3f1C4_qO0oBi4jBQ",
+  authDomain: "orb-scanner-c06b7.firebaseapp.com",
+  projectId: "orb-scanner-c06b7",
+  appId: "1:970792846835:web:1418b01a8a7bacebb13e86",
 };
 
 /* إن أردت قصر الدخول على إيميلات محددة، اكتبها هنا.

@@ -66,6 +66,9 @@
   .state.open{color:var(--up)}
   .state.pre,.state.after{color:var(--amber)}
   .state.closed{color:var(--dim)}
+  .candle{font-weight:700}
+  .candle b{color:var(--text);font-variant-numeric:tabular-nums;direction:ltr}
+  .candle.soon b{color:var(--amber)}
 
   /* ═══ الملخص ═══ */
   .summary{display:flex;gap:26px;flex-wrap:wrap;margin:22px 0;
@@ -241,6 +244,7 @@
     <span>نيويورك <b id="cNy">--:--:--</b></span>
     <span id="scan">…</span>
     <span id="tick"></span>
+    <span id="candle" class="candle"></span>
   </div>
 </header>
 
@@ -328,6 +332,15 @@ setInterval(()=>{
   mkt.className="state "+s.key;
   dot.className="dot"+(s.key==="open"?" on":s.key==="pre"||s.key==="after"?" ext":"");
   if(changed && DATA) draw();     // تتغيّر لافتة السعر على البطاقات
+
+  // عدّاد إغلاق شمعة الـ5 دقائق (تُغلق عند دقائق تقبل القسمة على 5 بتوقيت نيويورك)
+  if(s.key==="open"){
+    const {min,sec}=nyNow();
+    const left=300-((min%5)*60+sec);   // ثوانٍ حتى إغلاق الشمعة (5:00 عند فتحها تماماً)
+    const m=Math.floor(left/60), x=left%60;
+    candle.innerHTML=`الشمعة تغلق بعد <b>${m}:${String(x).padStart(2,"0")}</b>`;
+    candle.className="candle"+(left<=30?" soon":"");   // تنبيه لوني بآخر 30 ثانية
+  }else candle.textContent="";
 },1000);
 
 /* ═══ الحالة ═══ */

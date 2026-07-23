@@ -189,6 +189,30 @@
   .lg .lp{margin-inline-start:auto;font-weight:800;direction:ltr;font-variant-numeric:tabular-nums}
   .lg .lm{color:var(--muted);direction:ltr;font-variant-numeric:tabular-nums;font-size:12px}
 
+  /* ═══ على وشك الاختراق ═══ */
+  .vnote{font-size:11.5px;color:var(--dim);line-height:1.8;margin-bottom:14px;
+         padding:11px 15px;background:var(--soft);border-radius:11px}
+  .vgap{margin-inline-start:auto;font-size:12px;font-weight:800;direction:ltr;color:var(--amber)}
+  .card .vbar{height:5px;border-radius:3px;background:var(--chip);margin-top:12px;overflow:hidden}
+  .card .vbar i{display:block;height:100%;background:var(--amber);border-radius:3px}
+
+  /* ═══ ملخّص اليوم ═══ */
+  .daysum{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-bottom:16px}
+  .ds{background:var(--card);border:1px solid var(--line);border-radius:13px;padding:14px 16px}
+  .ds b{font-size:23px;font-weight:800;font-variant-numeric:tabular-nums;display:block;line-height:1.15}
+  .ds small{color:var(--muted);font-size:11.5px}
+
+  /* ═══ تنبيه منبثق ═══ */
+  .toasts{position:fixed;top:14px;left:50%;transform:translateX(-50%);z-index:120;
+          display:flex;flex-direction:column;gap:8px;width:min(340px,92vw);pointer-events:none}
+  .toast{background:var(--card);border:1px solid var(--line);border-radius:13px;
+         padding:12px 15px;font-size:13px;font-weight:700;display:flex;align-items:center;gap:10px;
+         box-shadow:0 12px 34px rgba(0,0,0,.4);animation:drop .3s cubic-bezier(.3,1.3,.5,1)}
+  .toast.b{border-inline-start:3px solid var(--up)}
+  .toast.s{border-inline-start:3px solid var(--down)}
+  .toast small{display:block;font-weight:500;color:var(--muted);font-size:11px;margin-top:2px}
+  @keyframes drop{from{transform:translateY(-16px);opacity:0}}
+
   footer{margin-top:40px;padding-top:18px;border-top:1px solid var(--line);
          font-size:11.5px;color:var(--dim);line-height:1.9;text-align:center}
 
@@ -225,6 +249,7 @@
 <div class="tabs">
   <button class="tab on" data-f="buy">إشارات شراء</button>
   <button class="tab" data-f="sell">خرجت</button>
+  <button class="tab" data-f="verge">على وشك <span id="vergeN"></span></button>
   <button class="tab" data-f="all">كل الأسهم</button>
   <button class="tab" data-f="saved">المحفوظة <span id="savedN"></span></button>
   <button class="tab" data-f="log">سجل اليوم <span id="logN"></span></button>
@@ -242,6 +267,8 @@
 </div>
 
 <div class="cards" id="cards"></div>
+
+<div class="toasts" id="toasts"></div>
 
 <footer>
   الأسعار مباشرة · الإشارات تُحدَّث كل ٥ دقائق على إغلاق الشمعة<br>
@@ -312,9 +339,46 @@ const SAVED_KEY="orb-saved";
 let saved=new Set(JSON.parse(localStorage.getItem(SAVED_KEY)||"[]"));
 const isSaved=t=>saved.has(t);
 function toggleSaved(t){
-  saved.has(t) ? saved.delete(t) : saved.add(t);
+  const adding=!saved.has(t);
+  adding ? saved.add(t) : saved.delete(t);
   localStorage.setItem(SAVED_KEY,JSON.stringify([...saved]));
+  // عند أول حفظ نطلب إذن الإشعار حتى تصلك تنبيهات السهم لاحقاً
+  if(adding && "Notification" in window && Notification.permission==="default")
+    Notification.requestPermission();
   draw();
+}
+
+/* ═══ تنبيه الأسهم المحفوظة عند إشارة جديدة ═══ */
+const SIG_KEY="orb-lastsig";
+let lastSig=JSON.parse(localStorage.getItem(SIG_KEY)||"null");   // null = أول تحميل، لا ننبّه
+function checkSavedAlerts(d){
+  const now={};
+  d.all.forEach(r=>{ const s=r.signals?.[r.signals.length-1];
+    if(s) now[r.ticker]=s.kind+"@"+s.time; });
+  if(lastSig){
+    for(const tk of saved){
+      if(!now[tk] || now[tk]===lastSig[tk]) continue;     // لا جديد لهذا السهم
+      const r=d.all.find(x=>x.ticker===tk);
+      const s=r.signals[r.signals.length-1], buy=s.kind==="Buy";
+      chime();
+      toast(buy?"🟢":"🔴", `${tk} — ${buy?"إشارة دخول":"إشارة خروج"}`,
+            `${money(s.price)} · ${s.time} ET`, buy?"b":"s");
+      if("Notification" in window && Notification.permission==="granted"){
+        const n=new Notification(`${tk} — ${buy?"🟢 دخول":"🔴 خروج"}`,
+          {body:`السعر ${money(s.price)} · ${s.time} بتوقيت نيويورك`, tag:tk+s.time});
+        n.onclick=()=>window.focus();
+      }
+    }
+  }
+  lastSig=now; localStorage.setItem(SIG_KEY,JSON.stringify(now));
+}
+function toast(icon,title,sub,cls=""){
+  const el=document.createElement("div");
+  el.className="toast "+cls;
+  el.innerHTML=`<span style="font-size:19px">${icon}</span><div><b>${title}</b><small>${sub}</small></div>`;
+  toasts.appendChild(el);
+  setTimeout(()=>{el.style.transition="opacity .4s";el.style.opacity="0";
+    setTimeout(()=>el.remove(),400);},6000);
 }
 
 const money=n=>"$"+Number(n).toFixed(2);
@@ -365,10 +429,14 @@ function chime(){
 async function load(){
   try{
     const r=await fetch("results.json?v="+Date.now(),{cache:"no-store"});
-    DATA=await r.json(); draw(); subscribe();
+    DATA=await r.json(); checkSavedAlerts(DATA); draw(); subscribe();
   }catch(e){ scan.textContent="تعذّر تحميل الإشارات"; }
 }
 setInterval(load,45000);
+
+/* تبويب "على وشك" يعتمد على الأسعار الحية، فنعيد بناءه كل 3 ثوانٍ عند فتحه */
+setInterval(()=>{ if(filter==="verge" && DATA){ drawVerge();
+  vergeN.textContent=(()=>{const n=vergeList().length;return n?`(${n})`:"";})(); } },3000);
 
 /* ═══ أخبار السوق ═══ */
 let NEWS=null;
@@ -414,7 +482,22 @@ function drawLog(){
       <small>تظهر هنا كل إشارات الدخول والخروج فور حدوثها</small></div>`;
     return;
   }
-  cards.innerHTML=`<div class="log">${rows.map(s=>{
+  // ملخّص اليوم — إحصاء وصفي بسيط من الإشارات ونتائج الأهداف
+  const buys=rows.filter(s=>s.kind==="Buy").length;
+  const sells=rows.filter(s=>s.kind==="Sell").length;
+  const reachedT1=DATA.all.filter(r=>r.targets_hit>=1).length;
+  const best=DATA.all.filter(r=>r.state===1)
+    .sort((a,b)=>b.change_pct-a.change_pct)[0];
+  const summary=`<div class="daysum">
+    <div class="ds"><b>${rows.length}</b><small>إجمالي الإشارات اليوم</small></div>
+    <div class="ds"><b style="color:var(--up)">${buys}</b><small>إشارات دخول</small></div>
+    <div class="ds"><b style="color:var(--down)">${sells}</b><small>إشارات خروج</small></div>
+    <div class="ds"><b>${reachedT1}</b><small>سهم بلغ الهدف الأول</small></div>
+    ${best?`<div class="ds"><b style="color:var(--up)">${best.ticker}</b>
+      <small>الأفضل الآن ${pct(best.change_pct)}</small></div>`:""}
+  </div>`;
+
+  cards.innerHTML=summary+`<div class="log">${rows.map(s=>{
     const buy=s.kind==="Buy";
     return `<div class="lg">
       <span class="k ${buy?"b":"s"}">${buy?"دخول":"خروج"}</span>
@@ -425,15 +508,61 @@ function drawLog(){
   }).join("")}</div>`;
 }
 
+/* ═══ على وشك الاختراق ═══
+   أسهم لم تدخل صفقة بعد (state=0)، سعرها الحيّ تحت قمة الافتتاح بقليل
+   وفوق VWAP — أي على بُعد خطوة من تحقيق شرط الدخول في الاستراتيجية.
+   حساب عرضي فقط على الأسعار الحية، لا يغيّر أي إشارة. */
+const VERGE_GAP=0.006;   // ضمن 0.6% تحت مستوى الشراء
+function vergeList(){
+  if(!DATA) return [];
+  return DATA.all.filter(r=>{
+    if(r.state!==0) return false;
+    const px=live[r.ticker]?.price ?? r.price;
+    const gap=(r.open_high-px)/px;
+    return gap>0 && gap<=VERGE_GAP && px>r.vwap;   // قريب من الاختراق وفوق VWAP
+  }).map(r=>{
+    const px=live[r.ticker]?.price ?? r.price;
+    return {...r, _px:px, _gap:(r.open_high/px-1)*100};
+  }).sort((a,b)=>a._gap-b._gap);
+}
+function drawVerge(){
+  const list=vergeList();
+  if(!list.length){
+    cards.innerHTML=`<div class="empty">ما في سهم قريب من الاختراق الآن
+      <small>يظهر هنا السهم عندما يقترب سعره من مستوى الشراء وهو فوق VWAP</small></div>`;
+    return;
+  }
+  cards.innerHTML=`<div class="vnote" style="grid-column:1/-1">
+      هذه أسهم على بُعد أقل من ٠٫٦٪ من مستوى الشراء وهي فوق VWAP — أي قريبة من إعطاء إشارة دخول.
+      ليست إشارة بعد؛ الإشارة تتأكد فقط عند إغلاق شمعة فوق المستوى.
+    </div>` +
+    list.map(r=>`<div class="card">
+      <div class="row1">
+        <span style="display:flex;align-items:center;gap:7px">
+          <button class="star${isSaved(r.ticker)?" on":""}" data-save="${r.ticker}">${isSaved(r.ticker)?"★":"☆"}</button>
+          <span class="tkr">${r.ticker}</span>
+          <span class="chips">${r.active?`<span class="chip act">نشط</span>`:""}${STRONG.has(r.ticker)?`<span class="chip strong">قوي</span>`:""}</span>
+        </span>
+        <span class="vgap">باقي ${r._gap.toFixed(2)}%</span>
+      </div>
+      <div class="pxrow"><span class="px">${money(r._px)}</span></div>
+      <div class="lv b"><span>شراء فوق</span><b>${money(r.open_high)}</b></div>
+      <div class="lv s"><span>فوق VWAP</span><b>${money(r.vwap)}</b></div>
+      <div class="vbar"><i style="width:${Math.max(4,100-(r._gap/(VERGE_GAP*100))*100).toFixed(0)}%"></i></div>
+    </div>`).join("");
+}
+
 function draw(){
   const d=DATA;
-  const isList = filter!=="news" && filter!=="log";
-  cards.className = isList ? "cards" : "";
-  sortbar.style.display = isList ? "flex" : "none";
+  const gridMode = filter!=="news" && filter!=="log";
+  const sortMode = ["buy","sell","all","saved"].includes(filter);
+  cards.className = gridMode ? "cards" : "";
+  sortbar.style.display = sortMode ? "flex" : "none";
 
   savedN.textContent = saved.size ? `(${saved.size})` : "";
   const logTotal = d.all.reduce((s,r)=>s+(r.signals?.length||0),0);
   logN.textContent = logTotal ? `(${logTotal})` : "";
+  vergeN.textContent = (()=>{const n=vergeList().length; return n?`(${n})`:"";})();
 
   const ago=Math.max(0,Math.round((Date.now()-Date.parse(d.updated_ny.replace(" ","T")+"-04:00"))/60000));
   scan.textContent=`آخر فحص قبل ${isFinite(ago)?ago:"?"} دقيقة`;
@@ -444,6 +573,7 @@ function draw(){
 
   if(filter==="news"){ drawNews(); return; }
   if(filter==="log"){ drawLog(); return; }
+  if(filter==="verge"){ drawVerge(); return; }
 
   let list=d.all;
   if(filter==="buy")   list=d.opportunities;

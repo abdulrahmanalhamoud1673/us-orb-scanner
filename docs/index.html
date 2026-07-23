@@ -74,6 +74,10 @@
              padding:9px 13px;display:none}
   .lastalert:not(:empty){display:block}
   .lastalert b{color:var(--text)}
+  .stale{display:none;margin:16px 0 0;padding:13px 16px;border-radius:12px;
+         font-size:13px;font-weight:600;line-height:1.7;
+         background:rgba(251,85,115,.12);border:1px solid rgba(251,85,115,.4);color:var(--down)}
+  .stale b{font-variant-numeric:tabular-nums;direction:ltr;display:inline-block}
 
   /* ═══ الملخص ═══ */
   .summary{display:flex;gap:26px;flex-wrap:wrap;margin:22px 0;
@@ -254,6 +258,7 @@
   <div id="lastAlert" class="lastalert"></div>
 </header>
 
+<div id="staleBanner" class="stale"></div>
 <div class="summary" id="sum"></div>
 
 <div class="tabs">
@@ -300,6 +305,10 @@ function nyNow(){
   const p=Object.fromEntries(fD.formatToParts(new Date()).map(x=>[x.type,x.value]));
   return {wd:p.weekday, min:(+p.hour)*60+(+p.minute), sec:+p.second};
 }
+/* تاريخ اليوم بتوقيت نيويورك بصيغة YYYY-MM-DD (لمقارنته بتاريخ جلسة البيانات) */
+const fNyDate=new Intl.DateTimeFormat("en-CA",{timeZone:"America/New_York",
+  year:"numeric",month:"2-digit",day:"2-digit"});
+const todayNY=()=>fNyDate.format(new Date());
 function session(){
   const {wd,min}=nyNow();
   if(wd==="Sat"||wd==="Sun")
@@ -549,10 +558,18 @@ function draw(){
 
   const ago=Math.max(0,Math.round((Date.now()-Date.parse(d.updated_ny.replace(" ","T")+"-04:00"))/60000));
   scan.textContent=`آخر فحص قبل ${isFinite(ago)?ago:"?"} دقيقة`;
+  // تحذير الجلسة القديمة: المستويات (شراء فوق / VWAP) تخصّ جلسة البيانات.
+  // إن كانت البيانات ليست من جلسة اليوم، فالمستويات ليست مستويات اليوم.
+  const stale = d.session_date && d.session_date !== todayNY();
+  staleBanner.style.display = stale ? "block" : "none";
+  if(stale) staleBanner.innerHTML =
+    `⚠️ المستويات المعروضة من جلسة <b>${d.session_date}</b> — وليست من جلسة اليوم بعد. ` +
+    `بانتظار تحديث الفحص. لا تعتمد على «شراء فوق» حتى يظهر تاريخ اليوم.`;
+
   sum.innerHTML=`
     <div class="sm"><b style="color:var(--up)">${d.buy_count}</b><small>إشارة شراء نشطة</small></div>
     <div class="sm"><b style="color:var(--down)">${d.sell_count}</b><small>خرجت من الصفقة</small></div>
-    <div class="sm"><b>${d.scanned}</b><small>سهم مفحوص</small></div>`;
+    <div class="sm"><b>${d.scanned}</b><small>سهم مفحوص · جلسة ${d.session_date||"—"}</small></div>`;
 
   if(filter==="news"){ drawNews(); return; }
   if(filter==="verge"){ drawVerge(); return; }

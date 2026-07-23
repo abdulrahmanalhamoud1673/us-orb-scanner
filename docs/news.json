@@ -1,24 +1,16 @@
 {
-  "updated_amman": "2026-07-23 17:15",
+  "updated_amman": "2026-07-23 17:28",
   "count": 45,
-  "up": 8,
+  "up": 7,
   "down": 12,
   "items": [
     {
-      "title": "Autodesk initiated, Norwegian Cruise downgrade: Wall Street's top analyst calls",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/autodesk-initiated-norwegian-cruise-downgrade-135507863.html",
-      "source": "Yahoo Finance",
+      "title": "أسعار الذهب تتراجع عالميًا بأكثر من 2% مع ارتفاع أسعار النفط",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lbktsWm9lVWpobHZtMVYzVTlvRlFNYVJjaTZsb1FjbTIwQWttcnZmWktKakJON2xsZ2I2U2l6bDVFZzZNOTlFRg?oc=5",
+      "source": "عاجل",
       "direction": "neutral",
-      "ts": "2026-07-23T13:55:07+00:00",
-      "amman": "16:55"
-    },
-    {
-      "title": "Why Nvidia Stock Isn’t Rallying as It Should After Alphabet Earnings",
-      "url": "https://www.barrons.com/articles/nvidia-stock-alphabet-earnings-skhynix-3768645b?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-07-23T13:54:00+00:00",
-      "amman": "16:54"
+      "ts": "2026-07-23T14:26:02+00:00",
+      "amman": "17:26"
     },
     {
       "title": "AI stocks are echoing a 1990s market split. JPMorgan warns the next few weeks are critical.",
@@ -85,14 +77,6 @@
       "amman": "15:46"
     },
     {
-      "title": "Oil price surge reignites inflation worries as ECB holds rates",
-      "url": "https://finance.yahoo.com/news/asian-stocks-rise-us-tech-014857854.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-07-23T12:41:19+00:00",
-      "amman": "15:41"
-    },
-    {
       "title": "تراجع كبير في سعر الذهب اليوم الخميس 23 يوليو 2026 بعد انخفاض العالمي",
       "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxQMXFMMF95b3B1VmNHRGJ0cmJiQXJyR2xGeVZUanBOeUlOVHRCcEFGdWhDbHhQRDE3b1BCc01xTHFhZk9iclNvX1ZpdVVXU1FjQUFyaUt5WWFCNE5meVBqbVZRemgxRVZyOUJwcGpka0FiQ1VQbDdDalBkX1c1c1ZkYkVJOFpjYllhUGR5cG9xdV81eVJvcVloVzlxYkpYLWNiOFpnLXNSemtkcXd0Q1pFQkllRU1iTVNzZVlwQXduYWxTamhkdFVsbDc0WXE0ZklYZF9Vd3k0Mm5kT2wxd2dDcU4zRW1heGNNejVlZEc0MHczOWR4QmpzSy1IV2xXNGRIZUs1SE52M1VNbTlhOHdIVnRvay1YbEN1ei1FeS1iU0M0amxOSkpaTUtwMXIyQldOeUxVM2lsWHlPU2ZIX1FQR1pKMU5LZWtTTHVCclA2SmhJeGgtYWdqcHVwM1V3V09HbWtpMndNSEZPQzRxVTRKZzBrbGhuUzJWVzRCY3ZxMlphaUFLRGfSAYADQVVfeXFMTTZiRW5taHVHa3JJdEE5aENzcF9pWWpxQmN3ckNCRms1X1BzZ2NxZFpDU3J2RlE5bUYxT3lZQ1lfUUVxZVJ1dEk2WXhMUjRxQjdsOFlZSG5WeUZWd2RPWlZENHMzeXM4M0JrQ3hQYS1zUWJyaDNaR0x6X3dYdklsOW04XzRmM2RtcWJQcUl1RzhXcVB1dWJFMDBfTWZlenNnc25UTG5NanRKNmNfLUgzaXFlODhpZjRUaERyc0JmQUE5anh0UGlQc3ctVzhYTlg4MDRRZGZzQ09pQkQ5anpTc3d3Zmd5QTB5Q1p2M3h3SWZYa1AzUkpTcVJtYVRZbHRVM0Vtck50ZUtINWdiLVNSY2k4ZEU5MHpNTEtsR0FSMG51S2YyMm40NlBCOFp3WXRSR002QWZYSEhBRVZLR3lrTF9ELUdRV1NHWTY3MDg2d09NWVRWalFnckxiWWNxamdmTVJkT0dRNzY5UVZQQ0M0SXVfOHVKeTNPZHBmWU8tTlBz?oc=5",
       "source": "اليوم السابع",
@@ -139,14 +123,6 @@
       "direction": "neutral",
       "ts": "2026-07-23T11:34:00+00:00",
       "amman": "14:34"
-    },
-    {
-      "title": "عقود داو الآجلة تهوي 154 نقطة: 5 أمور قبل افتتاح وول ستريت",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVV9qZUpkZTQtQUZjNWg2b0lTVGxMNkhpUkw3Y0l0V2dJU2J3dll1WnNRcnlCVDlCLTVudVU3MjZ3WjJoR2dtRWtjdzBrc1c3SUpUU2diMkFLZ3FEOHpjdkFQMF9uLW40NDBYMzl1ZjR6YnhWaHZEMWtmdjNZSEk5ZkN4MWV4NV9jVnhCYzVsQXJ0NWYwc1l6Vk4zVHRnd0NITjVDUURncE44ekNreThB?oc=5",
-      "source": "Invezz",
-      "direction": "neutral",
-      "ts": "2026-07-23T11:23:38+00:00",
-      "amman": "14:23"
     },
     {
       "title": "الذهب يعود للخسائر مع اشتعال الحرب.. واهتمام المستثمرين يتحول إلى هذا الحدث",
@@ -213,8 +189,8 @@
       "amman": "12:17"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq sell off as markets weigh AI capex, widening Mideast attacks",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-sell-off-as-markets-weigh-ai-capex-widening-mideast-attacks-084444369.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq sell off as rising oil prices, bond yields, and AI capex weigh",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-july-23-dow-sp-500-nasdaq-oil-bonds-earnings-084444369.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-07-23T08:44:44+00:00",
@@ -363,6 +339,30 @@
       "direction": "neutral",
       "ts": "2026-07-22T19:06:33+00:00",
       "amman": "22:06"
+    },
+    {
+      "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+      "url": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
+      "source": "CNBC",
+      "direction": "neutral",
+      "ts": "2026-07-22T16:57:55+00:00",
+      "amman": "19:57"
+    },
+    {
+      "title": "الأسهم الأمريكية تبدأ تعاملاتها على تباين.. و'داو جونز' الصناعي يصعد 62.5 نقطة",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9HcDRFOFlhNWxmak14ZlA2dlhpQlhfcW03Y0R1d0x1Y2c3Q1JmZ0hROFBPRFhsY0RiUHRONHdPaXVKQ01pOHV2UTN0ODhOeFRyYU4w0gFTQVVfeXFMT0dwNEU4WWE1bGZqTXhmUDZ2WGlCWF9xbTdjRHV3THVjZzdDUmZnSFE4UE9EWGxjRGJQdE40d09pdUpDTWk4dXZRM3Q4OE54VHJhTjA?oc=5",
+      "source": "alyaum",
+      "direction": "neutral",
+      "ts": "2026-07-22T16:30:00+00:00",
+      "amman": "19:30"
+    },
+    {
+      "title": "10-year Treasury yield climbs to highest level since January 2025 as $100 oil sparks inflation fears",
+      "url": "https://finance.yahoo.com/markets/article/10-year-treasury-yield-climbs-to-highest-level-since-january-2025-as-100-oil-sparks-inflation-fears-162442976.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-07-22T16:24:42+00:00",
+      "amman": "19:24"
     }
   ]
 }

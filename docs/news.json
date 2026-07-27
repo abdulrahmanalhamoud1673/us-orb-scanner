@@ -1,40 +1,120 @@
 {
-  "updated_amman": "2026-07-27 18:40",
-  "count": 12,
-  "up": 2,
-  "down": 2,
+  "updated_amman": "2026-07-27 20:21",
+  "count": 45,
+  "up": 5,
+  "down": 8,
   "items": [
     {
-      "title": "What's Next For These 4 Quantum Computing IPO Stocks?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/whats-next-4-quantum-computing-152000746.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-07-27T15:20:00+00:00",
-      "amman": "18:20"
+      "title": "ترامب: على مجلس الاحتياطي الاتحادي خفض الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5ET0hXRmpDRnhOR2VlenI2bkhpOGd0T0tnZlhBbHJuUXlZZkpQMUhwekhpRURVSUdZM1BPNElUb0dJeVFjdWtaVzE4TTNsSFBpNFFKLVV5SEJIVEVhNDVBN29maWhHajQ2YjRWcmRkTHAtZDNId1UtNjc3S0lZZGs?oc=5",
+      "source": "Reuters",
+      "direction": "up",
+      "ts": "2026-07-27T17:01:56+00:00",
+      "amman": "20:01"
     },
     {
-      "title": "Chip Stocks Sink on China Competition Concerns, Erasing Early Gains",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/s-p-500-and-nasdaq-reverse-gains-chip-stocks-sink-on-china-competition-concerns--58TkY3yzkIG0EKBA6Zoh?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-07-27T15:10:14+00:00",
-      "amman": "18:10"
-    },
-    {
-      "title": "Stocks mixed, oil and Treasury yields drop on Iran-US truce",
-      "url": "https://finance.yahoo.com/economy/articles/shares-bonds-bounce-oil-skid-004056720.html",
+      "title": "SpaceX Shares Are Crashing Back Near $100 Per Share. Is It Time to Buy or Wait Longer?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-shares-crashing-back-near-165449877.html",
       "source": "Yahoo Finance",
       "direction": "down",
-      "ts": "2026-07-27T15:01:45+00:00",
-      "amman": "18:01"
+      "ts": "2026-07-27T16:54:49+00:00",
+      "amman": "19:54"
     },
     {
-      "title": "Stock Market Today: Dow Rallies On U.S.-Iran War Pause; Software Players Surge As Oil Prices Skid (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices-plunge/?src=A00220&yptr=yahoo",
+      "title": "Apple's Pre-Earnings Rally Pushes Stock Near Record Highs",
+      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-072726/card/apple-s-pre-earnings-rally-pushes-stock-near-record-highs-kUZvRVdFjZlFJVUVSjTR?siteid=yhoof2&yptr=yahoo",
       "source": "Yahoo Finance",
       "direction": "up",
-      "ts": "2026-07-27T14:35:28+00:00",
-      "amman": "17:35"
+      "ts": "2026-07-27T16:51:00+00:00",
+      "amman": "19:51"
+    },
+    {
+      "title": "ASML Stock Plunges On China News, Leads Chip Stocks Lower",
+      "url": "https://www.investors.com/news/technology/asml-stock-chip-stocks-slide-as-ai-trade-unwinds/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-07-27T16:44:22+00:00",
+      "amman": "19:44"
+    },
+    {
+      "title": "Seagate, Western Digital Slide Again. Morgan Stanley Still 'Pounding The Table' For Both AI Stocks.",
+      "url": "https://www.investors.com/news/technology/seagate-stock-earnings-july-2026-ai-stock/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-07-27T16:39:46+00:00",
+      "amman": "19:39"
+    },
+    {
+      "title": "He brought AI to Wall Street in 1994 — but won’t trust ChatGPT with his money",
+      "url": "https://www.marketwatch.com/story/he-brought-ai-to-wall-street-in-1994-but-wont-trust-chatgpt-with-his-money-b8abc031?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-07-27T16:31:00+00:00",
+      "amman": "19:31"
+    },
+    {
+      "title": "Micron and other chip stocks fall as China steals the spotlight",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-fall-as-china-steals-the-spotlight-cff9d73c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "down",
+      "ts": "2026-07-27T16:17:00+00:00",
+      "amman": "19:17"
+    },
+    {
+      "title": "IMF says oil markets have depleted all 3 'shock absorbers' as U.S.-Iran conflict threatens to restart",
+      "url": "https://finance.yahoo.com/energy/articles/imf-says-oil-markets-depleted-161500264.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-07-27T16:15:00+00:00",
+      "amman": "19:15"
+    },
+    {
+      "title": "Stock Market Today: Indexes Mixed On U.S.-Iran War Pause; Pharma Player Tests Entry, Oil Skids (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-oil-prices-plunge/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-07-27T15:39:42+00:00",
+      "amman": "18:39"
+    },
+    {
+      "title": "مكاسب قياسية في وول ستريت مع تراجع مخاوف التوترات الجيوسياسية",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBLR3dxTUU2aElIUXFsUWgxOTdrczNKT0Fra2F3RFp3WVVhdS04WUgzNTlNSmtjZHhoaUh1cmlRTmhXVFJoTmNNQmFVVQ?oc=5",
+      "source": "الوقائع الإخبارية",
+      "direction": "neutral",
+      "ts": "2026-07-27T15:35:51+00:00",
+      "amman": "18:35"
+    },
+    {
+      "title": "الولايات المتحدة: انتعاش وول ستريت بعد وقف إطلاق النار بين الولايات المتحدة وإيران",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQN1JucnBJYVFDSmc4bzN2MDdhVDNnSWxjQU1VSGJIRzctUE5ZUmpBVkNIQkR2SUgydGlVY2hCcU80UEdUQUVpTDlSLVQtRUVVUjdTY0I5bnRUM29PQzE5UUtXWXJCYkowU0tfWmkwZ0VkSWhPeFB3d1k4eWduR1doZWdRUkppLWtuTUtRek8zZUNPR2ZwN0pILVhhWHdhcUh4dmNTejFETnJjaFhDN3Q4WVo2SWk?oc=5",
+      "source": "XTB.com",
+      "direction": "up",
+      "ts": "2026-07-27T15:31:32+00:00",
+      "amman": "18:31"
+    },
+    {
+      "title": "\"The Financial Markets\": الفيدرالي الأميركي سيثبت الفائدة والأهم تصريحات كيفن وارش",
+      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxQLXVLSXh4MlBKRlFQSHlTS0ZvaHRXcXRObk9NdENTS2JQTmc5d095OEYwZkEtdk1mWWJja2hraVFUcnV3UFExU21pWEtWa2drbXlXY1FpR1Nzbkw2YXBPTjhpUGpXandPdGx2XzRLdzRDUlA1UjkyZE1USDR6LWNyQ0Fob051eTN5b1ZuZmZ0ckVrdlBfZ2U1dUtMWW85REVZcmkwdmVlRGdYT3A3cUt5Y01ZSXEydjhGRFY1M1M4ekRHZVlCMVpLd3hJLUxValhpa1JrR0YwLTBCX3RfbjlvazlmN3lQNkZYNHlSQTB2cWNDUDFMSi1wQWZZZTJEX1ZLdUhOaHRZb3Jkcm5hSlpGR1l3RmVBVDY1VVlWbFRiUlZsVUhTVV9VY0cxZkhJR3hDOUF4c0Q4R2QtdzhYZWxBNnRLblMwYjE3TUI0bXVhWGVLR1VmR3B5ck9tUDU0TlVkU2JRbFRGb0h0ZHF4RW9LVHBJLVQzZ19mMk40WFZ4MW92WkpOaG1tOHFQT0tpM1RuYnVDaUxOa1NBamZlRUl2NDRQOGlqSy1yUnFVX1hvUTl5RUxoS2d6S1RuZmlnQXk5TEJhdXJvdXdkUHNPTFJ3RmxnMWpDY0xveVVhNWZQTXVubTRtcnctc2NZVkM0OW82NFVIQ2dheEtaMl9VWnFGVFk4SW1sNUdnUWo2RDZ6MlJRbFRzWGfSAZsEQVVfeXFMTTFFVC12emN4SkxyQVlpeE11SFVjclJIYmhfUHdhZlRiX2VfRjFfS0FUU2dQTHAzNWtndjRkUE1SajdnT3psckNJRGJBVGxZSWUtWmRFOHFJbGtMZ3ZNb3lyRVpQTkhCZ29qZTZfVjZJaXVuUTRNLTA5d1IyeTc3NHd4d1JPMEpjU3FEVnlxRUl5OEF6SWwtVTl3Vko2WUhWLTd6QkwxLUZ6OHgwUXBCY2RFMFZWV010WTN0QlZDSkhNUXdGWTNMbko0RF9ndzgxQlpRaXcxM0JXcmctWGRyZk1DcXVkOUoweUliQzZDOE5DQURzYi1WWk9TS0pKLWhidlpCcnJZci1OVWpsTmoySzU5ZEYycFE4Q2ZMQVNTbUk4NEgtSTduQkZVcHZlTVVlNTlmdXNfYVRSSFZBOUhLZGw4U0lCRk9KZWhZRjE5djBaampxeWZwZmc0TkVncDJySkpudGY4dV92MjVIc0lxdzdRTGh0OFl3S2FEbktYY0pORTQyN1dscmRhX1FZNDcxY083enVqOGVUSHFBNlVHTXdMNDVGc1RoWWQwSlMxWi15WnF4dnhzTjBCanczUWszcDdqeTFQRnJUbzRpdC00R0R2U0VETmw4djhDYm5OdnlZdFRGSlc5Sm5VNjZKd1pJd3drMWNibDZDS2k1alFCOURuQXNqUmtuUjRYSnFQdFlRV2c4MXBjWTdiZTA?oc=5",
+      "source": "العربية",
+      "direction": "neutral",
+      "ts": "2026-07-27T15:07:00+00:00",
+      "amman": "18:07"
+    },
+    {
+      "title": "عوائد سندات الخزانة الأمريكية تهبط بقوة مع تقييم المستثمرين لتوقعات الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMi9wRBVV95cUxQQm5PVUpxY2tZVHp5T28xM2otTFBuRVJsM0l3c2QwQi1KUFJIMFgtWklTSmdwVXlPQ1VIY2ZOT0ttMWw4UjUxQnFkeWI3WlkxZWhmV0xCT3BRU0NGVTNSSHdGeFJWRGtrQlhKUE45NVdoLXR5bS1fdnZmNjlVNUl1djFiR0I0dTdRVTdSTmlKbi1IWGNtVUpXZU00Y09ZR3hOa3FvZEE3U29iZHNlUjN2UWJaTUJNNThXRm5sbm1TU3p1bFZhNmZkTmFrb2lLZWNGSzJxVGlETmtfVmVIeGtCRzRScldKamNlejd0S3NPZnZLMUtUaHFPNE5YTFJ5TEVBMURmdTlvTUwzRFd5aGJTS1lqVl9icGhudExHZGtORHVXV2s1VnFKc1lCUFg5UDlUOXZRdldaR2tqYjZ4MW52WmpOdGVWRGlOWUZJazBVRUdWd3ZXR1A5aGpNdXBYZW1LRlRORy1wTlFyWGVuUWpmU2Y1NjNzOEdOdnRUZjZKQVNIVEE5ZW1sbUZsQmZadTJGbDI2Vm1fdGtkZXh2RnRQcG9oRlNlQnhxcWxpVnp6RnNYS0plZjFSelRlTFprVUtLM3gwRXFjQVc2MXpIbVZXTG5SQzlFNERTYUJybTRvcnNKbzBMNXlfQzBsMHhTNHJYQlQ1YzZmc0VIR0JEVmxrMEpwTkxoVGgyaFNQSnhKZ3RNTjV4dElVNHlIbUdFb1dqTG5STjlENWx0Mlh4TnYwaHdkUkdtQ2h4VG96TnYzenp1OC1vUS1oQ2cwS1lmT3Y3SU5ZeTdTcV9rZUZMTjdsS2h5dXljX2VXV1VrendlOTU4N1JJM3Vz?oc=5",
+      "source": "المتداول العربي",
+      "direction": "neutral",
+      "ts": "2026-07-27T15:05:29+00:00",
+      "amman": "18:05"
+    },
+    {
+      "title": "وسط ارتفاع تكاليف الطاقة.. الاحتياطي الفيدرالي يتجه إلى تثبيت أسعار الفائدة في اجتماعه المقبل",
+      "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxNZWVlNVkza3phMmRDbkV0Y1JrNzZSUGRvcW41YnBJcWRfYWkyNEg1R0RkNUsxSU1wSWo1T1JjZmREQ3FRV3ZGY3gxSWVMMVJQeGVxSFVONHRsWi1tYjJoX2F2UTNfanY1QVpocGpxM1pkQmY2MjhVa0J6UmVOU0V2Y1VFczllZkZBcE5YRjNtOVZlYTJ5MzNOaTF1UlhzN2lOVGxfUHliYUViY3lOS25mMkthUU02cGJLeUlYaXh6azgzWmpmbzVaVVIzN2NLUHpwaWplUDh6V0dvNkRCcW1YdzBOeVBfQlhnVXdWUk5SRy1GQVV4WnZRVzdrZ09za2JpZWo2SWNCN1dqWkxzQndhMkNNbUNBaHRMRUFNZ3pnNDk4eXpjaEZ2QndPaUZqTGNpXzlPeHBXN0d4RHVYOGJjeWlZWTJSZVR3QlRNLUFublFuNmN1VG16NXlEYXBNeWJVelpzM2JwV2NTOXp3NEtEUnBSYXRKUmJKMVVCNHlVcGZzSGxuZDlnMFNqVVNndDdwdWVBZlg0eXBBbDRvNWN4QUpZV1RxUQ?oc=5",
+      "source": "جريدة المال",
+      "direction": "up",
+      "ts": "2026-07-27T14:44:41+00:00",
+      "amman": "17:44"
     },
     {
       "title": "Singapore tightens monetary policy in surprise move as rising oil prices rekindle inflation risk",
@@ -45,12 +125,28 @@
       "amman": "17:22"
     },
     {
-      "title": "Could voter rage over AI data centers tank your utility stocks? Run this 5-part risk test to find out.",
-      "url": "https://www.marketwatch.com/story/is-your-ai-data-center-stock-vulnerable-to-voter-backlash-use-this-5-part-test-to-find-out-36f039fa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "الذهب يرتفع مع تراجع النفط وترقب قرار الفيدرالي الأميركي",
+      "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxQSmtVUzVqbVlQZ3oyTHNoX2wtNDRWYVdLcHc0ZzN5YllMMlZWdTBYMkF5NzJraU1mVjZwMm8tSGNvbkNxdTlsNTRzeURITkhrQ0k3YXV4Q1htRmNQWjhBRVVoVDBTdERKeDhEOXF6WnlKRzVTMnFNUTZUVVJpVC1oLUtjZU1WRGdPM2t4dnU0MktxZ21FQ0ZadnJHMGlaM0JFN0JWNTlUcXNIMlgxSUVyaHJ3SVU0Uk1vemdBTkR2LUxkZld4MDdXUzIwQ0t0bUJNVmd0OV9XWGpqOW5wWDRlLTQ4cHhQUjlrSHZhejJGWWE4UFlNSjROeWl4bzVwVjNYWHVvc3pxenNvVnVvZ3EwLWVOWHo5Njcxelp3ZzlRd0JobXZGX0UtYlVzUHRlUEZLbndWWWtmUFFDRHJhWGo3QkFaQzFyY3lmNk1QaUtWOGFwNlptNmY1X2VwR2gzRUlCNWFSLW1sbHp4QnQ3cF9FY1RFVkQwQVF0Nk1YQTBMRFRJdF8zSkQwQXEzc0NBQUowUVpUSklVa24tblh5RWNlNGV3T1h5NllXd21zb0F6M00ySU42clpFelFuT1kyOE5vYXFqRWpISDZjZ2E2Z2I2bXBlOVlFaV9pRlBxWVctRTJ3VjlncGRnRVo5Zk1YX2s?oc=5",
+      "source": "CNN الاقتصادية",
       "direction": "neutral",
-      "ts": "2026-07-27T14:15:00+00:00",
-      "amman": "17:15"
+      "ts": "2026-07-27T14:19:16+00:00",
+      "amman": "17:19"
+    },
+    {
+      "title": "3 بنوك مركزية عالمية على موعد مع قرارات الفائدة هذا الأسبوع",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE8zZWxEU3d0YUljN29FcnJDYnp5bmpCaEZtNEYzNTBkak5xc2ZXYXVBRGJmYU5PWGEway1tWGtMQ3NfcDkwM29EZTFR?oc=5",
+      "source": "eDahab",
+      "direction": "neutral",
+      "ts": "2026-07-27T14:13:30+00:00",
+      "amman": "17:13"
+    },
+    {
+      "title": "«وول ستريت» تصعد بدعم تراجع النفط و«التهدئة المؤقتة»",
+      "url": "https://news.google.com/rss/articles/CBMi2wRBVV95cUxNQU1UeXp3NW45Tld0WGVGQ2l5OGFWd3Z0TFVjLWRDMFI4NmsyT0ItbUdGeGNHTUpjVjhYNEZPbmRDdnJMc0JlSHREZXNRdnJmbFljaXVGSmUzeUY3Y2UwMnBJRXAydC00UExkbTVwSFpzS1V0MnNWa2VEeU9GVFlHYjdiY25Pc0VkdThCV0doSVFpcHRBaVZkVVV0Z1AwdlYwMnZRY3N2bXVPdERSaUVvQ211LTRuU3ZDYTlxcGVaUU1Sa3MyZUprS0hMTGRtUTdGcFd6NjFaRDMtMEZQQ3hDWmNDZE5fRi1Gbk90X3pRN2JiYkZZMUYyTXBSdkZGNHNGRTlSaDlWTFdrVzZmUGJ3VnpnYW96Wi1OTHZpR2JFMEdnS0k4RXRpS1hwU2o3cUhITXVfZzE1b3QzOGcyOXYyZjY5NDJ1aWQyREloRjVON2xxOGVOQnRRempkY292bTFaX1FWVkQwQnh5Nnc5YzVVZ2pSZ29mWHhUMWJpTnJNeUM0RmpxYUY5WW9ncWU3cU1LY3FKQ2FjUnVoRi05Smp1dm5Ic2hBZGxPUDFDQWVSaW41MzlSQWNBQWl6TEdaMS1uNWV0WGV5MTVCNWlZMHdOUG1pNkxCU0JwX0JrM1ZvbGs1NnJWN1hjdFN3SEd4UzI4QlZpSUZfUGJrQURDVlQwYktVN3BzeTUwaUV5dE1QR2ttcFY0ZW00VDRoNnYwLVdkMHplcjN3a0hmbVhPSmN1ek5Qd1lwcHJ6eHR2UDRoZUhldmE1QUJncGtMRWpJSkt4QWVSZElIU1h1WjQ?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "neutral",
+      "ts": "2026-07-27T13:56:37+00:00",
+      "amman": "16:56"
     },
     {
       "title": "Tech stocks today: Big Tech earnings this week mark a pivotal moment for the AI trade",
@@ -61,20 +157,68 @@
       "amman": "16:46"
     },
     {
-      "title": "Navigating the Fed’s next move? Here’s why these trades may be an investor’s best weapon.",
-      "url": "https://www.marketwatch.com/story/navigating-the-feds-next-move-why-these-trades-may-be-an-investors-best-weapon-7a7e80c0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "الاحتياطي الفيدرالي: إشارات متباينة تبقي أسعار الفائدة دون تغيير – DBS",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQVdaNUFnYkVpNVN5a0l0REhjUGFnZFZVc0ZoakhoZjFlaFhPTE1BM1dwVGp6QkV5R0lQa0p3QnppYnNrd0RXa2RFWUkzQkUzOXpOLUt4WnZqYVhJRUZMZ0tydlN4ZjYxYkU1UF90dEtPNVdTV3hMbTdEUktiQnoyMmV5VndrZ3MzSjJJbmZna0NyZXpwM0gyOFl30gGfAUFVX3lxTE1kUmljRHpmZk5NQ3Y0SkhlWllHcGtSS05oOEE5TkFuTkZlaTdKLWhralZvcld0am5PWnFweDI3MDdYcm1VeXhVZVhqRk9nZnNVV3VXTjVQNURWU3VGWnBMTlJONlRlY2RpdGZ3YTM5am1fSXM0Rl95dFJ0Tkk1d0tRN2ZCaTBqN3N3ekRJZE1oVDBtRlRYcHRQNlF0WXV2bw?oc=5",
+      "source": "FXStreet",
       "direction": "neutral",
-      "ts": "2026-07-27T13:39:00+00:00",
-      "amman": "16:39"
+      "ts": "2026-07-27T13:34:42+00:00",
+      "amman": "16:34"
     },
     {
-      "title": "D-Wave leads quantum stocks higher as AT&T expands computing deal",
-      "url": "https://finance.yahoo.com/markets/article/d-wave-leads-quantum-stocks-higher-as-att-expands-computing-deal-131336800.html",
-      "source": "Yahoo Finance",
+      "title": "الفيدرالي أمام أصعب قرار منذ أشهر.. فهل يفاجئ الأسواق؟",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE03MmFiMEMxVWVTZDF6Z19qaUVHSjJFa3o3OW9BRHFxdE1HVElYVG5sdUFndFRpS3pKbDNvcXJILWxEOWJIV3pVWFIxeXBpY3Y2Yjc1blZSZkx1UGlZTE8zS3hzQUZhTHF4a2FmcFBmM0trbW8?oc=5",
+      "source": "Investing.com",
       "direction": "neutral",
-      "ts": "2026-07-27T13:13:36+00:00",
-      "amman": "16:13"
+      "ts": "2026-07-27T13:19:00+00:00",
+      "amman": "16:19"
+    },
+    {
+      "title": "هل يفاجئ الفيدرالي الأسواق؟ تثبيت متوقع ورفع محتمل",
+      "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPeE5Tc2s1czQ2OEV2LU9kbkRNOVBOQmF4ZlR2dDBHSC0wSWsyZFZQcTZVSHhlVjFHX2pmTEZfRHVRQ1ZiMHluWFpoaVo2TS0zeFN4OWtoclJ0N2J3aDNhN3VFbXRxdmRHNmRoOGpYSVozcC1sQlJjSUlnV2FPb21tdThFLTRWS0tsaGxacnFkd0FLbEg0cFlEbzhaMUlkRDhlNmsxbF9zcEctU3VwNGlmZ1BjU1JvSklKdmhNYVM1LTZ4djNXZ0kzM0dBNUI1OFVUWks3ZzY4WTlTenFicWxwTEItYVp6eE1vdTE0MmhHYm1saXFqSmhXSGc1R3lxdnFwX1lKWGtCYU5TOGhwRVA1dnVfU2dPd1FIUmVrSHVHMlpBNlJJaEpUUHhITjFNRm9Gdndvd1plb0IteW1yTDlOQmpHcTBWcXh2TzlIU1Bqa3ZsdURwNHZTYXdmd0s0TmY3X3UxcjdpcS1pbVZRa09kYWpmNVh6cy1xLUwzRW9jTTJnS3FuZlo0ZGVuVGNSSnA0Uk9xRnJhSmlGRnBjc2lGeHN0U3YzRWJvZ0F3?oc=5",
+      "source": "معلومات مباشر",
+      "direction": "neutral",
+      "ts": "2026-07-27T12:33:20+00:00",
+      "amman": "15:33"
+    },
+    {
+      "title": "صمت الفيدرالي يربك الأسواق ويزيد الغموض بشأن مسار أسعار الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxNVW9oWlJyQnVMWVk0cVRubG5kdk1hNmgxTVB4TDl6ak1ueUNVbXNDRklyVnZvbXB2SExIV3NhdWUxSkl0UWVYMGJFWXBpR0RNT0JqMjRXNDNfSjJaMEdyR0pDQVRGQV9jZWx5WXlhcTBQVEVORlB2el92Vnl3alZFV29WQTVJa0NnMmgtZGVBdVk5VE5Ec19mZDkwbVRRYmNnMzJEN3p1cVE0NkZqdzM4Y0h4QV8wcUlNNzZ6TlIybHB2eFFOdkpFSHdYcWhQcUdqNG40c0haM21HS3FWX3Q3WFNaX2Rkb3g0eGtEd2E3bGhrT19WS0pnRW4yM3BWRm5sWWlia0RsV1B0bHNnbzlIY0VEblpXbmN2RVpSeGNkeGtHNHotRFdEY3RsMVZRNDMtYnktQ2MxTnRUUV82d0dOSVVTWHlRYUZSLXdzd3NPSzBSM3VQZVpxbDlLUlRvS0dOc0xiNGs0U2R0RjU4NGdlanBnLWhFYUk5ZUtGSXk4Ym5KUVVMdC1aMkVSRDBDRGt6dzl5dkN2MzNFcEtOTFI5OEtoZlcwV0YyRUFKbGhhYXVmVzJPdmZ1eXM0U1owOGNxZ3prbXN6RnFXX1JkeFN5QmhLcHg5SVlXck1STUprZ0ticWpNbXFLTWdKUFpRWnZicFpXcDZiRmhwbXlTdk9ZZ2hyaTV5bzI4a3F4WEhCYVd5YXp1clBWTXF5bzlaWEpLWmZv?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "neutral",
+      "ts": "2026-07-27T12:04:48+00:00",
+      "amman": "15:04"
+    },
+    {
+      "title": "تحديث فوري في سعر الذهب اليوم بسوق الصاغة",
+      "url": "https://news.google.com/rss/articles/CBMi8wJBVV95cUxNd0pmMkYtTWZmeGx5Tm90bTBQNVJQX3ZqTTJzalh6ZW96MlczdlBhRDhMSm12YWxGaWxTRS1UVnJSR0pOVHl1S0ZIeUVtcE5OZVlyNFNZZHpwYllFdW1uTnZBUHNwWGw3elZqaUVBcWRqY0cxNktBSmVaOW9KSkx6VEVGSkVKZmhoTG5PU0s1T1JWWVNLQTZLQ1F4dW1scjdoQTUyVUp4TVN6UTUzZUhnZG9LQ3JfZnVvenB4bU4xUS1XeHlRTXJfSktXSUhNZWlRVGpjTGNMUUxpdVpDRDkwRXl2NDh1eWN4LWFYSkVld0RuMjZhTkpBTS1pdTBIVnhpQVlEV1RZc0NrUEEzS2hZb2ZYT3JoZTFjT1kxMWd2MjJpeWw0dlAwamJyMXducEpqc2twSHlkQ2h3Rm5UVGxyR1hKZWxXNjNPc3QwZ2lWTWR2RVgzX2dCbG1ZUWs5Z210b3dqbzRtOVJIUkZfNWt4dmxvZ9IB7gJBVV95cUxOUFBXUlRvT2pjckJVbnc5VjJnVGREd3RKd29HODN5bDhBdGRWNDhYSnJaYU4xU2ptRjY1b2NLQkRuUXM1ZDZSM0xLdHNSWnFoZjcxNTdXQS11VC1JcFY3X0RPQ2t6dGJuUlFERk5mSEdFbWdzYTBZc0thUGFWYk54ekQ1UzFKdU5HWHM3TGNNYWdtNXYzNVVtNWVIUjJ6ZW9xcVB6N3paVFJkV2dMb21mSHVjcmx2V3NtN05ONW1sczd5Slk1aDlSb1JLQUhudUQyS0UtTl9pTGllR2JKZnRGU1FkYlk0U1oyM3o0Vk1oT2UxTFl0cUJmaFFzMUNrbmpvcHgwT3lQdVYzMjBNMnVTUDlKMHR2c3lYQUtxS1h0UlpVRkZSY0FwQU9qbHl2c0xXTUprMmtGbGZickxlcDlvREw2aTlrTHJKYWxqMUUwVEpoVmxkVXBSWFp6cEgzOG1qOWpzaXpVNlhLQkRoemc?oc=5",
+      "source": "اليوم السابع",
+      "direction": "neutral",
+      "ts": "2026-07-27T12:01:00+00:00",
+      "amman": "15:01"
+    },
+    {
+      "title": "بيتكوين تتماسك فوق 64,000 دولار مع ترقب قرار الفيدرالي",
+      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxPNmNEUDJadVczVTRNUmw2cVVWNHFsSm41Z3hjUlgyS2hMbkg5ZTQ0TU9laTBsV2loQlRJazhuVkl5dTNyUVd4VlRDR2Y3TWlyY3ZwYUxVeXROc2tBbnN1LXdxd1lCSXVWYnpGcEwyd0xMemd6TFRzcXBhNHVWczh6MVNLZmZSdFIzMGlxeGJuN3pwWFhGOEdsVVM3T1EzZ2d0R0FnYU5LRGtvelZTR2c4QTB0MV9sSksyQzFqRDlwZVZocUV0OGVWdjFYMkNoZVowcWxSdFZvS3dJUTNxdUFMRm9PcFUwVXpmSDl1U0FUaU5SVGhVSTRobzRYcTkzUlVJU2J2eGd3bWdBTkIzYkY4YnlFbS1fdzRuYXdfLThDYXdVMEJjMG5SZkwwaURtUEplbG16ckR5OVdtQXJXVTRQTGZFLUVNdC1EZldoWHhZMTJvUWVxM2FKM21SMmdjaGI3Rkswc3RFZzRTSEZCbXVvdGdKdU1XOHZ0NVpFamZTbTY4MjN1dTBuelU0cUs3c3VvSU8wYXhIRklmb1ZOTnltem5HSXFiRHdFYzNhakRybW9ZYWwwSVUzT2Rua1dNT3hlc0Rr?oc=5",
+      "source": "المتداول العربي",
+      "direction": "neutral",
+      "ts": "2026-07-27T11:52:22+00:00",
+      "amman": "14:52"
+    },
+    {
+      "title": "تراجع مؤشر الدولار الأمريكي بنسبة 0.3%",
+      "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQV2I4N1p4MnBZVFZjeWVSNDBCWXZxZU90SUUzVmdSdm94enJTOFZ1YmxNRi1HV2RNR0tLWFJmMHZQQmU5d2pqeThJX3ZpMHN5bmlmUzVHbzc1UENfX3BrTWRtMHljVmtBT0tGRVpfYlJVYmVBdFRMNE5QZEJJSzRnXzhkajlUV2JKaXFCZXJzWmVvLURucUF6UmUyc2htcnJYZGJaUzBSTnJYVDNrRmxNQnFrdVpPR0R2MGZrUVVabEJQcVc1MkFLNl9HWHFYN0ttSnpPUTUwSy10T3RWbXh0WndWMWk0MUtUMFhGUDhXU1AzNFVkTERtbEcxUlpnTlVzLWZMallKQU9oWGZrbHpEQm5zMDY1MXpPVXAtZFZtWERQTjN0bUF6bDNUVkN6YnRrc29aaUJaMlRvTkJfRUN5YVhZbXoxZlVhRGtJSDFYcnZzMWhaZVZ5RC1VZE9jZEVhMEU4?oc=5",
+      "source": "المتداول العربي",
+      "direction": "down",
+      "ts": "2026-07-27T11:51:18+00:00",
+      "amman": "14:51"
+    },
+    {
+      "title": "سعر الذهب يرتفع عالميًا بدعم تراجع الدولار.. وترقب قرار الفيدرالى الأمريكي",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zcHYyYTFuaHppaDlza2xnUDdZZU9wanhka3N2Y1hsVjZCLXlzSVB5UzU0NkJPN1RBQW5BTl9Ib1lLT3dfcVJqMVUzX3BQbTNib3lLWl9yUG1qNmExakY40gFjQVVfeXFMTi03U21zbmZyUWIyVDdsNVB0bFVxRkNiOFpkc245cm9FdzVIZmp4b0lKN013Y1ZSVDRyZndKV1hMN0JMTTZNVmQ5bWVzWVNTQUtiVkw0d3lBdm9ZRjFPVURhdURz?oc=5",
+      "source": "المصري اليوم",
+      "direction": "neutral",
+      "ts": "2026-07-27T11:43:00+00:00",
+      "amman": "14:43"
     },
     {
       "title": "Daily Spotlight: Fed's Favorite Inflation Indicator",
@@ -85,6 +229,54 @@
       "amman": "14:28"
     },
     {
+      "title": "مؤشرات داو جونز وناسداك وS&P 500: عمالقة الذكاء الاصطناعي يقودون أكثر أسابيع أرباح الربع الثاني ازدحاماً",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ucDZfTUxQTXlvc1BuN01PSVZzd19xZjdPUzhwZjExd2hpVkZGWGtDbGZIZXYydC1MeDUxM1VxV0YtWWttU1RVbnYyZXA3ajVlSWpuWGhReUZfUk9SZnRqblI4VmNDVDdWdnBKNlpKM08?oc=5",
+      "source": "Investing.com",
+      "direction": "neutral",
+      "ts": "2026-07-27T11:10:00+00:00",
+      "amman": "14:10"
+    },
+    {
+      "title": "كيف يؤثر قرار الفيدرالي المرتقب على الذهب والدولار؟ خبراء يوضحون",
+      "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxQVG9LUGRVbEJlQ0JIVkRfNGtrN0V3cVdvaE5XRXdXcW9JY3BUb09jLXkyQnd4YXZzQXdkWXhIeEh4c0dQMlA2RllEdV9IeldQYlZDN1V5UlM5cW15NExkWVZYcE9RZDBDMjdEQXJpZG9lSEY1OUV0ZC1QQWlQQWs1bzhCRXB4X0NDUFZEQUVnem82THFCTlAyZ01KNW8tSGhGbUdRbVRtNEhXcGhCWl9aZzBTLUpER0VZTEFyWU1TZzJ1ZFA2dzZLN0tKRVhfQ3NOTUVYUFJVb1pfN25Rd2V5VnpkVzNlQTJfS3N5bV8zX2pwaXVsZGo3ZlJ0T3pEMEt5clNqYTdULVBxaXAyeG1waTZHM0N1S3JYZ3FodzIzQWp3bHF2Tk1LVWtKRGRUVjdlR3J0VmltNG1ETnJhck54dGpkN2ZTWmgyLTc5dU9NbWN5Vm1QYmVCdUVPRXpLN2o3TTNzMUhOeDNxZnVpaFFXSzBic0lrWWZ5bU1kSWRNVHR2ZzNxeXpFOE9uVEtsampPM0NoUHhBX1EwVzFGYVlvWlVDVXcxWVlQTlZWVnpPSWtkZjVLV3ZQTkpEQWdrS1FkYXF4MktwT1AxeGpoR05GMmR0MEktZXkzMXhSV0x3Z2xnSUUtM1U4WmNmcGpsaUhTdXNkVlhUZ25tTHlzRER0alpvLS1TdDhrRGdvTXo1VGdtMkpMUHZraWhyRzFEamhYRmZsbE5PZ25sSTMzSEtmN0VSRdIBuARBVV95cUxOcjZnWk1Rc0hwLWhuTWVaTXR3M3lBZDhVbXlvOWd5UmUwallpaWJtWW1KNC1TaXpyODItdDFXMnFLVzJLSnlfb1djQW1OZFNPeTBhZHpzMnUzZ0xicVh4WHgwNEtJZ0RDS0pvNkJldlgtVDd6Vmk3ZTk2OG1teHpSVEVXTWRTeUIwMUlwb054aWlUamdFWUZRN0ltR3ctNzBXVC1RbXBtMTR4RW9Dbnp0UUlUVFBnRWZRU1ZhRVk5WDZUTkUxaHc0dzJNTVIySnRuOFZyYTZFSEtwa1R2bE1ldHBfd1NMcVo4VFdWbi1wUzRka2x3T1g3aWF6RHpvb0NOdE9GLVRvMVdhWk5Ea2pzQTItZzVkNmw2ck9ZTnZUX2lJZUZOVzZuU1E2R0h6ZTdQSXFYZU5teFIzTnVmSlRJU3JvS3lKaVRyOFhtcmROREdoNDhNVUtLR1loQVlRSmxPOVpSbURCRHBwQVRubnR3S1Fxbl9FamxvY0lmTTZzdXRTaXBJbkVJMThXM1pzOEFNS0YwS1QzTy1vY3ltWkw1TDU5akNnSzdjQTdvSlFlYW83RVNWalhJVHdKT3hJdVQyS2tNNjdGejIxNnhNbU9FRGppQmZzU0dWUkRIcjJYbVNKU0pmazJ1REg2Y2FlakhEOENXMDF4Nnc2MXRQaFlPSGhYdDc4OEk2a19fXzI4NG5HTjNnUFc2N1VhRW5XQTczTEduUTFhWWJxLVhSNWR2WEszZ0RxLU56?oc=5",
+      "source": "Masrawy",
+      "direction": "neutral",
+      "ts": "2026-07-27T11:00:39+00:00",
+      "amman": "14:00"
+    },
+    {
+      "title": "يواجه الاحتياطي الفيدرالي ضغوطاً لرفع أسعار الفائدة.",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE12c0lQYjhvazVWWm1Bc1p6aHV2Q0U3NTczTUZkUTU0aFFWTUxRUWZaU29Wb3AtbjNvY051eFI4QzhNbXo5TmRGZEZXMl8tVkRBTUluRmlTVDIwRm9QMU5VTUlYRnpKa2tYdUlz?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-07-27T10:35:53+00:00",
+      "amman": "13:35"
+    },
+    {
+      "title": "ارتفاع أسعار الذهب بدعم من تراجع النفط وترقب قرار الاحتياطي الفيدرالي",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkdVeTdYV2lqQ05WWkRlSXJwbXVzOWZKeXQ3WGNzWXVUc0dwT0pOd1Z3c3BaN0lXcmRiOU92TmZBc3NaRlpDU2E0Y1BLcUZOVzVCeURDVE4yUnVra1J2X2Q0dFhWdDZsSVpjUDZWTUlxOEtyM0wySHdfZmQ2ODRqcngxUWNmQk9LZko0aTBNRjlRQkJHZmQ0dXduTQ?oc=5",
+      "source": "مجلة رواد الأعمال",
+      "direction": "neutral",
+      "ts": "2026-07-27T10:34:27+00:00",
+      "amman": "13:34"
+    },
+    {
+      "title": "\"فايستون\" للعربية: الفيدرالي لن يخفض الفائدة قبل ضمان هبوط التضخم لمسار الـ 2%",
+      "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxPYmp0TnI0UllPMThzTXMxZ2xEdVhhYjh4Z2JKVWZNWEtFejhfN0xTUGdJVFR0YTBlTklOcXYyTTZxOVZPMWdXSlZadkd3aGZzd1ktQkc0X2NnUFdHanRyRnFjaDZjX3B0OWZHZkFCOEFGby12REd5LVF2YXk3WDFBZUVzSmswejhJUE1yMmE3cVJHbE9rUm9yQVBqaThrRmllTVdTZGM2c3liRFdZR01pM0hlWUptYndhaUowU3JvSV9CUjhSZDNDWDZwVkE5bmNuUXh4RlFJZEVxMVVYMGVzdUlFU0haQ05PaG5LNlpJcFZ0aEIyN2g3QzhPVWc2VXdaMTUyVmo3WVVNRGFNRFJWejVhVnVqSURROU9XXzdxMDhib1FtbVBYR2NHbkpQVkZkZ3czN1VranRwTGRpelZUaFc3bmxlbmluZTBkTVhnVmNrOTctWUwyRXBFUm9MTk1QM3h6OUxlNXVyM3RXNUpTWjJGd3ZJU1BRQTVzdGRmZkltTjZzUGxaM3cwNTVzRWhVdFRBWGs5TTRhamwyMm9oWTlHZlN5TnV0UGRieDJDU3F1dVJrQ18zcjduVGdBcWcySTZMM05ZZUM0Wkp3X0xrRE9WdlN1c0pMYXdDQUZaR0lPV1Z0eGp2TkFETTlLM1pEbUt3SThLRTRNS2p4T3VSUXVWZ0JENGNsTnM0RzlCSFJCT3JHYXlwUjdQcW4zaHVOQkhOYWpTU3dWSmlpelBxMU00OHd1TUhaUmZPeVF3U0Y5bjRuLTNPOWdSdFg0a21EcTVkVTI4YXp1UWRMMHB0WDJHYUJJUdIB6wRBVV95cUxPQVZSTnFFNUlfcGJ3TlJwMnpNQklTeU1vTXh1VkgyYnhydlZnTGlNVGRWQm5KdXB4U3ZnRDVaRjVjWk1GYS1MTW9oNm9jeE0xbDFFSUk3NVBqUDNiVU9pZWdnYmhCMG94c2NyQk54NlRfamhMTkE5V0FEVVZWUUV5NDdfLVdncF9ISUVta25qVWxEUU9kMFNzVW5RRU84amp6ZHFCVnN3M2g2M1NTMEdxcklLVjZzbVVLS2lKb08xTEdDV2FMYlJHZkh0bUpDUEhRc21yXzlQbGoybm12eWtVVkw3Z1VsX1dSbDhiV19iMnNpTEhrbnFGenlUUVlBT2g4Wms4RXdQNVdhLURmR1ZyUUlPd2tFZ29jb2RYRnlOVmFNQ1Q3UjVST3dWdm5LYW1GT3Vzdnc3dFlhZmxWVzdTUFFNNzZsWHRBZE5Gd3pqMVNtZnN1b2NHUjk0SWlVWWplSm81anZUMS1Td1pKSndrb0I5WHRhcVdvWUFzUVYtYlQ5NHVlZVVmOE9BQnV4bFE2V2hjWnJxXy00cGg5MHlnQ3hOM085RGxRcmJ2Y2kwc1d5T0IwdnZ2XzFTZEJKRXdIMnA4MVRRMEZmeDR3VXctUGNtOEkzQWVfN2RoejhOUXYtY2FTcHZLUkFXZUFoVy1QNVFDRnhadWQyOVNZVktvUTdnR2Q2N2hBZUJkZnBtd29WTkk3MVQ5NUlHQVkwRjZUdmV6LUxuRW80N1I4ZzZ6MDBaWXl3Z09FeGJNNklPbUxyb3g4RTlKR04zdXFBcmVSYlVRMnFpcUtEdElzLVRYcXdPamlEWnRnMUNZ?oc=5",
+      "source": "العربية",
+      "direction": "neutral",
+      "ts": "2026-07-27T10:17:00+00:00",
+      "amman": "13:17"
+    },
+    {
+      "title": "الهدنة الأمريكية الإيرانية تدفع العقود الآجلة بـ«وول ستريت» للصعود والنفط يهبط بأكثر من 6%",
+      "url": "https://news.google.com/rss/articles/CBMivgNBVV95cUxQTjdzNHBYS3lYUjNqRmJnb2FVdEh5QUZaMTZUbE8wdTdlalVNdU1mTnFfZkdRdWJhVWZPOHJlZ3JLTnk5UWFyM0Vvcm5WSUkyVVZ5dHhPa1VKNGFRN1I4amZMbTcxOHlTQTBPbHJVNV9ZYXl0b0J1RmU3WXdKNDJncnYwNnZYSVl1ZklWVnJLTDhQSWZkcXA4U1Y4djhSYTNlTUtVdjlwRk1IMTZjREkzM2puMlg3eGhva216MUpoNkJzWjJzUzdiYkl4VVNNWFNaTFdRQUVuLVJWYUZDRkFWWXAyR3ZIQnB4OWdkQS10MDNKX3pzSm1UVkRaVUgzOUdubVFrYUVtaS1vU19GVDh4ekpsemVDUDVoaEZINUZyVlN3YmFBd0c5NFlkdFYyWEt6dXVScUp0eElZSlRZb1c5R2RPOGpDaGdpUnlUbHJLQzRuZC0yUU9aNWhPZy1BazVhTW5NUkliMUwwUmtUUHF4c19la0tZT0N2dGFuY1ZKZ0J1am1NaUdfQkZVVVl4dVE1Z3lPQVNNTU9ZdDdEZ19VMFRkLXBuX0QtOHZaTmNtbG53WFc4WmRRSVotWlpkZw?oc=5",
+      "source": "جريدة المال",
+      "direction": "neutral",
+      "ts": "2026-07-27T10:14:05+00:00",
+      "amman": "13:14"
+    },
+    {
       "title": "Best high-yield savings interest rates today, Monday, July 27, 2026: You can earn up to 4.15% APY",
       "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-july-27-2026-you-can-earn-up-to-415-apy-100000612.html",
       "source": "Yahoo Finance",
@@ -93,12 +285,84 @@
       "amman": "13:00"
     },
     {
+      "title": "تثبيت الفائدة أم مفاجأة جديدة؟.. أسعار الذهب عالميا تترقب كلمة الفيدرالي الأمريكي",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBCSFhpbEoyVDZuMjMzT3RZQ0xkRUJjR3F6eVduaWdhZHREbWhIR0dwa1dUcHBFOUFOQmdPd3dKSG14UmxQSmRndTZkM21zLXBMMUtzNHAtMzJpTmRO?oc=5",
+      "source": "الوطن",
+      "direction": "neutral",
+      "ts": "2026-07-27T09:58:34+00:00",
+      "amman": "12:58"
+    },
+    {
+      "title": "ارتفاع العقود الآجلة للأسهم الأمريكية مدعومة بتراجع النفط",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpVDBJdEtJaG1IdDRjV19mdmFsQ0NEZzk3UVlPZEJPSTNxTFJQTkpBTklOWFVPaGlaNUpOS3Jabzctb3pDYjM3VHF2ZFU3dHI2ekU3ZkxDeFpTTk0?oc=5",
+      "source": "جريدة البورصة",
+      "direction": "neutral",
+      "ts": "2026-07-27T09:50:25+00:00",
+      "amman": "12:50"
+    },
+    {
+      "title": "\"الفيدرالي\" الأميركي أمام اختبار صعب بين تثبيت الفائدة ورفعها",
+      "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxOcDRyT0R1VmRZR2NUbS1WbXp4VVR0S0hUR2ZXSXFOMXo2N3lLYzY3cHU3NnRkU3ZpNFRCMHFPaXo3SVVVTGIwVGtJZUptSGJGOGRheXpsOVJxZzVEVnZnODVSbmt6OXVWM3hzaklLcWFVWWZNMUN0S1IyRmFMUTBNaW5BV3lUY1owd1otTzVpTTZUalZCWUFhVnlkaEpRbWpYSFdhTmtDdF9tWGlfT3RNQ01NX0VDUGFRVTBnU2ZWZ29McDBXT2NvNGFfTEdHR3dWUzI4cHM4Y0EyelJKRnVleTVKTDlPYmtha1c4dGM2NTljNHdlcFFoa3dFOTJPRXpxYlptb3d6N0VxV3l6RnhSOFdFWkVUTWNibUdvZUx6TWZkdUd1eHVxd29xT3I1T1NONDNLMldPQXRyWGZZSGhMQkptak9YS0ZRVzU4NmwtVmZINUZMQjJSUlJacE04S0Z2cDFSRzI5VkRkT3UyU0NraG1DUE1yZlBKbEJFNnNuVGRlS2lLOGtpOHVmcU1FaFJIdGp2MUFZZUNvZXFBZExJWTVuSGRKQTU4M21YME1wMUwyZ1E4Z0I5OTMxV2hiLV9RQlZKdGxrX0MxYkV6U1ZRTUNod1JrOFBMMGJiSTN4eHVPRVZkY09zanBCRk04SXNyQzJXNktOSGV3ckpJaTBESVhnM3lPcmZxRWpHRzdXd0w3NHpBV0Zn0gGcBEFVX3lxTE16ay1ha3pzQU16MEN5YVJwOElUbUh3Y0xtS0VOYkZVVUVQZE53N1F3YUNNMjBWdEZXRjg2SDk0TWlkX0kzeWhMdGg1VWhHNko3WWpScWZHaExhS3kyblY0MFE2dDlKa0w5LWctQVpIX0ptVEJUdWQ1WmtWTERyQ09RYXAwa0tKS2xIRFFNZVcyeVRWdWJWQWhPNDU1dDgtcEZ1eV9KSlgxaVVVVG15dVZvVXBrczYxeHVPUGdZQXBrckloY2tqNUJqSHhod0lJV2lXT1hpMFNpbUstT3ZSQ3lBS3ExajBLeWprTkFVc2xRRkE4cmN3UUNVTFRKVEZBVElyd0NSTWxPd2hrSjYxZ3pJWlN0aTRnU1YwaGNQVlVPNV9FRmpOVnVjaDNOUFVYYWEtNU9yUlNsSFhjdllncXFDRkxncDRSWGJUektCUjhPQU05UGZhQ3NHZVJyVlZOT09fWTBrcWJLUFpjaFhzNTFmWGlqaF92c1NqN01TOVBETU1VcDRtZ3N5Ymo5MkNtX1QweDJqTjc5eWhTSmNiRllGekQ0SU9DU1dmX05pV1ZzejBXd0RER19YQkhkMjFZc0NBNjB2RlFiQkp5TzlZZmg0UHlTS0NMUzBrZlBFTlg3SG1ucGJFQ0NOUGtFQmlURDhmeWktQmFidnJUZEVKWjg4Nm03SF9weUFrZjFqd0k2T0ZaYnJ1RXRiTEVqdQ?oc=5",
+      "source": "العربية",
+      "direction": "neutral",
+      "ts": "2026-07-27T09:35:00+00:00",
+      "amman": "12:35"
+    },
+    {
+      "title": "تجاوزت أسعار الذهب 4103 دولارات للأونصة بفضل انخفاض أسعار النفط وضعف الدولار الأمريكي.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORl9DWGpSS3JaS3ZYbHhQWTBXa1BBYi11d1JCMzVnRFBBcHlBU2k3Ul9jNThKRHdXUzFtNGxPZE5jMk42azBUNmpwQUNfd3FVdThKV0FmVHdmd0RQVXQ5OHFmaTh6NTVfVkk5My1XUEJXNGhOcVliamVGZGpEUHB3OXo1R2EydHExNEg5UVIxS2FJNGc5UmhBU05QNDg?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "down",
+      "ts": "2026-07-27T09:20:28+00:00",
+      "amman": "12:20"
+    },
+    {
       "title": "Stock market today: Dow, S&P 500, Nasdaq fluctuate as chip stocks tumble, oil prices fall",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-july-27-dow-sp-500-nasdaq-080412540.html",
       "source": "Yahoo Finance",
       "direction": "down",
       "ts": "2026-07-27T08:04:12+00:00",
       "amman": "11:04"
+    },
+    {
+      "title": "الذهب يرتفع بدعم تراجع الدولار وترقب قرار الفيدرالي الأمريكي",
+      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxOMFBGZUg3MUVIdUZnQmJwZUdOdjBXTTNoSTQ5VmM4T1BsVjR6WWdkbU1oWW1lN0tIcTVMZURFY21RMjI4SHVyR1R3dDRCT1AxTHo1eHlZTlNxOU1OVzJrc0w2dlktNXdWMGxES3BmNTVyUDg5RDZ1c3VydUVyNjY3Qm9ja3FKVmNKLVBocmdETlNodXQ2djRSTnREaXphNGVTdnFnZ2tHNHFLTy1OQUdxRTl3WDJULTkxVXYyaDFUVmFYenM2S21SUkhad1FnWjdUeHpDcXJwYTl1SC1NSDlPenlKeUo4MnhKWDIzWGNvUUd2Vl93TVFkN0hUTGc4ek11NHdFZnc3UUhFZTVtbnJuOXFRZmd0UlNPWmItYTZmTlNyUUtaSy11Y1VqaVJzaEl0QzZTbXQyaVl2Z2ZmM3JBaTdvYUtWZkFrSU5DX3pPeGFsYVFvTmcyTktKdm9wYXpKeDhoTVkteVN0T0hiSnBmRV9zdURJVC1SeGZZSG5hSVAyVVJRVExBUWs5ZjhWYXpfWUVCVjdfdXRPcFVIeU1BUEVkeHBZM2F0dEhUZ2NjeHU0U0dhZGg4WTZ1S29hUWJNQ1ZnTS1pckloNVNRMURtcEJvZllVM1E4bk1PVVctZmd1YnJ0S0dMb1hnRkxJUXNLZEY1NW9HVk9lNUh5YmRjT0FTY0TSAf8DQVVfeXFMTXgydlJRb20zdzZaMWpkRnBMNXduc1ZtYzJSWFFWNllqbFlzWXFNZG83YURyQlZyYnpiSlprRXB2dUprSTFRaDlVMHlQSnczY3lJVkNsb3JacHVSd1lLRmx5NmljYkZtd2NXaDdSakljellRUnozSkZ0QS1TdFhYOGRyUjM0TldzOUJPWEhhby1RZlJBNWZFSUVoTGotZEtwYzdXNWJyR2VHamowYWVYN1hRcHhqd3lQYm1qRW1CWmxjSVNYd3duRmtPcWxOM3BYS1NJZkZrTWg5X0xkVFRKTmtBNTRBa3pxWHV4QktYRHNkSzdNS0M3MnU1MHVaQlljeVBhUXl4WEI3MFZmUlAyMWRYYW1DWTk0bVA5dDNDRG5VcUNmcUxLWHIwSzJPOGQ3YWRXek5RREd4S2JqM28tY1NaZFZEaGRvVHNmWXRjSVNyM2hlNGVVdG9Bd3JZZkJEM25JTFBMS3E5U3ROM083WngzRHFfUk9uT1B4am9MT3FXVmRySGtXYkZrazMzb3JadFd3ZXZsTkZsSndhdHpURDNLbG5ncTRBbUtPS2oxSF85ZWFYV0NfWG44QU5MT3JjdnJlR005LU5TRU5ES2FxRUQzNE5TU0l5SVJyTkFIYlp3V1ZDVDl5S0NHdG8wWHpHZTNNVTBkcFVGT3pjRDdNOA?oc=5",
+      "source": "اليوم السابع",
+      "direction": "neutral",
+      "ts": "2026-07-27T07:18:00+00:00",
+      "amman": "10:18"
+    },
+    {
+      "title": "أسعار الذهب في السوق المحلية اليوم الإثنين 27 يوليو",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10aUpFQU1HNmJ2Q29uYUpNdmVRaVlFSkFsUVJUZEtpa3l1dUFBekREaW9WVEtNNVVSQkxNNnJyNWxPZ1llMzExZEUtdWc?oc=5",
+      "source": "البوابة نيوز",
+      "direction": "neutral",
+      "ts": "2026-07-27T07:00:00+00:00",
+      "amman": "10:00"
+    },
+    {
+      "title": "كل الأنظار على الاحتياطي الفيدرالي: ماذا قد يعني قرار 29 يوليو لمؤشر ناسداك 100",
+      "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxOV0RFeFBMNmNpVWlDdGYtSE1BaFlVcDBzeUtNcHo5MHM1c3dmS3c4VzFRdWtiQVkyZWstbFc1R285S0lrWUx0WUpOSmFzVGhEZGR4V1VPMUFuWl9TTkg1TUlmaDJZZ0hIczY5cm8zTktHXzBWdTVzUzRZSEJtSDRMZ1RIRThSN0N6SEtTa0x5bEpfcDNxZGdtS2pMcWVIbUFyYjdiYTNKR1dJOXp6X2h1Q2Z1OV9EUHJ3Nm5DcDAwbUFEbEtWQVJRajRGR0U3Y1lwcnZmUjJNNUlaWkR5NFBnUUpxTDN5QVRhQ1BfVkJlV0I3Tk5aZDJXMk5yQ3k3VG1xbHdkUTE3T05WZkdsN3JkWHhGRmNocVZEenluRjN6S3RPeDMwdlVxZ3Mtam9YLWJ4VzJXTm9HaUdUdFJOMGNlSXhsWXM5VnpiVWRmVHZUb2J0QmVtNDRrSlVTWHdRMVUtb2JDcklJZjhWYzV1RExlcm5CN1lyZVo4WTJseHMxNVlJYkRNTlJxeFI1T0R1d1dqLUtPX2xNUU11WkNnSWx2X05oeUV1YmtJU0lPbVdXZURaUWdYQ0ZIZ2gzOElSV1lIUXVRUFFmN3l5eERwdi1BdW4ydnNtQ1NWd2IyZzVzYjF3TklWUHlZRG1xWHhkV2xpQXBYcS1VQkRJdE55RWJyNEswWWtNZlBoMTBYdkdCZkRjVFVyblRxd1BrdDBhdDhnMzI4ZjNTM2dFLXBkcTI4S3V6cFdHM25JX0dJ?oc=5",
+      "source": "EBC Financial Group",
+      "direction": "neutral",
+      "ts": "2026-07-27T06:34:00+00:00",
+      "amman": "09:34"
+    },
+    {
+      "title": "مراقبو السوق في حالة ترقب لمعرفة ما إذا كان الاحتياطي الفيدرالي الأمريكي سيُبقي على سعر الفائدة الرئيسي أم سيرفعه",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBUQnBFaGlDWC1QMW1IOUo1WjRMay12aUxtWTdaRjlGTV9mTUl2eFN5c2VkY21DWE83VW1CckgwczNMb19qSkJURU5tbl9IbUJYWlRoV2MxTmhSckNncnFzaXFR?oc=5",
+      "source": "nhk.or.jp",
+      "direction": "neutral",
+      "ts": "2026-07-27T05:29:17+00:00",
+      "amman": "08:29"
+    },
+    {
+      "title": "وول ستريت بانتظار نتائج أربعة من عمالقة التكنولوجيا.. وتراجع عوائد سندات الخزانة",
+      "url": "https://news.google.com/rss/articles/CBMisAZBVV95cUxQb1ZLYUtxYjNSYVdVQXBBQ2doYUFTVnZUQzZ4Vl9sWm43bW0xZnNKYkFrQmdSV3dTNDByWHIzdk9kcHpMc2VtTHp4UWpJb2Z3d3dWNW4zaXE4QUQ4ZloxUzFxQUx2cVVrYnRxMmViWmVxd0ItdmNnd2MtNUMxM2V1c2x2QmhjRy1jdlAtQ1ZvUGFWMzRXRkN0RUphNGQyeTdnZlN6R3d2bzJDMjFvTVBYTVhQMUFlWWhzQ2RNT3JTdVBPY3J5dkppZ2JOamItYi1aOVpKbVFlcXBzWDA2ZTlXak1TTzcyazFncUM3VkRQWDZzSzBfVTY5b19ETVpuQ0VfWUc5YXZDc2RXX1BSUTMyaURtc2xOMUpGMkdaOWpFbkJZOUUyc0dLZ0VTSnI3NnFfOGZ2aEV0blhCYXJyaUdRaV8zWTdsaWZ2Q2Yzdl9qaklfMnRPQ29vMnVSR2ZsWE93WmZyX3gyNDVveGNSNERIbklFLW5JWk96WVRNYVQtVFBxN24zM1VlSk1idDhGXy1BVGY5N0Y5Z1h0SjVlbXQ0NEo2R2hzZ25EaFFJcjRtelBub2NsMG0yTEN0OHpXZ1BMNXdOTzlzZy15aldNdUQyV041VF8tLVZ6YjU4RTFmY0l0WWxSVk9OT0phWUdEbUZheDVHUkU4SjBLQ2xkenJQTnNQWFNtUXhjb1F5ZkEwNnFueXkyOWU4MW5xTFF5TW90Q0x2bjlLUnVjUlMySWxiRVJUWjlXcWtZWmpLZ1ROZFhVZ3BQbFdEbjJ0cUpUeFZpVDgySFNhTGxZQ1hfNDRwNU4zX0JJMVgxUHZtY0FQaGFMZDJQaVpGcDZQdEhwQlcwTjBTYTFoTWh1Q0xtNlBjMUdzN2tGdnJ2ZzZNczU4WklfZDBqNWJCVjZrMFgwcUI2YkliS0laSEhnM24xVzN4YS1CSUZPWFdmQXdtSENrdjgyS1VxbnRzanRubEE2endUU1k0dlpXV0Y2blBYUU5fSnU1WG5hU2xMc3dGS2dCdDlUX0NvS05VdjFZeVpPYU9ZWnNfdFlxdWhmanFhaEIwOGNSM3dORlNBRVRUYWg3NEs?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "down",
+      "ts": "2026-07-27T05:16:28+00:00",
+      "amman": "08:16"
     }
   ]
 }

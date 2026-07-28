@@ -15,6 +15,12 @@ from datetime import date, datetime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+# نطبع UTF-8 دائماً حتى لا تتعطّل الرسائل العربية على كونسول Windows غير الموحّد
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 import pandas as pd
 import yfinance as yf
 

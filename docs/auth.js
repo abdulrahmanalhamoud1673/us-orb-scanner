@@ -18,7 +18,9 @@ const ALLOWED_EMAILS = [];
 
 /* ══════════════════════════════════════════════════════════ */
 
-const ready = FIREBASE_CONFIG.apiKey && FIREBASE_CONFIG.authDomain;
+// على جهازك المحلي (localhost) لا حاجة لتسجيل دخول — اللوحة لك وحدك
+const isLocal = ["localhost", "127.0.0.1"].includes(location.hostname);
+const ready = !isLocal && FIREBASE_CONFIG.apiKey && FIREBASE_CONFIG.authDomain;
 
 /* شاشة الدخول — تُبنى بالكود حتى لا تظهر أبداً إن كان الدخول معطّلاً */
 function gateHTML() {

@@ -13,8 +13,14 @@
 
 import json
 import re
+import sys
 import urllib.parse
 import urllib.request
+
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime

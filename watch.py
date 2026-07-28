@@ -15,6 +15,11 @@ from datetime import datetime, time as dtime
 from pathlib import Path
 from zoneinfo import ZoneInfo
 
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
+
 ROOT = Path(__file__).parent
 NY = ZoneInfo("America/New_York")
 AMMAN = ZoneInfo("Asia/Amman")

@@ -1,9 +1,25 @@
 {
-  "updated_amman": "2026-07-28 23:49",
+  "updated_amman": "2026-07-29 00:49",
   "count": 45,
   "up": 6,
   "down": 16,
   "items": [
+    {
+      "title": "مؤشرات الأسهم الأمريكية تفتح تعاملاتها على تباين",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOWEdqMWxMMTRVNERmUWdZS1dWUXVqOEx1cUFTZ05lR0ZIdFhHaUJfRC1kMk5YaGJVY1NkMnFPNzd5NW9PdGppcGI1RS1VWWFHYklhNzFaV3hyY2t2RUR3a0pLOU96Mk1FcE82d2tybVJTTnNueDBNWmd1OWFUTjJGNGw5ekdaX01IZ240TEh4bGFSc2lId2dyLVItdHRGRFNhbi1GOVM4dWNiM2M4SVNldjhSX2g5ZGFEZFhxWFkwZERmeWRZWFR0eVFfWFhJR05WandHb1JyaGtUeVlPR3V1WUVXZFU2Z1dhdGpYVnhicTNPcUM2ZUl5dkZKWHFkNlRvZEpNZlRTVHp6YkZlSzYzTGdOdS1zcXhaeXRfb2U3NGxEeTN5ZEg3UUkyVncwa0xMSU9DR1AxSTdsdkZHLWxlYlB1LUFOS2E3aWpxWjRIdzRCWVRFNUFGbXBkLWFpMkJFZy1yMTdrTWVIWlJSc1E5bGl5bl9KLU54MDBBZDVIeWdvdi1uT3JyeVRSbGt4bHFvdDFzX3NVel8tSlpxTVM0QVRqUVBLbEJsdmc?oc=5",
+      "source": "جريدة الشرق",
+      "direction": "neutral",
+      "ts": "2026-07-28T21:00:00+00:00",
+      "amman": "00:00"
+    },
+    {
+      "title": "The Fed isn’t your biggest worry. The central-bank decision that actually impacts your 401(k) lands in Tokyo.",
+      "url": "https://www.marketwatch.com/story/the-fed-isnt-your-biggest-worry-the-central-bank-decision-that-actually-impacts-your-401-k-lands-in-tokyo-fc9d22c8?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-07-28T20:54:00+00:00",
+      "amman": "23:54"
+    },
     {
       "title": "Nasdaq-100 is on the edge of correction territory as semiconductor stocks take another beating",
       "url": "https://www.marketwatch.com/story/nasdaq-100-is-on-the-edge-of-correction-territory-as-semiconductor-stocks-take-another-beating-580d3ee7?mod=mw_rss_topstories",
@@ -77,20 +93,20 @@
       "amman": "22:13"
     },
     {
-      "title": "Fed Chair leads two-day meeting as fear grips markets",
-      "url": "https://finance.yahoo.com/economy/policy/articles/fed-chair-leads-two-day-191144302.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-07-28T19:11:44+00:00",
-      "amman": "22:11"
-    },
-    {
       "title": "الفيدرالي أمام أصعب قرار.. الاقتصاد الأمريكي ينتظر إشارة الفائدة",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA0WWt2Y3lST09Tclphc2dKUFpmMjQwQklJQWRJTmwzbUFvUTJGNnU0OU9CRVRySktyWFJRaTU4V3ExNjl0TWxLN1AxaEFCQjMwUjRZOUlsdlhCQ0pGbWJn?oc=5",
       "source": "العين الإخبارية",
       "direction": "neutral",
       "ts": "2026-07-28T18:54:38+00:00",
       "amman": "21:54"
+    },
+    {
+      "title": "نتائج الشركات تصعد بـ«داو جونز» و«ناسداك» يتراجع بضغط «الرقائق»",
+      "url": "https://news.google.com/rss/articles/CBMilAVBVV95cUxQTjBGM3FhT3R0aXotSDc2a0ZqajBqMWV5TjMyYWJqeF9aVDgxa2R0QnE4bDV0R3J5c1V2Rml6Ymd6TkpVMUpXRkF6OC1fSTZXXzQzbkpJcHBKWU1SaGh2SWNKbUdsX1FSR1NoSWhqY1JucEVaTFZSeEgzcjl2MWp1a001czROTHpWaEt0anA1WjRudFBnaHdLbXVWNXJEZEVoeVFnc2tPY0xDLWlzdjBQQTI0ZDBMeTlGT211Sl9ETkFjSDBpNTVNWmRickdobUJIZWNfTGM5TkJpRDVJUGNXMmpQY3dyMDY2bUttYWVQcS10eHh0RUFWN2FmUlZoX29jc3JVZEdVbFpzLU9RcnI0a1d5T0xvazVtSW50QnVDT0Q5Rk5HNkQtTVk2ckVQSGJGbFlKWE9ZMHBqX1FZX2FJbXdkM29XV0U4Nm0wNWRUS3pmajFMTFRPdmNpSkVfazBIejUwX1gzU1JJYzJOakl1aFZzVVhmMGoyMkRMcVUtQmpuTGpnNE1RLW53WmJVcjNIaEh1V3hLSldfWjV4M0FOLWlJc3FvTGtXMnRDMWx3bzVhZjRHSlVuWEhlOFpDREF0bVlfRHVIbTRITW5GLWtxWXA4bzFFb0V6QmlSVmlVZTdvcXZ3cVFCbi1NRUdzeDRITFNLMkk1d3lseW9XaUZtZ2JITmlEaElFVDk1YjdmU09pNzI2S2h0UmlSZ2pQNnNFUFU2cnlPOTgxVVNtRzROZi1rOThXNFhxQjdMOGx6bGRGUEFqODM4OGRUMHIta3VjUVVXcHJseTR4NnVaeDVEeWM0Y3JfYkY1NFctOHhOUHF2QTlObk1ET1Y0eVAyaFhEYXRQNFhWQUdmYzhWaHctUE1rYWE?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "neutral",
+      "ts": "2026-07-28T18:52:41+00:00",
+      "amman": "21:52"
     },
     {
       "title": "الذهب ينخفض تزامناً مع ارتفاع الدولار قبيل قرار الفيدرالي",
@@ -109,20 +125,20 @@
       "amman": "21:47"
     },
     {
+      "title": "تراجع احتمالات رفع الفائدة الأمريكية خلال اجتماع يوليو",
+      "url": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxQNnFnX0xfMHpxVFprMnc0VE0xTzF6bUlPbHVxRTVKSG1SOTFnek5wTzlBeTFPYkRDcUlHSmpQcGpRcEpIRlcyakYzdUpGUENPeHczVE9LZDZlUzhRbTF6bGpUdnZJc2FsRjhFZV9qSE8yZG1mWVo2SzdhQkZuRXNjeG1kMUxHQXZRTmpFU256VlZZV1BnN1pOa210MnZRVjRBemtRS3lmSVBqVFJtNlEtelRtaGdudEpra3A2LTVKYkJxRl91ZU1mc2dZSUxieFBxMnJVcV9tZ0Q3NEx0SkZpUVdDajh1Z0FFa2JqcHFGVUFpQUJKYmdOTk9QR2V2dUN4TXlwd0JXLXgwZ3NjMXMtYUFTbWZiYVNXZ0lpM1hZMkdTMHFtY1VwUTRxSWcxQkFEN09WOVlibHV0OHpxVzRxZ0w0aUJyUDlEWVdGSzVJdUR0T0VRbGRJYWZXUUVIM1YtZjlFSjVVaGU1dFYwMy1oeGdEMks1bHdXbkdBd01OZ3pqVG9UTGNuYktJaDA5SXJva1dldlN3eFlqMHJLM1VjWXBEcl8xQVVYanJBbWhYOFNvbVpkNFFlR0JLczgtVnRleUtDLW5SUS04b3NXeWozLUtjOA?oc=5",
+      "source": "معلومات مباشر",
+      "direction": "down",
+      "ts": "2026-07-28T18:18:47+00:00",
+      "amman": "21:18"
+    },
+    {
       "title": "هدوء وول ستريت الذي يسبق العاصفة",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ncWE3S2Z5M3dHZERsZ0hCQm9ROUQ3aEl5Z2lXSFJLZnlNeTBWS09SdDBJUGZlTnAtckJfV25VclVjWFBqV3JkRUxLangwMmMyX2lVdmhCdVpfYktRYWhubVhPVVVHbzdDNnc?oc=5",
       "source": "ارقام",
       "direction": "neutral",
       "ts": "2026-07-28T18:03:20+00:00",
       "amman": "21:03"
-    },
-    {
-      "title": "Market Update: NLY, BRO, SANM, SLB, RHHBY, BKR",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_47752_MarketUpdate_1785261061000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-07-28T17:51:01+00:00",
-      "amman": "20:51"
     },
     {
       "title": "الذهب بين ضبابية الفيدرالي وهبوط النفط: أين تتجه الأسعار؟",
@@ -173,28 +189,12 @@
       "amman": "18:49"
     },
     {
-      "title": "الذهب والفضة يتراجعان ومخاطر رفع أسعار الفائدة تكبح الطلب على الملاذات الآمنة",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mNUFQZlpWSXFNRXBocWo5T2Y5SS1GU1g3RjBGbWdwY3E0UkRTRERxcEFlRzZtd0FDQXhBeWtxZ1oxR3B1enNlSw?oc=5",
-      "source": "جريدة كابيتال",
-      "direction": "down",
-      "ts": "2026-07-28T14:57:56+00:00",
-      "amman": "17:57"
-    },
-    {
       "title": "الذهب يتراجع قبل قرار شديد الغموض بشأن الفائدة الأميركية",
       "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5POWJ4d3Y5RUxZQko4dXJ5dHEwLXEyWEN3clF5WjVSOEdQRjdvRVE5SkkyZm9xRE44X0pzYU9FU2xFd0ZJV2NjQzd3?oc=5",
       "source": "eDahab",
       "direction": "down",
       "ts": "2026-07-28T13:58:05+00:00",
       "amman": "16:58"
-    },
-    {
-      "title": "نتائج الشركات تصعد بـ«داو جونز» و«ناسداك» يتراجع بضغط «الرقائق»",
-      "url": "https://news.google.com/rss/articles/CBMilAVBVV95cUxQTjBGM3FhT3R0aXotSDc2a0ZqajBqMWV5TjMyYWJqeF9aVDgxa2R0QnE4bDV0R3J5c1V2Rml6Ymd6TkpVMUpXRkF6OC1fSTZXXzQzbkpJcHBKWU1SaGh2SWNKbUdsX1FSR1NoSWhqY1JucEVaTFZSeEgzcjl2MWp1a001czROTHpWaEt0anA1WjRudFBnaHdLbXVWNXJEZEVoeVFnc2tPY0xDLWlzdjBQQTI0ZDBMeTlGT211Sl9ETkFjSDBpNTVNWmRickdobUJIZWNfTGM5TkJpRDVJUGNXMmpQY3dyMDY2bUttYWVQcS10eHh0RUFWN2FmUlZoX29jc3JVZEdVbFpzLU9RcnI0a1d5T0xvazVtSW50QnVDT0Q5Rk5HNkQtTVk2ckVQSGJGbFlKWE9ZMHBqX1FZX2FJbXdkM29XV0U4Nm0wNWRUS3pmajFMTFRPdmNpSkVfazBIejUwX1gzU1JJYzJOakl1aFZzVVhmMGoyMkRMcVUtQmpuTGpnNE1RLW53WmJVcjNIaEh1V3hLSldfWjV4M0FOLWlJc3FvTGtXMnRDMWx3bzVhZjRHSlVuWEhlOFpDREF0bVlfRHVIbTRITW5GLWtxWXA4bzFFb0V6QmlSVmlVZTdvcXZ3cVFCbi1NRUdzeDRITFNLMkk1d3lseW9XaUZtZ2JITmlEaElFVDk1YjdmU09pNzI2S2h0UmlSZ2pQNnNFUFU2cnlPOTgxVVNtRzROZi1rOThXNFhxQjdMOGx6bGRGUEFqODM4OGRUMHIta3VjUVVXcHJseTR4NnVaeDVEeWM0Y3JfYkY1NFctOHhOUHF2QTlObk1ET1Y0eVAyaFhEYXRQNFhWQUdmYzhWaHctUE1rYWE?oc=5",
-      "source": "صحيفة الخليج",
-      "direction": "neutral",
-      "ts": "2026-07-28T13:56:40+00:00",
-      "amman": "16:56"
     },
     {
       "title": "الذهب يتراجع 80 جنيها خلال يومين.. وعيار 21 يسجل 5860 جنيها",
@@ -230,7 +230,7 @@
     },
     {
       "title": "قبل ساعات من قرار الفيدرالي.. ترامب يجدد دعوته للمركزي الأمريكي بخفض أسعار الفائدة",
-      "url": "https://news.google.com/rss/articles/CBMipwVBVV95cUxNUVZ3eGJJbllDbkE3UzJNazd3WFliT3J6RUNDdF9SODBVbGRjZmJWTlBSOVpjWXA3eHE4NTNkT0ZGWllDd19YeDFMZzl6aXJWdmR4RDVzczA5dExjUDhoUlB5S3pReEUwVGVQS2xDNW5PVTlEa0tfVXZ2bVc3OFRfY3I3OFVnMVNkSEQ3NVVzcUFnd1hWUUpPNWR5MmlsYXRYY3BVQUNEYkVYeF81UWhrNkJTZUIxa1NMMHhHNml5elpKWDBIMWpLZGYyS1ptQ0hvRXRGb3dqenB3d190RWlMUEhjM0xEZGZBaHRyMGxHaUpBWWFWUWc0V09oQnEzSE1rdVp2VHZOQ1RkdEZFdjM5d2xPcVFuWlEwN2tHZlVsVjd1cTYwQ01keDN5UW1HdERLRllaOUhHU3hDeEVMVTY3ZkVzeXBtb0x4b3ZlSWR6UUZmeU5iZThJQWstaFpTMWRMcTZLTFBfbjRqQjc0cTBBcVNqbG5Ua2tnMDkzYjRhWTZOQ0NwV0gtZ1pTRjZxTWNjM2hfOHc3UkgwZFdSZVVQYTZRTWxMVGJocVZqa3c5dmhRUVBSMWliRjdmTldGenMwc3JhYkVGMGllYUl1anNrcWhvY2ZSRkVuMW56U3NQU1R6NWpmUThGMVp4a25YMXBlTVdrN2pwaHRLcEZNNlNoc0xOQk8tOE5fcWtuS1puaFh1RF9wQlM4eld3MlZnaUt0YndnNkVFUWI3N0pBLVh4M05mMURZZ3ZlV0JpYk5oejhWbjVBWWhtYUxaQUV1d3Z0SVBSMHItdmplZ2ZSb1plclFSUVFDc25PVFctSnUzQ3JPbXAzc2p0Z1JlNzNhY3NBSHNPQ0FfSTZuS2RZdUQtcFdlblJzak9wLVJpWEgybTAzQmgtb1ZV0gGsBUFVX3lxTE5GYUJuOUxCTXJ0NjI5Zkk3ZGdSWXh2ZmNLdG5VTGR6OGMzMENyM3B2RUpYN3Fid1oyZlk0YXNGY0JiWDQyQUtLQTdWaTB0dy1fdmJZRnZHVkdSbmF0UV90VG1fb0JmWWF5dkdoVTdpTkFMTEg2Y0VxVFRnS0U0OXBOU1BNQkxrTkVudE5rUjZpNWZkM2RVMzZLRm55YTY4NkZKdXYzV1FtNUJRZ3I3UjZmdllnWnlQUG43R3U2dkFqLWVXVGE4YjlBeFZHTnJSaHBpUTVHTXl0a3gxa2o2RlYzdV9aTThCd05nbnA1SWx1UF91Q3pJZ29TZk9VNUhhOGhudndGQzdSX3liTXJhQlVGZzBIWTFUNEhBUTNSWkNyUXFDZms1aHNOUVVQbGxZdW9SUXl5RVlWcXAzZnpjQ3huOThRYVRXSDI5UExRdmdkWFNBeDJUTTJXd2w5NW1DMWRFNTVZbm9kWkV1RHhNMHBDWjVHcFlRU3hWekZJU0dFemRUV2xZXzhCbXhrelZZVkJoSUpjMzRhX0xnNTVCZXRqS3pTdXVZUExxYVFKQ2VUQk82dnFWUDRlT2YzMHkzSFNkN0pfRkdVY1pNcFVsLUNDUFBDYnRlMkl0S0twSkJWbS1yQU00NjZnYm8teWtkLUhGY0ZkdVdBbmtWX01zR1pOdmFkcWlOQ1F3bTNjZV91VGRUUHBtQVl2czFPZElmZGpTSmZlNHJsN3ZBVzhzSUtOM2F3R3dLdTlKTFpXa0pzY3RwZW02OWdNaXFfMmxPY1NtSVBNWnQ3MWFNMFBMd1dXdFZTd0hoMnlmNlJsTm4wMjZ2SlVKMlhFTERfTi1sY3NXSmJZTExkQVhlQmJxYnBVdTZjbDdJbWtwMkFjXzhqSTFPcDFlMDh0VXBtOA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxORmFCbjlMQk1ydDYyOWZJN2RnUll4dmZjS3RuVUxkejhjMzBDcjNwdkVKWDdxYndaMmZZNGFzRmNCYlg0MkFLS0E3VmkwdHctX3ZiWUZ2R1ZHUm5hdFFfdFRtX29CZllheXZHaFU3aU5BTExINmNFcVRUZ0tFNDlwTlNQTUJMa05FbnROa1I2aTVmZDNkVTM2S0ZueWE2ODZGSnV2M1dRbTVCUWdyN1I2ZnZZZ1p5UFBuN0d1NnZBai1lV1RhOGI5QXhWR05yUmhwaVE1R015dGt4MWtqNkZWM3VfWk04QndOZ25wNUlsdVBfdUN6SWdvU2ZPVTVIYThobnZ3RkM3Ul95Yk1yYUJVRmcwSFkxVDRIQVEzUlpDclFxQ2ZrNWhzTlFVUGxsWXVvUlF5eUVZVnFwM2Z6Y0N4bjk4UWFUV0gyOVBMUXZnZFhTQXgyVE0yV3dsOTVtQzFkRTU1WW5vZFpFdUR4TTBwQ1o1R3BZUVN4VnpGSVNHRXpkVFdsWV84Qm14a3pWWVZCaElKYzM0YV9MZzU1QmV0akt6U3V1WVBMcWFRSkNlVEJPNnZxVlA0ZU9mMzB5M0hTZDdKX0ZHVWNaTXBVbC1DQ1BQQ2J0ZTJJdEtLcEpCVm0tckFNNDY2Z2JvLXlrZC1IRmNGZHVXQW5rVl9Nc0daTnZhZHFpTkNRd20zY2VfdVRkVFBwbUFZdnMxT2RJZmRqU0pmZTRybDd2QVc4c0lLTjNhd0d3S3U5SkxaV2tKc2N0cGVtNjlnTWlxXzJsT2NTbUlQTVp0NzFhTTBQTHdXV3RWU3dIaDJ5ZjZSbE5uMDI2dkpVSjJYRUxEX04tbGNzV0piWUxMZEFYZUJicWJwVXU2Y2w3SW1rcDJBY184akkxT3AxZTA4dFVwbTjSAawFQVVfeXFMTkZhQm45TEJNcnQ2MjlmSTdkZ1JZeHZmY0t0blVMZHo4YzMwQ3IzcHZFSlg3cWJ3WjJmWTRhc0ZjQmJYNDJBS0tBN1ZpMHR3LV92YllGdkdWR1JuYXRRX3RUbV9vQmZZYXl2R2hVN2lOQUxMSDZjRXFUVGdLRTQ5cE5TUE1CTGtORW50TmtSNmk1ZmQzZFUzNktGbnlhNjg2Rkp1djNXUW01QlFncjdSNmZ2WWdaeVBQbjdHdTZ2QWotZVdUYThiOUF4VkdOclJocGlRNUdNeXRreDFrajZGVjN1X1pNOEJ3TmducDVJbHVQX3VDeklnb1NmT1U1SGE4aG52d0ZDN1JfeWJNcmFCVUZnMEhZMVQ0SEFRM1JaQ3JRcUNmazVoc05RVVBsbFl1b1JReXlFWVZxcDNmemNDeG45OFFhVFdIMjlQTFF2Z2RYU0F4MlRNMld3bDk1bUMxZEU1NVlub2RaRXVEeE0wcENaNUdwWVFTeFZ6RklTR0V6ZFRXbFlfOEJteGt6VllWQmhJSmMzNGFfTGc1NUJldGpLelN1dVlQTHFhUUpDZVRCTzZ2cVZQNGVPZjMweTNIU2Q3Sl9GR1VjWk1wVWwtQ0NQUENidGUySXRLS3BKQlZtLXJBTTQ2Nmdiby15a2QtSEZjRmR1V0Fua1ZfTXNHWk52YWRxaU5DUXdtM2NlX3VUZFRQcG1BWXZzMU9kSWZkalNKZmU0cmw3dkFXOHNJS04zYXdHd0t1OUpMWldrSnNjdHBlbTY5Z01pcV8ybE9jU21JUE1adDcxYU0wUEx3V1d0VlN3SGgyeWY2UmxObjAyNnZKVUoyWEVMRF9OLWxjc1dKYllMTGRBWGVCYnFicFV1NmNsN0lta3AyQWNfOGpJMU9wMWUwOHRVcG04?oc=5",
       "source": "Masrawy",
       "direction": "neutral",
       "ts": "2026-07-28T12:20:57+00:00",

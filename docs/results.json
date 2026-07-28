@@ -1,11 +1,11 @@
 {
-  "updated_ny": "2026-07-28 14:55:34",
-  "updated_amman": "2026-07-28 21:55:34",
+  "updated_ny": "2026-07-28 14:57:40",
+  "updated_amman": "2026-07-28 21:57:40",
   "session_date": "2026-07-28",
-  "requested": 7,
-  "scanned": 7,
+  "requested": 5,
+  "scanned": 5,
   "waiting": 0,
-  "buy_count": 6,
+  "buy_count": 4,
   "sell_count": 0,
   "active_today": [],
   "errors": [],
@@ -75,7 +75,7 @@
       "open_low": 302.6,
       "open_range": 4.59,
       "vwap": 305.36,
-      "ema200": 311.67,
+      "ema200": 311.68,
       "above_ema200": false,
       "entry_price": 307.97,
       "change_pct": -0.62,
@@ -103,42 +103,6 @@
       "active": false
     },
     {
-      "ticker": "HOOD",
-      "session_date": "2026-07-28",
-      "state": 1,
-      "price": 91.77,
-      "open_high": 92.89,
-      "open_low": 89.8,
-      "open_range": 3.09,
-      "vwap": 91.31,
-      "ema200": 94.48,
-      "above_ema200": false,
-      "entry_price": 93.22,
-      "change_pct": -1.56,
-      "day_change_pct": -0.94,
-      "volume": 16668395,
-      "targets": [
-        99.07,
-        105.26,
-        111.44,
-        117.62,
-        123.8
-      ],
-      "targets_hit": 0,
-      "next_target": 99.07,
-      "next_target_pct": 7.96,
-      "last_signal_time": "11:30",
-      "bars_since_signal": 40,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:30",
-          "price": 93.22
-        }
-      ],
-      "active": false
-    },
-    {
       "ticker": "AMC",
       "session_date": "2026-07-28",
       "state": 1,
@@ -152,7 +116,7 @@
       "entry_price": 2.57,
       "change_pct": 5.23,
       "day_change_pct": 7.36,
-      "volume": 49611059,
+      "volume": 49534766,
       "targets": [
         2.65,
         2.77,
@@ -219,42 +183,6 @@
         }
       ],
       "active": false
-    },
-    {
-      "ticker": "COIN",
-      "session_date": "2026-07-28",
-      "state": 1,
-      "price": 165.02,
-      "open_high": 163.44,
-      "open_low": 160.78,
-      "open_range": 2.66,
-      "vwap": 164.18,
-      "ema200": 164.45,
-      "above_ema200": true,
-      "entry_price": 163.45,
-      "change_pct": 0.96,
-      "day_change_pct": 1.49,
-      "volume": 3638863,
-      "targets": [
-        168.76,
-        174.08,
-        179.4,
-        184.72,
-        190.04
-      ],
-      "targets_hit": 0,
-      "next_target": 168.76,
-      "next_target_pct": 2.27,
-      "last_signal_time": "10:00",
-      "bars_since_signal": 58,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:00",
-          "price": 163.45
-        }
-      ],
-      "active": false
     }
   ],
   "all": [
@@ -272,7 +200,7 @@
       "entry_price": 2.57,
       "change_pct": 5.23,
       "day_change_pct": 7.36,
-      "volume": 49611059,
+      "volume": 49534766,
       "targets": [
         2.65,
         2.77,
@@ -313,7 +241,7 @@
       "open_low": 457.8,
       "open_range": 14.95,
       "vwap": 455.72,
-      "ema200": 484.05,
+      "ema200": 484.06,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
@@ -332,78 +260,6 @@
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
-      "active": false
-    },
-    {
-      "ticker": "COIN",
-      "session_date": "2026-07-28",
-      "state": 1,
-      "price": 165.02,
-      "open_high": 163.44,
-      "open_low": 160.78,
-      "open_range": 2.66,
-      "vwap": 164.18,
-      "ema200": 164.45,
-      "above_ema200": true,
-      "entry_price": 163.45,
-      "change_pct": 0.96,
-      "day_change_pct": 1.49,
-      "volume": 3638863,
-      "targets": [
-        168.76,
-        174.08,
-        179.4,
-        184.72,
-        190.04
-      ],
-      "targets_hit": 0,
-      "next_target": 168.76,
-      "next_target_pct": 2.27,
-      "last_signal_time": "10:00",
-      "bars_since_signal": 58,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:00",
-          "price": 163.45
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "HOOD",
-      "session_date": "2026-07-28",
-      "state": 1,
-      "price": 91.77,
-      "open_high": 92.89,
-      "open_low": 89.8,
-      "open_range": 3.09,
-      "vwap": 91.31,
-      "ema200": 94.48,
-      "above_ema200": false,
-      "entry_price": 93.22,
-      "change_pct": -1.56,
-      "day_change_pct": -0.94,
-      "volume": 16668395,
-      "targets": [
-        99.07,
-        105.26,
-        111.44,
-        117.62,
-        123.8
-      ],
-      "targets_hit": 0,
-      "next_target": 99.07,
-      "next_target_pct": 7.96,
-      "last_signal_time": "11:30",
-      "bars_since_signal": 40,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:30",
-          "price": 93.22
-        }
-      ],
       "active": false
     },
     {
@@ -507,7 +363,7 @@
       "open_low": 302.6,
       "open_range": 4.59,
       "vwap": 305.36,
-      "ema200": 311.67,
+      "ema200": 311.68,
       "above_ema200": false,
       "entry_price": 307.97,
       "change_pct": -0.62,

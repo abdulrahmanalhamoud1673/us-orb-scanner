@@ -1,12 +1,12 @@
 {
-  "updated_ny": "2026-07-30 16:46:58",
-  "updated_amman": "2026-07-30 23:46:58",
+  "updated_ny": "2026-07-30 17:49:39",
+  "updated_amman": "2026-07-31 00:49:39",
   "session_date": "2026-07-30",
   "requested": 90,
-  "scanned": 89,
+  "scanned": 90,
   "waiting": 0,
   "buy_count": 61,
-  "sell_count": 9,
+  "sell_count": 10,
   "active_today": [
     "AAL",
     "AAPL",
@@ -1583,6 +1583,42 @@
       "active": false
     },
     {
+      "ticker": "NFLX",
+      "session_date": "2026-07-30",
+      "state": 1,
+      "price": 73.15,
+      "open_high": 71.78,
+      "open_low": 71.11,
+      "open_range": 0.67,
+      "vwap": 72.11,
+      "ema200": 72.39,
+      "above_ema200": true,
+      "entry_price": 71.79,
+      "change_pct": 1.89,
+      "day_change_pct": 2.32,
+      "volume": 45230142,
+      "targets": [
+        73.12,
+        74.46,
+        75.8,
+        77.14,
+        78.48
+      ],
+      "targets_hit": 1,
+      "next_target": 74.46,
+      "next_target_pct": 1.79,
+      "last_signal_time": "11:45",
+      "bars_since_signal": 50,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "11:45",
+          "price": 71.79
+        }
+      ],
+      "active": true
+    },
+    {
       "ticker": "BA",
       "session_date": "2026-07-30",
       "state": 1,
@@ -1627,42 +1663,6 @@
         }
       ],
       "active": false
-    },
-    {
-      "ticker": "NFLX",
-      "session_date": "2026-07-30",
-      "state": 1,
-      "price": 73.15,
-      "open_high": 71.55,
-      "open_low": 71.11,
-      "open_range": 0.44,
-      "vwap": 72.11,
-      "ema200": 72.39,
-      "above_ema200": true,
-      "entry_price": 71.57,
-      "change_pct": 2.21,
-      "day_change_pct": 2.62,
-      "volume": 45230142,
-      "targets": [
-        72.43,
-        73.31,
-        74.19,
-        75.07,
-        75.95
-      ],
-      "targets_hit": 1,
-      "next_target": 73.31,
-      "next_target_pct": 0.22,
-      "last_signal_time": "11:30",
-      "bars_since_signal": 53,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:30",
-          "price": 71.57
-        }
-      ],
-      "active": true
     },
     {
       "ticker": "QCOM",
@@ -4551,33 +4551,33 @@
       "session_date": "2026-07-30",
       "state": 1,
       "price": 73.15,
-      "open_high": 71.55,
+      "open_high": 71.78,
       "open_low": 71.11,
-      "open_range": 0.44,
+      "open_range": 0.67,
       "vwap": 72.11,
       "ema200": 72.39,
       "above_ema200": true,
-      "entry_price": 71.57,
-      "change_pct": 2.21,
-      "day_change_pct": 2.62,
+      "entry_price": 71.79,
+      "change_pct": 1.89,
+      "day_change_pct": 2.32,
       "volume": 45230142,
       "targets": [
-        72.43,
-        73.31,
-        74.19,
-        75.07,
-        75.95
+        73.12,
+        74.46,
+        75.8,
+        77.14,
+        78.48
       ],
       "targets_hit": 1,
-      "next_target": 73.31,
-      "next_target_pct": 0.22,
-      "last_signal_time": "11:30",
-      "bars_since_signal": 53,
+      "next_target": 74.46,
+      "next_target_pct": 1.79,
+      "last_signal_time": "11:45",
+      "bars_since_signal": 50,
       "signals": [
         {
           "kind": "Buy",
-          "time": "11:30",
-          "price": 71.57
+          "time": "11:45",
+          "price": 71.79
         }
       ],
       "active": true
@@ -5143,6 +5143,47 @@
         }
       ],
       "active": true
+    },
+    {
+      "ticker": "PYPL",
+      "session_date": "2026-07-30",
+      "state": -1,
+      "price": 57.65,
+      "open_high": 57.77,
+      "open_low": 57.3,
+      "open_range": 0.47,
+      "vwap": 57.33,
+      "ema200": 57.66,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": 0.33,
+      "volume": 9273534,
+      "targets": [
+        58.71,
+        59.65,
+        60.59,
+        61.53,
+        62.47
+      ],
+      "targets_hit": 0,
+      "next_target": 58.71,
+      "next_target_pct": 1.84,
+      "last_signal_time": "09:40",
+      "bars_since_signal": 75,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "09:35",
+          "price": 57.81
+        },
+        {
+          "kind": "Sell",
+          "time": "09:40",
+          "price": 57.6
+        }
+      ],
+      "active": false
     },
     {
       "ticker": "QCOM",

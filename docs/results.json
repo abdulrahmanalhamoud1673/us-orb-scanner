@@ -1,11 +1,11 @@
 {
-  "updated_ny": "2026-07-31 16:52:54",
-  "updated_amman": "2026-07-31 23:52:54",
+  "updated_ny": "2026-07-31 17:52:26",
+  "updated_amman": "2026-08-01 00:52:26",
   "session_date": "2026-07-31",
   "requested": 89,
   "scanned": 89,
   "waiting": 0,
-  "buy_count": 29,
+  "buy_count": 28,
   "sell_count": 5,
   "active_today": [
     "AAL",
@@ -15,9 +15,9 @@
     "AMZN",
     "F",
     "GOOGL",
-    "GRAB",
     "INTC",
     "IREN",
+    "KEEL",
     "MSFT",
     "MU",
     "NOK",
@@ -612,42 +612,6 @@
           "kind": "Buy",
           "time": "12:10",
           "price": 270.77
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "GRAB",
-      "session_date": "2026-07-31",
-      "state": 1,
-      "price": 3.51,
-      "open_high": 3.44,
-      "open_low": 3.4,
-      "open_range": 0.04,
-      "vwap": 3.46,
-      "ema200": 3.41,
-      "above_ema200": true,
-      "entry_price": 3.45,
-      "change_pct": 1.59,
-      "day_change_pct": 2.19,
-      "volume": 36088335,
-      "targets": [
-        3.52,
-        3.6,
-        3.68,
-        3.76,
-        3.84
-      ],
-      "targets_hit": 0,
-      "next_target": 3.52,
-      "next_target_pct": 0.43,
-      "last_signal_time": "12:00",
-      "bars_since_signal": 47,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "12:00",
-          "price": 3.45
         }
       ],
       "active": true
@@ -2226,42 +2190,6 @@
       "active": true
     },
     {
-      "ticker": "GRAB",
-      "session_date": "2026-07-31",
-      "state": 1,
-      "price": 3.51,
-      "open_high": 3.44,
-      "open_low": 3.4,
-      "open_range": 0.04,
-      "vwap": 3.46,
-      "ema200": 3.41,
-      "above_ema200": true,
-      "entry_price": 3.45,
-      "change_pct": 1.59,
-      "day_change_pct": 2.19,
-      "volume": 36088335,
-      "targets": [
-        3.52,
-        3.6,
-        3.68,
-        3.76,
-        3.84
-      ],
-      "targets_hit": 0,
-      "next_target": 3.52,
-      "next_target_pct": 0.43,
-      "last_signal_time": "12:00",
-      "bars_since_signal": 47,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "12:00",
-          "price": 3.45
-        }
-      ],
-      "active": true
-    },
-    {
       "ticker": "GS",
       "session_date": "2026-07-31",
       "state": 0,
@@ -2481,6 +2409,36 @@
       "bars_since_signal": null,
       "signals": [],
       "active": false
+    },
+    {
+      "ticker": "KEEL",
+      "session_date": "2026-07-31",
+      "state": 0,
+      "price": 3.97,
+      "open_high": 4.34,
+      "open_low": 4.18,
+      "open_range": 0.16,
+      "vwap": 4.05,
+      "ema200": 3.95,
+      "above_ema200": true,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -6.91,
+      "volume": 34947680,
+      "targets": [
+        4.65,
+        4.96,
+        5.27,
+        5.58,
+        5.89
+      ],
+      "targets_hit": 0,
+      "next_target": 4.65,
+      "next_target_pct": 16.86,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
     },
     {
       "ticker": "LCID",

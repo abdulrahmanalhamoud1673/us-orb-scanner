@@ -1,6 +1,6 @@
 {
-  "updated_ny": "2026-07-31 17:52:26",
-  "updated_amman": "2026-08-01 00:52:26",
+  "updated_ny": "2026-07-31 18:45:22",
+  "updated_amman": "2026-08-01 01:45:22",
   "session_date": "2026-07-31",
   "requested": 89,
   "scanned": 89,
@@ -194,7 +194,7 @@
       "entry_price": 200.5,
       "change_pct": 0.15,
       "day_change_pct": 1.19,
-      "volume": 109007188,
+      "volume": 109007186,
       "targets": [
         204.91,
         210.11,
@@ -2453,7 +2453,7 @@
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -9.1,
+      "day_change_pct": -9.21,
       "volume": 8282389,
       "targets": [
         8.67,
@@ -3023,7 +3023,7 @@
       "entry_price": 200.5,
       "change_pct": 0.15,
       "day_change_pct": 1.19,
-      "volume": 109007188,
+      "volume": 109007186,
       "targets": [
         204.91,
         210.11,
@@ -3882,7 +3882,7 @@
       "open_high": 315.2,
       "open_low": 308.5,
       "open_range": 6.7,
-      "vwap": 308.75,
+      "vwap": 308.76,
       "ema200": 308.02,
       "above_ema200": true,
       "entry_price": null,

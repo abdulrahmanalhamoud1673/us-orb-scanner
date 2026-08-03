@@ -1,9 +1,97 @@
 {
-  "updated_amman": "2026-08-03 18:41",
-  "count": 28,
-  "up": 6,
-  "down": 3,
+  "updated_amman": "2026-08-03 20:28",
+  "count": 33,
+  "up": 8,
+  "down": 8,
   "items": [
+    {
+      "title": "Oil falls, stocks gain amid Iran peace hopes; yen firms after intervention",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/oil-slumps-hopes-iran-deal-010323774.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-03T17:07:29+00:00",
+      "amman": "20:07"
+    },
+    {
+      "title": "After Comparing Every AI ETF, These 3 Beat the Nasdaq Without Betting on a Single Stock",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/comparing-every-ai-etf-3-170639618.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-03T17:06:39+00:00",
+      "amman": "20:06"
+    },
+    {
+      "title": "Stock Market Today: Dow Jumps As Amazon Clears $3 Trillion Level; Defense Play Clears Entry (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-03T17:05:38+00:00",
+      "amman": "20:05"
+    },
+    {
+      "title": "Nvidia Stock Retakes Key Level As Chip Stocks Waver",
+      "url": "https://www.investors.com/news/technology/nvidia-stock-up-chip-stocks-sox-index-wavers/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-03T17:00:44+00:00",
+      "amman": "20:00"
+    },
+    {
+      "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+      "url": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
+      "source": "CNBC",
+      "direction": "down",
+      "ts": "2026-08-03T16:54:19+00:00",
+      "amman": "19:54"
+    },
+    {
+      "title": "أسعار الذهب تتمسك بمكاسبها مع تهدئة محادثات إيران مخاوف الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNMnpFMkVIdTRGemR4dU43elV0SWp5MnVFTHRVVVgwbzhzczIwMEYwUUk0M1ZDTXVUOFMtMk1IdEhCcC1STFFleFFUQU9oUE5HaGc2QkFGNnV6Y2JPTkluV1lRWjhhbTBUZTR4UVhpRGl3c3VWRVpmek1ZUDNFUzJBMTBHN0V0VzJDanU1bWVHZjNFZEhHUUtEX3ZFeU5YN0pZcWFPYVNNZDA4d0xjX1ZaMXozSE9ZcTdkQjlKakpQYzNVWWZrTkJSN3NhTGpYQkVWV0Z5ekJSNDhrZnJ2TWVyT0VNc2pramFJWU5HM3RqblNyWmpNTGo5UmlPQjJmVzlz?oc=5",
+      "source": "الشرق بلومبرغ",
+      "direction": "neutral",
+      "ts": "2026-08-03T16:41:15+00:00",
+      "amman": "19:41"
+    },
+    {
+      "title": "Amazon, Meta, and Microsoft stocks surge as AI hyperscalers post strong earnings results",
+      "url": "https://finance.yahoo.com/technology/article/amazon-meta-and-microsoft-stocks-surge-as-ai-hyperscalers-post-strong-earnings-results-163729332.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-03T16:37:29+00:00",
+      "amman": "19:37"
+    },
+    {
+      "title": "تراجع أسعار النفط يهدئ مخاوف وول ستريت بشأن ارتفاع التضخم",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNW96bU41cFpUbDNKOGwzUlpSa2JlM1RycFEwRm5FY1QxbVlLY2xieldzaXBKRkFQdzZVVW5qbUJVR2plbW1WWmtpTnlsQ2g4UktwYldxZ0FmaTI3YXBZTVNlcndQQkRkOWNEVWdSRzltZTBieTFDNEtPWXZZWEduUUJJVW1FUXMweTdLTFlCdnlXa1Y5SFJYRHBtZmRQc1Foek0xQ0VNOA?oc=5",
+      "source": "بوابة الشروق",
+      "direction": "down",
+      "ts": "2026-08-03T16:27:08+00:00",
+      "amman": "19:27"
+    },
+    {
+      "title": "تراجع عوائد سندات الخزانة الأمريكية مع هبوط أسعار النفط بفعل آمال تهدئة التوتر مع إيران",
+      "url": "https://news.google.com/rss/articles/CBMivAVBVV95cUxNX1dpY0hWUTFZS3kzbmRORHRpQ1dtWEdlZFFGeDRSUC1hR0FaQTBzRmZ2c3kyVHd4LXFRWUYtR2luZW53eGsxSkVsN1FHX1pYSnpTeExtc2hEdHhOaWRrLUZuTVpnaHBGd2FCQ3JnX0dGOHpUVzlReVJ1ZzFyRHo2X2VpQmFCeUZLM3VuUzk4c0s2ZmxkUWZkSUhub0pqWW1xM2hIRkp3Q01MMnAwRkZoWENCeVdaOWtYS3RFMFE2UnlOd3FaZVdTLWtQMllZWmpYZzF1dGE2eXBTNThSMGQ1NXBxQjA1MnZkUm9PNnRxdU1kaGhPa2Uza1pxZnowazFCU1B1QlE0blRnT1FVdUhjV09hNk8xWGNrMnFoRFJTQUdtbHVxSUIwV0JKdExtcGh3LUNVbU5wd1l2SXN2XzB6eVJLeGVPVkFpeTlHMjdZQzNqa09QaEgxV3FqN0lzbFN2MEJRVm9uenY0VjdYUm15UzBkYzUxOFdQNkttcnI5YkhNNnJ6bGFhRlpXbjllVnJvSkk5OHRjMkhfU1J3UzVJRHh2YjQtUk9tRW1uNmRMc0ZLN0FTVUNDbFY2TEM3OHNNZFBxdU1TTThsMVV6VC1IQWRKUXFQZ1RRSEtIU2VsMzA2a0lFTWRQazh4Zzd6ZDg1Z296NHphX21vTTNyb3E1RGdjem1udlI3NjZINVl1bGZDcVhzdTlrRnFMT2NNMHVxZkdPNjFkWXI5ckhYd0UzbTZobExIbWpnS01vWnp6TTFEdTBPRUdVcWdUQWpuU205S1dFXzRjbmJUQ0ZZOENROXkyY1lwNWZ3YnZ1cUdHNjc2MGpERjlTcW9FWGZNeHFyNkxITS1FNC14Y0xmbmtqYm5iVzh4b0RJUmphM2VBOXA1NU8yOFdIcUx1eVVmblZRVjRuWUVyOWlVUUND?oc=5",
+      "source": "المتداول العربي",
+      "direction": "down",
+      "ts": "2026-08-03T15:41:56+00:00",
+      "amman": "18:41"
+    },
+    {
+      "title": "مؤشرات الأسهم الأمريكية تفتتح تعاملاتها على ارتفاع",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9TcG13Z1lBWTFfWVBiRnVXN1Ntd1VEWDAxdE5vYnFRVjlSNEhhSXp4T0k5cnZISGpNZWdDQ2VYbms1cWtkamEzTVYwOUo4UQ?oc=5",
+      "source": "صحيفة سويفت نيوز",
+      "direction": "up",
+      "ts": "2026-08-03T15:39:54+00:00",
+      "amman": "18:39"
+    },
+    {
+      "title": "Could Masco (MAS) Be One of the Better Home Improvement Stocks to Watch?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/could-masco-mas-one-better-153603674.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-03T15:36:03+00:00",
+      "amman": "18:36"
+    },
     {
       "title": "مؤشرات الأسهم الأمريكية تبدأ التعاملات مرتفعة",
       "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOSm9PNlVOMF8xZGdaUmNPOV9ER2wzLTNzcFpiLVFiSkFmUkVXTHpERUxjQkM5VkNpRWJYbzF4UzVRbUNUR1BDcENCc2JCVmpiVGlNRnp2cGs2cnhqMFQ1X2lPaFVZRE5nb2xRVGpkOTRuMW1kVEtQVUlUZVVKX3NDRVZiUHF4WXB2eVRTN1JhOWRiTzVMOU9yd3dudVAxYXQ1TmI3T0F5SFlCQ084dFJZdXl6bnkxc1FtTXJqQVc3amJTVDJyVnphbUNnRU1MSXpXNE5KcVIzU3NFRkpEempZNTVjY3g0b1BVZGUyOHZWbVJBV3VsNzRZdm9rQ2psVUlHZ0hyOHVqZFVVQzhrbVJyWVpFdEY1a1pwbXg0dTJaNTdER0EwSGlDNTNtTW96TllXRU9oNEotVVF1d0lPUWtxN1NUeURETmhkeHAyeHRzbGltaGY4UV9jNk82T2xHaWYyZGxzdjRHSjFXV1V1RHJ5M2t0aVRaRDBLaDJNemlaQ3BlYWJsZXlWd3VWbGpRMFpSYURua2R5V3RwRHB0aEhLc1pLZVI?oc=5",
@@ -29,30 +117,6 @@
       "amman": "18:02"
     },
     {
-      "title": "Next GLP-1 Billion-Dollar Market: Fireside Chat with Conexeu Sciences CEO Miles Harrison",
-      "url": "https://finance.yahoo.com/healthcare/articles/next-glp-1-billion-dollar-145554150.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-03T14:55:54+00:00",
-      "amman": "17:55"
-    },
-    {
-      "title": "This valuation signal shows how investors are rethinking tech stocks",
-      "url": "https://finance.yahoo.com/markets/article/this-valuation-signal-shows-how-investors-are-rethinking-tech-stocks-144411798.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-03T14:44:11+00:00",
-      "amman": "17:44"
-    },
-    {
-      "title": "Stock Market Today: Dow Jumps As Microsoft Surges; Oil Stocks Skid On Trump Iran Move (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-comments-oil-prices-plunge/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-03T14:39:50+00:00",
-      "amman": "17:39"
-    },
-    {
       "title": "عوائد سندات الخزانة الأمريكية تتراجع الإثنين وسط آمال بخفض التصعيد الإيراني",
       "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxPYkFWb3ZhVTZhVFpuYnJULVBtRTJQeUdqYVBaWkYyaDhXUk5jc1UtOG96UW1DN1dKQW16SWdJbWpHcDlBVDg3MURfMlhPS1luZHdidVhqNnNKakREYk1wVnIyS0dEcjRNZ0tDM1R2N3ZmNWNwXzYybm45cGhqTUp0VkFCeWJjQVh1aGhtQWpjZWg0YnpkQmk5V2Z1Yl9wNnk5dFVYY0tCT2psVVo2R2RSQXI4bHJyMlRPTUNQZVR0SzVqdDRnUGZjRjNEN2N4a0RzNkJyeGpwSUE2WUNlSmNzd3VZd1FBX1lQSXR6UWhxNXROUFBnc29CYXFnRmJjYzN5Z0c5VWU4Sm9yWGM4SVVCT1gtbC04SEJUUUU0N1NqdzRYRU1uMmVzV0tWS1pDeDJGTnk2WVQ3RkN6UDMxM0ticzRvUlQ1c1VyRTZmc0xLVXdaMWFyYU9aRHJKU0JmaUtEa1lKNE5RelhTVFM1dW1UNE16el85eEVldnJ3SnBQXzRHT0owQnowaWk5d1hadWlPbWl6VlY3ZmZBOTc3M2c?oc=5",
       "source": "جريدة المال",
@@ -61,20 +125,12 @@
       "amman": "17:38"
     },
     {
-      "title": "Here's the single biggest reason the bull market is broadening",
-      "url": "https://finance.yahoo.com/markets/article/heres-the-single-biggest-reason-the-bull-market-is-broadening-142744291.html",
-      "source": "Yahoo Finance",
+      "title": "الفيدرالي يبعث رسالة للأسواق بشأن مستقبل سعر الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPRElQalhVTGlHbnVRU1M0WmM1WjFCOUVSNjhXMmx3M1JUaVhCbkkwdzFJXzZyc0diV041MVY1VDczWDhQZm5FeUtaTGRrMlhKbDZmTWR4M0daVHpqVjRHX0h5UXZoVnI5ZnktbWFQMzRpWE9USERrd00xQk1rTnRMLVdFTmtCVnNZblczNUlHM2NVZ2RyWkN2MDJsS3ZZUnE4T2VuYlp5VF93RnlGUm5ERkNob2lTMG9sUlhPUTd5WGh1ZWZPU2lHY3ppUi0zM1VXQm03ejlPTExsZG1IT2I2dENra29FTjlmWUEwdS1DUE0xdEY0QzRJMy1vT29kcmhHLVd2Z2NuZ3haTkJiV2NBazlxQXVVX3Z3SElncUlITXJSQVB4elVnc3pPX1BQZjJTZExaRWdsXzlpYk9DX3FjXzNES1VmVGdFRmNyS183Q1A5Z3h3R0FkX0RHb0wxay1GbUdIYmY1SGtCSUtzb2phT1loaGtTWjQzcDNiY00zOWszNlBzZWxHZXNpS3dQODBDVU96bUY3OFV3RjRwaTNVdlFuQ3plUG9kdDVoT09JR2RPYmhjbE1fWHRSWmhoZmc2VW9rcXk3d0ZqZGFTQ1FjRkVaMDdrUQ?oc=5",
+      "source": "CNN الاقتصادية",
       "direction": "neutral",
-      "ts": "2026-08-03T14:27:44+00:00",
-      "amman": "17:27"
-    },
-    {
-      "title": "FedEx Freight Holding Company (FDXF) has the Potential for Stronger Standalone Growth",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fedex-freight-holding-company-fdxf-142641386.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-03T14:26:41+00:00",
-      "amman": "17:26"
+      "ts": "2026-08-03T14:14:15+00:00",
+      "amman": "17:14"
     },
     {
       "title": "Tech stocks today: Investors eye SpaceX's first earnings report",
@@ -85,9 +141,17 @@
       "amman": "17:04"
     },
     {
+      "title": "Semiconductor stocks pare losses amid fears of increased competition from China",
+      "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-pare-losses-amid-fears-of-increased-competition-from-china-133938642.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-03T13:39:38+00:00",
+      "amman": "16:39"
+    },
+    {
       "title": "الذهب يواجه صعوبة في الحفاظ على مكاسبه وسط أخبار متباينة بين الولايات المتحدة وإيران، وتشديد البنك الاحتياطي الفيدرالي Fed",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNWlVGa2U5aTQ0OWFNeXVteW8zem1YN1hrREFSNzNLa29hTlNwSXVrZ2VOUkRfVWNZbXdWVEF1ZGdqMTJOMVRwODJBdjVJU1dJZHJuc0lTbkkwMmxjZ01HUGJxWldPRHVnUl9PNnQwOXZxZEdyaXV4WWMxeHZtOHBKbW1ITy1SX2g5ck1oQ19DWEJ5LVBibzk1Z3daUWJ2MzlsRG54WExXTXgwVUI4VXB2TkdfeXNId0p4aUJXOFhXVG1Fb0ZFT2lPNWNGZkN2V1JDM2tEeFpPa9IB3AFBVV95cUxNMTl4UXRmT2Z2R2FSaEZ2M0pRSmwtMXdMWE8yd2JrdE5QWVNBR0FhUmJGYkpZNHNfWVVlaTkxTXNBajFoVFVDV1dNS2pERTA3M2NiZUJLTlZNVDJaN2dzb0ZPZ2tBZXdacVNUN2ZEMF9xUzBGQnNEb0h3OXRsdkNpcXgzNjkzV0pLWFc5VUluaTYzMFNGY0xzX3ppeUdNcnVKSU9JbUhQS0wzZ0prX0ZPV2VEWU8tNFloQy0yeUZUcTA3aV9WOXZ5QTAwdGlJSm83bS01a1ZfdkhUSGdX?oc=5",
-      "source": "ar.fxstreet.com",
+      "source": "FXStreet",
       "direction": "up",
       "ts": "2026-08-03T13:14:18+00:00",
       "amman": "16:14"
@@ -95,7 +159,7 @@
     {
       "title": "وول ستريت تستعد لمرحلة جديدة.. الأرباح تتصدر قيادة السوق",
       "url": "https://news.google.com/rss/articles/CBMi4wNBVV95cUxPWEdubUx3Q2NXRnR4cnVzNk5DN2FUZEFxdTBqUzN4bmRwczFKT0pyX2JRdVJhTXdNV3Y3S1lmOFhvYlpMT2Fkd0duNXpmSTFyVDl2TzZiVV9mWFFpY3RqMjVuOGp0U29rNFJ6eThLdHhUT3dhLVhCMjlkelJ2S3J0TTNuS2J1b0ZzczFydDlTOE9CQUFoRGc0dTlkdTQybU5Rc1lqWVVmUmdZR0dpSzBBOVk4Yy14UlpNbk0tVmlOLUtJNlVJYlhybG9QMGNQU2RyQjlQZjF5aFJucHkwRy1Gc0ZpekVZQ1doR2hRYVFiMXhpYmsxNzBzSW5BTkgxSGJuaXJ5bjVUQUFmZWZLZktCTld4VTBpN0prSTJ2anM4a1ZUc21nd2NEVVhrOFdyM1p2VmxXdUdRakFSZlRRQzBFV3RKUi1UOUUxSUc3NVpzTzRJMU91Y1gwTWlwQ0JLRWhkRjNSbjctSTIzdEZsRnhlRXRmMUoyOGFWVTFIekhVd21tblM4VW9vVFVuVkhlY29uVjRYRWMxYlpaeVZGSXVvZk5yZ2xEN3p5S2J5LVRkRlJ1enlUc2dIVHRlZTY0YTdXT1VDdWhpanRwRzY1VkNILUVwd2t4S0pIVWpFRC1LYjVUWU0?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "neutral",
       "ts": "2026-08-03T12:58:34+00:00",
       "amman": "15:58"
@@ -119,7 +183,7 @@
     {
       "title": "الاحتياطي الفيدرالي: مسار معدلات الفائدة يعتمد على البيانات – HSBC",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa2diN04teWpTUEZvMFVwWlhBTFBKMHBLa0dhNldNTkVRd0tSOHB1MnFRclVNa21kdDdsb0J2Qm9UWklaMUItM2o4WXN0YkUwX3lldU9WRHU5RVA0WUd4VDhrWXZhTU9Ib1ZHaVEtUjRPa3R0VEhUUUs3dk5jZ1FiOUxFaHkzNklfdkRFV3JPZElHZ9IBlwFBVV95cUxOWXAwN3R1em80TXc2bjU4QWI5b3JEby1PVGp3amV3XzlSZXZid2hEQTVXWTd5Tm5HaGlEWnM4Wm9uX05JWlVINXNLdUs0RFVGSU9TeDdYYmNSRkQ2WmVYdzBVbGVhcFdHci1KME5YeE1TZ1VmMGYzcGF0Y1NjWUhyQkxjTG9fLWZQQTZnd0hKWXExU2FoVS1V?oc=5",
-      "source": "ar.fxstreet.com",
+      "source": "FXStreet",
       "direction": "neutral",
       "ts": "2026-08-03T11:27:32+00:00",
       "amman": "14:27"
@@ -133,28 +197,12 @@
       "amman": "14:16"
     },
     {
-      "title": "Analyst Report: Federated Hermes Inc",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_3613_AnalystReport_1785755814000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-03T11:16:54+00:00",
-      "amman": "14:16"
-    },
-    {
-      "title": "Market Digest: CME, FHI, MCO, NEM, SO, MDLZ, HOOD",
-      "url": "https://finance.yahoo.com/research/reports/ARGUS_47793_MarketSummary_1785755814000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-03T11:16:54+00:00",
-      "amman": "14:16"
-    },
-    {
       "title": "ويليامز: الفيدرالي سيتحرك ابتعد التضخم عن هدف 2%",
       "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxNYUllX25hcVJqMXJ1SjA0NTY5WndqSGRhTG9hcUw4Z1JqMklvdGtOdV9Mb09pdFhQa1JfbzFGT2tDRzJReG1PeGxkdEd3RFJXNUJKYkFUMXgwTDE5d21iX0NHMjA1YW9nS0I4SFlDZkl4RVZ3amZLczdqbHpaRWxGMHdnaTBUNW5fS3FoaUU4N19FSndCNmFVVGI1ZU1fLUdieTloWS1hUFI0bHQzY0FQVzNDVXRaZzRIc0E1dG5qemtHb1VfOUR1ZjNDMk5EUHdPWmZPWHRDQlBDVkMtZ2pNWnBPUjVlMjhya0JEOXZLMkJWUV9UVmZDenQ3aWgzSTVzekJWZU5LUjBqY3o4NXBOMkJKT2s4QnkyR09ydW84a29aeHJOY2tmZHFvMm5RbWdySjFLcy03M014OFRfb0c5WUdkajBkcnl3S19XNzJ5c21WMThkNW5yQVhQblFRekpyTW0tY19JeEloa1BCbE5hNF9RN25jSjg3MUtnMklMcmJmcGJIOE1GbTh6QmRDTjVjZlBVR0dPZXYyQlJFR2NYNHBRd18?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "neutral",
-      "ts": "2026-08-03T10:48:04+00:00",
-      "amman": "13:48"
+      "ts": "2026-08-03T10:51:04+00:00",
+      "amman": "13:51"
     },
     {
       "title": "داو جونز يرتفع 537 نقطة، بينما تقلص ناسداك في الأسهم",
@@ -175,7 +223,7 @@
     {
       "title": "الفرنك السويسري يضعف عقب بيانات التضخم والتصنيع الضعيفة",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQ25TdFd0b1NibFFXMmZEaHZkY0NzQklVeFJLM3JYN3MyWUh4SE1NSEpmaUhiZ2pyLV9YaEx6Y25WZnVjaFoxRnVnVHNUYmx3UFV0X0pOODE1WmUtSXhtMlhwTDdidkxNbjB1Y01lUEQ0d1JBQmYtV3U2QnNCX2V4SmV1U0xYSFhPenBjbW8tQ1Y0N1Nq0gGUAUFVX3lxTE9DblN0V3RvU2JsUVcyZkRodmRjQ3NCSVV4Ukszclg3czJZSHhITU1ISmZpSGJnanItX1hoTHpjblZmdWNoWjFGdWdUc1RibHdQVXRfSk44MTVaZS1JeG0yWHBMN2J2TE1uMHVjTWVQRDR3UkFCZi1XdTZCc0JfZXhKZXVTTFhIWE96cGNtby1DVjQ3U2o?oc=5",
-      "source": "ar.fxstreet.com",
+      "source": "FXStreet",
       "direction": "neutral",
       "ts": "2026-08-03T09:12:59+00:00",
       "amman": "12:12"
@@ -191,7 +239,7 @@
     {
       "title": "ثيران الذهب مترددون مع انتعاش الدولار الأمريكي، وتراجع رهانات البنك الاحتياطي الفيدرالي Fed يحد من الهبوط",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSGVuck52b0tSV25wTlp6eGlORXF2VElVaC1YWGV0OFVqOGRoWDNtcXRqc0p6TEduZnRfV1BIVjVubGFGcWh2c0JmbEdkdlVjM25YWHBNUEoxM3dwZGYxM2dLZVlrbkVISHRpTGdIb0Vnc3JRbEpGOERDZUVPM0pDS2hVbDJGd29EeVlpRXdGZTFhT293X2RTZGJ5eXFRT0dPRjJwTU95RmxJaF83bGFjZ2hzYWlIREJ2aUFyUE1HMF9pdk5xOXRDMHBLVENrazlHX2Y5SEFMMTB5UkJ4UWdMcDJ6azBSeDJ1SVVWb3R6QdIB9AFBVV95cUxNNFNDVUJkX1dIWVFUVTM2X1MyTGJ0aVRBSFVPTjVsS2NHY3cxcFg2WG5oeGl3RG9vQTZ4T19UbXkxWDlnM2x5dUJyY2xpNEFHNnAyU3I3MllBUG1mSXRINUJsRGRsOVFRQ1QzajJGWGtjLXMzcUFTY2l1TTZWbDU5NzhXRWhPUUpqalZnQlVHdFVvVEU4cWZyRVFyUzRzZlVPSE9iSGlEWFlWMmJxaHdvTHBUVDJrMGpaZHVFWERuZTUwbDFaZmFpWF8xTGZWMzNxM2JZNmx0eXUteTdvVXVhVko1V0tfcE53S0FDbjhHWUVXTlVl?oc=5",
-      "source": "ar.fxstreet.com",
+      "source": "FXStreet",
       "direction": "down",
       "ts": "2026-08-03T09:09:17+00:00",
       "amman": "12:09"
@@ -199,18 +247,10 @@
     {
       "title": "مؤشر الدولار الأمريكي: توقعات رفع سعر الفائدة الفيدرالي تدعم مؤشر الدولار الأمريكي DXY – ING",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVHpYOFBtaElqTUNsbjVpNWsycVR1VC0yUS1sZXRmQm9jQWV1S1E4UGdkcDNYT2JtMkpxVXZPTG5rUGtUamNjOFpqc2RFRHV3R3NPajBMM2VPMEhVdTUtWVk1dmFkUkkzWld6WVZNNkV4cnJnVW1rdWtMR3JjTG9va2hlT2VuS3FfZjk5TnhNdHJYNkJWTWhBb25GckttWExGUDdBdWxwRlhfMzJYQzFSdmIwa0ZyUdIBuwFBVV95cUxPSk9jcXFfQWhmWjBycDBiZkVfclE4MjBYUHJSOGdpd1NQTzd4T3dZQ01teHdNOVR4eFItWTZqaFhSRUVEbE82U2RxdGtaLTE4NGhvaDhMYTJpSXcxX1NCcFVVUW5GU0l2WnY0R1A5RDlmVWd6VDVhQXVrT0Y3WmR4RmFHZ0NWS2VlbGc1cFJTd0JGdjh1Z0FtNlhiMmNJcVF0NTZyZU9Va3Z4TDN6dkFaMkdPcnRwc0tWMHlN?oc=5",
-      "source": "ar.fxstreet.com",
+      "source": "FXStreet",
       "direction": "neutral",
       "ts": "2026-08-03T07:22:58+00:00",
       "amman": "10:22"
-    },
-    {
-      "title": "الأسهم الآسيوية تتباين مع ارتفاع الين مقابل الدولار",
-      "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxNSkdNSHFiOHoycVZodm1YM2dHQUVsUy1yMlNpcXBvbGxWVXA5TnhPTWJGdFJwV2ZHRU9ZYWFoM2hieWp4c1h3MmM0OFRlV1NoVF80RTQycmctWHRxTUsxWkVIUjgwdTVVZzdnanV4b3Rrc2w3WGh6S3FCUkxwbEwyaTYwcEdsYXRUTnFyRkNxM1JaTURIX1VOWlBzZTgwekRrLWFDM2JaNEFmMTdoVjYxbFRjOTBqUndGN3l5ejFGN2JaVko0YWEwWF8wWW5qQ01lVGVSQWRQbXRJWTNLNmtNY3lBNVduYWdHSkJmTVlpcVplMnhrQVVmM2d3aEU3VF8xNTVXdm5jSVpDTVFScU5UQnNJcXpra0V6YTdOV2hqUi1xM3ZmMGE1Ny1zaUEwN0JWcmo2a2k3cFBGcjFObTFQM3JVYzlURXJoLWJmdHN5TWhYb2Y0UHd0UWFIcEJDSE8xcHFyNTFtakpEd1VBb0JUWTN3OHBlOXdOV24yckRhb3plSGlRSExsLTVqVVFLVW41eTQ1cDBaY1BCOUx6cjNDbGllOWJBY1hqelBxaDlIeG9ZQUpCZDdaX1VSb0MwdlFSUzhLSkpMMHU2OEVBMWg2Rm00d0x2VW1yTU9IU3lLY0lVSUw3WXh2X2NMY2o1YzUzdEhZVWJmaC1SVHFPTVdzVTlkXzRJVl84VDhselloUUloSEZhamJWYjlIWkJRWUtvNE1QN2pMX3BSYmwtazMyRUlSN1VqUFlPQUdiMjJqNWE4VU9BQldnVXFicW1Ca0JZa3RMakI0RXFVeW5yckNBNFdzeWc3ZkNid0RBb1NPYWQ5c2c?oc=5",
-      "source": "صحيفة الخليج",
-      "direction": "up",
-      "ts": "2026-08-03T05:33:49+00:00",
-      "amman": "08:33"
     },
     {
       "title": "تقرير الوظائف الأمريكي ونتائج الشركات الكبرى يحددان اتجاه وول ستريت الأسبوع المقبل",

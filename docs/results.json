@@ -1,6 +1,6 @@
 {
-  "updated_ny": "2026-08-04 17:35:35",
-  "updated_amman": "2026-08-05 00:35:35",
+  "updated_ny": "2026-08-04 18:39:32",
+  "updated_amman": "2026-08-05 01:39:32",
   "session_date": "2026-08-04",
   "requested": 90,
   "scanned": 90,
@@ -3897,7 +3897,7 @@
       "above_ema200": true,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 0.5,
+      "day_change_pct": 0.33,
       "volume": 3291021,
       "targets": [
         61.68,

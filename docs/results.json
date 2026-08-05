@@ -1,9 +1,9 @@
 {
-  "updated_ny": "2026-08-05 16:50:06",
-  "updated_amman": "2026-08-05 23:50:06",
+  "updated_ny": "2026-08-05 17:59:43",
+  "updated_amman": "2026-08-06 00:59:43",
   "session_date": "2026-08-05",
-  "requested": 90,
-  "scanned": 89,
+  "requested": 91,
+  "scanned": 90,
   "waiting": 1,
   "buy_count": 26,
   "sell_count": 25,
@@ -12,8 +12,8 @@
     "AAPL",
     "ABEV",
     "AMD",
-    "AMZN",
     "CDE",
+    "CPNG",
     "EA",
     "FIG",
     "GOOGL",
@@ -762,7 +762,7 @@
       "entry_price": 303.03,
       "change_pct": -1.08,
       "day_change_pct": -0.88,
-      "volume": 17183678,
+      "volume": 17183654,
       "targets": [
         305.02,
         307.26,
@@ -798,7 +798,7 @@
       "entry_price": 238.73,
       "change_pct": 0.61,
       "day_change_pct": 0.94,
-      "volume": 5694526,
+      "volume": 5694524,
       "targets": [
         242.51,
         246.35,
@@ -1356,7 +1356,7 @@
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
-      "active": true
+      "active": false
     },
     {
       "ticker": "ARM",
@@ -1438,7 +1438,7 @@
       "entry_price": 238.73,
       "change_pct": 0.61,
       "day_change_pct": 0.94,
-      "volume": 5694526,
+      "volume": 5694524,
       "targets": [
         242.51,
         246.35,
@@ -1789,6 +1789,36 @@
       "bars_since_signal": null,
       "signals": [],
       "active": false
+    },
+    {
+      "ticker": "CPNG",
+      "session_date": "2026-08-05",
+      "state": 0,
+      "price": 15.99,
+      "open_high": 16.9,
+      "open_low": 16.1,
+      "open_range": 0.8,
+      "vwap": 16.23,
+      "ema200": 16.32,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -2.08,
+      "volume": 36436104,
+      "targets": [
+        18.5,
+        20.1,
+        21.7,
+        23.3,
+        24.9
+      ],
+      "targets_hit": 0,
+      "next_target": 18.5,
+      "next_target_pct": 15.7,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
     },
     {
       "ticker": "CRM",
@@ -2577,7 +2607,7 @@
       "entry_price": 303.03,
       "change_pct": -1.08,
       "day_change_pct": -0.88,
-      "volume": 17183678,
+      "volume": 17183654,
       "targets": [
         305.02,
         307.26,

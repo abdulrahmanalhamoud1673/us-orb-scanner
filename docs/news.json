@@ -1,56 +1,40 @@
 {
-  "updated_amman": "2026-08-05 19:51",
-  "count": 40,
+  "updated_amman": "2026-08-05 21:13",
+  "count": 32,
   "up": 8,
   "down": 7,
   "items": [
     {
-      "title": "Two regional Fed banks to launch pilot survey of private credit market",
-      "url": "https://finance.yahoo.com/economy/policy/articles/two-regional-fed-banks-launch-163943783.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-05T16:39:43+00:00",
-      "amman": "19:39"
+      "title": "\"داو جونز\" يسجل مستوى قياسيا جديدا بعد قفزة ٥٠٠ نقطة بدعم الأرباح وآمال الاتفاق الأمريكي الإيراني",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFByTVZKNy1rQVdNRVpKeF9zRGlodUszRWdvNnBrM2VoZjBaMUQzTTUyX3FJaHJSSmxzSE5iQ2loeHExYnVoTHJoUktmTjFyLTdVYlE?oc=5",
+      "source": "دار الهلال",
+      "direction": "up",
+      "ts": "2026-08-05T17:53:37+00:00",
+      "amman": "20:53"
     },
     {
-      "title": "2 Magnificent Industrial Stocks Down 40% to Buy and Hold Forever",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/2-magnificent-industrial-stocks-down-163000603.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-05T16:30:00+00:00",
-      "amman": "19:30"
+      "title": "🔴 داو جونز الأميركي يقفز لمستوى قياسي بدعم أرباح الشركات وتفاؤل حول اتفاق هرمز ( تحديثات مباشرة )",
+      "url": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxPcXF1WThxOFcwNEVuaU01R2R3dmVJVHlaYnZKVjlnUlZQdVBmOXJSd2VYTnNrTXMyWmNVQXRMMXI4bnRnaU5QSGFZM0dQaGx5aUxHMDdsYmlhVDEyQ3dFLTl3MEZ0eU4zRGxtMnVlZG81eEhlMFhac0pRSXlwZmxKT2hYN1BvUGhkUk54dVo3YWxRWEJFUnB5cF9HX09NMkUwLUgtaTg2YlJzcUwyTWNCLVQxQXAtS3BaaUNESDI0TmNtUjRsZ2kwMkxJa1dxWlJoOVM4VDN4MUdBbjBmMm9mSU9EeEdEci11LVViY0ZQZmhHR0hOM3FzRlBCbFYta3FYRUtBQm1XNGRrckNxcnhkU3BTZW92Q2hsajRKVGs4WDVaOF9JbWRTdllyVDBWem00VGdFTmRJNUUzOGdFVFJHdUcwZDJFeEpYeHB2aVNfYlV3dS16ZFgxRWJqQzh0eGFyVUw5d2Z2LTY5YjZOV2gxMnpBbkdJTU1aa3RkYzRfV0FnbmViN19MYVpUb0VFVThYRUJNV1pHcjJvMXBXbU00ZlAwd0RfX3h2UFNmLV82QmM3UmNaVjNNb2ZlS1lyTmI5aE4wODJpemRPOHowaG1yQVpqbXluRFk1UXgyRHcxbGx3SllrSDIxRkNsVWxqODZOZDlIT25JcHdZMjZSdjFXTDRrX3A1ZjN0aExYWmpMVGs5YmFZMDE1LWhtNExqbU00R0VfbGtOV0NCM0k4cHJzX3Z4Q3ZubHJZNkdYZV8tcVp0MXdVRk1ZTi1NQzBTd1l6N2pmS1Y3SlUteElPaXFBQmJhQWRWUFhtMGg1ZmZKUjkyNnZxZGM5VEhMYkczdi0xUDBnRHFZZ0hnSHNsdkhsTTBOa2lxYVRpZWxLWmhzNjljdzJBN0h1dVRIQ2hUUFJFM3FCVGVsTXUzcUNGczRoWGF2ZVF0c3YwbU02VUpKNWtNY19WQXBwdTJDMnhJekkyTE9qS3dfNVA4dw?oc=5",
+      "source": "CNBC عربية",
+      "direction": "up",
+      "ts": "2026-08-05T17:34:39+00:00",
+      "amman": "20:34"
     },
     {
-      "title": "3 Midstream Stocks Quietly Compounding Dividends Every Year",
-      "url": "https://finance.yahoo.com/energy/articles/3-midstream-stocks-quietly-compounding-162500688.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-05T16:25:00+00:00",
-      "amman": "19:25"
+      "title": "خبر : مؤشرات وول ستريت الرئيسية تحقق مستويات قياسية جديدة",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQb0FsdGZDc3lmaG91bU9pMzd1OF8zcV9XS1ZKZ2tSTldBeDhGOWI1U2wzcjlNVlQ3Z21NbTdnMnlNTU1WZ3ZlWDA0Ujhnamw5WE9yc2pKZmVGcGNhTUdCa0xHdTU0Szl6ZVoyYnM5RVdrUE5OcjdUTG5kYlAxS2k1ZHZ1NGZfaVpST0ZHMmxJc2l1dXVNWUMzY2dtS3pyeUhYd2RVRjlDUWJEZ0JaTkJZRTNLVmU1Tk9qRnNNZHMtTkFlb3doWmYzVjRhZl9EXzdHTlpyVUszVkszS3daUGVxMkJFNEwxcWxFUUM5Zl9GTnNQQXJkdmxsNlBUN1d3YlZ3T1liWHBnUjBEVHQ5aUF0U1lTak9mY1liOUtNWXZzLUpOVnR6aFI0OFQ0ajFvYjRqQ0Z0RV9XVThFeHVjZDIyTW1OSFpSWlF4Zmx2ZDZKakJQTExlMDFuVk9SS0ppNEFOS2J0b3lqX0pXX3JNRzdjSndJSjZGamF0OTZfdHFOSkNUWWs2SnNpZk82MGpBbnJnTGZpQ2ZxVTRkS2EyV0sxYTI3TWF1TnNoRUVRVl9GNnhURVJV?oc=5",
+      "source": "samanews.ps",
+      "direction": "up",
+      "ts": "2026-08-05T17:14:38+00:00",
+      "amman": "20:14"
     },
     {
       "title": "مؤشر داو جونز يقفز الأربعاء 450 نقطة مسجلًا رقمًا قياسيًّا جديدًا",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNbUs0Q2pEaHl5VW53N05XLXprOG1DMkkzV1BodjFuTENWX25WMmJjczhZdHVQVjdVVF9JemdDZ1loVUVtUWhtUElWWTVCQlRQUGxDMGJGV0JrMENBalM2TXlLYzdQUnAwQ1JDVllBQ0ppQXB1cWVHRm0wUUFLSzJRT3VJY0EtTjV0UWxtb1NBSlFrdzlCTDJVRHV2ODdONXh3dmdDM3h4eTZSUXFsbEQtUzVPZkdvYzhJektZUXBjQXI5aDY2MEt3QWpEYThFYjY0NVY0aHc3NWtaV2Fzek1XVXN0bUVHUndhQ2ZSOGhFNlR5VlQ0aDVhS3hzRkNGT3VqR3R5cGZGUjd4Q1RPOTJmSGJJR2pOb3hxWXVGUHpwQ2NjSzlzRS1Ia2NR?oc=5",
-      "source": "جريدة المال",
+      "source": "almalnews.com",
       "direction": "up",
       "ts": "2026-08-05T16:19:00+00:00",
       "amman": "19:19"
-    },
-    {
-      "title": "Amazon says it will share $600 million in Trump tariff refunds with some of its customers — will you get a payout?",
-      "url": "https://finance.yahoo.com/economy/policy/articles/amazon-says-share-600-million-161500550.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-05T16:15:00+00:00",
-      "amman": "19:15"
-    },
-    {
-      "title": "Stock Market Today: Dow Charges Higher In Mixed Trade; Disney Clears Key Level (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-amd-stock-spacex-earnings/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-05T16:02:56+00:00",
-      "amman": "19:02"
     },
     {
       "title": "5 things investors should know about the stock market’s latest rapid-fire comeback",
@@ -67,22 +51,6 @@
       "direction": "down",
       "ts": "2026-08-05T15:56:00+00:00",
       "amman": "18:56"
-    },
-    {
-      "title": "North America becomes GXO’s fastest-growing market in Q2, topping $782M",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/north-america-becomes-gxo-fastest-153225720.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-05T15:32:25+00:00",
-      "amman": "18:32"
-    },
-    {
-      "title": "🔴 داو جونز الأميركي يقفز لمستوى قياسي بدعم أرباح الشركات وتفاؤل حول اتفاق هرمز ( تحديثات مباشرة )",
-      "url": "https://news.google.com/rss/articles/CBMi6gVBVV95cUxPcXF1WThxOFcwNEVuaU01R2R3dmVJVHlaYnZKVjlnUlZQdVBmOXJSd2VYTnNrTXMyWmNVQXRMMXI4bnRnaU5QSGFZM0dQaGx5aUxHMDdsYmlhVDEyQ3dFLTl3MEZ0eU4zRGxtMnVlZG81eEhlMFhac0pRSXlwZmxKT2hYN1BvUGhkUk54dVo3YWxRWEJFUnB5cF9HX09NMkUwLUgtaTg2YlJzcUwyTWNCLVQxQXAtS3BaaUNESDI0TmNtUjRsZ2kwMkxJa1dxWlJoOVM4VDN4MUdBbjBmMm9mSU9EeEdEci11LVViY0ZQZmhHR0hOM3FzRlBCbFYta3FYRUtBQm1XNGRrckNxcnhkU3BTZW92Q2hsajRKVGs4WDVaOF9JbWRTdllyVDBWem00VGdFTmRJNUUzOGdFVFJHdUcwZDJFeEpYeHB2aVNfYlV3dS16ZFgxRWJqQzh0eGFyVUw5d2Z2LTY5YjZOV2gxMnpBbkdJTU1aa3RkYzRfV0FnbmViN19MYVpUb0VFVThYRUJNV1pHcjJvMXBXbU00ZlAwd0RfX3h2UFNmLV82QmM3UmNaVjNNb2ZlS1lyTmI5aE4wODJpemRPOHowaG1yQVpqbXluRFk1UXgyRHcxbGx3SllrSDIxRkNsVWxqODZOZDlIT25JcHdZMjZSdjFXTDRrX3A1ZjN0aExYWmpMVGs5YmFZMDE1LWhtNExqbU00R0VfbGtOV0NCM0k4cHJzX3Z4Q3ZubHJZNkdYZV8tcVp0MXdVRk1ZTi1NQzBTd1l6N2pmS1Y3SlUteElPaXFBQmJhQWRWUFhtMGg1ZmZKUjkyNnZxZGM5VEhMYkczdi0xUDBnRHFZZ0hnSHNsdkhsTTBOa2lxYVRpZWxLWmhzNjljdzJBN0h1dVRIQ2hUUFJFM3FCVGVsTXUzcUNGczRoWGF2ZVF0c3YwbU02VUpKNWtNY19WQXBwdTJDMnhJekkyTE9qS3dfNVA4dw?oc=5",
-      "source": "CNBC عربية",
-      "direction": "up",
-      "ts": "2026-08-05T14:54:12+00:00",
-      "amman": "17:54"
     },
     {
       "title": "It’s the worst time in years to invest in AI credit markets: ‘Almost no upside and plenty of downside’",
@@ -141,17 +109,9 @@
       "amman": "15:58"
     },
     {
-      "title": "Bitcoin and ethereum prices today, Wednesday, August 5, 2026: Crypto prices rise as investors watch Hormuz negotiations and jobs report closely",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-wednesday-august-5-2026-crypto-prices-rise-as-investors-watch-hormuz-negotiations-and-jobs-report-closely-124640660.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-05T12:46:40+00:00",
-      "amman": "15:46"
-    },
-    {
       "title": "الذهب يقفز بقوة محليا وعالميا.. الأسواق تترقب كلمة الحسم من بيانات الوظائف الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9nVWNiZFdDZ2dNTjQtb1E1Z2JRTWlPbVhHdDF4MDQ1anZoTURRUy1DbzJFWVgtYWtCYXlXOHBjWlZoYlhDT3o0?oc=5",
-      "source": "صدى البلد",
+      "source": "elbalad.news",
       "direction": "neutral",
       "ts": "2026-08-05T12:27:00+00:00",
       "amman": "15:27"
@@ -163,6 +123,14 @@
       "direction": "neutral",
       "ts": "2026-08-05T12:15:53+00:00",
       "amman": "15:15"
+    },
+    {
+      "title": "الين مرشح للتراجع مجدداً ما لم يُسرّع بنك اليابان وتيرة رفع الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JVy1mMVpRYTBGQ0RScGV2V3Z5U0UyTzlvVUMxWUpXbWphSU41V1kyTjNIUXc1UmU1VDF4VFZlbWJIWDA2endEbHhkLU03NEw0a0FJRw?oc=5",
+      "source": "إرم بزنس",
+      "direction": "down",
+      "ts": "2026-08-05T11:59:08+00:00",
+      "amman": "14:59"
     },
     {
       "title": "الدولار الأمريكي: نظرة تماسك قبيل مؤشرات ISM وبيانات الوظائف – BBH",
@@ -205,36 +173,12 @@
       "amman": "14:09"
     },
     {
-      "title": "الذهب يقفز لأعلى مستوى في شهر مع تراجع مخاوف التضخم",
-      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQUEl4QVpodUZOVXlnclN2TkExZGpGc0l6Um1XZzY3a1lCdHZrQ3FfVWNvLWI0STNfZl9sdmJMdHJ2S3JmMEx4U1NkUmVxZm1VaWRVaTlDdFBmbkx0a3RBcGxQSFVDdU5vOGY5V0NtWlNBd2JkR2dZaUI5blJSZnRiUC10THAxbU8zVGNZbnlmbXFzRHVlYlNnb3dMaUxTWjVqbUlsYTdta2p3dFBYc0U3Vkt6OGRvUFE4S3E3d19RSWJyUUJ6eEpIby1QNzRlWEVoNjAwQV9EdWNfZHh4QVJqckdZalFvQmd0VWJuZkJrSnpiYTE2RWlGSlZ0djd3aml2ZWxPTFR3WVFnbWsxSGJjZ0xpY04yRHFPS0R4WUhEUnVFc1otUkNwUDhzY05zdEd1Z3NaOVkyVUVmYU81LTNZS2xCdWVxT1c0LXJyekIyLW1PQTVTd3I4?oc=5",
-      "source": "أموال الغد",
-      "direction": "down",
-      "ts": "2026-08-05T10:54:28+00:00",
-      "amman": "13:54"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Wednesday, August 5, 2026: Rates mixed as Iran negotiations focus on Hormuz",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-wednesday-august-5-2026-rates-mixed-as-iran-negotiations-focus-on-hormuz-100000767.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-05T10:00:00+00:00",
-      "amman": "13:00"
-    },
-    {
       "title": "أسعار الذهب في مصر ترتفع 50 جنيهًا",
       "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92YlRNaUVrNTU4dzg4ekRfNFdoSzIwWjlRb3ZzaWJuRXlGbnI5dFBsTnRLU1JZVGZCTWxSU25paGhMVEwyTVMtaEctc2J6UQ?oc=5",
       "source": "التعمير",
       "direction": "neutral",
       "ts": "2026-08-05T09:48:57+00:00",
       "amman": "12:48"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500 climb as Trump says Hormuz deal is close, Nasdaq gives up gains",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-5-dow-sp-500-nasdaq-oil-093653327.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-05T09:36:53+00:00",
-      "amman": "12:36"
     },
     {
       "title": "أسعار الذهب تصعد مع تراجع رهانات رفع الفائدة الأميركية",
@@ -247,7 +191,7 @@
     {
       "title": "سعر الذهب العالمى يتباين مع تراجع الدولار وترقب بيانات الوظائف الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxOMmxjREJGaWQtNzdFNThrZWF0aE9yLTF1T050ZDhnOVRXLU1DR0hjTTYxR19LYzFpVzQzaXBab1JnT0NqZDEwZ000MU42NnViblZVa2Nla2ZJVVk3QUMtT2h4MWJkRjB3SnRWUTRsbm1yQkVuazN5WTZhRFhtRUxtRFVyZGdZZGNjaW5BUExkM0RPMGtMU1ZkMXpFNEpld296ekRqb3F3ZEdQaXducFVLb29nOXhGbUR1WE5hcHVQd3FSVUI1emdqM0pMVmpqcUFoV1pHMzgzVGZ3eGcxelBoOFV0MDgxWk9sT2pCcXFPcjl5MXlzV2o5MEI2cVhDQy1UT180LVBtekwyU1hBMS1QZUdrWFczSk1RblluZXh6UnZtNVE4cjJNbnEtS0h1Q2xRQUwwRExMYUtMbF9wUy1xcFQ0eW1TRnExaUdhcmR6ZGVDQjZBaWY5V3YxS2oxN3kwYnYxaS1B?oc=5",
-      "source": "جريدة المال",
+      "source": "almalnews.com",
       "direction": "down",
       "ts": "2026-08-05T08:19:39+00:00",
       "amman": "11:19"
@@ -271,7 +215,7 @@
     {
       "title": "الذهب يرتفع قليلا مع تراجع الدولار وترقب بيانات الوظائف الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jWWtUVWFCNERGd3VrblNQaHNaSnQ0Rnc1ZGhaMHdGcG1qZDhsY1UteHJzMTRnUHNCNVpvYTBUNlkxb3FXZWRqMUZyUmt1SjA0dEo5NDF4bFhEQjJ4RTU2cXQzMWhZY19OeWctWjdudGk3REp3WTZmRGdzb0k2SXM?oc=5",
-      "source": "reuters.com",
+      "source": "Reuters",
       "direction": "neutral",
       "ts": "2026-08-05T01:21:43+00:00",
       "amman": "04:21"
@@ -315,14 +259,6 @@
       "direction": "up",
       "ts": "2026-08-04T20:28:03+00:00",
       "amman": "23:28"
-    },
-    {
-      "title": "مؤشر داو جونز يقفز الثلاثاء 1000 نقطة بدعم من الأرباح القوية للشركات",
-      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWC00NnBjZWhmUDR3SWpWZXZ0YXJEdEdkQTJvNmd3cjJhLXM2TnNSLVJsUDRETFFiblhaZjJqUmhjRDlwSlZwM0ZNMTRTWFFNR3ZpSlJYQTEtSHZBcjhJRktyeUxMVTNKVlh4c0hKd1o2OVpTWXBRWGVSUHdFa3c2Y1dFam5hUGcwTVktRDFTdE84dU85TEl6S0x2aS15SnNGSmlLcWw4UEJVaGU0dGdDQ0FKejcyRGNQbGRYX1ZVRFE0dm1fTTlsejgwSE9GejZBUE1HLWhmQ2pkRjBLZ3NHUDZYcmpTbGV2RXhpelAxYVlpSlhJbXVHSzFESlZfN0RKVVZiak5UZnQzV21PekRlbDk5cXRjcDYxaHk5elRrWmZfMEN3Q2VPRFg2VQ?oc=5",
-      "source": "جريدة المال",
-      "direction": "neutral",
-      "ts": "2026-08-04T17:31:30+00:00",
-      "amman": "20:31"
     }
   ]
 }

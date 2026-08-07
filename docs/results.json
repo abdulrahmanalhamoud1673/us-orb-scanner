@@ -1,12 +1,12 @@
 {
-  "updated_ny": "2026-08-07 17:28:22",
-  "updated_amman": "2026-08-08 00:28:22",
+  "updated_ny": "2026-08-07 18:05:30",
+  "updated_amman": "2026-08-08 01:05:30",
   "session_date": "2026-08-07",
   "requested": 93,
-  "scanned": 92,
+  "scanned": 91,
   "waiting": 1,
   "buy_count": 51,
-  "sell_count": 14,
+  "sell_count": 13,
   "active_today": [
     "AAL",
     "BTG",
@@ -4006,47 +4006,6 @@
           "kind": "Buy",
           "time": "09:45",
           "price": 56.2
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "MRVL",
-      "session_date": "2026-08-07",
-      "state": -1,
-      "price": 218.69,
-      "open_high": 220.39,
-      "open_low": 215.2,
-      "open_range": 5.19,
-      "vwap": 215.7,
-      "ema200": 214.17,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 0.78,
-      "volume": 17790380,
-      "targets": [
-        230.77,
-        241.15,
-        251.53,
-        261.91,
-        272.29
-      ],
-      "targets_hit": 0,
-      "next_target": 230.77,
-      "next_target_pct": 5.52,
-      "last_signal_time": "09:45",
-      "bars_since_signal": 74,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 221.49
-        },
-        {
-          "kind": "Sell",
-          "time": "09:45",
-          "price": 218.58
         }
       ],
       "active": false

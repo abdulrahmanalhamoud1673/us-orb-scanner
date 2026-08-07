@@ -1,5 +1,5 @@
 {
-  "updated_amman": "2026-08-07 23:55",
+  "updated_amman": "2026-08-08 00:28",
   "count": 45,
   "up": 5,
   "down": 14,
@@ -149,10 +149,10 @@
       "amman": "19:34"
     },
     {
-      "title": "توقعات الدولار الأمريكي الأسبوعية: التضخم يقدم دعما مع تراجع المخاطر الجيوسياسية",
+      "title": "التوقعات الأسبوعية للدولار الأمريكي: التضخم يقدم الدعم مع انحسار المخاطر الجيوسياسية",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOeDY4UTFXNFR3dU9CYlk4VTN4LU0tbER2VS1rYzNSOGVMVkZORkROWVZfSmdmUG14a2ZrbjlaOFZMU2c4NW8xZ1FyaWdLdGRYc1hPdDVpX3VPZzI4TXppelA4TTBWMXpHcGFaYjhSMThTN1NTWEFQU3pVX2tfVE1GTXFOcWZnakM1ZXN3b3psZ19FNHZmYjN5NTQzSmdrMnFR0gGmAUFVX3lxTFAtZk83Uk9jZUVUT3l5VUNuSGZnTG5ETG9tTG1JRUhXNk1NZ25UTmNvdUJSeHBfTEVpYmJRRHZveXVQQV9XSmFOOVNZX200OGRTLXliWnFQN1N1VUlXN0o2VzFoUzRtUU13a3VXOS1zVzJveXRjbnV0bkI5R1hXcXdxanNwZWMtOXg2N0RCcFJmMjI3NmF3RlRpM2ItU3BkZ3hMeUtoMUE?oc=5",
       "source": "FXStreet",
-      "direction": "down",
+      "direction": "neutral",
       "ts": "2026-08-07T16:24:31+00:00",
       "amman": "19:24"
     },
@@ -203,14 +203,6 @@
       "direction": "neutral",
       "ts": "2026-08-07T15:15:28+00:00",
       "amman": "18:15"
-    },
-    {
-      "title": "الفرنك السويسري يرتفع أمام الدولار الأمريكي بعد التراجع المفاجئ في بيانات الوظائف الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdHVuajlla1RRTVE5WlNtOVlwRGZjdlFOTHpyZm9lcC1jbS0ydDlPNldiVkV5VnVxT29Tcjg5LUZOM0tGYWJvV1d2QkFFc1lzOHJDc2FPSGd5SHpYTnBaSW1wS2xyajRRQUlBdldVUGUyU2ZmRFdqRFAyaG41a1NGVEM2WWh1eDM1dGtxR1hNa294WmY4STR0RWtJdWdFWFl4UUN3MEFCVFQ4aWN3OEViRURBWEFtSEnSAbwBQVVfeXFMTU1aMkVhOFQ0OGxINjdrbGpiZk5SVjVDZDZqRkp3dS1XWG1sc3hrTEhvT3hKWFc3QmxITDNwcTZKeDJ4eWNjSWY4ZzdyUkpOa1NWd2gteDRKWVV2eG9Ca2hwYjVSaXBWRGFzR2Q0QWFveWI0V3lMMFZ0b19Pd3ZISFpKQzJRQ05ZZkNhQkw3ZnJxdjhzVS1yRklFMmdfU1AtRkh2UUpBNXlLbVFJcXpTTmRKQ2lZM0ZXUUQ5Tmw?oc=5",
-      "source": "FXStreet",
-      "direction": "neutral",
-      "ts": "2026-08-07T15:13:58+00:00",
-      "amman": "18:13"
     },
     {
       "title": "الأسهم الأميركية والعالمية تنتعش بعد صدمة الوظائف.. ماذا عن الفائدة؟",
@@ -317,6 +309,22 @@
       "amman": "17:28"
     },
     {
+      "title": "التوقعات الأسبوعية للذهب: تزايد الزخم الصعودي مع تراجع رهانات رفع الفائدة من جانب الفيدرالي",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTjVrQVlkVURITXRMdXZROWJRclZFaFRjX054UXJEcWdyQ3YtUk9KQk1OcUd3OV81Zi1US3VPdXR3NjRUc21PTXhDWDlmanU0ZEZXSnh3SDh4dWoyMnFnRnppZnlkYTRBdjh6T2FnUmpmRXdHdEVyWWpCOUxCOFJiWUZZVm9YUlJCN2MyUkVjci1RNFRJbjNqQzNnUDNLWHI4N2pfUnZqdjZZR0RXSlE0YmJ5dWRxRkdZeldwRE0xOWdfT0NqVUNXRmN0V3lWalXSAdQBQVVfeXFMTjBMOHIwbDBEaXFCMWF5LWJnbklSMUszSV9IZFZDcGZXYVpkOTd2dHI5VHl5eVNGMm9KbHF5U1dOc3hHY0swMnFUbEZMLVh6TDVUbXVmYzJvY3FQQUZkSTVvSUJhckNHV0t1aE5EU0FWeFJGT2ZRVDBvaWt3SV9wRlZFakJPVVNxc3gyaEk0Ym9sMlhNbTM5TnpuUEZ6d2NQZmEyQjEwR3FLcmdiNS1hT0p6VVhwSHZ1RjlYZ1ZaWXZlcl9qVUhVYXV0Z1BkdmJJc0lUU18?oc=5",
+      "source": "FXStreet",
+      "direction": "down",
+      "ts": "2026-08-07T14:25:35+00:00",
+      "amman": "17:25"
+    },
+    {
+      "title": "تقرير الوظائف الضعيف لشهر يوليو يُقلِّص احتمالات رفع الفائدة الأميركية في سبتمبر",
+      "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxNTlZvVUFZQVRLYVhZRG5xbDBuYk12NG9aRVdQR0ZCZ3ZXXzBpRTJ4SkdWNUVJdEExb1c4elNBU25rQXVMSjNmQTdVeUprNmRXelR0TnlKTE9abDItcGVVLS1fLVNIU3FvSzRYSXU2aXp3bXplVTNFeGllRmpFMGhKQlNXX2pZQjNXSHgwXzVoU052V2VtQ1Y4VW5WVzZOR2JBWkpCeTZ4eEJHRXVwMUR6MThyT0tobEJoWUpVWk9IaGZrcDRiT1dJMUZzVUZSZGFYUjNXMEtHNmo2aVREQ3lzSXhYT1ZTSXNnOWtkVDZESi1WUEd3d0FQMXFhdHR2cDJpQ2stSXlIZkU3VHBsOWxZMDZMazFjUXlNbjYxZmVDVnNiTjR4dmNvRmRDNkdDVTN5UE81d2U2ZDVwWXBEX1JoRFdZLXQwLVNzSXZRZWk3TVlRT2JnbkN3NkFkYXZxSUtmeFFfbkRacnEtVVBwcXVfVnV3NHpJMnpFQ3ZlZURTek1UaU82N2JIUnFlZnE5VXQ0Z3pKMWpra3Q2UnZqclNrTHFhRkNfbVNtS3pjY0hrMm5OUE1Pam5WRWVzV2lqQXVrYl9GejVCb1FfOWRHY2RJZmdELXljVU80RnpBYnRqc3M0OXZFR2RJcHhoUDViZUFKaXdwNncyYWp5cUF2T2VWNzhTNjM5aXBnaGpXamp6RDVwY2k3QXpuajdJNWdYU0FpR1htM1ZmQzRVVkpiaWROTDF1emtWNWNhbk5zbmFja3FMRUN1OGZzOXFfU3JvbmJqUE1kdG1yWmxZblVzWmVLWWRXZ3p6MWNUV3pyZDZ1YWM1Nk9TYzNJaw?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "down",
+      "ts": "2026-08-07T14:21:05+00:00",
+      "amman": "17:21"
+    },
+    {
       "title": "«وول ستريت» تنتعش بعد الانخفاض المفاجئ في الوظائف",
       "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxPTk9IR0VpLWE1SlFWczU3U2ZrazNBNk5sVXhHZnROeXJtRGNpWjJ1SzJfOFhFTWlPNDZmekxzZ2lldUQxdFkwR3FRVjBYNjZ3QkFnSzdrZEs2RU1mUDE5bzV5R3ZGUk1YRDNIY29QSVhENk1xa3BtZ3VXeW1tWHJLVTZESW9TQXJmMTNlUEZkZk42LTRkYUp5R3R1bjJpeEdHZHg4RnlILVR5M0kwbWd1ZFVHU2JuMHJ4czVYUFpuX2JnZFkwY2hBUkZaTFBxMGYtOXpQZko2MVFmMFM0S2ZpOFBHVUdkaXExV0F6ZnFLWG9SNW5iUEREYUR2NmVRdFlnYS1zSXByVW5PRTFyWVJRYldJWmtLWHd6cDVkNlNNLVE3NVB1NHFZWTNVVHZ6blYwWXQ1NHkxLXpuQkdTcHFxNXdqZldDTnlKZS1LWktzQzJ0X2l2TC02RFBIZ0JlZEwtWHQwRWRKM3VVT1hUYWN6d2Q5Si1DZmtqUENwdkhkLTQ4d3pZQlJIZ2xqREl4eTBfdVBXWEhaWnFyY1NIRU1lVjZ6alFJVkI3bXFISXVFRTdOd3RzMHU5ZGZXTEJoakd2MVJuWGkxTlRYVGs2NHUxZld6NlpXN21KSE5DRm51OHcyLWE2elZicGcwS3NtOWNtUXNjdFBJaXd2OVRScDVVbTZSSk1JbElVVEVBVmN2QjhNQjd0Ni10czNSUUVvRkxZVElWXzRIT3p3VkMxaWxzNVRiUlRwcnE5d1pnYUtOd2JJLXlvRHVOeElTYkdwM01RS2Q0?oc=5",
       "source": "صحيفة الخليج",
@@ -338,14 +346,6 @@
       "source": "مبتدا",
       "direction": "up",
       "ts": "2026-08-07T13:51:51+00:00",
-      "amman": "16:51"
-    },
-    {
-      "title": "تقرير الوظائف الضعيف لشهر يوليو يُقلِّص احتمالات رفع الفائدة الأميركية في سبتمبر",
-      "url": "https://news.google.com/rss/articles/CBMi-ARBVV95cUxNTlZvVUFZQVRLYVhZRG5xbDBuYk12NG9aRVdQR0ZCZ3ZXXzBpRTJ4SkdWNUVJdEExb1c4elNBU25rQXVMSjNmQTdVeUprNmRXelR0TnlKTE9abDItcGVVLS1fLVNIU3FvSzRYSXU2aXp3bXplVTNFeGllRmpFMGhKQlNXX2pZQjNXSHgwXzVoU052V2VtQ1Y4VW5WVzZOR2JBWkpCeTZ4eEJHRXVwMUR6MThyT0tobEJoWUpVWk9IaGZrcDRiT1dJMUZzVUZSZGFYUjNXMEtHNmo2aVREQ3lzSXhYT1ZTSXNnOWtkVDZESi1WUEd3d0FQMXFhdHR2cDJpQ2stSXlIZkU3VHBsOWxZMDZMazFjUXlNbjYxZmVDVnNiTjR4dmNvRmRDNkdDVTN5UE81d2U2ZDVwWXBEX1JoRFdZLXQwLVNzSXZRZWk3TVlRT2JnbkN3NkFkYXZxSUtmeFFfbkRacnEtVVBwcXVfVnV3NHpJMnpFQ3ZlZURTek1UaU82N2JIUnFlZnE5VXQ0Z3pKMWpra3Q2UnZqclNrTHFhRkNfbVNtS3pjY0hrMm5OUE1Pam5WRWVzV2lqQXVrYl9GejVCb1FfOWRHY2RJZmdELXljVU80RnpBYnRqc3M0OXZFR2RJcHhoUDViZUFKaXdwNncyYWp5cUF2T2VWNzhTNjM5aXBnaGpXamp6RDVwY2k3QXpuajdJNWdYU0FpR1htM1ZmQzRVVkpiaWROTDF1emtWNWNhbk5zbmFja3FMRUN1OGZzOXFfU3JvbmJqUE1kdG1yWmxZblVzWmVLWWRXZ3p6MWNUV3pyZDZ1YWM1Nk9TYzNJaw?oc=5",
-      "source": "CNN الاقتصادية",
-      "direction": "down",
-      "ts": "2026-08-07T13:51:05+00:00",
       "amman": "16:51"
     },
     {

@@ -1,9 +1,49 @@
 {
-  "updated_amman": "2026-08-10 20:07",
+  "updated_amman": "2026-08-10 20:58",
   "count": 45,
-  "up": 9,
-  "down": 14,
+  "up": 7,
+  "down": 16,
   "items": [
+    {
+      "title": "الأسهم الأمريكية تستقر بانتظار اتفاق واشنطن وطهران",
+      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOTng1ZG05SXBBSWR2US1pRTdzWnJCSzJ4ZU01YmhpZW1aYXI3SmlXT0kxUndyakhMLTZPenBKbHV5bFBwYnV4RWdSbnRYMzJxX2VZZzNiNzd2M1lPZXh4ZWxSV1JYcF80TG9XWWNEWmloRmFQb3VPTlBtb0xvbnZXQ3BvcTdMNkZsTFEyRnphaDhnNlc0UG5iNXFXYVFqdEdpZmgwR1EzV3d6WmFLaE1nb202M3Rac3NyNVN2YlFmMmlFd24xSHM1VlhDREl5R0Y3cnY4c0w0SXhQVGNFM0RDckFoaDRNeGI1MXhOMS12UjVCRHc2VGJyaWh6QUJvUXJNSU9kT1VDN19NTk9FQy1XTGZGSXUtUkJ3Ri15bk16RFExU2xFYnZyRXdEUl9WLUJIbjZhNll1UjVuMUREVXdnV3Z6MlFqTUMyZjlnSmNqcFJCZDhPRW9Oa1dFMnFzcW44SWNHcW9LbjZEbG91Y2lnbHY2dEJMb0Y1VllVRlNDR29MQ2N6c3JaMDhjdUlkSmE1N2Q2MU0ya19QTHhjX3dLdk9ucGRjbHRBcEJ4cV9rU1FuazVneC1FSFlLZnZHNW1meGVYMzlXTzlKRk40ZzVKdXdYRHdheHZBbnBiTkZ6YmF1bkdtMUltNkVYalZEVU9lb0NaZVB4RURvRy1DaFZRajdDendQbkJYZmx1ejJ6VGtZZ01vb3F2MHlkQjJOdDJEdUlTSWs0V3hLeEFaMDBwTmtJSWl0TmdScWgtNElmaldKaFhQcGdNMWNPT0FQaF9u?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "neutral",
+      "ts": "2026-08-10T17:48:39+00:00",
+      "amman": "20:48"
+    },
+    {
+      "title": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation",
+      "url": "https://finance.yahoo.com/economy/policy/article/cleveland-feds-hammack-it-will-take-more-than-one-interest-rate-hike-to-bring-down-inflation-173530729.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-10T17:35:30+00:00",
+      "amman": "20:35"
+    },
+    {
+      "title": "SpaceX's First Lockup Expired Last Week. Why Didn't the Stock Crash?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-first-lockup-expired-last-172518274.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-10T17:25:18+00:00",
+      "amman": "20:25"
+    },
+    {
+      "title": "Jim Cramer Dumps Honeywell Aerospace (HONA) After Shock Guidance Cut Triggers Sharp Selloff",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-dumps-honeywell-aerospace-171533014.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-10T17:15:33+00:00",
+      "amman": "20:15"
+    },
+    {
+      "title": "Stock Market Today: Dow Dips, Apple Skids On iPhone Fear; This AI Play Clears Entry (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-10T17:07:13+00:00",
+      "amman": "20:07"
+    },
     {
       "title": "This stock market indicator just flashed a warning not seen since the dot-com bubble",
       "url": "https://finance.yahoo.com/markets/article/this-stock-market-indicator-just-flashed-a-warning-not-seen-since-the-dot-com-bubble-165540336.html",
@@ -21,28 +61,12 @@
       "amman": "19:35"
     },
     {
-      "title": "Wall Street giants to partner with Nvidia on $500 billion AI financing deal, FT reports",
+      "title": "Nvidia, Wall Street firms partner on $500 billion AI financing venture, source says",
       "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-giants-partner-nvidia-163441421.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-10T16:34:41+00:00",
       "amman": "19:34"
-    },
-    {
-      "title": "FleetWorks and SONAR partner to put live market intelligence inside the agentic marketplace",
-      "url": "https://finance.yahoo.com/technology/ai/articles/fleetworks-sonar-partner-put-live-155644950.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-10T15:56:44+00:00",
-      "amman": "18:56"
-    },
-    {
-      "title": "Stock Market Today: Dow Firm, Apple Skids On iPhone Fear; Oil Rises As Trump Says This (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-10T15:53:40+00:00",
-      "amman": "18:53"
     },
     {
       "title": "تباين مؤشرات الأسواق العالمية بعد مكاسب \"وول ستريت\" وارتفاع أسعار النفط",
@@ -181,8 +205,8 @@
       "amman": "13:45"
     },
     {
-      "title": "Stock market today: Nasdaq slips, Dow and S&P 500 little changed in wait for key inflation data",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-10-dow-sp-500-nasdaq-104358890.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock sinks",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-slip-as-oil-prices-climb-nvidia-stock-sinks-104358890.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-10T10:43:58+00:00",
@@ -285,6 +309,14 @@
       "amman": "13:02"
     },
     {
+      "title": "Best high-yield savings interest rates today, Monday, August 10, 2026: Earn up to 4.15% APY with an HYSA",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-10-2026-earn-up-to-415-apy-with-an-hysa-100000399.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-10T10:00:00+00:00",
+      "amman": "13:00"
+    },
+    {
       "title": "الذهب يتراجع مع جني الأرباح.. والأسواق تترقب بيانات التضخم الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zX0lGOExNWDM3SGs2RUdJWFFzVlAyeG5BQWlQdkJkYklnaVFsZ0NOTDZCX3lnYmdmVnJheTBWeUM4OW1UZl9TWFpfLW16UkUxZlFEelhn?oc=5",
       "source": "بوابة الأهرام",
@@ -331,38 +363,6 @@
       "direction": "up",
       "ts": "2026-08-10T08:48:46+00:00",
       "amman": "11:48"
-    },
-    {
-      "title": "أسعار الذهب تتراجع بفعل جني الأرباح وترقب بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOcEN2akV2NmhLVDFXY3VsdHdrOGdmX2ppYnptTGVHUHVnTmhIVnlHS2ZlQ1dmMDZaSFUwN3V3WjdGaFNOdy1YanhwSDBOd3p5czBCU25PZzB1aDdENlJUZThWT2k4Z2ZuRmgxdkdISG52eFhuTEJRQzZmSWphWnMtU2k5aFI3VVFObm8yWWt0MjJVa2tVZ3MyaVc5LUV1eXU2Vm81YlhVemRuQWJxSHVPaXk1bHE4anp0aFhoVC04UnBKYnk3dmNlV2FsdkxjWWlDazh5S0g5ZGFDS1RKeGZGNjM1b25oYTcwaEZ0TFFMYmZUM0hqS0RtTkpTWm9fYW51R3lIOFJBQkV1aEJxam5UMk9jSEI0bkVTMzBGNUU2YXZvUHVyQmVfZGVaemRFZ05BUnBSOFNleHRlNlc2SHNqMThPTDNDQlN4cGlUSQ?oc=5",
-      "source": "مجلة رواد الأعمال",
-      "direction": "down",
-      "ts": "2026-08-10T08:44:58+00:00",
-      "amman": "11:44"
-    },
-    {
-      "title": "الدولار قرب أدنى مستوى له في شهرين ترقبًا لبيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQ0lDdF94dkVETmVOeElDZ2h6MzR0TWozM0JCcXJIdk84OGptX1o3VXZNcVR5bDdmRGZUN3hmekhCNVJfOHQxODhSWS10alRHQUhwNQ?oc=5",
-      "source": "الإذاعة الجزائرية |",
-      "direction": "neutral",
-      "ts": "2026-08-10T08:33:24+00:00",
-      "amman": "11:33"
-    },
-    {
-      "title": "الثيران على الذهب مترددون بالقرب من 4350 دولار مع مخاطر إيران ورهانات الفيدرالي تحد من المكاسب",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0hSd1ZfcXVJQnI0WF9XU3l3NkJYcHZqeVc1Nkc5YnVYVDloeHF5cjA0cHJHZUp6RzJwWTJjbkdvZW9XbVRwaFMyNzRzSlgwRWNJbDFkOG5pSDNsalhRZE1vMzhobk9fcFpaeDFzemYxT2NMdmNKMmZ5bHo4ZTFPXzdicERlT0pQN2tYNFBwakNLdVlDa1RaUXVKRGc2cFJ2eGpMQURmYi1icmMxVUNTZm1UblF2WTNySVE3ZFdCTjJRX0NxYW5n0gHMAUFVX3lxTE5hTjdKREY1R1pxOGZ1Z01QNVRYLWswSXVxMjFSWnJoM0U2dnRHUFlydHJyZ2ljX1gzRWJDeFJpbW4wcGtpdW1QU0ZIQWFobkV0MkpVUWoyNVY4eTE3LWRFRGV2N1BjaFcxWm5lRUQ4QmN6elB5TWZBZWpPWmdNb19KLW1qTkNSSlZjYkxlMXJRV0hlSEVGTERvM3NsUktoVWJEdWw3Y3pwN0JHVGs1OElTdVBpZ2pJWnNXX0J6VXY0R2dNWFJEQW1FaGktaQ?oc=5",
-      "source": "FXStreet",
-      "direction": "up",
-      "ts": "2026-08-10T08:23:05+00:00",
-      "amman": "11:23"
-    },
-    {
-      "title": "الدولار عند مفترق طرق قبل التضخم.. وقرار الفائدة يضع الدولار الأسترالي تحت الاختبار",
-      "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxOb1BySW0yT1hBcmJrUHZRTERCaTFoZ2pJSnZqTl9CRWZXNjBCaEUwSmRveEtFYVZfQU5nQk5JcTN1NHJ1N2tpeC1reU41T2Y2UTdOWlVrMkQweGwtYUpORW5YM0U5Wk9iVF9CMENQZVRGMDQwUHM5VDBHZEhYWHZFd24wZDJIaDREejVXdS13WDU5aXVwUzdKTVB1WFQ4YlBsRklUWEo2TmphZjlsUGhmdlh0TXdhTXE4UFpBbHpTTEZmbFZuNlduV1hhZ1ByQzloa0VBU1dxeEd5Q3Q3aW4tVS02bEJzZzQ0NHhIMmJtY1RGSkROUmFRbFQ2clVoZU5uaVdHVG9VaHFmUWN3YjN4VTFzQk4xMzBmTm5JN2ZtS1lkNXlMVFI4NzhLMEtQNFd4Nk9HbUV0OV8za3UtWXdQWDdSc1hwU1FBckgzaVJ3T05KOXcwSFEwR3BJQkhZMEJ3TmZQQVQ1U3BWUEdfVEY3TlMzZUY4aW05SDlzd1gzcmljNmZiZDBneVNzSFhKZUwxaWdtVUFWekNLUndnb1JyTkI1dGZIczU5Vl9mQkdVRXV0OERmMTZQcEJKOUlrZjJKZ1B3cDBoZHpZRVF5Nm1BVkt3NWtITkI5U2wya2g3SUQxZ1ByOVZWQWw4YWU3OUVETXhWeGJOaWtnMDVLZDB3eS1vLU0wWnlLU1hOVklNNGwwM3RBck0xX291RVhJVlVCcVpNZXloWnBNSmZ6d1dxVG5aUHgweW1zR3VBdHJyTENNRU9XVGRaTFB2Tzk3VVd2ZFl1Y3A3T3VhUVlueVAxd2h6ZnBIVkVYWVZOX2JEWWstNE55QXh3RFU4S2s2Y3M0RGl0dHQzMWhWNTBBZjd6VlJPX1VOaWs?oc=5",
-      "source": "المتداول العربي",
-      "direction": "neutral",
-      "ts": "2026-08-10T08:17:53+00:00",
-      "amman": "11:17"
     }
   ]
 }

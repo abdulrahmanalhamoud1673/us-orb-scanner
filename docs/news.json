@@ -1,9 +1,33 @@
 {
-  "updated_amman": "2026-08-10 20:58",
+  "updated_amman": "2026-08-10 21:53",
   "count": 45,
-  "up": 7,
-  "down": 16,
+  "up": 10,
+  "down": 14,
   "items": [
+    {
+      "title": "2 charts showing just how insane the stock market’s August ‘crash-up’ has been so far",
+      "url": "https://www.marketwatch.com/story/2-charts-showing-just-how-insane-the-stock-markets-august-crash-up-has-been-so-far-b822404d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "down",
+      "ts": "2026-08-10T18:08:00+00:00",
+      "amman": "21:08"
+    },
+    {
+      "title": "Market Update: ENB, CVX, EXPE, ORLY, XOM, STRL",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_47871_MarketUpdate_1786384995000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-10T18:03:15+00:00",
+      "amman": "21:03"
+    },
+    {
+      "title": "صعود بلا هوادة.. هل تتحدى وول ستريت المنطق؟",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11c01iMFl0MlJiem03OGJvVEh6TnU3TkZjYnM5SThZVS1nTzFzYUc2YVBVMGgyRWdWSUJDRjNoNmllbTd5MVpFTlhOQ0xMQWMza3RqZER4c1Y3bW1sV0RGZnhTWmVQUW5pLXc?oc=5",
+      "source": "ارقام",
+      "direction": "up",
+      "ts": "2026-08-10T18:03:13+00:00",
+      "amman": "21:03"
+    },
     {
       "title": "الأسهم الأمريكية تستقر بانتظار اتفاق واشنطن وطهران",
       "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOTng1ZG05SXBBSWR2US1pRTdzWnJCSzJ4ZU01YmhpZW1aYXI3SmlXT0kxUndyakhMLTZPenBKbHV5bFBwYnV4RWdSbnRYMzJxX2VZZzNiNzd2M1lPZXh4ZWxSV1JYcF80TG9XWWNEWmloRmFQb3VPTlBtb0xvbnZXQ3BvcTdMNkZsTFEyRnphaDhnNlc0UG5iNXFXYVFqdEdpZmgwR1EzV3d6WmFLaE1nb202M3Rac3NyNVN2YlFmMmlFd24xSHM1VlhDREl5R0Y3cnY4c0w0SXhQVGNFM0RDckFoaDRNeGI1MXhOMS12UjVCRHc2VGJyaWh6QUJvUXJNSU9kT1VDN19NTk9FQy1XTGZGSXUtUkJ3Ri15bk16RFExU2xFYnZyRXdEUl9WLUJIbjZhNll1UjVuMUREVXdnV3Z6MlFqTUMyZjlnSmNqcFJCZDhPRW9Oa1dFMnFzcW44SWNHcW9LbjZEbG91Y2lnbHY2dEJMb0Y1VllVRlNDR29MQ2N6c3JaMDhjdUlkSmE1N2Q2MU0ya19QTHhjX3dLdk9ucGRjbHRBcEJ4cV9rU1FuazVneC1FSFlLZnZHNW1meGVYMzlXTzlKRk40ZzVKdXdYRHdheHZBbnBiTkZ6YmF1bkdtMUltNkVYalZEVU9lb0NaZVB4RURvRy1DaFZRajdDendQbkJYZmx1ejJ6VGtZZ01vb3F2MHlkQjJOdDJEdUlTSWs0V3hLeEFaMDBwTmtJSWl0TmdScWgtNElmaldKaFhQcGdNMWNPT0FQaF9u?oc=5",
@@ -13,65 +37,9 @@
       "amman": "20:48"
     },
     {
-      "title": "Cleveland Fed's Hammack: It will take more than one interest rate hike to bring down inflation",
-      "url": "https://finance.yahoo.com/economy/policy/article/cleveland-feds-hammack-it-will-take-more-than-one-interest-rate-hike-to-bring-down-inflation-173530729.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-10T17:35:30+00:00",
-      "amman": "20:35"
-    },
-    {
-      "title": "SpaceX's First Lockup Expired Last Week. Why Didn't the Stock Crash?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-first-lockup-expired-last-172518274.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-10T17:25:18+00:00",
-      "amman": "20:25"
-    },
-    {
-      "title": "Jim Cramer Dumps Honeywell Aerospace (HONA) After Shock Guidance Cut Triggers Sharp Selloff",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-dumps-honeywell-aerospace-171533014.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-10T17:15:33+00:00",
-      "amman": "20:15"
-    },
-    {
-      "title": "Stock Market Today: Dow Dips, Apple Skids On iPhone Fear; This AI Play Clears Entry (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-us-iran-spacex-stock-spcx/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-10T17:07:13+00:00",
-      "amman": "20:07"
-    },
-    {
-      "title": "This stock market indicator just flashed a warning not seen since the dot-com bubble",
-      "url": "https://finance.yahoo.com/markets/article/this-stock-market-indicator-just-flashed-a-warning-not-seen-since-the-dot-com-bubble-165540336.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-10T16:55:40+00:00",
-      "amman": "19:55"
-    },
-    {
-      "title": "Tech stocks still have plenty of believers on Wall Street, inflow data shows",
-      "url": "https://finance.yahoo.com/technology/article/tech-stocks-still-have-plenty-of-believers-on-wall-street-inflow-data-shows-163544665.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-10T16:35:44+00:00",
-      "amman": "19:35"
-    },
-    {
-      "title": "Nvidia, Wall Street firms partner on $500 billion AI financing venture, source says",
-      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-giants-partner-nvidia-163441421.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-10T16:34:41+00:00",
-      "amman": "19:34"
-    },
-    {
       "title": "تباين مؤشرات الأسواق العالمية بعد مكاسب \"وول ستريت\" وارتفاع أسعار النفط",
       "url": "https://news.google.com/rss/articles/CBMixgJBVV95cUxPeWlvaHVuOV9YMkVVd0dDQVAtZlZRY0pnQllWQ3JqTUxiR2o3dVNTYzNnLW5uVUZxMlVqSUZVUmdjOFdjTThHaGNnemo5UGdrOHBWT1YtZVRzRDBpVXFCR1RyanE3LVRpN1F2aUlTc3BPZEdnc2lOTm9vcTJ1V19ldktXZ1g2aXdGOWhQSUFsSDlxeFlYZVhjTnpXZ3NIWTVFRmk1SVFBQURGLVMwbTlLcGR4UTE1VElFZUJoYnpiYVlfbW5wRV95YWR5cWtkNHpZNWlNMDRqSlp5OG9MMklYTmVncUxxOVFuRXJUVktScFdGeTE1S0xMQ1p4LXFjQ3hhckMxekdHVGdWREQzbmNoWC1aWVgwUXdWcXVhMXBtS1EzbTE3NUREWmNfekFqZk9fVGpWOFlPc2o4c2sxS29LMFBVOFhndw?oc=5",
-      "source": "Fana News -",
+      "source": "fananews.com",
       "direction": "up",
       "ts": "2026-08-10T15:35:09+00:00",
       "amman": "18:35"
@@ -101,20 +69,20 @@
       "amman": "17:56"
     },
     {
+      "title": "اليورو يحافظ على مكاسبه مقابل الدولار الأمريكي وسط حالة عدم اليقين بشأن البنك الاحتياطي الفيدرالي Fed قبيل صدور مؤشر أسعار المستهلك CPI الأمريكي",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPbWZ0SjZtS0Vya3hTa3JUMVNaNzNqa1AtZ09sNFZLVjQwNEdJelFrZnRoamFEUmdtSjVzMV9MenJjNUxJTHRVcmp5WkszZEZDOGtrUm9mZ3hGNnNsVVN3N3o5SXpOOEdCeExlVjJCUDVaVlFYc3RMT0tLeGsySnVGQ1ZKRnA3NTV0UU9LQUhqR3l1WEU2X1Fva1Z5WHFIZnZyY20xQ2w4Nk1zZUdsTTJBdEswc2F6cWM5VG1fTnBVN01UbUNlSndJT01wYmh5cjdvWUFDQ09JMXZfNGJ0aWhOMFQ3eWFVekE4a3JKaTlaMTFmd3V4RXdkWNIB-AFBVV95cUxPbWZ0SjZtS0Vya3hTa3JUMVNaNzNqa1AtZ09sNFZLVjQwNEdJelFrZnRoamFEUmdtSjVzMV9MenJjNUxJTHRVcmp5WkszZEZDOGtrUm9mZ3hGNnNsVVN3N3o5SXpOOEdCeExlVjJCUDVaVlFYc3RMT0tLeGsySnVGQ1ZKRnA3NTV0UU9LQUhqR3l1WEU2X1Fva1Z5WHFIZnZyY20xQ2w4Nk1zZUdsTTJBdEswc2F6cWM5VG1fTnBVN01UbUNlSndJT01wYmh5cjdvWUFDQ09JMXZfNGJ0aWhOMFQ3eWFVekE4a3JKaTlaMTFmd3V4RXdkWA?oc=5",
+      "source": "FXStreet",
+      "direction": "up",
+      "ts": "2026-08-10T14:52:00+00:00",
+      "amman": "17:52"
+    },
+    {
       "title": "الذهب يتراجع طفيفًا مع قوة الدولار وترقب بيانات التضخم الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOeVNabHhqSV9jQTRCV2JYeGg1RUE2dlp0QWtPN1dSM0JnRURCQmtCUEpKMGVPVWtTdE1oU095cGwydzZkdFlUQkw4T0RPc2JnZ1Z2TzlWNkVQRHFOeXc0NDRUSVd1Z0dRa3dfZDNPWlZkUm9JaW9ENXZhV1BmeTFlZXk4MGR0S3VrR2hfN2lTZ0U4UmhmV0ZoNVNRZlFXSG9xeVVVR0FkVG9pMVozYzZYTnp0R2pxNDh1b192cDMydWRCUGwtQU9YYzJBY0daM3RTcHpUS2I0VzlFLWpBQ0ozWnhmLUlkdjBNdHAyUmEwWGtybnNKRkYybUtnQnI3U2VvQ25OTi13bFoyRjdfemMtSWtyaEdYYjRfT2FpTG5aWHFobWNOYWx5OW5tdE5WQlVEUWdUUTQxN293TzRiZ0NwUVNfYWc1dy03U2gyQmFISjRGYlR1NlB3dkFyM25fVGlxaS1Pb0gxU2VuUmZpVmppdDJGRDlURkhHZmpfRnQ4eXdXaHlxQWpkZkRSZGx0Sm9kRFdaNUVGckhoWmd5b20zLWtBVGNFZDFiQjAycmQ5eFBhU0c1YjhqZ3puSUFsQ0RxVXM5bFhrZ0s2Ujd3STlVN3lxQ0N3a0I4LUpMN3F2Mnhfa2VyYmdwb2FVQ2xaRVF1Uzk0NDJtYzZfNGtDeUFINFJaeFBZZ3JJVW9yUWxHTQ?oc=5",
       "source": "معلومات مباشر",
       "direction": "down",
       "ts": "2026-08-10T14:01:39+00:00",
       "amman": "17:01"
-    },
-    {
-      "title": "Tech stocks today: Meta lays out new AI path, Intel to sell $15 billion in stock",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-meta-lays-out-new-ai-path-intel-to-sell-15-billion-in-stock-135605566.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-10T13:56:05+00:00",
-      "amman": "16:56"
     },
     {
       "title": "مؤشرات الأسهم الامريكية تتفاعل مع توترات مضيق هرمز وبيانات التضخم المرتقبة",
@@ -151,7 +119,7 @@
     {
       "title": "تباين الأسواق الآسيوية بعد مكاسب وول ستريت وارتفاع أسعار النفط",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lZUNoSEpuRzROaVNMUTRLQmp3U1U4a0xGbFNIQkFDWjRKd2FnWDFsVnY3UkpJR1pRaEZrUTFsNFotcVJEdk1IVEtlQ3ZjaHFPdUFTN01nWXlUb3VlNTg0X2p3RU9WQmFlbTg5S0FwRjVvUQ?oc=5",
-      "source": "albiladpress.com",
+      "source": "جريدة البلاد",
       "direction": "up",
       "ts": "2026-08-10T11:57:44+00:00",
       "amman": "14:57"
@@ -205,14 +173,6 @@
       "amman": "13:45"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as oil prices climb, Nvidia stock sinks",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-sp-500-nasdaq-slip-as-oil-prices-climb-nvidia-stock-sinks-104358890.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-10T10:43:58+00:00",
-      "amman": "13:43"
-    },
-    {
       "title": "الدولار يرتفع مع تقييم بيانات الوظائف الأمريكية وترقب بيانات التضخم",
       "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxPeVJyQWhReU5tRnB1OGhrb3VqRG5VVnVsUHdIbWhfWkFlbjRRbE9IcGJXTHFOSjlqd2E1NXVpa0Jmdy1SUjhTejZYR19aVFJWUGFnc2U5MU5DQnVnVmpYdGJpNzFPV0FITFo5YmxJV2xqbVpqRHRfRUs5WUtpTkxUSFJhQ0dEU2dEdmF1bzRKS1RwUVhaeEhDa0xSMnJjOS1KVVlHLW1sc1BYWDlIUjNEeHkzdkU3bkJzc3lsaGpRNlNtUFBUSWdqNWlwd1lHZEtBMkhlMXRKY1h4TDZnVlpDMzNMeU9acEhRQTZWaWoxUHU2WldQb2xzVlEtZy1kSmlFb2M0amVmOGZPeEVVN3lxNnhSb2Y5RnBYMEpZYkVnTm9WTWctai1kY181aFMtbHdYNWlONFBUengxMUhvcnZkbGk5bm9Dc0xGUk03cDByei1HNUhrV3F2SnFEdnBHOERDVkpIYmVqSHZPUXU2Unhwc3lWVzQtRnBFTktvU1ZTZmNOMTRxNjNIYlU3OWM2LXZibFhhRllpZW81bi1Cem10cmFkV0J4RVVudXBZakZ4cmVjVFhNdHNrcGtEZXZPc0NmNDk4dlJPLU1qM2tmNndaQWJmbTZGZzRfa09DckpLa0J4QWkwdHpoMTh1S3lfZ0E2S3BxcmZ1ejdyY2xxckJZVUtobkItTzllVDFBcDJHaWlTaXNOMC04OFdQaXNxeEpGbTdTNDFfalZJWFozWDkwWVlHYmVQdXhoc2YxWERUWkxFVlNqMHBhX0NhNFlMekY5eHBJSV9RNFZWbmxjMWFDVzdBZVIzckFpVHIxM0VOZFBkSzVmam9JbzFkeUQxODY2dHU0YzI5MkFzN2lnMXI4WQ?oc=5",
       "source": "FxNewsToday.ae",
@@ -239,7 +199,7 @@
     {
       "title": "الدولار يستقر قرب أدنى مستوى في شهرين مع صعود النفط وترقب بيانات التضخم",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1QV2V5bE53alloQUJQWjNTSzlkRWNBWjBRMTNRUkUzLXNHUG8yVkpTb1Z1R0dTa1RZajFLWlQwQ1V6SjlBUmMzd094aW9CV01JVHc?oc=5",
-      "source": "دار الهلال",
+      "source": "darelhilal.com",
       "direction": "up",
       "ts": "2026-08-10T10:33:54+00:00",
       "amman": "13:33"
@@ -263,7 +223,7 @@
     {
       "title": "الأسهم العالمية تقترب من مستوى قياسي مع تراجع احتمال رفع الفائدة",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MbW9VS0JZa3F1R21vU2NtZDZwSmFwZ09MTGhrNGozUkJKVjIxUlM5cXVJWmlxTURDSldCeThPN3MzZTZ0VlAxYUZBa0puVHFQWk1sYmQzbEtoYVk?oc=5",
-      "source": "alborsaanews.com",
+      "source": "جريدة البورصة",
       "direction": "down",
       "ts": "2026-08-10T10:26:13+00:00",
       "amman": "13:26"
@@ -271,7 +231,7 @@
     {
       "title": "سعر النحاس يستقر قرب 14 ألف دولار مع تراجع احتمالات رفع الفائدة",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaSHVGTTdBWXlIb01zSDdGVWxxS3djX2JNTklkLVJGRW9vQV94SVlvbndYVkUwZHg1S3NaeEIyenJhU3F2M2tEbzdrQTRsNFJycERjdDlqejlsNnM?oc=5",
-      "source": "alborsaanews.com",
+      "source": "جريدة البورصة",
       "direction": "down",
       "ts": "2026-08-10T10:26:13+00:00",
       "amman": "13:26"
@@ -363,6 +323,46 @@
       "direction": "up",
       "ts": "2026-08-10T08:48:46+00:00",
       "amman": "11:48"
+    },
+    {
+      "title": "أسعار الذهب تتراجع بفعل جني الأرباح وترقب بيانات التضخم الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxOcEN2akV2NmhLVDFXY3VsdHdrOGdmX2ppYnptTGVHUHVnTmhIVnlHS2ZlQ1dmMDZaSFUwN3V3WjdGaFNOdy1YanhwSDBOd3p5czBCU25PZzB1aDdENlJUZThWT2k4Z2ZuRmgxdkdISG52eFhuTEJRQzZmSWphWnMtU2k5aFI3VVFObm8yWWt0MjJVa2tVZ3MyaVc5LUV1eXU2Vm81YlhVemRuQWJxSHVPaXk1bHE4anp0aFhoVC04UnBKYnk3dmNlV2FsdkxjWWlDazh5S0g5ZGFDS1RKeGZGNjM1b25oYTcwaEZ0TFFMYmZUM0hqS0RtTkpTWm9fYW51R3lIOFJBQkV1aEJxam5UMk9jSEI0bkVTMzBGNUU2YXZvUHVyQmVfZGVaemRFZ05BUnBSOFNleHRlNlc2SHNqMThPTDNDQlN4cGlUSQ?oc=5",
+      "source": "مجلة رواد الأعمال",
+      "direction": "down",
+      "ts": "2026-08-10T08:44:58+00:00",
+      "amman": "11:44"
+    },
+    {
+      "title": "الدولار قرب أدنى مستوى له في شهرين ترقبًا لبيانات التضخم الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByQ0lDdF94dkVETmVOeElDZ2h6MzR0TWozM0JCcXJIdk84OGptX1o3VXZNcVR5bDdmRGZUN3hmekhCNVJfOHQxODhSWS10alRHQUhwNQ?oc=5",
+      "source": "الإذاعة الجزائرية |",
+      "direction": "neutral",
+      "ts": "2026-08-10T08:33:24+00:00",
+      "amman": "11:33"
+    },
+    {
+      "title": "الثيران على الذهب مترددون بالقرب من 4350 دولار مع مخاطر إيران ورهانات الفيدرالي تحد من المكاسب",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOX0hSd1ZfcXVJQnI0WF9XU3l3NkJYcHZqeVc1Nkc5YnVYVDloeHF5cjA0cHJHZUp6RzJwWTJjbkdvZW9XbVRwaFMyNzRzSlgwRWNJbDFkOG5pSDNsalhRZE1vMzhobk9fcFpaeDFzemYxT2NMdmNKMmZ5bHo4ZTFPXzdicERlT0pQN2tYNFBwakNLdVlDa1RaUXVKRGc2cFJ2eGpMQURmYi1icmMxVUNTZm1UblF2WTNySVE3ZFdCTjJRX0NxYW5n0gHMAUFVX3lxTE5hTjdKREY1R1pxOGZ1Z01QNVRYLWswSXVxMjFSWnJoM0U2dnRHUFlydHJyZ2ljX1gzRWJDeFJpbW4wcGtpdW1QU0ZIQWFobkV0MkpVUWoyNVY4eTE3LWRFRGV2N1BjaFcxWm5lRUQ4QmN6elB5TWZBZWpPWmdNb19KLW1qTkNSSlZjYkxlMXJRV0hlSEVGTERvM3NsUktoVWJEdWw3Y3pwN0JHVGs1OElTdVBpZ2pJWnNXX0J6VXY0R2dNWFJEQW1FaGktaQ?oc=5",
+      "source": "FXStreet",
+      "direction": "up",
+      "ts": "2026-08-10T08:23:05+00:00",
+      "amman": "11:23"
+    },
+    {
+      "title": "الدولار عند مفترق طرق قبل التضخم.. وقرار الفائدة يضع الدولار الأسترالي تحت الاختبار",
+      "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxOb1BySW0yT1hBcmJrUHZRTERCaTFoZ2pJSnZqTl9CRWZXNjBCaEUwSmRveEtFYVZfQU5nQk5JcTN1NHJ1N2tpeC1reU41T2Y2UTdOWlVrMkQweGwtYUpORW5YM0U5Wk9iVF9CMENQZVRGMDQwUHM5VDBHZEhYWHZFd24wZDJIaDREejVXdS13WDU5aXVwUzdKTVB1WFQ4YlBsRklUWEo2TmphZjlsUGhmdlh0TXdhTXE4UFpBbHpTTEZmbFZuNlduV1hhZ1ByQzloa0VBU1dxeEd5Q3Q3aW4tVS02bEJzZzQ0NHhIMmJtY1RGSkROUmFRbFQ2clVoZU5uaVdHVG9VaHFmUWN3YjN4VTFzQk4xMzBmTm5JN2ZtS1lkNXlMVFI4NzhLMEtQNFd4Nk9HbUV0OV8za3UtWXdQWDdSc1hwU1FBckgzaVJ3T05KOXcwSFEwR3BJQkhZMEJ3TmZQQVQ1U3BWUEdfVEY3TlMzZUY4aW05SDlzd1gzcmljNmZiZDBneVNzSFhKZUwxaWdtVUFWekNLUndnb1JyTkI1dGZIczU5Vl9mQkdVRXV0OERmMTZQcEJKOUlrZjJKZ1B3cDBoZHpZRVF5Nm1BVkt3NWtITkI5U2wya2g3SUQxZ1ByOVZWQWw4YWU3OUVETXhWeGJOaWtnMDVLZDB3eS1vLU0wWnlLU1hOVklNNGwwM3RBck0xX291RVhJVlVCcVpNZXloWnBNSmZ6d1dxVG5aUHgweW1zR3VBdHJyTENNRU9XVGRaTFB2Tzk3VVd2ZFl1Y3A3T3VhUVlueVAxd2h6ZnBIVkVYWVZOX2JEWWstNE55QXh3RFU4S2s2Y3M0RGl0dHQzMWhWNTBBZjd6VlJPX1VOaWs?oc=5",
+      "source": "المتداول العربي",
+      "direction": "neutral",
+      "ts": "2026-08-10T08:17:53+00:00",
+      "amman": "11:17"
+    },
+    {
+      "title": "استقرار أسعار الذهب اليوم الإثنين وسط ترقب بيانات التضخم الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMisgVBVV95cUxQSjBnQWFGZWdRRVNZT2QwTUdVVWIySWpkUWRTR2RxVjRQODByeUsyckczaEN3b2l5TGY2Y0Etc3QxS3YxeFdJN1dGU2ZoWGs4SDZyV2FKRGo5WF9XQ055LTZabEFPbGZtc3laVEFWby1YQzgtaFlub0pjcFYwSVlmLUhET19OcXdFVzZzc1RRR0NDaWhLbnFwcFZENlhzWmV0R01uVWlKQ0Roald5cEFHUGR6N1YxMXJKblF0M3JfWk12aTZhbUNNUVhkbU9mVVJtS2RJTlZaYkRBRVlYWkw3d2J3b18zMUZXYXI0NW52MUh4b21ObGxSSHo2bHVCSm91dWFkTVhtNmtWUkpVbFB1aXA2dm9MOVBrdk9pLUhJcjVjQnJIRUt1WG5vNmJZMC1SczlUZU9tbkp5MzF0T3VRUHdrMGdwc0ZyZGFkaDNtY2thcUhIc3B0ZjVDbi02TkRxNV8tYUNGTkh2OG95czlITjJDNnpUMENTZEdZOC1HRk1Jcl96N1dhNC1VWlVWQkRNUU9yXy0zclJOLVBGUjBGZm1wb0EyUEZiZ0VxdDBDLXlKVW9iaUctal9ITTNQMHNqMkFYNFdPVjBqYml3aXUwZUQ1cGZmSmsxRmRjTFBhRFp4ZDFJYlFZdlQwYUZQR0tsaVE4bWxwYkRPMHRicW03aE5DQzlxRTFfdU04NDZZNUtIbEVsZmp2MXVZTXVXV2plV05rX0VHbm12a2NHUXE4VXRFQnpCOExVdjJHTVI0RHoxNnpuYU5LLVBNb2tkc2RlM3BJZDgxaVRmMFVwaTFqelNYR01mM1ZORUVHV2l0a2Y2OHZpWS0zbXlGMlZQdXNWb0kyNUQ5UEg0cEZDT1g1YXFHb3NfUGdybkdCcDJ1SWZmLVdsSnd1VHQxV202YVMtOEHSAVNBVV95cUxNbUVLUWQzYUJsaFI4NE5LNk1RUWtlTWxvVGhiNDZHRUdHVjByNzh2X0pzVUxpNS1Kd0NkbGNVemFVVHU4LUlBLXQ1X2c0YlQxMFlsZw?oc=5",
+      "source": "alyaum",
+      "direction": "neutral",
+      "ts": "2026-08-10T08:02:00+00:00",
+      "amman": "11:02"
     }
   ]
 }

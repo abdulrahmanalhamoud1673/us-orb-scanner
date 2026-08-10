@@ -1,11 +1,11 @@
 {
-  "updated_ny": "2026-08-10 17:06:28",
-  "updated_amman": "2026-08-11 00:06:28",
+  "updated_ny": "2026-08-10 17:53:28",
+  "updated_amman": "2026-08-11 00:53:28",
   "session_date": "2026-08-10",
   "requested": 92,
-  "scanned": 90,
+  "scanned": 91,
   "waiting": 1,
-  "buy_count": 45,
+  "buy_count": 46,
   "sell_count": 18,
   "active_today": [
     "AAL",
@@ -1745,6 +1745,42 @@
       "active": false
     },
     {
+      "ticker": "PYPL",
+      "session_date": "2026-08-10",
+      "state": 1,
+      "price": 59.08,
+      "open_high": 58.96,
+      "open_low": 58.32,
+      "open_range": 0.64,
+      "vwap": 58.69,
+      "ema200": 58.74,
+      "above_ema200": true,
+      "entry_price": 59.08,
+      "change_pct": 0.0,
+      "day_change_pct": 1.28,
+      "volume": 5157939,
+      "targets": [
+        60.24,
+        61.51,
+        62.79,
+        64.06,
+        65.34
+      ],
+      "targets_hit": 0,
+      "next_target": 60.24,
+      "next_target_pct": 1.96,
+      "last_signal_time": "15:55",
+      "bars_since_signal": 0,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "15:55",
+          "price": 59.08
+        }
+      ],
+      "active": false
+    },
+    {
       "ticker": "NIO",
       "session_date": "2026-08-10",
       "state": 1,
@@ -1793,8 +1829,8 @@
       "above_ema200": true,
       "entry_price": 24.36,
       "change_pct": 0.0,
-      "day_change_pct": 3.31,
-      "volume": 8641338,
+      "day_change_pct": 2.74,
+      "volume": 8641388,
       "targets": [
         24.78,
         25.58,
@@ -1892,7 +1928,7 @@
       "entry_price": null,
       "change_pct": 0.0,
       "day_change_pct": -4.65,
-      "volume": 34500444,
+      "volume": 34500530,
       "targets": [
         16.11,
         16.46,
@@ -2069,8 +2105,8 @@
       "above_ema200": true,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -2.42,
-      "volume": 123374378,
+      "day_change_pct": -0.87,
+      "volume": 123374380,
       "targets": [
         6.98,
         7.46,
@@ -2831,8 +2867,8 @@
       "state": -1,
       "price": 24.27,
       "open_high": 24.21,
-      "open_low": 23.61,
-      "open_range": 0.6,
+      "open_low": 23.58,
+      "open_range": 0.63,
       "vwap": 24.63,
       "ema200": 23.83,
       "above_ema200": true,
@@ -2841,15 +2877,15 @@
       "day_change_pct": 2.43,
       "volume": 16943656,
       "targets": [
-        25.41,
-        26.61,
-        27.81,
-        29.01,
-        30.21
+        25.48,
+        26.75,
+        28.02,
+        29.29,
+        30.56
       ],
       "targets_hit": 0,
-      "next_target": 25.41,
-      "next_target_pct": 4.71,
+      "next_target": 25.48,
+      "next_target_pct": 5.0,
       "last_signal_time": "14:00",
       "bars_since_signal": 23,
       "signals": [
@@ -3805,8 +3841,8 @@
       "state": -1,
       "price": 862.58,
       "open_high": 875.6,
-      "open_low": 854.5,
-      "open_range": 21.1,
+      "open_low": 854.46,
+      "open_range": 21.14,
       "vwap": 874.45,
       "ema200": 879.59,
       "above_ema200": false,
@@ -3815,15 +3851,15 @@
       "day_change_pct": -0.13,
       "volume": 25158837,
       "targets": [
-        917.8,
-        960.0,
-        1002.2,
-        1044.4,
-        1086.6
+        917.88,
+        960.16,
+        1002.44,
+        1044.72,
+        1087.0
       ],
       "targets_hit": 0,
-      "next_target": 917.8,
-      "next_target_pct": 6.4,
+      "next_target": 917.88,
+      "next_target_pct": 6.41,
       "last_signal_time": "15:40",
       "bars_since_signal": 3,
       "signals": [
@@ -4265,8 +4301,8 @@
       "above_ema200": true,
       "entry_price": 24.36,
       "change_pct": 0.0,
-      "day_change_pct": 3.31,
-      "volume": 8641338,
+      "day_change_pct": 2.74,
+      "volume": 8641388,
       "targets": [
         24.78,
         25.58,
@@ -4418,6 +4454,42 @@
       "bars_since_signal": null,
       "signals": [],
       "active": true
+    },
+    {
+      "ticker": "PYPL",
+      "session_date": "2026-08-10",
+      "state": 1,
+      "price": 59.08,
+      "open_high": 58.96,
+      "open_low": 58.32,
+      "open_range": 0.64,
+      "vwap": 58.69,
+      "ema200": 58.74,
+      "above_ema200": true,
+      "entry_price": 59.08,
+      "change_pct": 0.0,
+      "day_change_pct": 1.28,
+      "volume": 5157939,
+      "targets": [
+        60.24,
+        61.51,
+        62.79,
+        64.06,
+        65.34
+      ],
+      "targets_hit": 0,
+      "next_target": 60.24,
+      "next_target_pct": 1.96,
+      "last_signal_time": "15:55",
+      "bars_since_signal": 0,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "15:55",
+          "price": 59.08
+        }
+      ],
+      "active": false
     },
     {
       "ticker": "QCOM",

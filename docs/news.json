@@ -1,8 +1,8 @@
 {
-  "updated_amman": "2026-08-11 00:53",
+  "updated_amman": "2026-08-11 01:22",
   "count": 45,
-  "up": 12,
-  "down": 13,
+  "up": 13,
+  "down": 11,
   "items": [
     {
       "title": "Rocket Lab reveals some big plans, but its stock is dropping on mixed earnings",
@@ -19,6 +19,14 @@
       "direction": "neutral",
       "ts": "2026-08-10T21:32:00+00:00",
       "amman": "00:32"
+    },
+    {
+      "title": "الأسهم الأمريكية تستقر بانتظار اتفاق واشنطن وطهران",
+      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOTng1ZG05SXBBSWR2US1pRTdzWnJCSzJ4ZU01YmhpZW1aYXI3SmlXT0kxUndyakhMLTZPenBKbHV5bFBwYnV4RWdSbnRYMzJxX2VZZzNiNzd2M1lPZXh4ZWxSV1JYcF80TG9XWWNEWmloRmFQb3VPTlBtb0xvbnZXQ3BvcTdMNkZsTFEyRnphaDhnNlc0UG5iNXFXYVFqdEdpZmgwR1EzV3d6WmFLaE1nb202M3Rac3NyNVN2YlFmMmlFd24xSHM1VlhDREl5R0Y3cnY4c0w0SXhQVGNFM0RDckFoaDRNeGI1MXhOMS12UjVCRHc2VGJyaWh6QUJvUXJNSU9kT1VDN19NTk9FQy1XTGZGSXUtUkJ3Ri15bk16RFExU2xFYnZyRXdEUl9WLUJIbjZhNll1UjVuMUREVXdnV3Z6MlFqTUMyZjlnSmNqcFJCZDhPRW9Oa1dFMnFzcW44SWNHcW9LbjZEbG91Y2lnbHY2dEJMb0Y1VllVRlNDR29MQ2N6c3JaMDhjdUlkSmE1N2Q2MU0ya19QTHhjX3dLdk9ucGRjbHRBcEJ4cV9rU1FuazVneC1FSFlLZnZHNW1meGVYMzlXTzlKRk40ZzVKdXdYRHdheHZBbnBiTkZ6YmF1bkdtMUltNkVYalZEVU9lb0NaZVB4RURvRy1DaFZRajdDendQbkJYZmx1ejJ6VGtZZ01vb3F2MHlkQjJOdDJEdUlTSWs0V3hLeEFaMDBwTmtJSWl0TmdScWgtNElmaldKaFhQcGdNMWNPT0FQaF9u?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "neutral",
+      "ts": "2026-08-10T20:40:41+00:00",
+      "amman": "23:40"
     },
     {
       "title": "الذهب يرتفع عند التسوية مع ترقب بيانات التضخم الأمريكية",
@@ -93,9 +101,17 @@
       "amman": "22:01"
     },
     {
+      "title": "توقف ارتفاع البيزو المكسيكي مؤقتًا قبيل تقرير التضخم الأمريكي",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaGFTMW5tTWFtNldFeGp0V0N0Y2NZRE81aE8tS2hGWFVaeXhUVzlJeGItOHZncENBend1OElBM0JxVDdzNXdrYkV3QkZYRmNkZFpEVUs5QmV5eTk0aEY1T2tnRk9aWFh5M09aZTZlY1hKY1NNY2lnamtiWnpJTk14cF9iUWU0TWlkMjZrZ2Jyb3lGOXZ6UlhMcEpoZngxVjY4bXfSAaIBQVVfeXFMTWhhUzFubU1hbTZXRXhqdFdDdGNjWURPNWhPLUtoRlhVWnl4VFc5SXhiLTh2Z3BDQXp3dThJQTNCcVQ3czV3a2JFd0JGWEZjZGRaRFVLOUJleXk5NGhGNU9rZ0ZPWlhYeTNPWmU2ZWNYSmNTTWNpZ2prYlp6SU5NeHBfYlFlNE1pZDI2a2dicm95Rjl2elJYTHBKaGZ4MVY2OG13?oc=5",
+      "source": "FXStreet",
+      "direction": "up",
+      "ts": "2026-08-10T18:37:21+00:00",
+      "amman": "21:37"
+    },
+    {
       "title": "الدولار يستقر بعد بيانات الوظائف الأمريكية الضعيفة والين يتراجع",
       "url": "https://news.google.com/rss/articles/CBMizAVBVV95cUxOcHhfV0huZW81NXdnU1VxUkRFcnFkbS1xSkttN096VEdEZjlTVEZFV2VhTHlwX1ZtdWVtdF9RSzhpbHFXY1BlbWJHSW1FQlBzM3ZyTWtLS0RPdnhQS1h6a0NkUENQeDh3QThCUzlwa01odEZBdm5pMEtyTERFeXh6R1I1azdLa0w5UmxkSVE3OGcwcFJYN2pKczVkZHNDUDhHc29kWVhRMlFfN1dtcjZNd0d3UkpJMjM5TmhqQWtiWEZVNlhncWtuZkJaNkRDU1V0TllmY0FVV1NQdHdkSkdZb3VtT3ExZEF4anl3M1VzbmxPNk14cTd3cjA0enVJZTczSG1zVnZaYk5DX0pFUzRtVjhOUUt6WkpkLWl0LWNILWlHOEhxUnVvU2tPN0hPT3IzWm9WbWJXMWNlV3ZVcl9wUE1sX1V3TGVQekpSWExzR0hZaWJPQm85ejY0QTZsSkZMZFY4Vl92V2xFTzQwZlJWY25GaEtKZ2txV1NxQTVnYWFGVUdDQ2ZUQjA5ckFQQUtTMG1RT0FRdHM3MjhzMnZ4RE1KckFpY2ZlTzRPeXhVSmJWYU9BUXpqVEYxWFRpeUY2bmFScXREVHZDWmZvQjBUbTkzX0ZrRE1vVFVwMWVjMUZFZUFpVTd4bkgzNG5CYjBHRVJkZE5yVWFzdWhMSGFfODBmbmRFa05ON0xlMGwyQVI3ZUlTM1Q2RVpfRTRyQk5JRDNWZ0Y4RXV3VzI2MjBOa0FDMnAtdlhQSFB6R05oN1BiTnFycWxSb1hkczJPV2dzQnFQWVpxWFFCc3RVZTBQVjFZWko4d1RDbGRxeDJVa1czakszSVY2YVRCLWlleDYzTUpYTE5NLWZQeW13eWY3aTRpZ3JFX1pOdUp5T0Y0Q2JlSlctWE0xblFQak15a004U3BBcGJZbDVEeTNqZkZTNVRKajlxRTdFdDFzUw?oc=5",
-      "source": "alkhaleej.ae",
+      "source": "صحيفة الخليج",
       "direction": "down",
       "ts": "2026-08-10T18:25:27+00:00",
       "amman": "21:25"
@@ -123,14 +139,6 @@
       "direction": "up",
       "ts": "2026-08-10T18:03:14+00:00",
       "amman": "21:03"
-    },
-    {
-      "title": "الأسهم الأمريكية تستقر بانتظار اتفاق واشنطن وطهران",
-      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOTng1ZG05SXBBSWR2US1pRTdzWnJCSzJ4ZU01YmhpZW1aYXI3SmlXT0kxUndyakhMLTZPenBKbHV5bFBwYnV4RWdSbnRYMzJxX2VZZzNiNzd2M1lPZXh4ZWxSV1JYcF80TG9XWWNEWmloRmFQb3VPTlBtb0xvbnZXQ3BvcTdMNkZsTFEyRnphaDhnNlc0UG5iNXFXYVFqdEdpZmgwR1EzV3d6WmFLaE1nb202M3Rac3NyNVN2YlFmMmlFd24xSHM1VlhDREl5R0Y3cnY4c0w0SXhQVGNFM0RDckFoaDRNeGI1MXhOMS12UjVCRHc2VGJyaWh6QUJvUXJNSU9kT1VDN19NTk9FQy1XTGZGSXUtUkJ3Ri15bk16RFExU2xFYnZyRXdEUl9WLUJIbjZhNll1UjVuMUREVXdnV3Z6MlFqTUMyZjlnSmNqcFJCZDhPRW9Oa1dFMnFzcW44SWNHcW9LbjZEbG91Y2lnbHY2dEJMb0Y1VllVRlNDR29MQ2N6c3JaMDhjdUlkSmE1N2Q2MU0ya19QTHhjX3dLdk9ucGRjbHRBcEJ4cV9rU1FuazVneC1FSFlLZnZHNW1meGVYMzlXTzlKRk40ZzVKdXdYRHdheHZBbnBiTkZ6YmF1bkdtMUltNkVYalZEVU9lb0NaZVB4RURvRy1DaFZRajdDendQbkJYZmx1ejJ6VGtZZ01vb3F2MHlkQjJOdDJEdUlTSWs0V3hLeEFaMDBwTmtJSWl0TmdScWgtNElmaldKaFhQcGdNMWNPT0FQaF9u?oc=5",
-      "source": "alkhaleej.ae",
-      "direction": "neutral",
-      "ts": "2026-08-10T17:48:39+00:00",
-      "amman": "20:48"
     },
     {
       "title": "الدولار يرتفع مع ترقب الأسواق لبيانات التضخم الأميركية",
@@ -253,6 +261,14 @@
       "amman": "14:46"
     },
     {
+      "title": "يتعثر الدولار النيوزيلندي دون مستوى 0.5900 مع استعادة الدولار الأمريكي لجاذبيته كملاذ آمن",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVDk1cGV3YlpZNnJfWnozYlI1WXU3bTZpUWs0dVdXOVpQUk83QjNBbVY5emhzS0R6QjBNNkkwa2pPNHE3dXNaUkdBMmJEbTNxTmNTQ0NVMjFzRDBGX1V6QTRZYmdwS3RUR3NyUG5KZWV4RDM3Nm0tVEp5WXpMcERKQUVYdWZOZnZybGd5RUFNZWxKZktBdWlmMEdJaU1CeEZDeW1BYlZBNmI1YU1ya1BtaWpPajdJSmZGRDVMNHkxanYyR3FoNEl4b2hhYXhpNF9iVVB5MVo1eWM2QQ?oc=5",
+      "source": "tmgm.com",
+      "direction": "neutral",
+      "ts": "2026-08-10T11:10:50+00:00",
+      "amman": "14:10"
+    },
+    {
       "title": "الدولار الأمريكي: بيانات سوق العمل الأضعف تدعم الهبوط – BNY",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWp1dEdXQVRieUtxeU8tb0Fvc0RWTzhXWW8xTE5UdkVkVHNQT0dGOGtWc2hZQTJ3UXpja3BFSXhjaGd0aWgtUjZJM2h6ZU5RbUk1SE50YVlSRTRjdWpDemowbzVXLW1EejF0LXdLOEN4TjU3aHp5cGtTVmhJWXNma0ZiQzRSREVmYmo0UU5B0gGTAUFVX3lxTE1BUHdXWlB5VkpiczlMeXNaSGNwMkpBTVozdXR6R1hodFAzNkJHWFAteTVzUmVjRzVaWEM1Rkd6Z0NVZEkyRXdFZ21HR0NwS3g4TXFYZG81Y3AtR040dGJJOGNRTXhrckZBREdpbThoSGQwOFZGQXFkS2VFeXJ4eU1sQl8xcWJnLWJuQ2h6RHgzeXplRQ?oc=5",
       "source": "FXStreet",
@@ -295,7 +311,7 @@
     {
       "title": "الذهب يهبط نصف نقطة مئوية إلى 4300 دولار.. بانتظار بيانات التضخم",
       "url": "https://news.google.com/rss/articles/CBMinAVBVV95cUxNUHJtR1dmWWZjRThlbXZyOF9UMmtZMGRVaFItMG9SV3NzWVIxVnd6UVJEQUxzYUJfVTFaS21MeEY4dEFFQ3p6anRncnZCQWVEVzlVbDVRT0lOZEJLNkVNdGExY0dKUk80SmJ4MDJfbldvbFZXUWViVmVsbGxGUHVPWDVrM0R0UFg5WFhXV212X2ZqZHRva1EwS3U2dVlFbkRBdlRzbE1sUm8wd0NCU2dxaDFkRnFKQzhVR3UwZ29CV25scUlnUmlVYy02d0E1SWc1YUdSQkZrMW5aRTh5VzlaVGIxWF9NRmduc2NZVVlUaUlsNXZ1T0Jldmxuc1NNNlZySGVSRlU2TE9ldmFZUlJ1RjdNMTRhd0ZuZHdiaUJBM3k4b29hSjduUFlMNi0zT2Qxa1JvaUNIS05RYmVUUkgwQzY3LWFjVWNFUkZ1ajlEMmpUZUhtNHN1X0xtdTZQMHZ5U1hnVlE3czJ5UzY4d2pHQnFKNy1mT2U0MGVIZG45TVBXYmpwU2llWDdBMmtoYlhvWmRadEJiRm5icTRPdWN5LWNueGlRTThkYndJVE9XR0liNlpRVFREQno1dnAwVUVOb1NrSEZOWXdkTmprMm5xM0poWXBQc2RhckVUN24wYldLZXduMG9iVTIwSlhZTnNubDVqbU93REpWc0lBcjRpVGc5TXBPU3JSQkZ3U09rN3piSmFjRWVGb3preUxtNjdlckk0Ti16bEpHRkVoRjg3TTZpS3BrQVQ1SDYwWHFtcG9vQ1Q4WjdzWHZ0YmNTSld5amdsT3k0LXcxUlpBbVJ6WFZjT2V5RV9JVS1Yc0theFdiNGVqVGxSbHRsdzJ3bUs4V0ZCUm9PRFN6R0xETkRNTnFPeEpnTE0xTmFjdg?oc=5",
-      "source": "alkhaleej.ae",
+      "source": "صحيفة الخليج",
       "direction": "down",
       "ts": "2026-08-10T10:39:38+00:00",
       "amman": "13:39"
@@ -333,14 +349,6 @@
       "amman": "13:26"
     },
     {
-      "title": "الدولار يواصل الانخفاض مع انتظار بيانات التضخم",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQaGk3RndrRjFXQ1RoQW93UUdDdGVIaUVrdVIyNDdQaGRmZElBaWJVZ0VlOHlQZk1TSHhpYTFudzRyTmFjdVJFcUNDeWdtd1ZMajllbVkxWjYxMTZHa3hBMnBYWjB1eVQtTDZ6Y0xjTjNkYmd0VGRaaTYtX1ZQcXZqT04tZHVGR2hXRTNpMXZmSXF5ZjVYRmpNRl9raS1uWHROSGtrb1pCa25LS3pNb05zWHBLZmlZUWNSNzVCd3FBdjBhZml3Ukh5UXdJTGlHbWZPSDFmUGp1UUhLOENvNDRTNTRWandjdUN0QTFMLXJZeHAzS2Q4Zl8wLWJ6aGRsV2JQR1l3MW41TFNjX2h0Y19ZWVRYMnc0SExoenNTenZyZUJ2ZUl2OHlQMl9sM0RIUmM5ZjlxeEo4QXc3ZTNUelE?oc=5",
-      "source": "d-dall.com",
-      "direction": "down",
-      "ts": "2026-08-10T10:14:18+00:00",
-      "amman": "13:14"
-    },
-    {
       "title": "الذهب يتراجع مع ترقب بيانات التضخم الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNWkVMeDVnNFBVZjRPOEl5WjM1Z0xpZVgzRi1LRGxieDhrZmJ6bnNoSW9fUzFQdVJmTUMtTXItMUlVdXRjVVVPOW5GbXpNbjNBVVhUX3E2TXNOSVhHQWY3T0k5SmtEekl4cTU0bUVweXVmWlgxQ1BhZXVZRk1BUmgtUVZ1aUVydDF6cEhHVDZiaXlRQ0dJbjZPSUg4bW40bktYSHFWa1I2cHFhZEFzaE1BRDNjc1JSOUxBaWhRdDVwWFJuREptNWZQMVJfWmVzay1pNk5SMmhxVFU1ZGdJcFA1WElHaE5qc0ZTck1xMVlIN2hGU3B4M0hOdjVFY1k4VmI2RE1LWTJkU1cxdm04cWVTeHdGWlZ2TlhIUnVzY21BcFhUTzNUQXFqQUgtTnJlQkN3dV9yTVEwUUptd2RCZEVQV013?oc=5",
       "source": "attasiaa.com",
@@ -355,14 +363,6 @@
       "direction": "neutral",
       "ts": "2026-08-10T10:05:00+00:00",
       "amman": "13:05"
-    },
-    {
-      "title": "أسعار الذهب اليوم الاثنين تتراجع بعد تسجيل أعلى مستوى في 7 أسابيع.. والأسواق تترقب بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPVkkyMWdNdi1NOXVIS25zYVNfUWt2NndlUGRCSUZJYy1sUlZzMzl6eFk3OWRjWF9oOG10d25FMmdvWEN1WUhlZllPNmkzLWJfQTRnNXYwTEVoTnRYSnNwdjJQTlk1RllRNWx0NTJ2enl2YVpfc25URnhtQzhtSV9zcFdnc19wUW9lTk1pWjV6OGpRYUxPeXk3VmpXbzZ2N2hzYkVfdnFPTmNzOEwwOWo4VVRiamhnMi05QTFmMnBYUVl6QjZNMDFMQU16WldORURlbjZRRWVQOWRoU0Q3Y1RrYlAtZTV6a1k2LWRIV0Q1RXNodmkzX2ZXRUo5TGFtM2V0SDRsci1VcDA0VEZMUkhTRlY5QzRuVWlwQWJ5LUZJRjdPcDJKd0ZYdWxjcVFUVVpPMFRJTG0xblZ2WHZHZkh1WUl0OTVmZUU?oc=5",
-      "source": "جريدة عالم النجوم",
-      "direction": "down",
-      "ts": "2026-08-10T10:02:03+00:00",
-      "amman": "13:02"
     }
   ]
 }

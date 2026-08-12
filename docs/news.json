@@ -1,9 +1,17 @@
 {
-  "updated_amman": "2026-08-13 00:37",
+  "updated_amman": "2026-08-13 01:22",
   "count": 45,
-  "up": 11,
-  "down": 8,
+  "up": 6,
+  "down": 10,
   "items": [
+    {
+      "title": "جي بي مورجان يتوقع تثبيت الفيدرالي أسعار الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxPdkRCWTZaR1A4bmFjV1k0cy1LY3BxWHR1X2haXzFkc1RQXzZHWEJ4RUd5aUhLWkh2UUNMLWRiTXlLbVo3VXl6VEljTndrYXlVRmppUmotcFlRTFN1b3dMYnJsNEF2Vkc4aU9SaEhYb3ZDMGt4MkppWVk1RXZiNGJRbEZfa3pQOTJHYU1oT1dFek9maktrZmhSZnpnUDdJQ29ST0NLbVJrRVhJbGNwclJRckZjcWI1aC1VeWJRRkV3SkJ3ODBrWEk1cFlnT3lTWFZhUGJzb3JZT201MkU1YlYwVFNBTTdUUk84SXMxblJZZDVEMDJKdmgtcTVtaXNuRWNOSm13VDdXNUJrek9XbHlzVXRIcVBSTFloSnNkWGM3cFFxQ0NnSHQzb29pOFJyTTdNWUY2c1NPazZzS0MxQWdwS1VJVUFYa25HMUROWGNyYkp2Um1x?oc=5",
+      "source": "hapijournal.com",
+      "direction": "neutral",
+      "ts": "2026-08-12T21:30:49+00:00",
+      "amman": "00:30"
+    },
     {
       "title": "Goldman’s latest deal underscores how ‘boomer candy’ ETFs are now big business on Wall Street",
       "url": "https://www.marketwatch.com/story/goldmans-latest-deal-underscores-how-boomer-candy-etfs-are-now-big-business-on-wall-street-5520109d?mod=mw_rss_topstories",
@@ -45,12 +53,28 @@
       "amman": "23:59"
     },
     {
-      "title": "Investors are chasing the latest rally in gold as the yellow metal hits strongest level in 2 months",
-      "url": "https://www.marketwatch.com/story/investors-are-chasing-the-latest-rally-in-gold-as-the-yellow-metal-hits-strongest-level-in-2-months-dd0d5b18?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "الأسهم الأميركية تقترب من مستوى قياسي بعد بيانات التضخم",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOa1Q2Q1pnSXdoRE1saEdTTW01OTRUZG5iWkNuZG54aVNNYmd5V1Q5N0lCM3VYQnd4OXN0eWFzMmFOUm9wSW5jNmM2LWViSVAtY3U5cTV2X0RHU0JWdmZiRWRjbUNLeGlJTTFHVEc4RmdyN0FoYV9TNXE4ZkF0bjN1UVJ4VC0zUThVSXJIcU15WkRMdjFiM2szTTdwZjZEaEFMM2NoVEl5MDdmRFFTdjA1cWsxdGdtSVpQV2gwQWt4VFFneURqU1VUSWtmcjFTcWxHN09jUElwcnNqUDc5d3c4N3U2eXlKYktHdFU1YjdFbVB3ZEdqTndMSW12MHFoTUp2SEIxVUhJRFVlUzZ0ZW1qM0pTZFRNWmF1bmpyWVpQYnRHdFQ3b0x1WEZR?oc=5",
+      "source": "الشرق بلومبرغ",
       "direction": "up",
-      "ts": "2026-08-12T20:58:00+00:00",
-      "amman": "23:58"
+      "ts": "2026-08-12T20:55:06+00:00",
+      "amman": "23:55"
+    },
+    {
+      "title": "طفرة الذكاء الاصطناعي ترفع التكاليف وتعقد مهمة \"الفيدرالي\"",
+      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxNV2ZVNV9zRmtfV3NzNHpncXVqSHdDb05keEF6cU9YMEdoRDJ0WDhxWkV5UXdrWFVEMHdGSGdzMGw0Qzk1ZGZ3UE5sSUUzWkRabXRJRnBfQVcxWGtiYTREazdqREt5M2RoYzdNMUFBWTJyYVlmemQzMGROc0U1RXJVT2U4dzN3OXdBSDVldGlwV091WnVUZUYyY0lIcGlVQUNsTkZ3Q2x2WWVrSDBTSVhMM1hzMFZsRmVYOVp3M1h0VDZEalhwYXdONGJtRFBjNFdFUThuYXBZVFVfNW14OTdsTVNnQ18tZDctYnNlQnoya3dvVGtUb2dlUlJiTDI4bnQ1c2NqNl9NTXhhOHBEMmlTM1J2T01IUW1raHhXZHFZYlg3ZzVSZ0dhR3RQc21BZTVXZmh6U2pvUnBOWTNuWk5COU9UNUNXeUdyYUVZUWJiaVlwMW5oZU56NmVjZ0NCNWRfWjJOU3pod0tOdl9vSzRPSldYVVJoWU1kSXBnQWR4MnlYdWJXODZnT0h6SXdOODJyUWtGdllDV21xdkk4RmZ0eTlsMVFPckVFWFp5S21vVWkyM0RjS2FfMTlkcmFzaVkwT1ZmTTNPSkxuOTg3X3lrT2hUdWZMN3ZsbjF3?oc=5",
+      "source": "موقع 24",
+      "direction": "neutral",
+      "ts": "2026-08-12T20:27:16+00:00",
+      "amman": "23:27"
+    },
+    {
+      "title": "إس آند بي 500 يغلق مرتفعاً بعد بيانات تضخم هادئة والأسهم التكنولوجية تصعد",
+      "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxNSWpRdUJvRG1HUWdYdV9NaTNSQUZEV1k4N1BfU191aW9abmQxMXVCX1EzYU01V2lma1JaVWs2TWI0TlVpSFJrenB4d2ItdW9uTl9fZUZzMG9YX2JMMENlVHdSXzdJUV9qWE0tTGJ3bTVRbk1lYzFZd0xLV0NPVml4NU1IT1N1U2FnMjMybzk5aTlfNGh4SVduazZzTW0td3Y3VnVza0pxQ202T0lUdmxFZDg2dWhWUzZqNVJ3TWpPNUJ6SWVHNERXQlVNSnpfa3o1MmpxaS1fd2hSSmMxLTVndjlwbmhGdFFOVzlpbm9kNXVZYWNjT3FOOEwwY3hXTnRtWWMtUFNXeU9FSjVWRkstR1pIRUlYdVBIX3lGdjdpcmptblFpYlY0SkVVdGNYZXdaX01DUU5rcUwtSmJXQ2t5aDRkRjhkd3JSNlFaazdFNmNxTDlIaXdHdmNmT1ZlYTlUbnhsa2hZUHNxbTJ0MWhHX1Z5S05PQ0JlVnlKV1VibzNfTldKaWtGMUxaT1M1bGJRLXg4N1lsUGF5Y2VEMzJiSnBJTnRPV0lUcVczd2NUaWFLQzl6R1lObTc5OVVMcWpsMnhkQWZsTUtIRXA1NzRqbjlsVlpZdHB2eTA1N2gyQkJZMDZWQVFETDNuTFRybWR1WklzNmVnNkVDX2dhYndsdmJzbHFWNV9RbVZpU0VTMXdBS0tQMmxuT3E2QzA1eUJTZ2RFNWZxWVgwQ0xIZG04SC12bk5zaWlKX3JWdFI3TFE3THVHX2VHOFZ0R0s?oc=5",
+      "source": "arabictrader.com",
+      "direction": "up",
+      "ts": "2026-08-12T20:19:50+00:00",
+      "amman": "23:19"
     },
     {
       "title": "\"وول ستريت\" ترتفع بدعم أرباح أسهم الذكاء الاصطناعي وبيانات التضخم",
@@ -61,12 +85,68 @@
       "amman": "23:13"
     },
     {
+      "title": "الذهب يصعد إلى أعلى مستوى في أكثر من شهرين مع تراجع رهانات رفع الفائدة الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxPSU5oLXlqeDJMQlo5WEpzelRnTjRnLWFoUWRIR3lMNGxsWG8wRFU5UW9kcG1sQlotekpCVWJrSWkzWUE4eURJbnU5clhzSnJYbzhsMmxtbDh4d0YyRGI3dzRRSF9ySmRldWJIR0JQb3RfTEc2aWNZYzEyc0d3MFotV2F0YlBYTXZWR0U1N09qdlZTQ0NWT2pJZ2F1RjFEMWVWeEsxbV9xRTlxQmJrbEVKSS1MVXozUERBRk16OWItTFg2bjBrRkY1SHZwTDctZHhFMkFfZU42VUNxemlVWU05dDBCd0s0TngwY2Z5cjd4Wk13MWdpY0pRUFN3a3JJQ1RhVUsxLWxVUzB6S0tGNEVPeWJTb09aWi1IUTdBRFpfampxV2FHQkNBa2pjVkZVaWJPT01wZmdyTXFVMDNNTDJvc3JDLUlXbXVNTkh3ZkN0TEFKU1FCbzhrQXM1U0N4SEl2enRDUGFLVmRKUEdNdDlhc0l0SzJZbkc0Z3RfT2VrYktuWnVONjJtLWdzMER1eVlBYjhQcnp4Q25hZ29CRmE0TnJ5ampUWEdQNGFNd3poS09zczBqWjhuTVo0ajJZOTdWdURzMEJGUDBzWjNxVFhQZm9mMlN4ZFZRNXJCS21BQ0ZlZ1FBMk5tVy1KZ2VGeUJrMHNaR3M1LS1KZHZCSEJ6X19RRmxVcTFnbW45ekJzcTlUb001ODM4Vk96R20tLVE5RTMzRnpVbm9wSlpLRXhYWFdkUi1qajNkay01Mm5WX1hTWHpLMmVFNlBWZVZ3TnNDUy1IN0hoNDNIZGRkNmloSmNNZzF1LV84YXZUcGM5OXVoTGZOMjRVb1hyY0Q4VGI4SF9TbkNkT1BWUQ?oc=5",
+      "source": "arabictrader.com",
+      "direction": "down",
+      "ts": "2026-08-12T20:10:42+00:00",
+      "amman": "23:10"
+    },
+    {
+      "title": "الدولار يرتفع رغم تراجع رهانات رفع الفائدة الأمريكية سبتمبر المقبل",
+      "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxORk1nWnVhT2F1X0lGZG9XQl83Vi1YUUtWZmFMVGZMcnkwQjZSZThNNlBXbjdHOW04ODFTaUtFRHR1ZG9kMnJ6TlR0UE90U1h4a1E1OGo4NnAwNXBZTjZMbmtpRWtZRXlpUzY5YUpYeU5qMEtHRTRUdEdfanE2NjJfcGY0RWx3VHkwaFlpeEVBTnZubE92ZGw2ekw3Q1pYQ1BYUjlXQ3haaGYzclJoR1NOb2ZYX2pRTkM0MElSTmNlR1Zqb0tVRkVfOGJQcWUxSHM5U3hibS1LQXRkYTlPMjJNdkhrYnZ6MlBLTUhHQ01FeGIxS2NwbzNQQVFlcXg2V0l5T1RxUF96c2NBYURPak9kV1dLX045S0M3NTJleHBobHlKd1VjZUc3MXlUWkhIVVdXWDItcmJPeFNta1ZuU1ZWQ3M5LWdlRTUwZ2dCc1ZDZHU0WkpaUkdYS2V3MVFzYmd1RDJPR2pTS1l1TU05TFdIVTVsZWJDZFRwd2FMbi0wcjJ4OVFGa3lxTGtJUnRnZ2owVkJxVU5QamtNQWR0Zmh3TThid0RVWTZjRlU4VTdzRi1VcklRQTZaODB3bW1pVjNHNk5MRFdwQlVYS0lYRkdTRExIS285cUtjbFFLaUQ5blZrVUFIeTBYZUY2OS13dzBYT2RFTnUyMndFZDBmOVVwdmtwSExDMFdma3NVZkhNSkZibnV5amZEUVVPeEFVTVZBWksyU0lR?oc=5",
+      "source": "معلومات مباشر",
+      "direction": "down",
+      "ts": "2026-08-12T19:46:02+00:00",
+      "amman": "22:46"
+    },
+    {
+      "title": "الأسواق ترجّح تثبيت الفائدة في سبتمبر بعد تباطؤ التضخم السنوي بأميركا خلال يوليو",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5laEtZNzlfelAzMXBoc3dWbWJ1S0Z6dkNiT2J3SXg0MXhTeHhOYzljTzFzbnVYY2Z3QjNGOEVWTHJ0Y09YeVJOU2hR?oc=5",
+      "source": "eDahab",
+      "direction": "neutral",
+      "ts": "2026-08-12T18:55:44+00:00",
+      "amman": "21:55"
+    },
+    {
       "title": "Market Update: BTI, MCHP, APTV, TWLO, CAVA",
       "url": "https://finance.yahoo.com/research/reports/ARGUS_47898_MarketUpdate_1786560461000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-12T18:47:41+00:00",
       "amman": "21:47"
+    },
+    {
+      "title": "تراجع التضخم الأمريكي يخفض احتمالات رفع الفائدة في سبتمبر المقبل",
+      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOaVd2UWcxVlhsTDNScjJtNWJ6d25YaHJ6cjZGbzFmOGRBLWZ0Z0Z2TW1OMm93QnYxX0hXbmxTcEJhMmExSkxRUzR3N1ljNnRQRk5mcTh5YmJhZEdNYkd5OUgzckZUcHVEYktvV2lXRkVHTkhvTndMd01NcElIVm5rQVZZQ3M4a3AxXy1fTjhTTEdKV242S3B6aG0wNmtjc3VCZVlSUDdnbXpkMW95bjRLaFFydXFIVTU3QUlVenJFZE81QllyN1l2TWRXODViQm92cmlfSGpJSGhlY3Q1Z1lQU0VFY1QtR3NsUXdXdlRFQlNoRHRTZm1RdTIzLXdEeTIxVFVFaHBRRmptTE9rVXdiYTZjbldfaklydllwVEZOaUVueHhnZnFnMlFsTmZ5dEVhM2dEVURvWkZFMFJXNXpQUVV2QkFrLTFUMlRKN2VPSG5MVUFrTGhIQkhsbFVxZ3lJanpMaDRXODdKcG5CZ0R0LVZHOXRhelV2U2NHYm9OQy1MZzNlZWZRSUZUX1lrSGJIS3E4ZTByQ1VoMHVuWFFSZmNHblgyUUlEWEEzTGhvQnZsQk5iUkxHMjB4RmJxMjE5d192bUpnOXpDZTBpMFNjaGx2T25XWHdLZTU2WGNrMzlTRE95Y0VYUk5GbmMydmdCbzZkVzFhSE5sTVNNZFVxUzFrd25zcTUwbndXal9VS0dKcGp1QWc?oc=5",
+      "source": "معلومات مباشر",
+      "direction": "down",
+      "ts": "2026-08-12T18:44:48+00:00",
+      "amman": "21:44"
+    },
+    {
+      "title": "\"جي بي مورجان\": التضخم يتراجع تدريجياً ولا حاجة لرفع الفائدة الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBDTW04LV9UVHlMZGhQSmdsdGJuaEpGREVVOWpiUXhNVnowSy1Ncm5ENk5raW5oLVBja2pMaWJYeVRKcU9vLWx5ZQ?oc=5",
+      "source": "economyplusme.com",
+      "direction": "down",
+      "ts": "2026-08-12T17:43:27+00:00",
+      "amman": "20:43"
+    },
+    {
+      "title": "ما الذي تعنيه بيانات التضخم لسياسة الفيدرالي؟",
+      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxOeDRuOGJyVmFic2pnVmdDSWwwRUlDMFNxZmI4b0F6R3hFTWVXX0NXamJoZ0VPeldCZDU4Y0lNVkxfMG5NZk55X1lVQmNVQUo5cm9BU2hjRS1CbEx3aXBhR3FBNjZNazNWTVdzbmEzbmpwdGJ2NXFpTjVLTlB6bWxLSF82MEEwbFN6VGM5WkdELUItaHZXZzlkRFRfSGdTM1BlY1FpZ2RDMUU5V1FQU1FjM2NRVGJ3SmhLM2NzWGR2MzJoT0M0NjlNM2J2d05wVV9tNGVTbG9GekkwNGRLRTZrd3lBcUg3bU9mcVdUZVV5eE80dFdCTkFHRll4dFBfMTFjUHYxZVlQQ0NFZjhyb3RFMzJfcVdtZk9hV2U5NVlLdmpGNEtVcXdTR1pzTllsSGk5RFlyX1FuWlQ3eXpMQi15aDVUcnB6cGtyRjR4Z19GRkJqb0ZMMDFWZUFrZEt5cnRyMHo5VUk1dXo1bm5fa0lPdVdGaEx3cFhQNF80RUoyU0diQzdRcXkyMjdIN0tCd0RDVHd6aW1sbjQzbzNYblE1eXMtOEV6Ykkyam9hTXkwaWtFa055RlUybXNtNEVCM1hGTEhHanRhMndhV0RwZ0JxQXJwNEVZMWRxTlNscEd3NkMycDk0VnJrOVp4ZklONEQ1NDFxWQ?oc=5",
+      "source": "FxNewsToday.ae",
+      "direction": "neutral",
+      "ts": "2026-08-12T17:30:09+00:00",
+      "amman": "20:30"
+    },
+    {
+      "title": "جون لوكا: تضخم يوليو يضعف مبررات رفع الفائدة الأمريكية في سبتمبر",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxPLXV1YXkwdUhLY2R1bFdDbFgyX0gzM0VlclVUamRiWXdfUUFNYXR0aEJzOEhjOXI2Mlg3Y3R5Ti1JM3EzQWhhRVVtRG1MRlFwTXlJdW84YzNLRXFLbGE4VHR3ZmJOMW16SmxucURXSkJ3UGs1cVZNOGU5RS1PZlpTOXZERUxRemRKN2ZyR05RYWZpTjRQcUx4VVpRLVdzakZWZVF5aHVuSDJYdGxJYklXc3VvUGQxdWJRZm5pRlQtRV9sUGlyUDE4SkJCQjIwdFBmWEdEdjhDQUs3ZGZzbHBHVnRnaDhQSGVuWFU4ZElaUU54allEa2VxN3NlblRZQ2pBeGloMXZxblpkYmZVdDhBUHppMzN3Qk5vdHNKY2VNZkVZeWZpOFRWVnNHb3hfaVNBNWNlZmQtY1Vqc1JRTDZRWHpYNm42c2FJTXRGTlg4VWVfU203VkE?oc=5",
+      "source": "amwalalghad.com",
+      "direction": "down",
+      "ts": "2026-08-12T17:22:36+00:00",
+      "amman": "20:22"
     },
     {
       "title": "Here are five key takeaways from the July CPI inflation report",
@@ -83,6 +163,14 @@
       "direction": "neutral",
       "ts": "2026-08-12T16:59:40+00:00",
       "amman": "19:59"
+    },
+    {
+      "title": "\"جيه بي مورغان\": التضخم في أميركا يفقد زخمه والفيدرالي سيثبت الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMi2wNBVV95cUxOUWNtTkRveHFIWFNrdG8xVW01dVJsX25RSk44VE9fUVRXeGhwV2NxZ3JqcmM3dldicEpfVFdlVGZBVDhYeTNRMFBodkxBazloQmxscTRBM2N3ZnktSy1XcDdINVJaYzItM2l4YzE1TC1aeVFpbHBaSXBzeDlDaExxd3pMTlE4ZUY5RlR0WGxiM3JiOTI0SzNoSVk0em1RRWlBVTdQa3RDaVdoWmc4SmxyeFpYNGl6TnZ0dDVTVk9lMEVLTmVHRXlPWWhDYTcxM19mbXJMbGNaQzg2Y0JHZklwSmVQNkVmSG9Lb0Z5Q3ptWDREQ1gzajE5MzNVV2FnUXlwN3hXYmtUejc4NlJFOTc5WUVZRmxzaUVEUnNMTndHNG40NGx2YW81WndWX09xeEEwRXdya2JSSWdXMGFGTDJGekJHR2Q3dG1XSGp1NzRRX2xLZTA2djFGMXFxRVI3ZXp3SGpKYTc2dnBrM0hvUWI0WW96UlBlak9mRVBidmtxMlllR2xaaV9FX1FBRWdPTHptaGwxTDVWOVpmemg0X3daWkpKd0NldE05UkU3Z2toUTNxTk84RTdrc0h1czV6SWJUSzVyVGpZU0lnMS1JQnJyLU9jNmFNSGVtbGtr?oc=5",
+      "source": "الشرق بلومبرغ",
+      "direction": "neutral",
+      "ts": "2026-08-12T16:50:21+00:00",
+      "amman": "19:50"
     },
     {
       "title": "الدولار يتراجع بعد بيانات تضخم أمريكية",
@@ -109,6 +197,22 @@
       "amman": "18:58"
     },
     {
+      "title": "وول ستريت ترتفع بدعم أسهم الذكاء الاصطناعي وهدوء التضخم",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNZS1WbXJKNHpKYUtCbVZGeWF6S1VFWS1vU2wxMnpUSEVsTW14Q2ZGam9qX2NfVlNCbjZFNXcwQVFaVS1fQVhXNEFyNFRuakxtMjBMRWw4Yzd6R2V5YVd4cy1IZ2JMdkNycnUzakJabmZ1bThPWHplcVFqYkgxeTJYeEdyMHQ5QS1VeFI5Q2JWbWpLbXZodkRNdFBYOVE1dnV2enExQ0VoS3VUZ2d1ZkgtZWs5cW9Dck5iMFBPNXY3Y1A3R3VveTdySG9yTVpWS3B6Qmw2WGRxQTV0UllUaTJBYWQ5ZjB5SXZzYzFOVzhhODJCN2J4WEVES1lIVjhObE43NUk5Q0tkNWwybDI3bENMTW5scHNjcWx3a1hYR0pXZ2tteXhaMVVyYmoyTk9BRlJyUi1GYWZMQVBHcUR3ZVNKdm1YeC16UG9DWjdZMDRLRjZWQVROdGg3alZWUy14eGd4TC1lTG0tS0xDaGtPV1E?oc=5",
+      "source": "جريدة المال",
+      "direction": "neutral",
+      "ts": "2026-08-12T15:45:51+00:00",
+      "amman": "18:45"
+    },
+    {
+      "title": "الأسعار تتباطأ والأجور تتآكل.. معركة التضخم الأمريكي تدخل مرحلة الحيرة",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jdjFKSGlWZ2RwS1FYdGU5MktRcHR1ZWpKQ0tmcWNUQmRwRVltOERKVmdEc3VtSndXaUQ0cTN2R192UjJLSzVpNTdQQ184WTJUemMxU1VJckpoLVk0WWdJdW5UNVBuZTJ0ekdzNWkyeHc?oc=5",
+      "source": "العين الإخبارية",
+      "direction": "neutral",
+      "ts": "2026-08-12T15:39:56+00:00",
+      "amman": "18:39"
+    },
+    {
       "title": "سعر البيتكوين يحافظ على استقراره بعد صدور بيانات التضخم الأمريكية: التفاصيل",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2aXJpNVVSVl9kd2xxTzlWSmY0UWhsOGVRWGt1d09RSGJEbkYtcjl5WUh6Ynd6M2x3bDV0T3lRRXNtYWNFbE9nSUtEUHNoTTFYV0p2V3Q5T3dnWDdkbHNBX3VrVTFWblc5U3pEOFhYTEZsQQ?oc=5",
       "source": "بيتكوين العرب",
@@ -131,6 +235,30 @@
       "direction": "neutral",
       "ts": "2026-08-12T15:23:12+00:00",
       "amman": "18:23"
+    },
+    {
+      "title": "أسعار المستهلكين الأمريكية ترتفع 0.1% والتضخم السنوي عند 3.4%",
+      "url": "https://news.google.com/rss/articles/CBMiggVBVV95cUxPX0oyWEhxQ1BxbHo4cDBKd05XUzlhX01XX2lJN0RvZkNmOGgyT3czQ2JmZV9XRHd2QlRNVkhHc1pVUksyaVE5Ynl3WU5rZmQ0Y1lFVWJVVmUtSlZVaThRQ1hQc3YwdWo3cThmNExGOEpIQXhQZk9YN3htWlJJN3VMM3U1SGkzeEtCYlB5WVNCNWE2Vk9Hd0FzdXJyYld2bmFRd2R6R3dTNEVQUm1XR1hYRGNMb2hlV0pRNmZ5WXdXbzFtOEszODAxZ1IyT3VwZlpxcUtiY0o1UTdPSUM4N3lWQjdIWTU2VExJSU1pOWNGczJqdkkzZi02NDVtUzBZOHU3ZzlvVFlQRGljNEN4UFpuRkpGc3Y0OWxFQXRSdlJMUzQ1VEtxRmw4VUFTckRHdFYwdDlZZmFiek15MnZRcHZEaUNaNFc1dnhHYlMtc3l5ME9wYUlOajlpRTlPTDZCS2hqbllTWHI2VWwtVGRkcGNGXzYzVWdrazN3TG5vdVZJTzloenFTUE5tR0JiV0xpZEF6M0VWdFdfaTR0QWJMVENrZURqdnJGdXltb0l6aVg3cEFRci1sU3RBMHk2aFF2anBEU21LUi1wVWdGcHh5LWJaOWpWeXB2UWU4SVB4NTFSeVA4QWp6NGRpZ25vd0VqMktteThXcks4OHhQT0hnMUtpdHg2M0FhTVUxQkNUdTBOcl9WRzZCWUdFNEtFb0hLbEJFV2hGTl9JbkZtdHpjMm1veTN6WmdGYVFYMWdkU0hJNzRONWRMXzN0ZmtyQTlyNGxKczJBdVdQaXZaUEJzZkZpeUs5SGpJMmdVOXVWcHJRSjJDNEhFdVhSakdOMVZ5dFRrWFE?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "neutral",
+      "ts": "2026-08-12T15:08:24+00:00",
+      "amman": "18:08"
+    },
+    {
+      "title": "ارتفع سعر الذهب بنسبة 1.5% 📈",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1faG9FN1A2eFIwZU9vVGIxcjdYMVZkN0c5UzZQTU9OSVcxZFlkSldJSjFVUmR0U1l5RmdhLThQT3hHNjd0WTNZdU5ZUnVyYzFlTF80Z2huV0JQOU1WelNTRWdndkkwMk55dExEVHE4bUF4dw?oc=5",
+      "source": "XTB.com",
+      "direction": "neutral",
+      "ts": "2026-08-12T14:50:53+00:00",
+      "amman": "17:50"
+    },
+    {
+      "title": "الذهب يقترب من 4400 دولار.. والأسهم تستقر بدعم الذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE50Q05PNHUtenFISHdvdWJxdzkwdnZwa1B1aU9EXzdyalEzZXdSTnJmYWdERjdVdW1wNlhSaXN5NUFrX3lUdlZv?oc=5",
+      "source": "جريدة الرياض",
+      "direction": "neutral",
+      "ts": "2026-08-12T14:48:00+00:00",
+      "amman": "17:48"
     },
     {
       "title": "الأسهم الأوروبية ترتفع بدعم بيانات التضخم الأمريكي وأرباح الشركات",
@@ -181,9 +309,17 @@
       "amman": "17:00"
     },
     {
+      "title": "الأسهم الأمريكية ترتفع بعد بيانات تضخم معتدلة وقفزة أسهم الذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxQcUl6aWNoUUdYNVpEeHZkOFd1a2ludUxsanZrY1pDOElFS2ktM0NrRWhDVHhWN3FDWWFBUU1URWlpMktVU2tvcnJqcjVCMlNDMDdIMHVTNVZWRDVackQyQkZBZDBHanlqdzlYaFl3b0xxd0VETmZjaXVwVVBXQ3VkSXRHcnZfaldWVUJhUUtGdTc0RDZvWG9QOWlqZ2dVc2lNN3BQa3h6SWZEWS1nQzNrNDlMdHE4b3kyUFkzLVB3MEluQ2ZQTTBxcHdZb3pBSG5aUnRxYld6Z29TQVZGNURHREQwd01IMGdxcklTQ3hHa2oxR1Z1VG9YOENBV2FZVE5Ha1c3WHJZWElkNFBWLTNEajc2WlFJTUtIREtpMUxfc0FBWl9seXRLMVk2RE94OU9JRHk4N1Z4UHJvcm1YRVRkNzJjajQzVU1WVlhibnNNOU41OVZkNEJPd1FVNkhjbkFnaUhTNDFkRUlYUFE2d09zTzRCWEdaRFk2cGd4Zm1MUDFjMEt6Y3dTai1CMHlIXzdQc21CMTZzSTkzdDMxdmtuTDVGUklBbGJ0TmN6TGZEWDd6VnBCaDVKVW5jQnVKRlk4cVF6WnFOLVRqM0tnVThpVzdEaFZwdjR4NWZsbjdhVTR5c2RzQk50czZBOFY5eTFpMk9ycDBIMkpJbHN2a05CVlppSHFMeXIzZUJFMERFUklxM3dkc3VnLXhGOUdteVVEekIxcUE2dkNueUhVanZ0TlNQNU41ZHkzMU9RUk5YTW1CS0ZLSUFwN21RUnBZNEgydVY4bk0zaEx6dkJxdjhHX25lZ3k1U2UtZDdiM2dR?oc=5",
+      "source": "arabictrader.com",
+      "direction": "up",
+      "ts": "2026-08-12T14:00:31+00:00",
+      "amman": "17:00"
+    },
+    {
       "title": "الذهب يقفز 120 جنيهًا عقب صدور بيانات التضخم الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxOQjBja0RRS0M1cEV2NnFyY2JnNmNxMzNQWUw1S0lqTVY4d05Sb1c4MXEwcE52X3VlR29EOXlMUWdncGJQQklhYllBcDE4ajY2ZXV5S1JHN0FscmNRWFlNdkhzUWhObWM2T1JfdHJUYWk5U3lZcy04eC1nUlV6T19CSVJDNFo3SkN0eWpFbktEZTRzcW44RkVmVFc1ODc4U2xOYmw2OTdXT2hVT180QmVKTmhCMWRzQXZ1NndjLUZGUDh5NzFkN1NmaTNuVGxQMFpOVWFjY2pzMlhvT1FoYW1YNnJiNEFLY2FzcWcyYy1paFZjREJ1aGxYZ0RncFlCeEt5dW5lY19TZ2ZNUzU4YW5oTlBwRkJPdGNhQnJYZnJTbGxpWHlEcXdicGJPUUFoVEZydGtyd29iaXprZ1FJbXlIZ2ZBSEtSN2dWdGV1ZUZFTExmUQ?oc=5",
-      "source": "جريدة حابي",
+      "source": "hapijournal.com",
       "direction": "neutral",
       "ts": "2026-08-12T13:59:12+00:00",
       "amman": "16:59"
@@ -205,6 +341,14 @@
       "amman": "16:52"
     },
     {
+      "title": "المتداولون يثبتون رهاناتهم على تثبيت الفائدة الأمريكية بعد بيانات التضخم",
+      "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxQSEo3TEdWeDNvWEFLMHZwWF9NZzVodmMtd3pBa2d1Z09QSm5QeE8xYXVXaURCeElMamR4V0lhUDFIVWIwd1dBNE1uTWphT3FSc0dIbE5KLVU0dTFIUWJjYnl4Q2diZUQwNGZyci0wTTd3Rk8wU3hqVGU3TzdDU0dlbl8yaXRrNFR2OUN1V01fY3lBSEZIckxOdVVjR3JCa293US1CcEtBSVhNb1ZEY21odVZyZEh4Mjl2TmwzRnAwOV82UndmeVRaVXJ0dW1ESC1VSHdoTEdRYk9yVXpDNm1NYnpnSHlNVkpzSmhaMjJJbmxrX2ZQYlp1WjV1YkNSck5vWmRDa2NJZUdZRGtUTXVBV2FHNmNoeFBENXlnNDVFaWhPcXhyTjNNc1J6VjNkT0FSSS0zV3lxV0R6bUFNbzVYeFZhVkJLWlhLMjJ2cEJIS1FLd3hXRWVTdzQybWdlem94WlV0dUs5ZTlDeU9qcEZLZ3JtNUJyUVI4Rk44ZWF5NnhlUVBhNzJEUi1zcVhnSmRQZ0pPY3AxbGFmU3pKT2lWd1JBOUlzMEJmMWVtN3ZwVV9QU1R2YUJjSS1zeU1qSDNWQU1WS1JDOWZzWUJuTEtQcnBBd1VJNGRfVWdjYXNaTUpWUTdpbmR0NENQYmtQVWY4enFkZWNfMVBfU0E5WHl6VFhIaGU3bkZOVjRad1B5Zm82RV9wOUxGaHRfaVJtYTNoRUFhY29UV3hnTlM1Y2QzcGlpWFJMbm8zMktZZnk4eFZIa2dJSE1ocFo3RjdPckhwSGxiTXd3?oc=5",
+      "source": "معلومات مباشر",
+      "direction": "neutral",
+      "ts": "2026-08-12T13:36:17+00:00",
+      "amman": "16:36"
+    },
+    {
       "title": "بيانات مؤشر أسعار المستهلك الأمريكي لشهر يوليو تخفف مخاوف التضخم، ويرتفع الذهب إلى 4434 دولارًا",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGtOUDlPUktSZmE5V1FxbFBLdEpENEdYa1pwN0t6OHFJcW9Hak9XZVhURHN2ZVBjQ2djY0w3VjFiTXVFVC1RcTVFbWc5dndNRE95eFQ5YTVXdHM1ajhHSTkxTGRrVkRSa21uZld6NjNwZ0xvSnpYdzN0eEM2WHFnZmxvZm9STnByTTZ5aFRVbVdsNG96QTBzOENDa0JGdW8?oc=5",
       "source": "KuCoin",
@@ -213,156 +357,12 @@
       "amman": "16:33"
     },
     {
-      "title": "التضخم الأمريكي يرتفع 0.1% في يوليو",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPcmNUVHVfUUEyVE1vRVduZnJySmdYblROWTVaQ21Vb0t2dzB3ZHNSV3BfT3lzaF9JVXRBMzdXNGN0WDJ5X1lSZUdPc3o2LWdjUTBfYXlBb2pERU5pUmhwZUVKZmo1MVE1QVVPQy1YSDhCOXlXVU0wTjlua2NlcFF1b2VWdk5NOW4yMmhxYkZsalFpdGhNMTJDVnJnbUVEeEgxRGFSQmdoU2Q1eWhnRDUwQkVObW5DcTlkTmxEUU9hUDNPR2ZVdExTbFBuZlBuQUM5N09Kalo0LUtMTk5EQm0wdGREaUxyVnFVMnEzV0FST1FwNEsxclZpMFA1clEtWmxyc3Y0Skl6dnJka3BCZ2ZpRlJpc3F6Z3IwTFNIZXZVRWI?oc=5",
+      "title": "الأسواق ترجح تثبيت الفائدة الأمريكية في سبتمبر بعد بيانات التضخم",
+      "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxNSXpjOUVsZ01uS2pUM0ViN3gxQy1HX2lBNTQwS2xEak82N1lxY3JrNVNkOG1aaXBPdThYZ29DdjJLd1dqa2tWVXIzaWd4YXN2a0tqdXJ6YlE3bjRMcnI1RHRUbVIzMTVTb0FCcWRIaDRkZ0l4UmwzV3c0bXVLN2dfSnJQLVN1eEVUdU9ETE4wRm12YlFVd0l3RW00SWhnOTEwX2pxd29RalBiRjdhemc0QkFCUmF3amJYdVJLelc2b2h3dkI1ZmFyakZFUHN4b2h0R0NrcWR3TnFDYVlBX3JfUzBRbl9nNE1ZeWV5bTFESE5yYVpsRUZYdmlycjBOc0ppcEJUMEpMakdDWkhqa1ZBQXFMOTFJb1VpMlJFZ2cxSmt3RTFsVHZ4ejdmSkd1NGppWGRiQkpGcW5kbEpIRXZSU1pfR2d0ZEw2c2wwejU3Y0VHRWstMG5aRU1vQ3FoZmZnTElwNlRGSDg0SGpuWkhLQloxUVhlZjBmSlBBVmM4Rk15ajY2V1d3TFFVVlV0dw?oc=5",
       "source": "جريدة المال",
-      "direction": "up",
-      "ts": "2026-08-12T13:04:23+00:00",
-      "amman": "16:04"
-    },
-    {
-      "title": "أسعار الذهب ترتفع مع ترقب صدور بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9laV9aWXAyampKeWk2dlItYlduR1BNcWhSQWhWMEEwYUhoNEVDdlA3VmdMQzFYOTIzM3BYQnZFMUdLWUlGS2c?oc=5",
-      "source": "مدار21",
       "direction": "neutral",
-      "ts": "2026-08-12T12:59:22+00:00",
-      "amman": "15:59"
-    },
-    {
-      "title": "عاجل: صدور بيانات التضخم في الولايات المتحدة.. وحركة قوية بالأسواق",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15VFZ5dkVVTm10R0J4bW9CVVhTd3M2QzB1Ym9kU1FpTnN2ZkNybXhNWXduVE1nS3pjRlRYak4yY2xUNE9tUTdyZ2xJb0VrTlh2RVVxU3ByV2JvNzRYV2d4d3ZhaldGd0hQQnhEd3NCbmZyUHM?oc=5",
-      "source": "Investing.com",
-      "direction": "neutral",
-      "ts": "2026-08-12T12:32:00+00:00",
-      "amman": "15:32"
-    },
-    {
-      "title": "الأسواق تترقب بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAzMU1nRlNCWHRyb3hQeHhxbGplRnhObF9ZTHhpSnJtaEhmZnMwQ1FSaFY5Rm5yemtrUGRRdnM2YWVJSGtLWHdKNDVTdFM0Q1Nia0diVXJn?oc=5",
-      "source": "بوابة الأهرام",
-      "direction": "neutral",
-      "ts": "2026-08-12T12:22:00+00:00",
-      "amman": "15:22"
-    },
-    {
-      "title": "أسعار الذهب العالمي تترقب بيانات التضخم الأمريكية.. وعيار 21 يقترب من 6300 جنيه",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE45b3hmWi1mZE50S3V5UEUzOTU3X3FrdWY1eFB3MXRXajd6LXpoX18tUzBDQXZLMjRJTmZmWFpwYW9XVFF0S3ZxQjJRelZPYUh1MHBqanZHTXlWYmta?oc=5",
-      "source": "الوطن",
-      "direction": "neutral",
-      "ts": "2026-08-12T11:44:26+00:00",
-      "amman": "14:44"
-    },
-    {
-      "title": "الدولار يرتفع مع تصاعد توترات إيران وترقب بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPZjJna09MaVZzdzRWNEk0N0ZUTGdJLXF3U2VFbXdXbFNTalExbnFHeW9jUm15T3llN3lNMnBKaDRibDJJd2ttOXB2UzdqQXAwNmhwY0FhQ292dkZOSXRCZm83elVVNlBiUnFxZGxTcUJObm9rS0NKRDFpajg3OE5LWHRWY2tYdmlEWGQxbmlBRDRrbTVLN0R2amFzcVItR2syVXZpamZKNS1RM2FTbEk4dW5lUy1DRmVOWVpnbW9nOTlPdUhWWDEyUEZOMTB4Y2I4SVlPVzFlSGVkUUx4eDV0WWFnVXVwVHp0TC02YTNtMjZBSlV0U3hKeWJuYm1XUmV2ZnpLREhBLUYzWXhudk93azlabkYwdW1IUjQwQ0E4NEtnOFNZaFhfdWU5VC1ULVljdUVJaU5oUjh1ZV9KenFSWXktdEdGd0ttckpPZkRIdGpqa2tPZXVGQUVLNjIxYThkYllwNnJR?oc=5",
-      "source": "جريدة المال",
-      "direction": "up",
-      "ts": "2026-08-12T11:33:49+00:00",
-      "amman": "14:33"
-    },
-    {
-      "title": "الذهب قرب ذروة 10 أسابيع والدولار يرتفع مع ترقب بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5RWk1tRE1NOHNGNmxuX2FCQ251cGVGZ1liTUV3NXpDVENzMGtfdjJKMTJHcXpFbmw2X3ZzUzNHSjNyT25iemlTdkd0eDlKYzFYN3fSAVZBVV95cUxPVmVmUHd2WnRDSUlRM3NiWjdHVmFWSEpxQUxQZWFPUnNSYWMzT2xSWnUyMkhkVHJqTHZfdTFOZzBZWE5iVlVlU2YxVUZIbTNmQmdOLTdzZw?oc=5",
-      "source": "جريدة عمان",
-      "direction": "up",
-      "ts": "2026-08-12T10:22:03+00:00",
-      "amman": "13:22"
-    },
-    {
-      "title": "الذهب يتجاوز 4400 دولار للأوقية وسط ترقب بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5UazlMUGpQb3ZaZENZQjVzZTVtZWk2SWU3SFpwN3FlVG1rRGQ3QUZsSld5MU52WHlZV0wzbEFJOUFlV0EyTlVDUA?oc=5",
-      "source": "economyplusme.com",
-      "direction": "neutral",
-      "ts": "2026-08-12T10:17:11+00:00",
-      "amman": "13:17"
-    },
-    {
-      "title": "الدولار يستقر إيجابياً قبيل صدور بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMigwRBVV95cUxQNG16TFdtREdxZ1VxVjhmQy1WYS02VnY1NnA0NTJOUVBSN2hKTFBfaEl1SnpqMGhNeFc4X0hTdnJjSWpNNHdJb1hHQ0ZNcjFKZ0tfTGJKUXB5NW9PT3pWdFNnTUZPeE0xN2NkcXpWb0ZDcjhlYVNiR3ZVZGQ4a1JkWUZhMWtoUk1jMEtiazZkT19CanRqVzc4blh2SFZVZi1BNWZDbHY4SUIyeVV1dTRJbFJ2VGJDaHQzalQ3clBiT2JPOHVaZW5lSVJ2alBxLU9FcGRvUVRIYnZlUUhfdGhMWHdTaUk3QjhZRERlMlhQSjJnMmxzanFiTnZuLWlsSGIxcDZmVnFLMndxdjRORWgwbHJ0TUdNcW5jaGxkUkZaRGdSYmh0Z1pDLWxTeTlvUEJuQjZoM05WbHc0bm80Y0ozOGdVVnlmQVNBdGxMUG9OT2trdlBRVmxzVXIyYVJWVDBZTmlNQVBncFNqdjFuSFNYX2Q2bW1OU2dCdEhQdkNGX2F2UEwyalI2eXpHcDRKSDZlQXUwVEJrMXRMc19mR0FBUnBEYWljc05pc1VQR2dIaTF2NFZNV3AxUG1JYVRPbmVpZTJSZ1h1aHBCVkFFUjhTY1hRN3M3RXRILUFlNl9Ja05uMzBFOFV1RUtDaGVUZzFVQWZvX2xFNE91OGNDMF9LVUVNOA?oc=5",
-      "source": "arabictrader.com",
-      "direction": "neutral",
-      "ts": "2026-08-12T10:15:15+00:00",
-      "amman": "13:15"
-    },
-    {
-      "title": "ارتفاع الدولار والذهب مع ترقب بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxOcUhHdUoyNTdRbWNvMXdrTExUcTVfNTllRUxlUHc4STc2d2ZCWE9kSVNwaXc0VTR5WlpMSTlOeURrUUxNMEdWMlpWWWpGZm0tc1lQbXJBRnNfM0F0S2tUN2hmN0ZVUnd3RFNYSEVyczRXZ09PdlhUZ20xQXpTRVZjUVZTZk1XYnB0RTFBaWw0ZjZpbkp5Zkh3M3ZjRTAtWmdaaVc4T2pKQmFYek5Za1hZSHVVS0ZiTzM5MHZQeEM1aXN3NlkwWmtZQlhJUWJXLUxmWDJvSFBWcWhLdUN6SEFpZVdCdVh2bVVmTl9naHRYbXpQUnI0NklZNExjMEl4Y1JjTm9XaTItbk0tcFR5MXlmUHpPYXJvSVBodTdBZVR3bXNmYldsMkpoZlBzZTNHa1A5RkNjc3NnVHdSQkdNMUUtb1hJMWhadlNJOEljOVFuX3NsR3NDUWVyWld3NkdkY2JDdm5VeWYxM19lTGdNMVVDcmk5S2FuRUVDb19SZnltZXdINkNBTUxHblI0a0lrS2RJNzlYUTV1NjYta3p3QXljU2JjT1FLTWh1NWpGNENiVl9Ocks4Y1ltcmwyZURzWlhvTWt4NGlKTGlpR1F1OFRnVVhXZDJUbENFUXVJQ1cwdUdRM1dZYTNzZ1Bsc2RkellW0gH2A0FVX3lxTE5nX3FUN01CRlpmZHprR0s3bDJqcFlqNTloRXlGczJ3dy1ZTXlyY3dBSVlqampEY3AyUkc5alIxVi0wUHl4a1hpTnQxZzlreDRZUy1XZURwU1JaOTFheU1nV2dQMzBCSm9ZTVpqNjBpZW1RbjJoa2hfYjBDOHhITjAxc05wVkIwSXg2RGpDNk5jUFdKS0NvNWhLVHlONHhIaFhOTldkTVYyc3kxX3hZbVk1Z3FqdUVuS01hOTBMQmpqbzJXbDF4Y0p2OEo1Skp4Tk5VcFliYnVTVDBwNmtPdmFtbUFGYU1Lel9uaHlWeWpTSEZ5Qnh5X19WM0tHeFZJWC1vSVFDZC1zbTh3NWZJSy1JcjI1SDBWbVZhNVRqUzlxUFBHbE1ROHhGa2dIdUdiNmFPYnhLMTdTOHpVamJuSTRJM1dwTzB0a3pWZURDVHc2N2VkcTFRRmY4SVU3S2xpQm9uZVlXRzAxdU1rQlRfbWlzdlVCelFTSm83Y1JvR0Z4UGtkUkhHQXR3MWUtM21HY1pLTl82NlBzR2l3VFJsWk43Mk44VnhVZDdTZ1ZyOFBuM1Nxa2hIb2F6YXA0U05Fck1CaEFaWGozazdZQlBNbTNHUnRXOHNZLUktX3g4eC1EdHNkQUZtdDdkUng3ZktTWXpRM2N2OGc?oc=5",
-      "source": "Masrawy",
-      "direction": "up",
-      "ts": "2026-08-12T09:34:43+00:00",
-      "amman": "12:34"
-    },
-    {
-      "title": "خبر : داو جونز يرتفع عند الافتتاح.. وناسداك ينخفض وسط توقعات حول التضخم",
-      "url": "https://news.google.com/rss/articles/CBMigARBVV95cUxNR3FPNlJ5QVhQTy12b0FOQ3lWd0hwWWFfbWxNX29LX1gxLVRCZEhhd0dOQm1Ob3BNWW5aMFBHTEg2MTZCY3RzU042UVZWdDAwNGNXRUY3NGlNWmQtbFVNWm00YmpEY1luWmdNbTR0TW5hTkEwcUtMdVowZWd4T3hqbU41VU5hQzhuckhLZGJKeU5ZdENEWm9CbnJIdFZWbjJERXoxUzUxY0pqRC1GeHJKZTJwWnN4UDgzSmhnMElhNE5xQkZzajFOaWNGUVUxR1ZETmx5TlRpeG1PUlZuMkxNZ3Y3dy1IV2hPclpRY21Ld0hVTmtkMWRYc01QZXllaU85elRKdWNOWWQ3eTJ3Xzl6SVFQLVJWbkx3ZHVIQUI4ZVYybFE3eVpQNWZPbzhMU1premgxNkl5dTVXVnQ2NHJFeXhNR296Zk5zMEpJM2Q5Z1NYQzNRQ3cydkhtb1R3dklWTHNLY3VlWl9CSUJob0xBV0VYdkl4Y0tNVnRaTnF1Y0tvanhRS1JuVC1tUkJBOWc5RHVPd1V4YjZwVS1HZ1FRbG5BQm91NTBLQWRFUkNtUjJQMVBGQzByYXJQX19PaVhFeVQxZ1lPQy04cVZYQktoSmt4SWx0dU00Sk41d2pVaGg4dk9DUzlmTnFXNUphcnFfZDRudEpRdEZ4TjlIcDdSdA?oc=5",
-      "source": "samanews.ps",
-      "direction": "up",
-      "ts": "2026-08-12T09:32:00+00:00",
-      "amman": "12:32"
-    },
-    {
-      "title": "من المقرر أن تُظهر بيانات مؤشر أسعار المستهلكين الأمريكي تباطؤًا في التضخم خلال يوليو، في وقت تعيد فيه الأسواق تقييم رهانات رفع أسعار الفائدة من قبل الاحتياطي الفيدرالي.",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWERGWHc5dktWU1gxSjlIWGplNUJFVjFwd2RkOVRlWi1ZUHRJanNWSDNxMUZLMGN1Vm1fT254dGZIM3RxNkVPZlF5RlltNGpReVgxS2RhMFhjUTNhZmFtTU1PaS1LQm82QjhyNVI2V0VJXzBsMmtWSjl5MnVwNGpZTjhFalkzcXRpMEVNaWU3UlBaNHU0OF9vcTR1QTVFQW1WOE11UGVFY2dXamY1c29GT21pZDFvN3p5YU9EVV9tYW9ZYVd2WFJ0TEtEZC1RTHpJWFd2VE5PTTVSNk04a3YtcFkyN3lmdGxa?oc=5",
-      "source": "tmgm.com",
-      "direction": "neutral",
-      "ts": "2026-08-12T08:51:26+00:00",
-      "amman": "11:51"
-    },
-    {
-      "title": "\"ترامب\" يدرس خفض ضرائب مكاسب رأس المال قبل انتخابات التجديد النصفي",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NOUhHXzc0eFhEMjVuTGZuS2d6UXBSUnhVRUVVZGZLczBwN0h2NlJNOXpJbTJneEtjTm0yTHZRX3FFWXRuMklTTnZMZzkxb19EMFlaU2poTkJlVWc?oc=5",
-      "source": "جريدة البورصة",
-      "direction": "up",
-      "ts": "2026-08-12T08:37:20+00:00",
-      "amman": "11:37"
-    },
-    {
-      "title": "الذهب يرتفع 1% مع تراجع توقعات رفع الفائدة وترقب بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRV82dnF5Njl1ZlNLcmJOeno5QVZ1VWNjdm9hLWFmVmFVdFVkSEdidFQxclE1d09zUEJFeWFzUkhlRngzRllrWVBYNVNBNXZXb19VeWVCRHBtc3VmbHB0MFNjVTgwZnN1eWNrN1BVLTYxZ0U4djl2Y3BQMWVjZDRRbUVwb2FpNlhLdTdXSWFHZTFtWDV2TWhQWjFwVQ?oc=5",
-      "source": "مجلة رواد الأعمال",
-      "direction": "down",
-      "ts": "2026-08-12T08:19:59+00:00",
-      "amman": "11:19"
-    },
-    {
-      "title": "الدولار الأمريكي يستقر مع ترقب بيانات التضخم ومسار أسعار الفائدة",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMTd4M3ZFaklYZzFDMms4Vmx3WTJucjk1eXpUbXExZWpyVWdVUXJ3RW5FTXpZV3hSZk9lMUdxc1lVSmh6Z1dVM1RxQ0h4MUpBNTk1dnZrRjlMREl3MW9DS0tMT2pOdE9lcHZGc0NCWlpTcmZzNkEwNjlhVFRBNnpVVXBCempMdnEtLU1XZTRZMmR5V2Q0eGliV1VEUmdhaEVNemlRQXZoeld5V1EyQjhneTZPeXBaMEoweXZIRGxScHJyOGM?oc=5",
-      "source": "مجلة رواد الأعمال",
-      "direction": "neutral",
-      "ts": "2026-08-12T08:19:20+00:00",
-      "amman": "11:19"
-    },
-    {
-      "title": "ارتفاع أسعار الذهب قبيل صدور بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5xVnc2TU1oSGstcjVsc2VqMWhRLUhMcHlyajlYNk5KcmNlRVBvaUpQUFBIMXpIR1Vra21abHZ3aWV3a2Vid2dtdjNJeXRyTnhBUUxlbnpVTEpMZHc?oc=5",
-      "source": "جريدة البورصة",
-      "direction": "up",
-      "ts": "2026-08-12T07:55:52+00:00",
-      "amman": "10:55"
-    },
-    {
-      "title": "الذهب يرتفع مع تراجع توقعات رفع الفائدة الأمريكية وترقب بيانات التضخم",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xRnJha2dodklMVFR3QlJqS09LZ1pxXzBDNjZaQ29ZTzBoY2xMMHpPZUE0QWhMa285Q1MxRHhWVkJtUQ?oc=5",
-      "source": "اتحاد بنوك مصر",
-      "direction": "down",
-      "ts": "2026-08-12T07:43:41+00:00",
-      "amman": "10:43"
-    },
-    {
-      "title": "توقعات بيانات التضخم الأمريكية.. مفاجأة واحدة قد تقلب توقعات الفيدرالي",
-      "url": "https://news.google.com/rss/articles/CBMixgRBVV95cUxQSEdYdGZQa1UxbHY2c05nVlNIbktSTFFmY0pINGhUdmZTdWVfaDRtOXdFaENWT0FZbldwT2RBMUR5ZDA5UDc5OWNCd1FNZkZmbVJxZ1NZN2RfZEdnOWI5VUVaY2Y2TVFYT1dZYjYxaWVTQXMzclpLOHc3V2lEV1NLX0hFMnVTRnI1RmdhS1RLdDhnMTJBTGcxNmF3R0RhWU5ocC15Z0NTUFJFZkZLbS1tekROOVZkRnpMRGNyeGxKdjZMNW5xa00xcEJLR3hvTGRXMWlEYlhqM3hkckFZNU9ZMGhyWEM3bU52TTFkQmMxbWxTek13MlE4X3RLNzdhcGw4ejhzTHhmdndmbmdXS3JVRmJVX01CS01taG41SW5xeUVoU1liM0p3QUdpSUtwZlJTM0lqc0VSMVhuSnVCUWtmUlJQdDNYcEhYZHZGTGdjOUJhY3AzemtEa0R3ZmNKT01tTkxZRkY5MVlSOExxREk0OC1FRUkyclp3ZzZ0SXpsbWpJUTdKQjhxWVZoY3hrUjFmMmV4QzdWZXExaWZzMmRIZFNqSzFoelFzeDZGZEpYU3JyLVZhMjJob0NqRUZyT0JWNjZsVS1pdTU1V3dJQ3RjNTVnVUs5aXlyYzNUNFdzV3QyU2w5UFdza3lCalQ1V1hvQjFXa0U0bWJmN1o1VmQ4Nk9wVHlqcC1qcUhPeVlxM24xdV9ncnJXR3Y0akxwR180RWlaM1VaM2tPVEVId0xfdjJ2Vl9fNmZ0dFFRck5CMGg5bDZQNVE?oc=5",
-      "source": "arabictrader.com",
-      "direction": "neutral",
-      "ts": "2026-08-12T07:18:08+00:00",
-      "amman": "10:18"
-    },
-    {
-      "title": "الأسهم الأوروبية تتراجع طفيفاً عقب بيانات التضخم الأمريكي",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZU2hqTzZNenQ2MHlzTy0tc1BqQkxERjdlYVRDaTBnZWkzb0JNajhOWmlCQTBlcW02ZUF3QXFIQWlLTmNJQlBLZkxvbEh1a1cyLVhmZDV2TFBMZ3lnR3lQa0FJVnYySGxXbERkVy1mMXQ?oc=5",
-      "source": "Investing.com",
-      "direction": "down",
-      "ts": "2026-08-12T07:18:00+00:00",
-      "amman": "10:18"
+      "ts": "2026-08-12T13:09:48+00:00",
+      "amman": "16:09"
     }
   ]
 }

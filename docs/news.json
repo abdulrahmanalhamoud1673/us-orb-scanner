@@ -1,9 +1,57 @@
 {
-  "updated_amman": "2026-08-13 22:15",
+  "updated_amman": "2026-08-13 23:00",
   "count": 45,
-  "up": 2,
-  "down": 22,
+  "up": 4,
+  "down": 21,
   "items": [
+    {
+      "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
+      "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-13T19:52:00+00:00",
+      "amman": "22:52"
+    },
+    {
+      "title": "Rich Americans are propping up the travel economy as airfares soar 25% from a year ago",
+      "url": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-08-13T19:51:00+00:00",
+      "amman": "22:51"
+    },
+    {
+      "title": "الذهب يتراجع بعد بلوغ قمة شهرين.. هل بدأ جني الأرباح؟",
+      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOTENzdG10S1E0RTZ1a05BWTRKLWwzQy02ckJES2p0MjBJektDYjU5VmpSY0YtOXd2czAxQlZKNXNGOUpFZ251SlVHSDFDMXlOaVEtQktXakdLc3lXaDVmUUhlUXpmMnhuTFpEc0w2VEM2MmRUSzQza1Y1enJjNlBPb2I5cDhwNDFPSEs1UVEwOXF1TlJOMHNuZEIzVnNmaGNic2ZmZkE4aXU1TnlaWmQxOWZyVHVkR3l3RU0wX1lkTmx6a3V0aE5fb2R6MVlOM2pmcElBVnRrcHBobHJLeEF6cTBEa3JpOFdUZkIwenRKWTZZYlFNYU51bEhWWk1TVWkxbC1KTDhrQXV3NXhnT2pYQks5QlRtSW9yR3ZHbUNIUEtVckJSTnBPRVczN3ZVWk1YWTJjam56Qm9CVnZETnlMZTR2c3UtZ2g3cjN5blRaOVFOUW00NXd6aHFKX0JObGpxbDI1SWZvZFp4Q3Z6X21kLVNuU2VWRi1uNGdobDBnaWRhcEw4TmpQbThHVUlmWTBUS0RiNzdqQ2ZuX1o3cXNFejk2cjR3VFRUOUtrSXIxU3ZKTmRQeTVQWQ?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "down",
+      "ts": "2026-08-13T19:43:44+00:00",
+      "amman": "22:43"
+    },
+    {
+      "title": "‘My husband and I are at odds’: Should we tap our home equity or sell stocks to build a $100,000 emergency fund?",
+      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-13T19:36:00+00:00",
+      "amman": "22:36"
+    },
+    {
+      "title": "The 10 housing markets where the most sellers have listed their homes for less than what they paid",
+      "url": "https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-13T19:23:00+00:00",
+      "amman": "22:23"
+    },
+    {
+      "title": "بعد الارتفاع الأخير.. خبير يكشف مفاجأة بشأن أسعار الذهب خلال الفترة المقبلة",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBodHp3LWU0WFZEdElDOFZxSHhKTk5kejlJNmhfaDh5cnJXRnZLb2JMZ3pkTExpRldDclMwU3BSdzV3VW9SdUJXcWotMzQ2WVo4UXBWS1licWp0WGRnNXhj?oc=5",
+      "source": "المصري اليوم",
+      "direction": "up",
+      "ts": "2026-08-13T19:20:00+00:00",
+      "amman": "22:20"
+    },
     {
       "title": "المتداولون يقلصون رهانات رفع الفائدة الأميركية مع تراجع أسعار النفط",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1qOUJHS2xJMmxpOVljelVTWjM5Ync1N3FOeF9OUnkyVGhIUFVXZ1loeXkzY0s0YjYtNGMtZ2JLV2dYbjZHbTFGcUJiQmgtaUtCSnhkWXdyVVVPcmNWZk93Z25odk03U0tQ?oc=5",
@@ -13,12 +61,12 @@
       "amman": "21:30"
     },
     {
-      "title": "«وول ستريت» تنتعش بتراجع النفط",
-      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQS1lWMDN3Z29fR1FxUUk5ZTNLU2c5Vks0YS1yRkVQdWQwNXY3eTNySXJKc1lLU3gzQVFxeUVXNUliUE5kV010VkZYMmZWaTk3T19GTW16dFJvQnU5aFd3THJEQXByYTNDWDQ4TU1BZWZUZ1dqdGRWZUpVSF9POWZ6VzNMVVp2bUZ4REwzaUt3MnlyLXYwZkx4cnZ5cDY3YzlYTXEtYVJZZFQ0bGU0MUliZHJDaVU1dXhRR1J4QThuSnB4SGtEaW54MTJCbElBU3ZXamtKUUNQRkk0Z3RrdFJxb2NFOGQzVERabnlCS0Q2QXBTajY3UEdiak1DZHQ1bHR4bXAwMExuWEdvS0xsUVN3bExzWEI0QVRaTFFneU5XTVVFaWhZV011OHRyQ0pMdG04dU40ODZhZWNsNWRLLUNmS3NqYVl0Y2tIMzg3Y2NwMUVzNFhOdmFkMUNCYS0yZU5adjRoUFFOUnZzTVZmX3dldnJhX3hvVFI1M3hEZk12Yk5YVjhKTGQwZEtFcGFlY09HRmVUVmxkX1Zfa0xlMGVidmF6dTRjZFhqZW5jOXNwQWlXaVlGN2VtdDVsQkU0UGlfeTVCMkhJRzBSbkRJRGQw?oc=5",
-      "source": "صحيفة الخليج",
-      "direction": "down",
-      "ts": "2026-08-13T18:20:23+00:00",
-      "amman": "21:20"
+      "title": "تباين «وول ستريت» مع تقييم بيانات التضخم.. واستقرار في أوروبا",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82Snd5Z1NTeVpTNFFGRXBwQllfTWxxV0x0R2lLSWdlY1EyYThDODlBOEE3SkRlYkVrdjJYZ2tqNGRMVHQ2QTVBWE1PWmFwX1FrTzFvVkRYQ3FzbDEtMzdTYW5seThZZ0NWU3BQYnd30gFzQVVfeXFMTXJUUXVndl8ybTJmUS1PalVaTUYzNERWLVBnVkZHcldQdjJHQWttZF8wX0N2eWdZc2g3LW1JWXcyZldJSkVsc2xKMTZfWm40cENlMHEyLWlfU3lCaFNvNEVuQlRvSXdxVzhxUnRXNTM3czFjYw?oc=5",
+      "source": "البيان",
+      "direction": "neutral",
+      "ts": "2026-08-13T17:50:00+00:00",
+      "amman": "20:50"
     },
     {
       "title": "معظم الأسهم الأوروبية تتراجع الخميس وسط تعزيز توقعات تثبيت أسعار الفائدة",
@@ -43,14 +91,6 @@
       "direction": "neutral",
       "ts": "2026-08-13T17:06:00+00:00",
       "amman": "20:06"
-    },
-    {
-      "title": "Sandisk’s stock is flying higher. Here are the new targets that are exciting Wall Street.",
-      "url": "https://www.marketwatch.com/story/sandisks-stock-is-flying-higher-here-are-the-new-targets-that-are-exciting-wall-street-4eaab99d?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-13T16:58:00+00:00",
-      "amman": "19:58"
     },
     {
       "title": "مواجهة التضخم الامريكي تفتح باب الجدل حول رفع اسعار الفائدة مجددا",
@@ -133,28 +173,12 @@
       "amman": "18:32"
     },
     {
-      "title": "Rich Americans are propping up the travel economy as airfares soar 25% higher than last year",
-      "url": "https://www.marketwatch.com/story/rich-americans-are-propping-up-the-travel-economy-as-airfares-soar-25-higher-than-last-year-c76067a5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "up",
-      "ts": "2026-08-13T15:08:00+00:00",
-      "amman": "18:08"
-    },
-    {
       "title": "وول ستريت تترقب قمم تاريخية وسط مؤشرات تراجع التضخم وهبوط اسعار النفط",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE12U19iLWlCNG8wWWZrdWVNRTRYMmpYY1k3dVZYR1k0S21JeEhHRXAwa1hkUy1IaEEzSmFDaTFMMjJ4LVBsaEJjWmRodw?oc=5",
       "source": "الوقائع الإخبارية",
       "direction": "down",
       "ts": "2026-08-13T15:05:14+00:00",
       "amman": "18:05"
-    },
-    {
-      "title": "The 10 housing markets where the most sellers have listed their homes for less than what they paid",
-      "url": "https://www.marketwatch.com/story/the-10-housing-markets-where-the-most-sellers-have-listed-their-homes-for-less-than-what-they-paid-acd4c8da?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-13T14:57:00+00:00",
-      "amman": "17:57"
     },
     {
       "title": "عضو بالفيدرالي: لا يزال من غير الواضح ما إذا كان رفع الفائدة ضرورياً لتحقيق هدف التضخم",
@@ -189,20 +213,12 @@
       "amman": "17:16"
     },
     {
-      "title": "‘My husband and I are at odds’: Should we tap our home equity or sell stocks to build a $100,000 emergency fund?",
-      "url": "https://www.marketwatch.com/story/my-husband-and-i-are-at-odds-should-we-tap-our-home-equity-or-sell-stocks-to-build-a-100-000-emergency-fund-097d36a4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-13T14:15:00+00:00",
-      "amman": "17:15"
-    },
-    {
       "title": "مسؤولة بالاحتياطي الفيدرالي الأمريكي تدعو لرفع الفائدة فورًا",
       "url": "https://news.google.com/rss/articles/CBMimwRBVV95cUxQYm9kRGxUc0ZnSi1YSkFfWk9EbHhMYkM0X3k4NmtnUkMxOGY0RENOVThJdm9PMGVfRjFqeVEyQ1pueEQwaWxpYnFxTEFJOXRTU3pjbGpsckttdnA3cUtDWDJ0bGlDNlNlbW1MbVBqcVkwM0lZR0tCOExpT1preC1KVGtaZjNidzdoZzRQdHZMWTBGWFN6T3VfOWFGeFNNVVJhU0I2VDE5Ylo3bjNvb1RmWldITHo4eWVnM3FRQTNtREt2dmFYaFoyM3hpRjJRT1RUdW9jeWRBOHJMdVM2WTBhbDRKekV5RTIxeFc4eHhtbHF6U0pURS1DUDNqaG1YMDlmX3Nzc0RYZjZwZnN6YW9KZ2pHbkxUNkFIa0h5UnZSZUJNWUhYWkM2eEpBNlF1dU1rRGY1ZVZNMmRxemMtNk85a2NFNWdOc1FDS05oWFREaS1jaTk2cUd6SG45VDZyVW5vblZTeS1hWjJFTFdwZ1ZabWhrNFd6QUZCVjVFNDUtYmZndFhIQkxaWlZlUVJDMmpYUi1EZjY5a3d1Z01BdUtnSDBOUTdpZ0FLTlM2ekw2dHlPRjVrbTFuRjczaUQ3LVhreUFDWF9MbGRvdVJpMHJNLW5ocjFaTV9iVU5HbmZMdXBmQjFzS1JMcDR3TGk3S3RkRTB0b1JHMDVDRF92MkQ2ampaQ2ptMFhfM29CMmF6M3JuMy1nQXRZU2FKQQ?oc=5",
       "source": "المتداول العربي",
       "direction": "down",
-      "ts": "2026-08-13T13:35:19+00:00",
-      "amman": "16:35"
+      "ts": "2026-08-13T13:37:31+00:00",
+      "amman": "16:37"
     },
     {
       "title": "الذهب يتراجع بعد اختراق 4,500 دولار.. هل بدأت موجة التصحيح؟",
@@ -227,14 +243,6 @@
       "direction": "neutral",
       "ts": "2026-08-13T12:42:24+00:00",
       "amman": "15:42"
-    },
-    {
-      "title": "بلغت أسعار الذهب أعلى مستوى لها في شهرين مع اندفاع المستثمرين للشراء.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQlc5QUR3dmktQmI2MWk2ODVwVlhpc2IyRmJxZG5UZW1OekUtUHVPcDRnMFlUOVBSamIxRktqT2VXQjFnUFhmc1BNdERwMkMzME5adWxxQ0dkdWxZTzhEclVhZlJ3NFpJc2Zqa2tiRk9Hc2RXZHN6eTNOM2NKd0xQUldWZUVVS3c?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-13T11:39:38+00:00",
-      "amman": "14:39"
     },
     {
       "title": "بنك أوف أمريكا يتمسك برفع الفائدة 3 مرات في 2026 رغم هدوء التضخم",
@@ -301,6 +309,14 @@
       "amman": "11:12"
     },
     {
+      "title": "الأسهم الأميركية تقترب من مستوى قياسي بعد بيانات التضخم",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOa1Q2Q1pnSXdoRE1saEdTTW01OTRUZG5iWkNuZG54aVNNYmd5V1Q5N0lCM3VYQnd4OXN0eWFzMmFOUm9wSW5jNmM2LWViSVAtY3U5cTV2X0RHU0JWdmZiRWRjbUNLeGlJTTFHVEc4RmdyN0FoYV9TNXE4ZkF0bjN1UVJ4VC0zUThVSXJIcU15WkRMdjFiM2szTTdwZjZEaEFMM2NoVEl5MDdmRFFTdjA1cWsxdGdtSVpQV2gwQWt4VFFneURqU1VUSWtmcjFTcWxHN09jUElwcnNqUDc5d3c4N3U2eXlKYktHdFU1YjdFbVB3ZEdqTndMSW12MHFoTUp2SEIxVUhJRFVlUzZ0ZW1qM0pTZFRNWmF1bmpyWVpQYnRHdFQ3b0x1WEZR?oc=5",
+      "source": "الشرق بلومبرغ",
+      "direction": "up",
+      "ts": "2026-08-13T08:08:06+00:00",
+      "amman": "11:08"
+    },
+    {
       "title": "سعر الذهب يتراجع 5 جنيهات اليوم الخميس 13 أغسطس 2026.. وعيار 21 بـ6310 جنيهات",
       "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNc3ZfRlBUcGFyZWhxeHVnRFJTTVRuYjNMRjgwU1p6S3BENy1DbU05Rko0WFpzQTZvMDhyeUpYZEIxQ3pyRXUwaUVWQk9DanBSTm5JcDA3TFE1eGR6a0tQMl9hVVJidHhiRWk4VnpPekZjN0tZNkxQbnZmRTB2RUtXcEI4SHhVdFVTYUk4OUo3MHVPTmZaSEtWNGVOOHNvLVlieXJnNkhjbzlndm9KemNEWFZLMmttNkFFci02UXNpVHdpUFU5Y3NpWHFHSWZ4RDE4amVmR2hvX05weld2YS04Wk81aVNZQm9kVGt0WXU5dFNUWUFIYmlIV3JOekltUmZOVTY1TFlFcEstZjB6UzlENnFtUTBUbGRrT2FQWmNkZmlNV2wzSGluanAwTFZsc192N3RBX0VHcDdFODhXV19DdWVkakNpYVhkOTY4UXZwZ1RBU3FaZ0Z4c3JyRWZGS0lRZ1NabFVVUkhmRFZvZTJYUDlocUFZLXBrQ0h0T19uTXZVMGtHN3hYcTFyRF9TZHfSAYoDQVVfeXFMTzRWR05UcGRaMTlPQ2E5dGNuNWtKYW9fandtdUFORlpGcTNkd3NuRzBMcXhPRm94VTNnSkNvb0JxYnJabV9XLXpFckZMRWlRUkJxdW9VTHRoMUR1ZU9oaU9kb3Q1QTFJTHVVOGhpeVhGZHYwLXJrc1dtT085S1ZXdWMtSzctaDlpTFdQc3ZXSnNJREM4QnBkNzdMMWZ6aTBqRWozd3poLTZhVjdLMF9IYm5PR0VVOVFLSEJXWmxXV0NFVlZLbzI2S2VnMFhIejZzVXFUd2VqUld3S1F4STdOdWZCNlJwTDBpbEhLdVZ6V2ZEal9zNzlObEFjZjBURGNmOVpITHhYQTNpNWU5R3FBcE5WMmlHZWxfc2NuMmJ3Z2RoVkMyc3prTVlGb3RKdkFrS1c0dmMzTkpjUGlIZjNDYVBZX0w4NmNEY1ZLNGZZT2ZuMURsZWZDcjhmLWJkSjQ3U25EN3F2WkdJSVRBZWc2YnIzWkRCUmdPNTdyMm1yNFUyMHNNeEVZS0toUQ?oc=5",
       "source": "اليوم السابع",
@@ -347,22 +363,6 @@
       "direction": "neutral",
       "ts": "2026-08-13T06:45:30+00:00",
       "amman": "09:45"
-    },
-    {
-      "title": "الأسهم الآسيوية ترتفع بدعم من أسهم التكنولوجيا وتراجع توقعات رفع الفائدة الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03RTVxTTB4ZlRtcm95OTFhZ1lUSVFJSi13aDVXNkdwUTZQN3RYSzdBUDZfTU84bmVFWkJsQm5YMFNnQm1WLWwzT0lQSzFxVzVyVXc?oc=5",
-      "source": "دار الهلال",
-      "direction": "down",
-      "ts": "2026-08-13T06:35:11+00:00",
-      "amman": "09:35"
-    },
-    {
-      "title": "الفيدرالي تحت ضغط ترمب مجدداً.. ما الذي ينبغي متابعته؟",
-      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxORWFnNE9zRDlDc09CcmdnTEdQVElzNXczZG9nak5zTTdUSld4TUp5T045SmU5RjR2V1I2c2ZiRnp1V0pTLUhsME9SZmNRVk5oTnM0TF9IUWdJTEszZW5sX2RvNGlKWlFPMmtKdGRSR0Z3X0N2TXZiU0VvbHI2bDJxVURrN2JtbHBIaTBUbnRCc1kyRjZ5ZjBKWEs3dzhxd09kNjZfdW1nejllazFkOTVzS0pZUmRDSU9LWUdXeFgzS2VYTnJ6ZVBBSGxaVWlJN2ZhQ3JwXzlxejZXY3JYWnJlVG90QnNpTUtFQk1oTGZjXzdjaVEySHE5YzZPYTBSdjBkR2hlbVZndWtOY1FLeG10MXk3aEx2WkdvTGlkanN0VXJDLThiM09sUmpPcmlNbDdOLXRWRF90YVFlVkI0cnpKM1VFMkdzQWJjZ1dNaW0yR0xReE5rbDdHbHlLNmJMaTdFenJYeHZtdVNBdHdGNll6ZnpEVl9xakxicVVFMlhNcWRHNmJCZE5STG12LVI5clV4aVlIa0ZicWlNVEVoQ2oyQnhVTG12UTVpNWNPNHVGMUFJUEJEVlhoTW83RmRwanM?oc=5",
-      "source": "الشرق بلومبرغ",
-      "direction": "neutral",
-      "ts": "2026-08-13T06:33:53+00:00",
-      "amman": "09:33"
     }
   ]
 }

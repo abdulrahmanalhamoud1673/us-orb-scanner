@@ -1,8 +1,8 @@
 {
-  "updated_amman": "2026-08-15 00:00",
+  "updated_amman": "2026-08-15 00:26",
   "count": 45,
   "up": 5,
-  "down": 12,
+  "down": 11,
   "items": [
     {
       "title": "الذهب يرتفع مع تراجع الدولار وتوقعات تثبيت الفائدة ليحقق مكاسب أسبوعية",
@@ -19,6 +19,14 @@
       "direction": "neutral",
       "ts": "2026-08-14T19:48:21+00:00",
       "amman": "22:48"
+    },
+    {
+      "title": "رئيس فيدرالي شيكاغو: بيانات التضخم الأمريكية تتحسن",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxPdkFFWEFFd2pvWmJLR1czOEdIb2ZBUXRlWm9MS18wMFpBLXBxcGdrMEZiRXNtRTVGVnpjSEl4Tk9RcWNTYUNINmdZYjdnbldsZ1lQME10ZTdxOEV1TmFvdFZ0NlNnTjBNZ1NvbGhlVlJDRi1GdU5EeGd6M2VseHI3cWp0MDVDdFpuQjV5bTZLaTJxaGNjNHhkcFMxR1BSWXpXd21sVTR6Y0owR2ZyRXhBRnMzaXNsXzRZSkUxN0NfVHFIWHdBWUxIcF9ZR0otcFFEQ3VkRlhyUVZtdFdEVldNNkZqbXRuN3RJWHZCRlVFbkNGM1dfRTZCNUZQTl9Ocm9mZHNoMHpJVGFiX3lNU0NlM0htQlFpdXRkdUV0ZXZKYjRuOEJXdElmWW9zNFctUG9VU2JwLWdRTnhCeklaLXVidndsTXRtN0tqajlTc0c4SzZLTW9HODZtMV8xQjlGNUxCMmlGb0ZnVWVzYUR1X1doenpZVFRXbTBNTnJPdEtUSDN1NFI1b1B6RV9WMktZcDNYYU40YWppaHl6OGROVklfNElUUVRObkZXOTNtMnZhX0wyZw?oc=5",
+      "source": "mubasher.info",
+      "direction": "neutral",
+      "ts": "2026-08-14T19:41:39+00:00",
+      "amman": "22:41"
     },
     {
       "title": "الذهب يرتفع مع تراجع الدولار وتزايد التكهنات بتثبيت الفيدرالي للفائدة",
@@ -127,7 +135,7 @@
     {
       "title": "«وول ستريت» تتباين في جلسة نهاية الأسبوع",
       "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNN0FkWFdvSEtvM3M3X1pfQ052WUQ3OW5ESERVN2ZKV3NlRTdScDRxaG5LNWs0RlJnMXAtc3NKb1BjcE5sNERLakZlZUhqYms2T0lpa2M4bmNwb293cllMRDZuYU5iU3BhQm15alMyYllmM0hPelREdWNsdlRVcnkwQk9GcjhzQnotRTc4eHZFUHZnZnJNY2N4UHY3UGxCbXRQWi1SWTd0aWw4SVliU1k0elRoYnlQaDduY1MtMk1OY2tFLTJyUi1sYy1aWFY3aFZJMENqS3dXMXFkZ2YzYy1Sb1ZOVGRWSWd6NW9qNzhRUTFUczNCTmZCUkx4MG9yWWRGQmtqYUh4LWVIRVpiakpVVVgwcDJHR3JxaTNoTHBlakZkeEhCaVBSN2pPU05xN3RpTXlXejBPYnRlUWJkdnJPRG5Rb2FMNmdZTXBXekl3VE1ucEk5VU9UVmV3TGp5VDU0MHFqZDhjdldoZWlLd1QwVHpQc2Vya2YtcEU0dDFORWlYdTBMMURYcmdyem5NUUlic1duc013a1p1SDd3dnJjNlFpWXJELTljUHdGM2hJU0tWT0RpU0xKMkJkdTduY0N2N1FyRkVhbGxKYW13ZkNjZEdpWWV2SWI2cGhpS3U0TVZjMGxTVGZpY2o2U2pTMGFZTnk2TU9UaXNYRjU0SzhaUE0zSElRUFJkeE8yMkNMOW8yUQ?oc=5",
-      "source": "صحيفة الخليج",
+      "source": "alkhaleej.ae",
       "direction": "neutral",
       "ts": "2026-08-14T15:40:29+00:00",
       "amman": "18:40"
@@ -177,8 +185,8 @@
       "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxPbWZFVURISnVsWF9kTFhncXFDODB6TTVxZ1Q0T2hJeTBXc1dMemp5VFdCQm9TMmYyd2lFR0Z4X2FlR3V3eE9zcDd4YmZEZEQ3bHU2Yno4QmdwZ0tSQ1U2YjhDZndUNUNfZkQySlRfX3k4ME9aUFl6YjRnOUEtWlVtZVc3OGp1V0hFcktKcnhXLWJQTVRFWnFrTmJodFVWaG9KOVFVcTBUQW1IU2hkVnRfc2p2LV9LR1N5QmFrcGxmSjR2MDhXSWJQUTA2RjdlM1ljZWNwdjRhZFJmdWZKUHZ3WGsyWTh4RmRoMENJal9ZbTJWdFItcFVBaHBENkU1cElyN0JOS1Y1ZTNlMzdSQ2RrNTJpbEJOajB1N1MySEQ4U3R1M0RIdU5mVVJTYWZzaUZ3R3hoZVhNdnhsR29XaEx5WUpHRW9WUVdDTHdMWEZRYkpBOTFxVGtCaldFTjd3SHFHOW5jQ3MxRWFYb0pCZ0hfcHVoZkZ5SVBTeGhDSDRnNzJrQ2xVMzNQLUtzRU1YZTVWWE9iWVFmaXNKa2JpQ0FXVnlaUzhQTjlxc3JjRkZvdkdjTHRETjlEYjd5aTMtN3YyakJYYng5MnJIR3RTZlE1TmxPMDdfb04wME4tM01PLVVVSG5uVnE4RmppeTl1VlBuaXVLZQ?oc=5",
       "source": "CNN الاقتصادية",
       "direction": "up",
-      "ts": "2026-08-14T14:31:44+00:00",
-      "amman": "17:31"
+      "ts": "2026-08-14T14:15:07+00:00",
+      "amman": "17:15"
     },
     {
       "title": "الدولار ينخفض مع تقييم الأسواق لبيانات التضخم الأمريكية بواسطة FXNEWSTODAY",
@@ -355,14 +363,6 @@
       "direction": "neutral",
       "ts": "2026-08-14T01:00:00+00:00",
       "amman": "04:00"
-    },
-    {
-      "title": "سعر الذهب يقفز متجاوزاً 4400 دولار مع تهدئة مخاوف رفع أسعار الفائدة",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOTzBNMF9BdEtqRTNabWdvUFRaS1IwamxfZnlEcy14UnM5R3ZRaFVlSFhFdHk2c0E5QzdaVlJpNzhUVXhkeDB4aGJkM01naURQRVE1WTY4Rng5NU9NZEJrZGNyWHFvYmhYY29rRWdiMXUzWUlVZ0w4MWxfc3BocEEzZ0xxV3hpWVJSWlBRNHRxXzhROWxmZmtwYTlkaEpsX0M4eGNEX0o2dndfcGJsT0c5NnFMN0FfS3FoRnFpRlpaM1piVnJRMkktOFNyTnMtX3F6RlBaa3pMcWV5QU42QkJ6OElmZ3JyTTlodVFuaEZzUTR2WFkwMGZMbGVKRm1ma0pMUmc?oc=5",
-      "source": "الشرق بلومبرغ",
-      "direction": "down",
-      "ts": "2026-08-14T00:10:18+00:00",
-      "amman": "03:10"
     }
   ]
 }

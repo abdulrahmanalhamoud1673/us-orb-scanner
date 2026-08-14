@@ -1,6 +1,6 @@
 {
-  "updated_ny": "2026-08-14 17:25:57",
-  "updated_amman": "2026-08-15 00:25:57",
+  "updated_ny": "2026-08-14 17:46:46",
+  "updated_amman": "2026-08-15 00:46:46",
   "session_date": "2026-08-14",
   "requested": 93,
   "scanned": 93,
@@ -20,6 +20,7 @@
     "IREN",
     "KEEL",
     "MARA",
+    "NOK",
     "NU",
     "NVDA",
     "ONDS",
@@ -31,8 +32,7 @@
     "SMR",
     "SOFI",
     "SPCX",
-    "TSLA",
-    "WULF"
+    "TSLA"
   ],
   "errors": [],
   "opportunities": [
@@ -77,26 +77,26 @@
       "session_date": "2026-08-14",
       "state": 1,
       "price": 63.29,
-      "open_high": 62.94,
+      "open_high": 63.0,
       "open_low": 61.88,
-      "open_range": 1.06,
+      "open_range": 1.12,
       "vwap": 63.03,
       "ema200": 62.98,
       "above_ema200": true,
       "entry_price": 63.16,
       "change_pct": 0.21,
-      "day_change_pct": 1.1,
+      "day_change_pct": 0.92,
       "volume": 4163906,
       "targets": [
-        65.06,
-        67.18,
-        69.3,
-        71.42,
-        73.54
+        65.24,
+        67.48,
+        69.72,
+        71.96,
+        74.2
       ],
       "targets_hit": 0,
-      "next_target": 65.06,
-      "next_target_pct": 2.8,
+      "next_target": 65.24,
+      "next_target_pct": 3.08,
       "last_signal_time": "15:30",
       "bars_since_signal": 5,
       "signals": [
@@ -117,6 +117,52 @@
         }
       ],
       "active": false
+    },
+    {
+      "ticker": "NOK",
+      "session_date": "2026-08-14",
+      "state": 1,
+      "price": 10.77,
+      "open_high": 10.6,
+      "open_low": 10.48,
+      "open_range": 0.12,
+      "vwap": 10.68,
+      "ema200": 10.5,
+      "above_ema200": true,
+      "entry_price": 10.72,
+      "change_pct": 0.51,
+      "day_change_pct": 2.33,
+      "volume": 64723619,
+      "targets": [
+        10.85,
+        11.09,
+        11.34,
+        11.58,
+        11.83
+      ],
+      "targets_hit": 0,
+      "next_target": 10.85,
+      "next_target_pct": 0.74,
+      "last_signal_time": "15:05",
+      "bars_since_signal": 10,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "09:40",
+          "price": 10.68
+        },
+        {
+          "kind": "Sell",
+          "time": "10:15",
+          "price": 10.61
+        },
+        {
+          "kind": "Buy",
+          "time": "15:05",
+          "price": 10.72
+        }
+      ],
+      "active": true
     },
     {
       "ticker": "WFC",
@@ -359,52 +405,6 @@
       "active": true
     },
     {
-      "ticker": "AMD",
-      "session_date": "2026-08-14",
-      "state": 1,
-      "price": 514.37,
-      "open_high": 491.93,
-      "open_low": 484.29,
-      "open_range": 7.64,
-      "vwap": 503.26,
-      "ema200": 495.97,
-      "above_ema200": true,
-      "entry_price": 505.05,
-      "change_pct": 1.85,
-      "day_change_pct": 5.49,
-      "volume": 60490689,
-      "targets": [
-        507.21,
-        522.49,
-        537.77,
-        553.05,
-        568.33
-      ],
-      "targets_hit": 1,
-      "next_target": 522.49,
-      "next_target_pct": 1.58,
-      "last_signal_time": "13:50",
-      "bars_since_signal": 25,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 496.29
-        },
-        {
-          "kind": "Sell",
-          "time": "11:20",
-          "price": 500.38
-        },
-        {
-          "kind": "Buy",
-          "time": "13:50",
-          "price": 505.05
-        }
-      ],
-      "active": false
-    },
-    {
       "ticker": "KEEL",
       "session_date": "2026-08-14",
       "state": 1,
@@ -553,6 +553,52 @@
       "active": true
     },
     {
+      "ticker": "AMD",
+      "session_date": "2026-08-14",
+      "state": 1,
+      "price": 514.37,
+      "open_high": 491.93,
+      "open_low": 484.29,
+      "open_range": 7.64,
+      "vwap": 502.72,
+      "ema200": 495.97,
+      "above_ema200": true,
+      "entry_price": 501.78,
+      "change_pct": 2.51,
+      "day_change_pct": 5.49,
+      "volume": 23561029,
+      "targets": [
+        507.21,
+        522.49,
+        537.77,
+        553.05,
+        568.33
+      ],
+      "targets_hit": 1,
+      "next_target": 522.49,
+      "next_target_pct": 1.58,
+      "last_signal_time": "12:20",
+      "bars_since_signal": 43,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "09:40",
+          "price": 496.29
+        },
+        {
+          "kind": "Sell",
+          "time": "11:30",
+          "price": 498.84
+        },
+        {
+          "kind": "Buy",
+          "time": "12:20",
+          "price": 501.78
+        }
+      ],
+      "active": false
+    },
+    {
       "ticker": "IWM",
       "session_date": "2026-08-14",
       "state": 1,
@@ -566,7 +612,7 @@
       "entry_price": 304.52,
       "change_pct": 0.18,
       "day_change_pct": 0.59,
-      "volume": 12105829,
+      "volume": 12105598,
       "targets": [
         305.56,
         307.44,
@@ -602,17 +648,17 @@
       "ticker": "GE",
       "session_date": "2026-08-14",
       "state": 1,
-      "price": 368.32,
+      "price": 368.33,
       "open_high": 363.89,
       "open_low": 361.51,
       "open_range": 2.38,
-      "vwap": 365.24,
-      "ema200": 365.03,
+      "vwap": 365.67,
+      "ema200": 365.04,
       "above_ema200": true,
       "entry_price": 364.92,
       "change_pct": 0.93,
       "day_change_pct": 1.61,
-      "volume": 5765648,
+      "volume": 2276229,
       "targets": [
         368.65,
         373.41,
@@ -771,52 +817,6 @@
         }
       ],
       "active": false
-    },
-    {
-      "ticker": "WULF",
-      "session_date": "2026-08-14",
-      "state": 1,
-      "price": 17.4,
-      "open_high": 16.84,
-      "open_low": 16.28,
-      "open_range": 0.56,
-      "vwap": 16.98,
-      "ema200": 16.89,
-      "above_ema200": true,
-      "entry_price": 16.94,
-      "change_pct": 2.66,
-      "day_change_pct": 5.87,
-      "volume": 27813146,
-      "targets": [
-        17.97,
-        19.1,
-        20.22,
-        21.35,
-        22.48
-      ],
-      "targets_hit": 0,
-      "next_target": 17.97,
-      "next_target_pct": 3.3,
-      "last_signal_time": "10:35",
-      "bars_since_signal": 64,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 16.89
-        },
-        {
-          "kind": "Sell",
-          "time": "09:55",
-          "price": 16.73
-        },
-        {
-          "kind": "Buy",
-          "time": "10:35",
-          "price": 16.94
-        }
-      ],
-      "active": true
     },
     {
       "ticker": "ARM",
@@ -1114,13 +1114,13 @@
       "open_high": 1040.91,
       "open_low": 1029.58,
       "open_range": 11.33,
-      "vwap": 1037.33,
+      "vwap": 1037.84,
       "ema200": 1040.16,
       "above_ema200": false,
       "entry_price": 1041.71,
       "change_pct": -0.26,
       "day_change_pct": -0.19,
-      "volume": 1700212,
+      "volume": 1089885,
       "targets": [
         1063.57,
         1086.23,
@@ -1602,13 +1602,13 @@
       "open_high": 491.93,
       "open_low": 484.29,
       "open_range": 7.64,
-      "vwap": 503.26,
+      "vwap": 502.72,
       "ema200": 495.97,
       "above_ema200": true,
-      "entry_price": 505.05,
-      "change_pct": 1.85,
+      "entry_price": 501.78,
+      "change_pct": 2.51,
       "day_change_pct": 5.49,
-      "volume": 60490689,
+      "volume": 23561029,
       "targets": [
         507.21,
         522.49,
@@ -1619,8 +1619,8 @@
       "targets_hit": 1,
       "next_target": 522.49,
       "next_target_pct": 1.58,
-      "last_signal_time": "13:50",
-      "bars_since_signal": 25,
+      "last_signal_time": "12:20",
+      "bars_since_signal": 43,
       "signals": [
         {
           "kind": "Buy",
@@ -1629,13 +1629,13 @@
         },
         {
           "kind": "Sell",
-          "time": "11:20",
-          "price": 500.38
+          "time": "11:30",
+          "price": 498.84
         },
         {
           "kind": "Buy",
-          "time": "13:50",
-          "price": 505.05
+          "time": "12:20",
+          "price": 501.78
         }
       ],
       "active": false
@@ -1725,13 +1725,13 @@
       "open_high": 412.5,
       "open_low": 407.34,
       "open_range": 5.16,
-      "vwap": 394.92,
+      "vwap": 395.55,
       "ema200": 405.98,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -3.59,
-      "volume": 36123621,
+      "day_change_pct": -4.59,
+      "volume": 25249163,
       "targets": [
         422.82,
         433.14,
@@ -2305,13 +2305,13 @@
       "open_high": 91.36,
       "open_low": 90.37,
       "open_range": 0.98,
-      "vwap": 89.69,
+      "vwap": 89.7,
       "ema200": 90.24,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -1.49,
-      "volume": 4832017,
+      "day_change_pct": -1.86,
+      "volume": 3690586,
       "targets": [
         93.32,
         95.29,
@@ -2510,17 +2510,17 @@
       "ticker": "GE",
       "session_date": "2026-08-14",
       "state": 1,
-      "price": 368.32,
+      "price": 368.33,
       "open_high": 363.89,
       "open_low": 361.51,
       "open_range": 2.38,
-      "vwap": 365.24,
-      "ema200": 365.03,
+      "vwap": 365.67,
+      "ema200": 365.04,
       "above_ema200": true,
       "entry_price": 364.92,
       "change_pct": 0.93,
       "day_change_pct": 1.61,
-      "volume": 5765648,
+      "volume": 2276229,
       "targets": [
         368.65,
         373.41,
@@ -2662,13 +2662,13 @@
       "open_high": 1040.91,
       "open_low": 1029.58,
       "open_range": 11.33,
-      "vwap": 1037.33,
+      "vwap": 1037.84,
       "ema200": 1040.16,
       "above_ema200": false,
       "entry_price": 1041.71,
       "change_pct": -0.26,
       "day_change_pct": -0.19,
-      "volume": 1700212,
+      "volume": 1089885,
       "targets": [
         1063.57,
         1086.23,
@@ -2867,7 +2867,7 @@
       "entry_price": 304.52,
       "change_pct": 0.18,
       "day_change_pct": 0.59,
-      "volume": 12105829,
+      "volume": 12105598,
       "targets": [
         305.56,
         307.44,
@@ -3274,26 +3274,26 @@
       "session_date": "2026-08-14",
       "state": 1,
       "price": 63.29,
-      "open_high": 62.94,
+      "open_high": 63.0,
       "open_low": 61.88,
-      "open_range": 1.06,
+      "open_range": 1.12,
       "vwap": 63.03,
       "ema200": 62.98,
       "above_ema200": true,
       "entry_price": 63.16,
       "change_pct": 0.21,
-      "day_change_pct": 1.1,
+      "day_change_pct": 0.92,
       "volume": 4163906,
       "targets": [
-        65.06,
-        67.18,
-        69.3,
-        71.42,
-        73.54
+        65.24,
+        67.48,
+        69.72,
+        71.96,
+        74.2
       ],
       "targets_hit": 0,
-      "next_target": 65.06,
-      "next_target_pct": 2.8,
+      "next_target": 65.24,
+      "next_target_pct": 3.08,
       "last_signal_time": "15:30",
       "bars_since_signal": 5,
       "signals": [
@@ -3604,6 +3604,52 @@
       "active": false
     },
     {
+      "ticker": "NOK",
+      "session_date": "2026-08-14",
+      "state": 1,
+      "price": 10.77,
+      "open_high": 10.6,
+      "open_low": 10.48,
+      "open_range": 0.12,
+      "vwap": 10.68,
+      "ema200": 10.5,
+      "above_ema200": true,
+      "entry_price": 10.72,
+      "change_pct": 0.51,
+      "day_change_pct": 2.33,
+      "volume": 64723619,
+      "targets": [
+        10.85,
+        11.09,
+        11.34,
+        11.58,
+        11.83
+      ],
+      "targets_hit": 0,
+      "next_target": 10.85,
+      "next_target_pct": 0.74,
+      "last_signal_time": "15:05",
+      "bars_since_signal": 10,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "09:40",
+          "price": 10.68
+        },
+        {
+          "kind": "Sell",
+          "time": "10:15",
+          "price": 10.61
+        },
+        {
+          "kind": "Buy",
+          "time": "15:05",
+          "price": 10.72
+        }
+      ],
+      "active": true
+    },
+    {
       "ticker": "NU",
       "session_date": "2026-08-14",
       "state": 0,
@@ -3709,15 +3755,15 @@
       "day_change_pct": -0.95,
       "volume": 41861510,
       "targets": [
-        3.92,
-        4.09,
-        4.26,
-        4.43,
-        4.6
+        3.93,
+        4.11,
+        4.29,
+        4.47,
+        4.65
       ],
       "targets_hit": 0,
-      "next_target": 3.92,
-      "next_target_pct": 7.84,
+      "next_target": 3.93,
+      "next_target_pct": 8.12,
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
@@ -3954,13 +4000,13 @@
       "open_high": 180.18,
       "open_low": 178.27,
       "open_range": 1.91,
-      "vwap": 175.84,
+      "vwap": 176.78,
       "ema200": 175.58,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
       "day_change_pct": -3.05,
-      "volume": 50120928,
+      "volume": 21724874,
       "targets": [
         184.0,
         187.82,
@@ -4503,7 +4549,7 @@
       "entry_price": null,
       "change_pct": 0.0,
       "day_change_pct": -0.97,
-      "volume": 27127423,
+      "volume": 27126151,
       "targets": [
         18.77,
         19.05,
@@ -4821,52 +4867,6 @@
       "bars_since_signal": null,
       "signals": [],
       "active": false
-    },
-    {
-      "ticker": "WULF",
-      "session_date": "2026-08-14",
-      "state": 1,
-      "price": 17.4,
-      "open_high": 16.84,
-      "open_low": 16.28,
-      "open_range": 0.56,
-      "vwap": 16.98,
-      "ema200": 16.89,
-      "above_ema200": true,
-      "entry_price": 16.94,
-      "change_pct": 2.66,
-      "day_change_pct": 5.87,
-      "volume": 27813146,
-      "targets": [
-        17.97,
-        19.1,
-        20.22,
-        21.35,
-        22.48
-      ],
-      "targets_hit": 0,
-      "next_target": 17.97,
-      "next_target_pct": 3.3,
-      "last_signal_time": "10:35",
-      "bars_since_signal": 64,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 16.89
-        },
-        {
-          "kind": "Sell",
-          "time": "09:55",
-          "price": 16.73
-        },
-        {
-          "kind": "Buy",
-          "time": "10:35",
-          "price": 16.94
-        }
-      ],
-      "active": true
     },
     {
       "ticker": "XOM",

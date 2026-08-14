@@ -1,9 +1,25 @@
 {
-  "updated_amman": "2026-08-15 00:26",
+  "updated_amman": "2026-08-15 00:46",
   "count": 45,
-  "up": 5,
+  "up": 6,
   "down": 11,
   "items": [
+    {
+      "title": "Berkshire Hathaway doubles down on the U.S. housing market with a fresh bet on this stock",
+      "url": "https://www.marketwatch.com/story/berkshire-hathaway-doubles-down-on-the-u-s-housing-market-with-a-fresh-bet-on-this-stock-e5c8484a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-14T21:34:00+00:00",
+      "amman": "00:34"
+    },
+    {
+      "title": "الذهب يرتفع خلال نهاية التعاملات الجمعة",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0tMUpYbUoydnVCVUV0MHdlSVRSVGk3anc1LUZGa1lSQWNhQ2g1RU54TUdxOWN1dHNaOTlCUWZjY1pKTlNMZ3NUZ3RnYlVxR0dVZkE?oc=5",
+      "source": "بوابة دار المعارف",
+      "direction": "up",
+      "ts": "2026-08-14T21:25:16+00:00",
+      "amman": "00:25"
+    },
     {
       "title": "الذهب يرتفع مع تراجع الدولار وتوقعات تثبيت الفائدة ليحقق مكاسب أسبوعية",
       "url": "https://news.google.com/rss/articles/CBMi1ARBVV95cUxPSXY3NGxqTy1xUy1EdzdUeVBGbVdfQkJ4Wi1aSlZRQ3ozTi0yeVFZZnVQd0RTVTRndG56SVgtejN3dW9GVkhlendHcUJXeGtIY1c1TVJLR1YwMkhQaTJnX2l3ZWdwT0tobE9RZU1qZzRjRDItSnRic1V0ckE0SV8tU1dvSmdsTVdFNGxuR1lYdmFnSFIwT0tTOHBZMDBHSnFSVTlWT09VbTh1VE5vT2VjbnBfZ1AxRkF3NE45aDFXTzN2Rm5keWZscXNpaURVZ29LZ2N1TnFmeHpCUGFCSUMzLXItMGozRmhmRWk0X2NSbHhEaUVMTUJnb05lRFl2RzNaYzJSQ0lHa0xaU3p3ME96RGU5ekF3cVVsZkR1MDdNMTJNRmtaN1NBX0RIZEpOSmtpZEJMeXJOVEpkby1ELTdVUmpUZXZIOXAwSGV4NVktWHIxWkQzOHh2dTFER3hpNlhQTXdJSUw2bDNBSnBKbVhFNERnODFvX01oMHd1N194MDQwcWxYMUJ0aDZEMmYtb1oxODNxQmsxMFJpZ3dtR3VFeXRIaDV1ZnVEcFNmM2tFMm5pYWFCNmpMa1ZyQTdSYjNpMFBJY3lNSTR3QVZ1TlhDRlZNZWU1ajJsOFNQME9WOW11Q1hBV3JGLUdZN0FCN2dHM0R5YUpzbWhjalBSTDRWRU9ReDhVcU04WEQ0RW1rWUdjc2V0V3Uxd1ZVaW14WHN4Z0EtSFR0eFV4ZTc2a2NGMUhhbzhlUVVHWnJNck16a3o2d3hqMUtLT19FbkVZNVJfVnY5RA?oc=5",
@@ -31,7 +47,7 @@
     {
       "title": "الذهب يرتفع مع تراجع الدولار وتزايد التكهنات بتثبيت الفيدرالي للفائدة",
       "url": "https://news.google.com/rss/articles/CBMi0wRBVV95cUxOeTdfU2VoeC14c3FHMnJ6MkZ3alhkc0tTQlJXQTdFNktmRGxzVGpyWEVLdU0zMUh5RDhRMVlPWEt4S0RPcC0taHprUTRyODlIZzN3VXk3MlR5RG5xS081Rkd0YThPcGFnRkZrdnUyaVNiM3M4dkVJejNYM0dWUjlVQmQweldsMnp1WWZzcW5RUDRubk9Ea2ZiZ2pkTmtwWUQ3bVhGODdLQVpDZ1llWEJhdllVUDQxZzZNcFo4U0FHOXIwYTZKMjZzcHFJUnI5OXRQNnh6Y09XVXFOWFdqUXVHVzFweVRiZE1STDhGeUZpMkNWaG9EMnFoVVQ0dU0yck16VXFpakttbXJJQXJfclB0ZElycmJmcHJEdDFPQjVXcHNHU2ZpRDNGMjZMSDZjeklmVjAzMUxJUDRHWUhoR0pKWWt4WW9lNkFLak1ReHN3SGo3TU9xc3JEaWZpQVBRaTY4NmpUN0tHWUhRbldBTG1mYTQxMDdSTzVpc2JDLUNfVWN0SnlGMzctUUdpTUltaVlXdmlFWTc3MUtacDdXSHVmUVBCYzBwXzlPekJLSHkxMDlqdnN0VW4wd19IbEd5RjNXWUMyMFhLRW9yMDdQNkt1M3lGVkJpUnNZbXBRdUlQM3VhYi1TOEdXUkRBd0VNR1JYb3Y1N2xneXVERmdZUkZDaXl0WC1EWHNJWkdrdmk0S1dJa1FqNElfeHRDTEhkVEFlQUp4ZlhMbHFzTXRqaFlLd1hYTjRnUWtHLXI0dzlkVjhqbkV5aHEzVU5iM3JuRHIzcmxB?oc=5",
-      "source": "fxnewstoday.ae",
+      "source": "FxNewsToday.ae",
       "direction": "neutral",
       "ts": "2026-08-14T19:10:21+00:00",
       "amman": "22:10"
@@ -45,6 +61,14 @@
       "amman": "22:09"
     },
     {
+      "title": "\"وول ستريت\" تتحول للتراجع.. وأوروبا تنهي سلسلة مكاسب 4 أسابيع",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwRDBhdFpUbEFkZk9kUVNnMGFHY3NCQS0xaW9nZmI5c1Iwak5xejVacUx2LVM1LWdXU1hodGcyQVA5SGwtMU5uUFBGV0tWWmF4bFJsYkViZFhNdVBaQ1N1WkZMLWlybU1IZEthM2tnQVZwMzjSAXNBVV95cUxQcEQwYXRaVGxBZGZPZFFTZzBhR2NzQkEtMWlvZ2ZiOXNSMGpOcXo1WnFMdi1TNS1nV1NYaHRnMkFQOUhsLTFOblBQRldLVlpheGxSbGJFYmRYTXVQWkNTdVpGTC1pcm1NSGRLYTNrZ0FWcDM4?oc=5",
+      "source": "البيان",
+      "direction": "neutral",
+      "ts": "2026-08-14T18:43:31+00:00",
+      "amman": "21:43"
+    },
+    {
       "title": "‘The market is obviously on fire’: Should I take $1,000 from my brokerage account to pay off my car loan?",
       "url": "https://www.marketwatch.com/story/the-market-is-obviously-on-fire-is-it-a-mistake-to-take-1-000-from-my-brokerage-account-to-pay-my-car-loan-65800d1f?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -53,12 +77,12 @@
       "amman": "21:30"
     },
     {
-      "title": "\"وول ستريت\" تتحول للتراجع.. وأوروبا تنهي سلسلة مكاسب 4 أسابيع",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE85UDJ2V3VZVGdqRlNGRDl6Rmxacm00TGZWUVFWOVBremprdG9uZWlKQXBMMHN5NXVrcU1SOEE1UF8yanozNEp5SWFoWGpOeWNTeUhnTmk1Nk1iMUZCRVctVmZGM2tTWXUxYTNqaWVR0gFzQVVfeXFMUHBEMGF0WlRsQWRmT2RRU2cwYUdjc0JBLTFpb2dmYjlzUjBqTnF6NVpxTHYtUzUtZ1dTWGh0ZzJBUDlIbC0xTm5QUEZXS1ZaYXhsUmxiRWJkWE11UFpDU3VaRkwtaXJtTUhkS2Eza2dBVnAzOA?oc=5",
-      "source": "البيان",
+      "title": "توقعات الدولار الأمريكي الأسبوعية: الاحتياطي الفيدرالي والتضخم والوظائف",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQVRnekp1cGlpUmRpelRPNDRad1p3Skd6RDB6dmx3Rk9NUENjdW9SdE1GbXpXWUNaUmppb2l4UWRKd2F5WFU2Q21Ra09fdzlBemszNkVOamNZUmhfcGdjRkJEZ09uQVpEcEV1WERaOGZEUVRwT2R5NTZCVUhIQ3JrNnFEOFZ5Y1pTNXRvQ3d6U3JKYml6RGZQUzBxZmQyaEdpVTVtX3hqME1ZTGYzNFlKMEVVMDhjTHfSAbwBQVVfeXFMT0hpZFlodkpvMXVqOFA5Wk1YYUQ5eEZyYUxXUGRZd2cyR2xzRU4zc1VoeWkzaHhPdXNKanBVakxySjIzbFRBRVJSODJCR0FNRDMtOGhnREtUZHdyeG5YTF9QZGVvdWdXdzJ2OTd2Z295b3FKc3JEWmRlSUVmX3c3NV9BMmVHWUhoZFYzdGM0ZktSaVB0dWt5ODlUYUhGZHZ4QTdFQnF5azZVYjRtai1rQnhDRWNIOWV5TzdzZ2c?oc=5",
+      "source": "FXStreet",
       "direction": "neutral",
-      "ts": "2026-08-14T18:03:00+00:00",
-      "amman": "21:03"
+      "ts": "2026-08-14T18:28:44+00:00",
+      "amman": "21:28"
     },
     {
       "title": "Think interest rates are high now? These charts offers a different perspective.",
@@ -79,7 +103,7 @@
     {
       "title": "وول ستريت تحافظ على استقرارها وسط قلق من تباطؤ الاقتصاد الامريكي",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE01c3l6VzRuZnROQjlPTEFCZHJwaW10ZlNtcFJ6VkpsSWxrNWhsZ0o2dDlfNVp5U01ZQXVxakk5X1hvU21GcXFxeXRjZw?oc=5",
-      "source": "الوقائع الإخبارية",
+      "source": "alwakaai.com",
       "direction": "down",
       "ts": "2026-08-14T17:35:36+00:00",
       "amman": "20:35"
@@ -135,7 +159,7 @@
     {
       "title": "«وول ستريت» تتباين في جلسة نهاية الأسبوع",
       "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxNN0FkWFdvSEtvM3M3X1pfQ052WUQ3OW5ESERVN2ZKV3NlRTdScDRxaG5LNWs0RlJnMXAtc3NKb1BjcE5sNERLakZlZUhqYms2T0lpa2M4bmNwb293cllMRDZuYU5iU3BhQm15alMyYllmM0hPelREdWNsdlRVcnkwQk9GcjhzQnotRTc4eHZFUHZnZnJNY2N4UHY3UGxCbXRQWi1SWTd0aWw4SVliU1k0elRoYnlQaDduY1MtMk1OY2tFLTJyUi1sYy1aWFY3aFZJMENqS3dXMXFkZ2YzYy1Sb1ZOVGRWSWd6NW9qNzhRUTFUczNCTmZCUkx4MG9yWWRGQmtqYUh4LWVIRVpiakpVVVgwcDJHR3JxaTNoTHBlakZkeEhCaVBSN2pPU05xN3RpTXlXejBPYnRlUWJkdnJPRG5Rb2FMNmdZTXBXekl3VE1ucEk5VU9UVmV3TGp5VDU0MHFqZDhjdldoZWlLd1QwVHpQc2Vya2YtcEU0dDFORWlYdTBMMURYcmdyem5NUUlic1duc013a1p1SDd3dnJjNlFpWXJELTljUHdGM2hJU0tWT0RpU0xKMkJkdTduY0N2N1FyRkVhbGxKYW13ZkNjZEdpWWV2SWI2cGhpS3U0TVZjMGxTVGZpY2o2U2pTMGFZTnk2TU9UaXNYRjU0SzhaUE0zSElRUFJkeE8yMkNMOW8yUQ?oc=5",
-      "source": "alkhaleej.ae",
+      "source": "صحيفة الخليج",
       "direction": "neutral",
       "ts": "2026-08-14T15:40:29+00:00",
       "amman": "18:40"
@@ -143,7 +167,7 @@
     {
       "title": "\"بنك أوف أمريكا\": فوز الجمهوريين في انتخابات سيدعم وول ستريت",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10SVVUS1BYSWx1WjMwQ09ScWN1cWhhZk9mbUF6bUJib3J5aXVVVFVMQzhERjYxVGVqdnJ3bXlQUXJ3Vk9ZVGx2cnhwQjR4M3pEbTdFclVxWlJZNkk?oc=5",
-      "source": "alborsaanews.com",
+      "source": "جريدة البورصة",
       "direction": "neutral",
       "ts": "2026-08-14T15:27:02+00:00",
       "amman": "18:27"
@@ -199,7 +223,7 @@
     {
       "title": "الدولار ينخفض مع تقييم الأسواق لبيانات التضخم الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMivgRBVV95cUxOZzdMZmhaRGpKMEJkLWpTZDRzLTJXcHl2N005LThOWVYtMlRZTGZVam9iX0p6WlBPa1Q0RzZRMlVPU0s5MEp2X3JrTXJleklpd0FSdVlLemtLWGowTWh5aWxqdDA0STg5RnFpcmZxMGZSOVVUejVRVW94QU1hSlZiU0tvNWxiOVE4U0cybFg3RVlEYmJrNGdha2QwYlNsb3NxRHA0OGR2TjNXY0ZHQ3hrRE9kSnpmQVNfYnJRckVJeEZSNDNFOTltQVQwY2RDWDhHTkN3aEs5elBPWWNaa0ZTNVo3ZUpLRHZRRFZ5ZkIzSEVCYlByeGxDVXZPZ2RQM3E4eG9KM2V2TGp0d2tWLWRVczVTMEhjamk3RWY2ODhzcTlOUXVTZERvRTdMc2VqT25VYTAxVURnNXNXbHEtWnFoZTZiRjlPcXpqVm16aTBEenV1N0VKbHBOY1BQQWV3YVNyUDlqMi1BOWdkQkJicGFRYUQybDBWZUdQVUl4aUtLcnQxdGE0RkNITlcyWFZ0U1VLeUxIaDRDZGYwdDd3Y1F6MWVmM0lUMlVHdjVHRE9yYmdXTHdmejB4SnZQSm9Ca2RURlhLSEhuUWJwWURfT2duZHliQWRNeWhDdlVFSkJ0Mzkwak5ZaTNGZ3V6WGhCWmlsZXEyUVk4TV9wRWg2dmoxN2tVbzd6aVVOb3REZWRDb01TNDdiNWRnbk1nVkNhaGhrdTYwVGFNakNiR0x2R1daWjV4T3R3NGprTnNMM1Fn?oc=5",
-      "source": "fxnewstoday.ae",
+      "source": "FxNewsToday.ae",
       "direction": "neutral",
       "ts": "2026-08-14T12:05:11+00:00",
       "amman": "15:05"
@@ -279,7 +303,7 @@
     {
       "title": "الذهب يصعد مع تراجع الدولار وتقلص رهانات رفع الفائدة الأميركية",
       "url": "https://news.google.com/rss/articles/CBMikwRBVV95cUxNVU5QVlNmSGZjOEdlUXBKM2hYc3BoVW1KUElSd2ZkU2ZfQ0twbVdFUk1UUkFray1NMWc3VXdrMUlVWXk2T3hUdEpvYlp2akhfaC0wcjBBcDl5ZDQzZW83V0kzemM5UzFvbGpYOHc3eHdidjNnSEIzNXM2YVRFVFlfSnhNbnZ1a0RPYWFlX0VWOEFJUVZ5YWtKanc3NHhmOHhmTWdnZUVlRW1OWjlBLUxJVmJoZmNLRWh2MWVTQjBzYzFZMGg1cEZzdDJJckxSVmc1MjdkSzdWYzJYS3J5ZXViNFo2OTFpbU84Z0xkbUpHMGpCUkFaM2ptNUFlb09jNU1wMkJIQVNfV19ELXNtemM1THEtVEk3VW1DeUFtUGJNbUdKcmV0aVRqV0pxWVc1OG9WQjJobG8zdm1nWGtZbmtUaHJ2d0Q5TFdMRDJDRUhteGVUQlk4bGxTWXpDck5zLUlvX2JxSTc5WHVfN2NaUWJhZDRJZnpONUh1ZEQteFRzZVA4LTg0OGxkbnpQNkl6OU1Sd24waE1ac3h5cnRmMVlQXzJ4WGw1YXRoMi1OQ0l5Mmd4bHF3a2IwbEhSQldGMlJodU5SLURxdTVsbllHdk9XX3RvZVhUcDM1YmJnT1duX3ZWamtGUnhidC1WQ29SdkZ2TUp2ZVpLQkk4ZVl0QTFaZWFXU0xoN0FBZ0hMM0M1aURVVTDSAZgEQVVfeXFMTXZRVkNwSi1RUlh5d0FONkhub2NWY05DemRuV2lXZ0NKYlVJRDhPRWY3d1lwU3VoNEowWURDcm55al9YZkp2VGc5MWpWZjZNa0pYREJuTG1NbHByV1d0ZGl3eTVEc1I2QnZ3ZXctTmMzZ3BHMFFPZ1pSajV0dExNaHJ5cVVBZzVaZlZoWHUyZkdoVHgzZkFkeEoxZGFrWG0tTW1KZUl6ODJnSVB4bUlpU2liNk5RZHJFbjR0b2RHaHRqSngzN05udFdrWS1MOGo4U2VUOEVLdkFtNVF6VjZQR0QyZF9FN3B5bk5wZzFjNi1zVXQ2R0RCN1BLcmJsZU5lQnhRVFhRNGp6LUNaMU9XVHZHSzdCTVdCbUZ6UzFRWkFFSWlQWnFNVEtMeFl4aVNnT2JjWmdGZHJ1U054MHZGZUhnd21pTkFWbzZlWFhwLW5ETUxFTGZ4cF9GQkhKN1pRZHRfNmk2RmhrTUMtWjZVdFNmZTAtTlVEdldQY1ZXMUwxYUUtSDJ0SGY5eTcwNnF2S0JkQ0MwSmc2YlNNUDhGQTJzajdCbmc4NHJLMndSejF2ME1UTnphUjJ0c3dkaEx2bXJ2ZERZUjYzbTBUdmIzY2lrYmFCV1g5ZXQzdlF0NmhEa1drNUl1eTBHZm5RRHRCc3dBTWs1VHhqVlkwMTdLdXc3aUdMQjl6a1B4dkJ5Vjh5ZlozOUg0V3k?oc=5",
-      "source": "alarabiya.net",
+      "source": "العربية",
       "direction": "down",
       "ts": "2026-08-14T06:12:00+00:00",
       "amman": "09:12"
@@ -339,30 +363,6 @@
       "direction": "down",
       "ts": "2026-08-14T02:39:28+00:00",
       "amman": "05:39"
-    },
-    {
-      "title": "كولينز تلوح بإمكانية رفع سعر الفائدة من قبل بنك الاحتياطي الفيدرالي في سبتمبر",
-      "url": "https://news.google.com/rss/articles/CBMi7wRBVV95cUxNWjZ1VDREQ0swS1NyR2JjUkVrX1lJWVV3NWJTT3IyU3JmblZTWGktMkdzWUN1d09yLUxieURJdEtERzZzVWJKSjNXSjdicC1RcWUzMklXMkRoNC03cG5JNFhzcXZzbEJwdzlXTzhBUHdUTHg2OXpkOFBwQmVCZzdxaDdxNVkxbS1DN0Iwa2VITF9udVI3MUNfM0FUMFBoRHRiamdKbG1XOHNKeW12VEtMRVZ0OTVMSUhRMDNqTXNUMWJkdm1VMjFLNkl4bkZPQlFzVjd6aGhXTTNFbzdrRVFnZERRYm85VmZ2SnBtUjBwRjJtUklrTS1kY29qXzRQd2VYQ0hmb2VoOWNBbFFCSm9qdWEzX3prRWQzVGg0Y1UxSzhuVGM4MjNaMVV3T3NZN0tadl94d0hJVFRkSVZ6LTZWSkxEWmRQdXpEUjlBcHM4dDJUVVJBeml0S29kVnNFQ0dKUHVkcWdOVy1pUFZfR19Jc2MyTl9wSmE3QlNyMmVtS2wzQ3NjeC14eExBelhsODQzT2dWY2dGSldNdFl1Y3hTTkFfc01vSDBmT1FpZkZXS0tQQklhcXY3cDBFblZfdGVHTk5CQmljUGtPVE94TTNtUkFaYTd0a2tpQUc2V3p4Vnc0VWFTSDA0NThNYUJlTHRYdU1GSlBETk9FaGt0SjBSUmx3a3dFOTFwRjczMGxBTjRWOUU3UVJ0OEJzbmlCQ0llSktiaEpkMThMa05zZ2o4X1NzSmdHbEZsaDk1ZEJCVkZfeXdnVU51TFA3RWJPeGJJT29oRm5jeENUOHEwZTJBRHhFbmdyNjVxRUhVa2NyTQ?oc=5",
-      "source": "idnfinancials.com",
-      "direction": "neutral",
-      "ts": "2026-08-14T02:20:00+00:00",
-      "amman": "05:20"
-    },
-    {
-      "title": "هل أصبح رفع الفيدرالي للفائدة حتميًا هذا العام؟",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1QWxFLVZYOFVrN0lTLU93NjVGQmdCNGtxa3hkUkhfTHFJSS1EbXptdTg3OHdmV3JMT2hvUXRubnFNeVIyNXJ3cUxuMGJPNThCZkE5YU11NmN2Q2JPdHJCVnd3WndIUFl6TUE?oc=5",
-      "source": "ارقام",
-      "direction": "neutral",
-      "ts": "2026-08-14T01:00:01+00:00",
-      "amman": "04:00"
-    },
-    {
-      "title": "هل يتيح تراجع التضخم الأمريكي لـ BI فرصة لخفض سعر الفائدة؟",
-      "url": "https://news.google.com/rss/articles/CBMizwNBVV95cUxQd3h3MEZHd2FKTXdRZklFVUZ3MmRzbUVtVTJNb2tBSFRXbkg5Y0o0ZDZ6cDYwZ3Ffa0lITkhWQ21IdzhKYktPcExURG15M3ctanJ2NUgtWkxHMFN2ZGJaTlZ4UUNSVnlwQmxtaUQtZWpRQlZESlZ5VlBkZ2tPX3psRmkwY19oSXJaN3h0X29OMEc2LTF5aDN6NlVDb0xiQXY2RlVHaHYxR25ybjRQZ0J4Nld6QjBKSVhUME5YdDdOUUNiX0JDaHZMbWdZVi1BVFVuZDJjc3FnTVpScmUwTVhPQ0JFNXNsN1RMSkJ1a3RzRlhZRUg0bXd6RHVHOHZINWtvRHQ1U1ZKd1FHZGllNGFuNFdZdWpWdVN0OW91ZHJtSG1NekNKN3hwcDFvYUZhRWJhVFpjYmd0dFMxZFZwX1VzdmFLMjh3Q2RhTGw5X3ZjWkh1dG1rMUVTUmtfYmVmMjNlUV9ldE5oV0gzTEQ5bzNnb3lBUEliZlVjLU9nazg2TGZTekMzOU40ZzQ0RnR4LVBObDQwMDlSZnFjTXBROHJTWFFSLUNkVnRLcUJSZXlWanA1NzdwQ3V1c0hla0NTSHdER21yNmxGcUliZnAwa0Vv?oc=5",
-      "source": "idnfinancials.com",
-      "direction": "neutral",
-      "ts": "2026-08-14T01:00:00+00:00",
-      "amman": "04:00"
     }
   ]
 }

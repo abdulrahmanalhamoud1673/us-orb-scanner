@@ -1,8 +1,8 @@
 {
-  "updated_amman": "2026-08-18 00:56",
+  "updated_amman": "2026-08-18 01:14",
   "count": 45,
   "up": 7,
-  "down": 15,
+  "down": 14,
   "items": [
     {
       "title": "The number of ‘negative-beta’ stocks in the S&P 500 just hit a new record high. What that means for investors.",
@@ -87,7 +87,7 @@
     {
       "title": "«وول ستريت» تستهل الأسبوع بالتباين مع ضبابية السلام",
       "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPMVlYczhsbkZpT2lkVVdRRHg5TzFVT0NiM0tYWUoxNlhtaXVyYndwblBYaldtZHVzQWNCT1EwX0M3ZnV5QVoxSEFsa04yM3FTQjhzZ2Jva0kzdVF5bUQyOEN6RnZ0UFFZbktzaFZ6bFF5d0hEb3V6WnF3MFEwQ0t0SmpPalZjSFpCa2JlTmNnYi1WQnZqczh0REJiZWZDOVpQcDZHSjJhanhuVktqVDdxWjJNX0d3NFlaTTdJMy10WnB6WEtxSW95N2lxdWFVTkxockFXZGs5X2o3T2g1LUtROEVNNjVrOVY3Wm5ETEVtWTJwZzRua2pkY1psSGNSQzhRNDktRXFWSGdYcUJVbS1hZWhPV1lyTEtVRlBncEM3TkQzVkwxTnJTX00telFRckhOck9Uenh4X3NEXzk2Sk45ZHB2QjVKZ0JiVDVfaVNLR2I2SFAyQ0FfRkpFT3RZczZWbnZmcFctaWdwMEZhaHZ0dnM3aFRhTTJINXBLNDdfazk2dkVxUUR1VGwtQlpTbFpOZ29ucGQ1bWMwcXluVVBPNnBBaVJWMjdGMFNyNzAwLS1tNnB0dW1QSEJlWmhzWGZDY1VTbk1NSVFXX0hGTDFuVTJCYjJUTTQtbGlrbUZMN3hya0pfTk05Q01VazU4c0JG?oc=5",
-      "source": "alkhaleej.ae",
+      "source": "صحيفة الخليج",
       "direction": "neutral",
       "ts": "2026-08-17T18:30:05+00:00",
       "amman": "21:30"
@@ -107,6 +107,14 @@
       "direction": "neutral",
       "ts": "2026-08-17T18:06:00+00:00",
       "amman": "21:06"
+    },
+    {
+      "title": "استطلاع: \"الفيدرالي\" يميل للإبقاء على الفائدة حتى نهاية العام",
+      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxOQVZhcVBOOFRGcW1EOVdkM2Y4cXJYYUltUVNpYXI3WTNIWWlDZFVINnZDSVYzelpOQUI3a05qOXJBbHRnVTQ2VVpHYTdld29iTHc2TEp5MGVuYWdNRWJPUWJFWDY2U2VTbDN1alVVYk9tTGF3NDE5UVBEczk5ZURlaWV5QU1rVnZGWkYwNllrZjFndE1vTWc1SXN3eUl2Uk1hSVBRTEJSSUwwdEZUZEJFU1BZR3I1VGpTNkpDa0w1LTl5cmJ3XzYwY3B0T0VnY1lVQzkyV0hhVFhUYXFUOE1SY1JoR0R6WDNzbmRvR2p1dGY3dWFQY2J0dnBsX2NVc3FpVW51d0xUa1E5SjMyQUloTWdjSU80RFZUVGdTSWdIS0dFeUpBVGtKZDR5U0tRaG1KTVp6b3hFeW5aUy1GMks2WDJIM2lPWFF2R19ib2JZemZ6Z3JoOUZFR1N4TVV3TEh2aUI3VTRibTdRZUNtbDlNejBqaDZHVmtJczJlYjRKVHpEcDExYmtPRGJ3ZkRLSmV0Uy1KZTI1MTVKdXBwczE1OWZqVGhjaG5FUFFmWmxNSVRZbjdXcU9sVmd5dkxzU24tXzBkRzBkUjNLUzBFUF9GLVlDaWRxd0RLYngtMkVuZnk5d2RwM1BfWg?oc=5",
+      "source": "موقع 24",
+      "direction": "neutral",
+      "ts": "2026-08-17T17:41:26+00:00",
+      "amman": "20:41"
     },
     {
       "title": "تراجع مؤشر 'داو جونز'.. استقرار الأسهم الأمريكية عند الفتح",
@@ -343,7 +351,7 @@
     {
       "title": "معارضو قرار «الفيدرالي» يدعون إلى رفع الفائدة لمنع ترسخ التضخم",
       "url": "https://news.google.com/rss/articles/CBMipgRBVV95cUxPZldxWVNNRVN2UEhjLUZabVp6c3FfTjd6bFRPSlk3RFBBVlNJWVVUYTM2S3pjTUtBYm55c1dvc0xXY216czltOXhtUVoxLVFiUHNFQWR4QU9wTENZTjJoeHNvd2RLQ3pnSElHQkh3amZlQS1LN2s5X2N3Rzl4NUlsTXh0VjVCUXZnU0k0Smc5eHp3VzBZUDJWckFzcUUtb19VN1ZjZ25nLUs1X0JTYnlPS0VFYlk3ZHFRcnE5MThoUzQ5S3czNnFCWXFZMHdoMkx4NndkYzNwQngwV3RiQ01mRGNFNTZpVnhSNVY5VTdNU0RuVGFFNm44TFp3WV9MdWF2QkVZOUJGS0FDT0Ezenl2dHpocVZBLXFIVTJxQXFfNXpQNzJRUzA0T0ZPeERGV3lSNmNrTlJWbjFpdkVwZXk4MXMtbDBzRTFXNTRNTzEycHJybUw5TW02WjR6Wjc4eVY5UlhjWmxhWFowcGczTTdReFN5WWNyRDMtb3ludXlqb3RCckN0OUdWT2VxMndlenlSNDZuaEpfbjV0WWhlM2hzd2szZHJxdFlZZ01zZEFwOVM3LWd6UkU3WmI2N1lpQTYyeU9PRHVUaEx2YmJ5bHFpN2ZqM0h5WEZrTjVkaXJUY0NtazZnTjBKMUxUUmVRV2p5LVNoVWdTZmxDWFRLZ211XzQ1QkhYR1IwZlpkU2lNRHo2Z3E0OVd2dnZtMUtLMEh2cFFOaXh3?oc=5",
-      "source": "aawsat.com",
+      "source": "الشرق الأوسط",
       "direction": "down",
       "ts": "2026-08-17T09:57:57+00:00",
       "amman": "12:57"
@@ -351,18 +359,10 @@
     {
       "title": "أسعار الذهب اليوم في مصر الاثنين 17 أغسطس 2026.. عيار 21 يسجل 6200 جنيه",
       "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxQS1FoN2lvMllhRWlabUpEU1VuTHdacllxd00wOEtBamNzb3UzNmtlb3QtQUM1eU81RmJEcjlMVnlLQVBQLWFZOU5iOXFoUGE3RF8tWjI2Ym9jQXUxTHZpVVVibDA1Y0tQZXpRZG03bW84NEJrQlJRQjhsWlF5NXhkb3g2aE9CWDBkU1I5LUw3Q2VqbHVybnRfNGw5WjJxOHFiWElpTlMtcldFcUljRWtsR2p1U2ZIbWZqOC1GaWxRQ2tSUUxnaTlITEVYblJldkJtQ2hJcERwRzVacTR5aFFlUXRsN215ZmlvcnI3ZEcwTzYtR1lsbjFXandFV1I4S3JUbkVMSWwxZW9manU2NXZjcUw4bWRkQTRtbU8wdURjQl9aMnc3OF9RWGpBd0FyeXNJZ0NsVENHUi03cnAtRXJHNXM5QmJzS25ZNGpyX2JMZkJhODFxSnRPaFRhVEJIQVVEV0VyQ1kwYm02cEVianZYV1ZOTDVIZWpqX19ZZHJwUkhIdTlVMEVfSWRHS2JrbDc1NHI1Wm5jejBvenNzRUdoMUpvSk9waUp2V1o4bmNDOWJYbmJEQ1JTT25IMEVBY2FMampiQVBZNFQwYkF4WmV5ZEw3dkp1UkVFenZ2U29JNXQwWkZQb0ZtenRqNkZxS3p3VTJsR3FYVV9jZUJvUXoyS2RGZDdjM2VxcTYzanJkSWxCcGhIZ05LNGo3M0Z0S254WmgybWxFMmNad0tKc3ZicWY5YVNYR05fWWZlNTY4MXc2RW1sRVVMdDFSblNHdlRaLVhiTTN0cjNxZjYzd0dpX2x2N1NSaVRDM05Yb0xGTERYQU5fckNvYnJRSmt1S1lKOUFlZEcwM0Jtem8?oc=5",
-      "source": "alkhaleej.ae",
+      "source": "صحيفة الخليج",
       "direction": "neutral",
       "ts": "2026-08-17T09:31:41+00:00",
       "amman": "12:31"
-    },
-    {
-      "title": "\"جولدمان ساكس\" يستبعد رفع الفائدة الأمريكية في سبتمبر المقبل",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1kbVdxNEJzaUFza0tNNTZNYWMwQ185M1ZpWTU1OGEzdEhHMnhxQzJZdURsUFpWdk1oTEJTQ1lScTZlMEpmcU5Qdg?oc=5",
-      "source": "economyplusme.com",
-      "direction": "down",
-      "ts": "2026-08-17T09:28:18+00:00",
-      "amman": "12:28"
     }
   ]
 }

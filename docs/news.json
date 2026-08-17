@@ -1,9 +1,17 @@
 {
-  "updated_amman": "2026-08-17 19:51",
+  "updated_amman": "2026-08-17 20:13",
   "count": 45,
-  "up": 4,
+  "up": 6,
   "down": 17,
   "items": [
+    {
+      "title": "Meet the Newest Stock in the S&P 500. It Soared 424% Since Its 2024 IPO, and It's a Buy Right Now, According to Wall Street",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meet-newest-stock-p-500-165537866.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-17T16:55:37+00:00",
+      "amman": "19:55"
+    },
     {
       "title": "Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up",
       "url": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
@@ -11,14 +19,6 @@
       "direction": "neutral",
       "ts": "2026-08-17T16:31:00+00:00",
       "amman": "19:31"
-    },
-    {
-      "title": "Anthropic Paying 33% Above Market for AI Capacity, JPMorgan Says",
-      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-paying-33-above-market-162715308.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-17T16:27:15+00:00",
-      "amman": "19:27"
     },
     {
       "title": "تراجع مؤشر 'داو جونز'.. استقرار الأسهم الأمريكية عند الفتح",
@@ -29,36 +29,12 @@
       "amman": "19:22"
     },
     {
-      "title": "Prediction: If a Bear Market Is Coming, This ETF Will Be the Biggest Long-Term Winner",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-bear-market-coming-etf-162000064.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-17T16:20:00+00:00",
-      "amman": "19:20"
-    },
-    {
       "title": "الدولار يتراجع مع انحسار رهانات رفع الفائدة الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBkWFZYTkhwd04zanc4MmxLODAybkFxN0JIejNnX1JRWklIaHY3R0luNkR3SXVYTi1oM3hMZlZodlZKZUNtb0FZ?oc=5",
       "source": "صدى البلد",
       "direction": "down",
       "ts": "2026-08-17T16:16:00+00:00",
       "amman": "19:16"
-    },
-    {
-      "title": "SoFi Is Dividing Wall Street. This Is the Bull Case for the Fintech Stock.",
-      "url": "https://www.barrons.com/articles/sofi-stock-buy-bullish-case-fintech-27801263?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-17T16:16:00+00:00",
-      "amman": "19:16"
-    },
-    {
-      "title": "This New Pipeline Could Unlock Years of Growth for 4 Energy Stocks. Here's Why That's a Win for All of Them.",
-      "url": "https://finance.yahoo.com/energy/articles/pipeline-could-unlock-years-growth-161501411.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-17T16:15:01+00:00",
-      "amman": "19:15"
     },
     {
       "title": "سعر الدولار يتراجع عالميًا مع انحسار رهانات رفع الفائدة الأمريكية",
@@ -101,6 +77,14 @@
       "amman": "18:39"
     },
     {
+      "title": "ارتفعت أسعار الذهب اليوم، 18 أغسطس 2026. متى ستصل إلى 5000 دولار للأونصة؟ ما هي أهم العوامل بالنسبة للمستثمرين؟",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOLWx0Wk9GcEc0NjJ2YkE0M2tlWTFWeUhkbmx3a2paVVRkVnZNWUNMdFRUd1dxeFkyMkNubnUtWFFlNzVNOHg3MGk0UUJPWmkzYzVRS2tLeVZ1bWRoaU1sZ2pLWEYzQnJoVW9mUGtENUxEenEtZ294aXpQNmpOUGRWXzUzWEdPMnNMS2pnSnBjWkZUM1ZuX1lyWWc0RGhkSkNJX1VDWExrUEU2T3Bhb0hqQVNVTmN6ZC1TelNraS00SzFjeW00Q3hWV1ptaHRGVktnRi1fb3g4ZlJUNnRYY09XZg?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-08-17T15:37:08+00:00",
+      "amman": "18:37"
+    },
+    {
       "title": "عوائد سندات الخزانة الأمريكية تصعد الاثنين بشكل طفيف مع ترقب محضر اجتماع السوق المفتوحة",
       "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOS2lTQXYtNTlIZ1ZuaUZrZHFXV1RCSGo4RGpCcGh5cUNGaFZ4UXNES0Q1TzdRcjRvSXBtVHVCUUhSTG0yeUpnQ0dQVUhyYUFEZzFhUXRySFZQUUVfTWx3OEMwbUJ1WXFjTUpRWTRjWTNxLTFEN0pLR0IwMXVaNTltX1VNaVVOWFhGdjl4U0FuUXc2bVl0YzlXRlZTMFl4emNvRTliWGljb3pzdkN5R0JnRkxmUy0xOUxMbEZPTnRjU0tTQVlWVFl5LVloWTFoX2FZTzE5RUVRck1aazNTNld6VFJlN3JyVVk3T3Jnb2xVNm55al8xYy1TR25qSDJIaGRxcy1sSWI2TWNUUVplck1wdTk5NFRoZTdVZ3NDYk1PZXJZeU56QWlxeE5iQUlFbF9vMGxXY2lZblNDV1Q5d3k0c3Rad0N3ZFRyMVdwZTRxSXpEOWw2NlFUQy1CWl9XMVVYM1RaNVo0Wk1rTE1PXzJWVlItWWJhSDc2UmRZQlVHS1ZuSDMxLWpIejViM1JuSFBtaGxFM0tn?oc=5",
       "source": "جريدة المال",
@@ -115,6 +99,14 @@
       "direction": "up",
       "ts": "2026-08-17T15:22:00+00:00",
       "amman": "18:22"
+    },
+    {
+      "title": "ارتفع سعر الذهب بنسبة 8% تقريباً خلال شهر؛ ما هو الاتجاه المتوقع في المستقبل؟",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPMFZnai1uOUZKZnVSQ2RRRlFtUktmUWdNM0JUVFRKcUxmWE5OeElpdlFlZkcwdWpZT2FsVGJQaFNKem1fMm1hOVVYTkQyejdHZW10SU8zNXkwMTVjX2lTWWNfd2pnV3RLbmljNnFReHc5SjBGT2VEX1RRbXBvY1FzVG9B?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-08-17T15:02:48+00:00",
+      "amman": "18:02"
     },
     {
       "title": "Most investors are making the same costly mistake — and it has nothing to do with picking the wrong stocks",
@@ -231,7 +223,7 @@
     {
       "title": "جولدمان ساكس: الأسواق تبالغ في توقعات رفع الفائدة الأميركية",
       "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxPNWRsZ2dUUEZrOVdnNDFoQVNJV3JlUEhVVm0zcmwteDBqSFFBNkZJTEpMTTIxN2Q3cEU2UXU0c0RjMXZBajN1NWt0T3o2cjQ3LWhQbzdTWTZXX3N0WHFyVXVnN3RVZmc0d2hBWHhrRm9VMERta3ItTjI0V0QyMDFnNzJrU2JyX2ZEQW1vWnVTdm5EVWNrMVB5VWZaTmVnSlNHWTdzNHBMdHZaVzBmcjg5VUxrLUhFSm9yWFNwbTk1UEdhSnY0NDRHOG9mSXpZb2lrNktHTWlTOFA3SmMwOUVuV2dEbVU0Qjc1RnJELXFjTTJZbHV6eTYzaUwyZTJ3ODVmNVZfdHBEWEJwMlNESzRTN2NFNU9JUHcyUk9WSHdUTnpXYnNSakExT1Ixa2tLZW4tOGREbHAyQ0F5VmtrNFpNNDlJaVJhNHd6aG0yZ1o3TVZxMEw5YTMwU05YbFhKNTRVdnJ1VFJabXNtVFV6TGpWS3dTVXZoMmU4UEZzNEpCTTVPSkRhdVBRMDFUMXE0WXdsVUNfTjc1SFNweGRsZlJpOUJYQnBZTWhTT2ZDZS1GQjIzVXAxd0gxNDJlSTl3RFFXRlJHNkJaaG4yQjNVMlU0dmY4VGd1bDBhWlktVFh5RWcxMHlsTVZFTW00YkF6RFhWQ1FqOERjTmJxelBpX1FjWnFPUF9oVFdJUzVmX3ZtOWhKQdIBlwRBVV95cUxOZl9iSUhPb2Z3M3pKZEZRdEljXzBmckZ2TFpQdWt4Sm5UM283Y1pPLWt2b3NDbkRwQjBZaDBhdEc2QTJjdGg1Vng4RVJKOXhlM05GRnhhNU1uU1VxdTV6MndWQVBsVE45anRNc01iNDJsVGptQXJRd0YzbllzUVVsbWdySjZvY29UcTlCUkNTM2pCZ0JZRWEwVllGei14TGJDcmtyUXBPaGpuUXZ6MkRzSUl2SHhZQ1dLbWw2MFdsaVlhZmVYc1ZKSHdmWGlVMEVGOHgtSmh2NjBmSk03WTY3TU1aT0pTcm5ScENXTnNwVElhc3BSMkpzQ2lZaDVQMVlHUS0xcWR2MmJqZUdsOUU4TDRjMzIwTmMxRE1tR1RqeGE2LUhQaTdWVGtnSGotck00SHlZODhlZTdsVkM2b1gtcHR2aG5NbDAzTVFobVVjOHJrSXh6STJqZXc1S0VJRUZEUlh0YlZBbDh2RWEzQXFfNzEwY2xIWnR4cTNaYUg2Z09BLTJrdllxRDlHYndER0s2UzR0eklLSnM0OWJNN3lxWWFMczBoS09wQkZwcGNpQXVRSW5CQnJORjdSVlNvSmlVZjVaTDAtTHNNeUkwaThVQ1ltNURrNlNMNFNwR0xNWE1IeThJd1J3c1A2TVJIUzRTY2YwQVpTekIzRnFQWGg3cXpWWXVQUEdueDlUSExTcEdHdWd1cWdJ?oc=5",
-      "source": "masrawy.com",
+      "source": "Masrawy",
       "direction": "down",
       "ts": "2026-08-17T11:28:01+00:00",
       "amman": "14:28"
@@ -269,10 +261,10 @@
       "amman": "13:00"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq waver ahead of retail earnings",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as Treasury yields rise, US-Iran tensions remain in focus",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-17-dow-sp-500-nasdaq-094421171.html",
       "source": "Yahoo Finance",
-      "direction": "neutral",
+      "direction": "up",
       "ts": "2026-08-17T09:44:21+00:00",
       "amman": "12:44"
     },
@@ -363,6 +355,14 @@
       "direction": "down",
       "ts": "2026-08-17T07:57:18+00:00",
       "amman": "10:57"
+    },
+    {
+      "title": "الذهب يلتهم الدولار الضعيف.. لكن هل يستطيع هضمه؟",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wY3JaaEZFVWFNaEY1RFhlVXdXZXZqa0RvRDladGpjLW9uOElkMnRSeTNIdnFFX0k2R3BDQUQ0cGJfZEh3V0ZJUzNHNEwzVnl3SlJpSThYWQ?oc=5",
+      "source": "إرم بزنس",
+      "direction": "neutral",
+      "ts": "2026-08-17T07:46:51+00:00",
+      "amman": "10:46"
     }
   ]
 }

@@ -1,26 +1,26 @@
 {
-  "updated_ny": "2026-08-17 16:52:52",
-  "updated_amman": "2026-08-17 23:52:52",
+  "updated_ny": "2026-08-17 17:12:23",
+  "updated_amman": "2026-08-18 00:12:23",
   "session_date": "2026-08-17",
   "requested": 90,
   "scanned": 90,
   "waiting": 0,
-  "buy_count": 30,
-  "sell_count": 18,
+  "buy_count": 29,
+  "sell_count": 19,
   "active_today": [
     "AAL",
-    "AAPL",
     "AMZN",
     "BBD",
     "CRWV",
-    "DNN",
     "GRAB",
     "HL",
     "INTC",
     "IREN",
     "KEEL",
     "MARA",
+    "MU",
     "NKE",
+    "NOK",
     "NU",
     "NVDA",
     "ONDS",
@@ -567,42 +567,6 @@
         }
       ],
       "active": false
-    },
-    {
-      "ticker": "DNN",
-      "session_date": "2026-08-17",
-      "state": 1,
-      "price": 3.18,
-      "open_high": 3.26,
-      "open_low": 3.13,
-      "open_range": 0.13,
-      "vwap": 3.2,
-      "ema200": 3.23,
-      "above_ema200": false,
-      "entry_price": 3.27,
-      "change_pct": -2.75,
-      "day_change_pct": -1.85,
-      "volume": 29241939,
-      "targets": [
-        3.52,
-        3.78,
-        4.04,
-        4.3,
-        4.56
-      ],
-      "targets_hit": 0,
-      "next_target": 3.52,
-      "next_target_pct": 10.69,
-      "last_signal_time": "11:45",
-      "bars_since_signal": 50,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:45",
-          "price": 3.27
-        }
-      ],
-      "active": true
     },
     {
       "ticker": "NVDA",
@@ -1326,7 +1290,7 @@
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
-      "active": true
+      "active": false
     },
     {
       "ticker": "ABBV",
@@ -2122,42 +2086,6 @@
         }
       ],
       "active": false
-    },
-    {
-      "ticker": "DNN",
-      "session_date": "2026-08-17",
-      "state": 1,
-      "price": 3.18,
-      "open_high": 3.26,
-      "open_low": 3.13,
-      "open_range": 0.13,
-      "vwap": 3.2,
-      "ema200": 3.23,
-      "above_ema200": false,
-      "entry_price": 3.27,
-      "change_pct": -2.75,
-      "day_change_pct": -1.85,
-      "volume": 29241939,
-      "targets": [
-        3.52,
-        3.78,
-        4.04,
-        4.3,
-        4.56
-      ],
-      "targets_hit": 0,
-      "next_target": 3.52,
-      "next_target_pct": 10.69,
-      "last_signal_time": "11:45",
-      "bars_since_signal": 50,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:45",
-          "price": 3.27
-        }
-      ],
-      "active": true
     },
     {
       "ticker": "F",
@@ -3282,7 +3210,7 @@
           "price": 1019.55
         }
       ],
-      "active": false
+      "active": true
     },
     {
       "ticker": "NFLX",
@@ -3388,6 +3316,47 @@
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "NOK",
+      "session_date": "2026-08-17",
+      "state": -1,
+      "price": 10.81,
+      "open_high": 10.84,
+      "open_low": 10.72,
+      "open_range": 0.12,
+      "vwap": 10.92,
+      "ema200": 10.73,
+      "above_ema200": true,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -0.05,
+      "volume": 86302280,
+      "targets": [
+        11.08,
+        11.32,
+        11.56,
+        11.8,
+        12.04
+      ],
+      "targets_hit": 0,
+      "next_target": 11.08,
+      "next_target_pct": 2.55,
+      "last_signal_time": "13:05",
+      "bars_since_signal": 34,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "09:45",
+          "price": 10.92
+        },
+        {
+          "kind": "Sell",
+          "time": "13:05",
+          "price": 10.94
+        }
+      ],
       "active": true
     },
     {

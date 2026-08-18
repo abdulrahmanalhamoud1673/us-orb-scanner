@@ -1,9 +1,49 @@
 {
-  "updated_amman": "2026-08-18 20:38",
+  "updated_amman": "2026-08-18 20:58",
   "count": 45,
   "up": 6,
   "down": 17,
   "items": [
+    {
+      "title": "Stock Market Today: Nasdaq Weighed Down By Chip Names; Credo Plunges With Micron, Sandisk (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-18T17:35:06+00:00",
+      "amman": "20:35"
+    },
+    {
+      "title": "Rocket Companies Slips as Mortgage Stocks Struggle: Can RKT Catch Up With UWM and Radian?",
+      "url": "https://finance.yahoo.com/real-estate/articles/rocket-companies-slips-mortgage-stocks-173218449.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-18T17:32:18+00:00",
+      "amman": "20:32"
+    },
+    {
+      "title": "Nasdaq slides, yields elevated as Mideast conflict fears grow",
+      "url": "https://finance.yahoo.com/news/stocks-slide-yields-elevated-mideast-150928612.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-18T17:30:21+00:00",
+      "amman": "20:30"
+    },
+    {
+      "title": "Realty Income Yields 5.2%. Here's Why the Payout Keeps Growing.",
+      "url": "https://finance.yahoo.com/real-estate/articles/realty-income-yields-5-2-172800610.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-18T17:28:00+00:00",
+      "amman": "20:28"
+    },
+    {
+      "title": "Behind-the-Meter Energy Stocks Fall Tuesday: FTAI Aviation Down 7%, GE Vernova Down 6%, Caterpillar Down 4%",
+      "url": "https://finance.yahoo.com/energy/articles/behind-meter-energy-stocks-fall-172353733.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-18T17:23:53+00:00",
+      "amman": "20:23"
+    },
     {
       "title": "ساعات الحسم في سوق الذهب.. الأونصة العالمية تتراجع بعد جلستين من المكاسب وسط ترقب محضر الفيدرالي.. جولد بيليون: محضر المركزي الأمريكي الأبرز هذا الأسبوع والأوقية خسرت مستوى الـ 4400 دولار وحالة ترقب في الصاغة",
       "url": "https://news.google.com/rss/articles/CBMi9gNBVV95cUxPWkczNUY1LUItWDBkR2ZTRHZlNlpYVVI3bmxsUGhwVXBJSlh2aUpaTUdFdXh2QVp4bERiNjJnOFJiSjVMdGhpSnRUREJzWGZXNkFJMU90Yy1xcVh1VWVGcWtvdmdiMEpyQ2xXaGFHS0ZXeUg0blczMTdla1pUQW1BejZORDJUdGlLWjNIVVJGTVQzTTNWNWxMNDN1NG1OZkc5dnRpcGIzOG1RUnFBTUJ5V1ZMZlhWVEVtZFhkRFlWOVJBNEQ4TmdmZGJlWG9ocUNabUsteDVfanZqa2dHZkxtcW43US1NZTY3eVRBYmlXR1R0dVRyX1E1d3dUMnAxMU1pbHhjU3phYUxuV3czYWVqelhQalZGQUlUbE9pV1V1aGlkQnpyVjlCNXotWldDS0VwMEpZeUY0cElISEEzU2JJLW95c084V0JpR3BBYlVMZ3A0QVQzUi1NVEN5WmI5T0VDbl9hUTd0ZmxfYXM0WHF3RW9YTEhPTkJHcmdySEEtc2pILW02Q0pEZ3IzdEFVZ1RMcmxZQVNSQVZvQUEwUjJuY2NyQVNhVGREU3BJbUVzTTlXVkRqSkE2RjRBWDExcl9GT19hZ0hJRVNyYTZUbkxzUXUtb3ZYTmFqV2pJYnI3empveUI2T1NvbEh5SmZiNVp0SUhuV1Rn0gHwA0FVX3lxTE5oZElFZ2pERU1aN1E3dFg4QUI0MUdZX1h1bVNkUWpVZkVBb25vYVlGcjNJTnZYaGFTZ2hyb3F2eUdHSEhQekI2NHhVeGl3d2s3S2g3SmF1c2tEb20xTjE5ZmNTWmZOcGx1OEhVeTFnVXNVX3RKMEhjQlNMZ19Fd25BRi1UM1NDLWhTbWNXVGhnb185T20xcmQ1OHlDT0hwR09CSXFIelo3bEhfemJRdU1pRm5zbVJIenVDOXlObFd1WWhRWnFpTGRNR0pDM2l3Z1pHOEpHXzE2MzUyaVJIdk1lVUk1dldzelVUYkdhU1JtdjhSNHRIOTJXQmNRWGU1bUlLeG9IV1lKeC1CcmRQQ2tqSnNPZnRzOTgxMTBsUTc2U0k0WXdNV09KWGpQVDlYX0pCRG11U0pMMVNDVmtMUzFTWEFMLXRUc2ROUHQyenNRWjFNWlV0Y0taV2NXd19hbTlwRnZDQk8wOHJRMDhxUWhTVnVod1VEMW1RTDJMcndEVUhnUHFNYWtHblNTeUtNZ3Y5YlhGX05Ba3FpbzgxS2FWU3ZhMHNMTGtYakMtc0o0cGlmbmZWTUYxOERDWmZpclhMb2JveC1PUDhyT2ktczRQNF82RDh3al9wN0k5ZU9pWmoxOWZpNmZmZW9pOV9QYWs?oc=5",
@@ -21,12 +61,12 @@
       "amman": "20:18"
     },
     {
-      "title": "Why Klarna Stock Crashed 22% on Tuesday Morning",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-klarna-stock-crashed-22-170626505.html",
+      "title": "Stocks to Watch: BHP, Western Digital, Home Depot, Baidu",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/stocks-to-watch-bhp-western-digital-home-depot-baidu-ilwOrSYMwrRkuR2shryj?siteid=yhoof2&yptr=yahoo",
       "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-18T17:06:26+00:00",
-      "amman": "20:06"
+      "direction": "neutral",
+      "ts": "2026-08-18T17:08:12+00:00",
+      "amman": "20:08"
     },
     {
       "title": "بلغت عوائد السندات الأمريكية أعلى مستوى لها في 19 شهراً وسط موجة بيع عالمية.",
@@ -35,30 +75,6 @@
       "direction": "neutral",
       "ts": "2026-08-18T17:04:57+00:00",
       "amman": "20:04"
-    },
-    {
-      "title": "Optics Stocks Drop on Anthropic News, WSJ Report: Lumentum Down 10%, Corning Down 8%, AXT Down 12%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/optics-stocks-drop-anthropic-news-170024664.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-18T17:00:24+00:00",
-      "amman": "20:00"
-    },
-    {
-      "title": "Prediction: Wall Street May Be Sleeping on This AI Cloud Giant",
-      "url": "https://finance.yahoo.com/technology/ai/articles/prediction-wall-street-may-sleeping-170000317.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-18T17:00:00+00:00",
-      "amman": "20:00"
-    },
-    {
-      "title": "Which International ETF Is the Better Buy: Schwab's Developed Markets SCHF or iShares' Emerging Markets IEMG?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/international-etf-better-buy-schwabs-165705585.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-18T16:57:05+00:00",
-      "amman": "19:57"
     },
     {
       "title": "Wall Street wants to turn sports betting into ETFs. Critics call it dangerous ‘nonsense.’",
@@ -87,18 +103,10 @@
     {
       "title": "الدولار الأمريكي يترقب محضر الاحتياطي الفيدرالي.. ماذا ينتظر الأسواق؟",
       "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxQWlU4TlJ0N0RnVFBHYzlRTXNtc18tNEV4WVJQLWVnbTlDOEMyVjM5VjBRaTdPWG10MUUzSzV6eDlRX1BxcTBHUFNjcHlZUEozUGd5VC1nTGFrYjBOOWFfUU1mS2F2cTkzMUhvX0E2WFBFWDF5dnQzemVOSkdVcHFEcnFUbU9hR3hkaUs3WHBVZVNhaEljR2xmWUxScElDNHdOZlIwVGpoNE41Vnd6LTJGaUE4MWJaaDhmVXpZQzVOeXFraHFONGJscm1RQ25HOFVhZTNVUHNieUZlMXd0LWdDQzg1N0V4d1YyYUJnOG1mbWRsMkdJOEVMbVZaNW9HSnU0OWhNR1otdFZhWTItVF94ZnI2bVlia1hvVmNVLWw5RFkxb0g2MUUxN0ktcF9kbVlJSElMdmF1dW9VRW12dHE0dEEzR3FYSjZVYzBlOHcxaFVWS3M5VTZudVYwYjk0M0Q5MGVHNUVoYk43QjlaS2tqRHYtaEQzWVZrQWNkM3o5YkdHTFJGVTl5R1lIa2l4ZHMyc25SSkVqTFJ2Ylo2S281aVkydU9lV296X2FkUkJob2tLTmpEeW1KRC1JaTJBbEJvVmt0Y3FsazNOMFFoTWhiNmRjampVNEdSOXN3ZmJ6RUtzd0hUcVgyVVJoSEhnbHVWZkZLeHI1TVUxamxPa1FoT1daQ0xoOTdVRmZyMkZJWFNXZTFobFNYeVIxTmh6ZFRpWTRDajc2YzhNdERMd2dkYS15YktYQ3l5S1BCUFowV3lDZw?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "neutral",
       "ts": "2026-08-18T16:09:27+00:00",
       "amman": "19:09"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Retreats As Chipmakers Sell Off; Micron, Sandisk And A Fintech Fall (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-18T16:02:47+00:00",
-      "amman": "19:02"
     },
     {
       "title": "Silver prices today, Tuesday, August 18, 2026: Silver price holds as investors weigh inflation and geopolitical risks",
@@ -185,8 +193,8 @@
       "url": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxPd0FQWVFHdndDcnZLTkhBakZZWWpnOTZsMzlVbm05OW96VmtLeHE4VGdGQXcwR25ZcXhCVHNxUmNZWUIzUnFnSTA4U1BiT051TnpHTUJEYTJ1OUtiTXNWOWIzZUduOHl1TXFmZFNONjdUdWprb0dVYUJ4dHU3OW1jakZlQzVDN3NacF82bFAtZGpjcVBLb0VrWExvTEI2Sm9fbUdzcFZNMGFINFNMak44SEN6RnBSMWs1MUxZV3RJVjBuRGNBSVpVTC1FNHd4VDdmMV9MVHpoeXgtbzExbFF6bnVMNFVkejJ2bzR0VXFZb1EzVXB2Y3Utb2ZwZUNrYWF2YVplazBEbU96QnJlRnNXdkxLZXk5VVBQcDRXeE5HeGltWTJlWVc3MUJ4M2NOUlh5aW5FUFROSTMydE5PbDlzVkY0cHJ5eDl5ZE9va1kzNi1LeldtQUMtbGRGcDNEeDBEMlFmUTZn?oc=5",
       "source": "جريدة المال",
       "direction": "down",
-      "ts": "2026-08-18T11:52:29+00:00",
-      "amman": "14:52"
+      "ts": "2026-08-18T11:54:16+00:00",
+      "amman": "14:54"
     },
     {
       "title": "تراجع أسعار الذهب مع صعود النفط وعوائد السندات الأمريكية",
@@ -199,7 +207,7 @@
     {
       "title": "تحذير من السندات الأميركية: الفيدرالي قد يواجه الخيار الأصعب",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOU0lDQ3hHQVBrVjdHeFA1SmpGM3RCT0VMN1VVNGo1OW1DRG9KS0wwako1WXVQelNwbm5pdjBXMnAtNlpPcVhLQzA0QzhDMEVFU1FJNjFNamVFblF6VVE0MVJQMkpKTWNHSDhTdndqdUZVR3RvdDllWUg5emRQWlJodUJLZEFDaV9pSUp5SnZCLUk5N1A1XzZvaFVlc3FfY0drSTZXaEtWUEFTa05kVUc3bm1GOW1HZWJVSUw5S3JGaGozMXc1dXlHYW9XVlRkRFNsWmc2LVFrRTVBVDcyQ1ZyQlZTOW1xb2dTSVV4dGVYZVJGX0VVSjhLR1BHR3F1R2tVVFlCckk0MHdNek96SWgxRnBBRzJ4eG9Mc3pzQWg5X2tuOUxVZXB6OGtxQ0lIcFJsSndVT0xoVkw4ZVphb0FSTA?oc=5",
-      "source": "MnAmerica",
+      "source": "mnamerica.com",
       "direction": "down",
       "ts": "2026-08-18T11:00:13+00:00",
       "amman": "14:00"
@@ -355,14 +363,6 @@
       "direction": "neutral",
       "ts": "2026-08-18T02:40:00+00:00",
       "amman": "05:40"
-    },
-    {
-      "title": "تراجعت أسعار الأسهم في وول ستريت مع وصول عوائد السندات الأمريكية إلى مستويات قياسية.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnA0eXluSmJ5TXM4aTBCZDNkSUpJMEM4d3pxT0N1VExweVJHSm5xcG1ubFBKTjRMVWhHX0hIbWctR011SDVLT0t4WHJlLW5wdlBxQzlaLWJVdVFHZWxiZ2k0Uk8wZlhtVDZYc1IwVThUaUR6WGVOUlF1WFZDYUs1U1F5dw?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-18T02:10:06+00:00",
-      "amman": "05:10"
     }
   ]
 }

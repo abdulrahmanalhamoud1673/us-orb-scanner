@@ -1,48 +1,24 @@
 {
-  "updated_amman": "2026-08-18 20:58",
+  "updated_amman": "2026-08-18 21:33",
   "count": 45,
   "up": 6,
-  "down": 17,
+  "down": 13,
   "items": [
     {
-      "title": "Stock Market Today: Nasdaq Weighed Down By Chip Names; Credo Plunges With Micron, Sandisk (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-treasury-yields-nvidia-stock-nvda/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-18T17:35:06+00:00",
-      "amman": "20:35"
-    },
-    {
-      "title": "Rocket Companies Slips as Mortgage Stocks Struggle: Can RKT Catch Up With UWM and Radian?",
-      "url": "https://finance.yahoo.com/real-estate/articles/rocket-companies-slips-mortgage-stocks-173218449.html",
-      "source": "Yahoo Finance",
+      "title": "The Fed minutes are coming —and they’re more crucial now as Warsh limits his communication",
+      "url": "https://www.marketwatch.com/story/the-fed-minutes-are-coming-and-theyre-more-crucial-now-as-warsh-limits-his-communication-fd780695?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "direction": "neutral",
-      "ts": "2026-08-18T17:32:18+00:00",
-      "amman": "20:32"
+      "ts": "2026-08-18T18:19:00+00:00",
+      "amman": "21:19"
     },
     {
-      "title": "Nasdaq slides, yields elevated as Mideast conflict fears grow",
-      "url": "https://finance.yahoo.com/news/stocks-slide-yields-elevated-mideast-150928612.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-18T17:30:21+00:00",
-      "amman": "20:30"
-    },
-    {
-      "title": "Realty Income Yields 5.2%. Here's Why the Payout Keeps Growing.",
-      "url": "https://finance.yahoo.com/real-estate/articles/realty-income-yields-5-2-172800610.html",
-      "source": "Yahoo Finance",
+      "title": "شبح التضخم يتلاعب بمؤشرات الأسهم الأمريكية والأوروبية",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05bVotcS1DUDF2aGdEWFZYWkJJcExOZXBQS0VKVy1wNGZKZ0QzY1NzU1hRempRNUxhMTNWMHZBOGtuSklNVFlwRVBoeG1QRDFBVjJ4bXhzYkJlX0RDLXZCMV9lNFpaRC1pNGxlMzl30gFzQVVfeXFMTlp6Vy1HeXFxTGx0bmxobzFKVkFRX3pVS21KZFdVOExUUnNuUXhxbGtNY2pQcnQ4UW1ld0NLTjZIWVg3a2tQWFNEaFgwdlU2Uk1SVU9wV282aXJ4M0JWLWpCWWdwajE1eVl4UHg4SXF1Wk9COA?oc=5",
+      "source": "البيان",
       "direction": "neutral",
-      "ts": "2026-08-18T17:28:00+00:00",
-      "amman": "20:28"
-    },
-    {
-      "title": "Behind-the-Meter Energy Stocks Fall Tuesday: FTAI Aviation Down 7%, GE Vernova Down 6%, Caterpillar Down 4%",
-      "url": "https://finance.yahoo.com/energy/articles/behind-meter-energy-stocks-fall-172353733.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-18T17:23:53+00:00",
-      "amman": "20:23"
+      "ts": "2026-08-18T17:55:00+00:00",
+      "amman": "20:55"
     },
     {
       "title": "ساعات الحسم في سوق الذهب.. الأونصة العالمية تتراجع بعد جلستين من المكاسب وسط ترقب محضر الفيدرالي.. جولد بيليون: محضر المركزي الأمريكي الأبرز هذا الأسبوع والأوقية خسرت مستوى الـ 4400 دولار وحالة ترقب في الصاغة",
@@ -51,22 +27,6 @@
       "direction": "neutral",
       "ts": "2026-08-18T17:23:00+00:00",
       "amman": "20:23"
-    },
-    {
-      "title": "Baidu Sinks 13% as Soft Results Put AI Pivot to the Test: How Alibaba and Chinese Tech Stocks Compare",
-      "url": "https://finance.yahoo.com/technology/ai/articles/baidu-sinks-13-soft-results-171813626.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-18T17:18:13+00:00",
-      "amman": "20:18"
-    },
-    {
-      "title": "Stocks to Watch: BHP, Western Digital, Home Depot, Baidu",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-18-2026/card/stocks-to-watch-bhp-western-digital-home-depot-baidu-ilwOrSYMwrRkuR2shryj?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-18T17:08:12+00:00",
-      "amman": "20:08"
     },
     {
       "title": "بلغت عوائد السندات الأمريكية أعلى مستوى لها في 19 شهراً وسط موجة بيع عالمية.",
@@ -91,14 +51,6 @@
       "direction": "neutral",
       "ts": "2026-08-18T16:45:00+00:00",
       "amman": "19:45"
-    },
-    {
-      "title": "Micron, Other Chip Stocks Drop During Dog Days Of Summer",
-      "url": "https://www.investors.com/news/technology/chip-stocks-micron-nvidia-drop-dog-days-summer/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-18T16:39:56+00:00",
-      "amman": "19:39"
     },
     {
       "title": "الدولار الأمريكي يترقب محضر الاحتياطي الفيدرالي.. ماذا ينتظر الأسواق؟",
@@ -207,7 +159,7 @@
     {
       "title": "تحذير من السندات الأميركية: الفيدرالي قد يواجه الخيار الأصعب",
       "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxOU0lDQ3hHQVBrVjdHeFA1SmpGM3RCT0VMN1VVNGo1OW1DRG9KS0wwako1WXVQelNwbm5pdjBXMnAtNlpPcVhLQzA0QzhDMEVFU1FJNjFNamVFblF6VVE0MVJQMkpKTWNHSDhTdndqdUZVR3RvdDllWUg5emRQWlJodUJLZEFDaV9pSUp5SnZCLUk5N1A1XzZvaFVlc3FfY0drSTZXaEtWUEFTa05kVUc3bm1GOW1HZWJVSUw5S3JGaGozMXc1dXlHYW9XVlRkRFNsWmc2LVFrRTVBVDcyQ1ZyQlZTOW1xb2dTSVV4dGVYZVJGX0VVSjhLR1BHR3F1R2tVVFlCckk0MHdNek96SWgxRnBBRzJ4eG9Mc3pzQWg5X2tuOUxVZXB6OGtxQ0lIcFJsSndVT0xoVkw4ZVphb0FSTA?oc=5",
-      "source": "mnamerica.com",
+      "source": "MnAmerica",
       "direction": "down",
       "ts": "2026-08-18T11:00:13+00:00",
       "amman": "14:00"
@@ -227,14 +179,6 @@
       "direction": "up",
       "ts": "2026-08-18T10:00:00+00:00",
       "amman": "13:00"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq fall as chip stocks sell off, bond yields remain high",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-18-dow-sp-500-nasdaq-080822735.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-18T08:08:22+00:00",
-      "amman": "11:08"
     },
     {
       "title": "غولدمان ساكس: من \"المستبعد جداً\" أن يقوم الاحتياطي الفيدرالي برفع أسعار الفائدة في سبتمبر.",
@@ -301,20 +245,20 @@
       "amman": "09:13"
     },
     {
+      "title": "الذهب يواصل الصعود.. الفائدة الأميركية كلمة السر",
+      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQLWRMekhxLW03WFdqT08tbU14aFdtWnFhYU9GWVNkMnVvd0tMRDd6aENxT19YOGN4Q0p3TGxqdTV6eUNsZ2h0YVF3Y1hQWEZpTUdCTWxpX1NOWWZ2bjA4MkwwWHJsRU1qN3FDc3dPbHVyNWtDaVpVV1paN3BMQXhUeTlRY1FndzV1U2paOEJsSmRiZEQzU0t0bjgzYVZWZjZfazVmQmZIZHJmMm1ITU1hTTdUUU95ak85VS1oN0pzb3VyWC1sVHNRQ2JGTlFkOHhVWURoUFowZnU4TjVPelhrMzkxUFZlWjdKYjZOODdpNjE3T29DY2FkdGIyTWJ0eWktazFEZHFBcV9Qb1pmQ2FkU0Vxb1VEbVhhYWtoOGUwT0h3ZHY5YjRHeWZTVzNraG9vUXRlMzc3TUhyQWFqOU9hbzBlZGpsYTRCYnFZdG9NempOM2s4TUNQQ1gtN1BoaXNPZ3pBWmZpQTRGaGs2b3NBbjZmcWZDeVhWYll5QjZOSU9mNXd2N093V2F0TE5aTlR0dVV5WjZfODhSU1RIWFBza0dndU8zbktWVXVqMQ?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "up",
+      "ts": "2026-08-18T05:45:42+00:00",
+      "amman": "08:45"
+    },
+    {
       "title": "ناسداك تستعد لقلب قواعد وول ستريت.. تداول الأسهم الأمريكية لـ23 ساعة يوميًا",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IbHg5U1JDU3RwYjdOeUpfWVJvdjVFdHAzeWRPN1pXRUlaRmtxblB2Nnc5QWRZWDBuOUVlUXJYb1pqSHpENVpQXzBCVHV0NkJGb3hjTXNfekJjT1ZBWHhoVEh3bmc5WXJEV0pkWnNVcDU?oc=5",
       "source": "Investing.com",
       "direction": "neutral",
       "ts": "2026-08-18T05:41:00+00:00",
       "amman": "08:41"
-    },
-    {
-      "title": "الذهب يواصل الصعود.. الفائدة الأميركية كلمة السر",
-      "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQLWRMekhxLW03WFdqT08tbU14aFdtWnFhYU9GWVNkMnVvd0tMRDd6aENxT19YOGN4Q0p3TGxqdTV6eUNsZ2h0YVF3Y1hQWEZpTUdCTWxpX1NOWWZ2bjA4MkwwWHJsRU1qN3FDc3dPbHVyNWtDaVpVV1paN3BMQXhUeTlRY1FndzV1U2paOEJsSmRiZEQzU0t0bjgzYVZWZjZfazVmQmZIZHJmMm1ITU1hTTdUUU95ak85VS1oN0pzb3VyWC1sVHNRQ2JGTlFkOHhVWURoUFowZnU4TjVPelhrMzkxUFZlWjdKYjZOODdpNjE3T29DY2FkdGIyTWJ0eWktazFEZHFBcV9Qb1pmQ2FkU0Vxb1VEbVhhYWtoOGUwT0h3ZHY5YjRHeWZTVzNraG9vUXRlMzc3TUhyQWFqOU9hbzBlZGpsYTRCYnFZdG9NempOM2s4TUNQQ1gtN1BoaXNPZ3pBWmZpQTRGaGs2b3NBbjZmcWZDeVhWYll5QjZOSU9mNXd2N093V2F0TE5aTlR0dVV5WjZfODhSU1RIWFBza0dndU8zbktWVXVqMQ?oc=5",
-      "source": "CNN الاقتصادية",
-      "direction": "up",
-      "ts": "2026-08-18T05:36:48+00:00",
-      "amman": "08:36"
     },
     {
       "title": "الدولار قرب قاع عدة أشهر.. هل تغير مسار الاحتياطي الفيدرالي؟",
@@ -363,6 +307,62 @@
       "direction": "neutral",
       "ts": "2026-08-18T02:40:00+00:00",
       "amman": "05:40"
+    },
+    {
+      "title": "تراجعت أسعار الأسهم في وول ستريت مع وصول عوائد السندات الأمريكية إلى مستويات قياسية.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVnA0eXluSmJ5TXM4aTBCZDNkSUpJMEM4d3pxT0N1VExweVJHSm5xcG1ubFBKTjRMVWhHX0hIbWctR011SDVLT0t4WHJlLW5wdlBxQzlaLWJVdVFHZWxiZ2k0Uk8wZlhtVDZYc1IwVThUaUR6WGVOUlF1WFZDYUs1U1F5dw?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-08-18T02:10:06+00:00",
+      "amman": "05:10"
+    },
+    {
+      "title": "الجنيه الإسترليني يكتسب قوة ليقترب من 1.3550 مع تراجع رهانات رفع سعر الفائدة الفيدرالي، وبيانات الوظائف البريطانية تلوح في الأفق",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPT0R0ZjZCc3RhWXBFVk9MNmsxQXRMRnFDOXI5ODU1TzVNZzZtT1FZNTgxTDRVOEtTSE9HREtRdldDRk1sSDNiS0dmeVlkLUEwQ3RzOGl1R1BGTHl4ZmoyV2RtcV9zOVVwMlNyZmt3c0xnTEF3VmNBalhTbjFlSGQ5Mkk0Qkh6TFl0djlHSGZiRnRqOXluSHNPalU0c0hyekVrNmxjX0JPQVE5ZjZOcjJERzZUMjU4U1BxaWEwUVg1Qm5XQXpldGFCTm9hSHNtYUlwRWthdElRLWtfUWMyaGhuUNIB4AFBVV95cUxPT0R0ZjZCc3RhWXBFVk9MNmsxQXRMRnFDOXI5ODU1TzVNZzZtT1FZNTgxTDRVOEtTSE9HREtRdldDRk1sSDNiS0dmeVlkLUEwQ3RzOGl1R1BGTHl4ZmoyV2RtcV9zOVVwMlNyZmt3c0xnTEF3VmNBalhTbjFlSGQ5Mkk0Qkh6TFl0djlHSGZiRnRqOXluSHNPalU0c0hyekVrNmxjX0JPQVE5ZjZOcjJERzZUMjU4U1BxaWEwUVg1Qm5XQXpldGFCTm9hSHNtYUlwRWthdElRLWtfUWMyaGhuUA?oc=5",
+      "source": "FXStreet",
+      "direction": "down",
+      "ts": "2026-08-18T01:28:46+00:00",
+      "amman": "04:28"
+    },
+    {
+      "title": "ارتفعت أسعار الذهب بفضل ضعف الدولار الأمريكي وتوقعات خفض سعر الفائدة من قبل الاحتياطي الفيدرالي.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOX3Bod2xrbHdEVnVGcm82Z1hkWUVRc3R0eno0dUVsbjRKeGJFTkNKaHZvbFY4QUY2WWFoVkVOc1psTHl3dmJJRXpJN0hqc21ZMDNOVkRTY1VQLVJBbjFmNmxIU0U1UkI4VV9RbnVBQzc2RVREa1dmS2RMYXpwaGwyMGNUNWY3U0xaVHd6dTRhanhvMHQ3VVE?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-08-18T01:25:41+00:00",
+      "amman": "04:25"
+    },
+    {
+      "title": "العقود الآجلة الأمريكية تتراجع بعد إغلاق وول ستريت على خسائر بسبب التوترات مع إيران وارتفاع النفط",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qemFNVjdRak1tZ3N2dkhjLVJKd0RVTWE0UmU3cHhaTmo5WEQwMnI5S3FTWWF2a09CU0x5dVlyeTkxcVltSHRmcGRlZlBRSW1Sc2tIb3hSVHJPWDZNWUU5dThYcjBHVW12eU4wMWlLS3c?oc=5",
+      "source": "Investing.com",
+      "direction": "down",
+      "ts": "2026-08-18T01:03:00+00:00",
+      "amman": "04:03"
+    },
+    {
+      "title": "تراجعت التوقعات برفع أسعار الفائدة من قبل الاحتياطي الفيدرالي، مما أدى إلى ارتفاع أسعار الذهب والفضة.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcjVNUWphSWszaFBtTHlJUFF4SjR2U1R3Z0VHSUVsZVFGSEoxS3VnZTMtZlEzSHNhTVk2dVZ6ei1QenotYUIxT1Fiei0wWVB4SUJFaHlrYUFJSzJONFhiR0hKNEhFbDdrSlBKNFlBU1FLejNpc1FkRWlsS0JnM3NoSjM3STc4S0VyQWE5LWFkYw?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-08-18T00:24:48+00:00",
+      "amman": "03:24"
+    },
+    {
+      "title": "رويترز: «الفيدرالي» يميل للإبقاء على الفائدة حتى نهاية العام",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9WQ19FWFJtZlgzbE92VTg5Ry1PMndUVWZqS2pCdTJZSFZvY01XZFN5bVR6NnQwWF8tdWF6SGtzUDAxZFp4WHRJbEFDdXZOWElMOUh5clR2M1N3dkItcXhj?oc=5",
+      "source": "المصري اليوم",
+      "direction": "neutral",
+      "ts": "2026-08-18T00:21:00+00:00",
+      "amman": "03:21"
+    },
+    {
+      "title": "جولدمان ساكس يكشف عن توقعات أسعار الفائدة الأمريكية في سبتمبر",
+      "url": "https://news.google.com/rss/articles/CBMi_gNBVV95cUxPaDJsOFpKYi12cnk1a3RsYm9aU1MwNEdaOTVqWlZLZUVLZXB4YlhCSXVuX0RveWlrYkZLRFp5dXdzT2d0Rjh0aDd3U3hXQllfc1ZqdGhPR0xNemR5T1dEVEFuWjJVbFdyMm82bG9WVWlHWFBTR21CZXktVXMwNDdRaW9WdW1xbExnU1lkT2ZsWkVtVEZoLXNZRFFDSUVTZ29TZU5GTFo3LTh3cjJMLU9VY3JEcExoS3Z4TlZacFl2N3Y1V245N1RxZzRJZEZjNEpFSjdQSW1Rc2V6ZnZhbTNUVWJncHhCRDVoWWFJYmhnNVA4dm1NalVSV1E3a3p5WVF2QmdWc2NrREY4OHZlUE1qSksxdERPNTcwVE1McjAxWWZ2blVsZ2RTZW44YnVGZjBxM29udVV5MmJMRFkzMnhUbWM4Rk9YUWJXd29oZkdTRlVfeU9EeW9rLWFkajVDQWNXcDJsUlQyaE13RGcyNGxhZ1FwR0ZVNXpuRjM1ZFpJRHFmQzNvYWhGNTlwSlAxanBmS1hoYWZCVVd0WWk5N0NlcnpvZmw3S2ltby11R2xJZmljOVdyWXY0emVsbWpuSWdPclJxTHYzckZTdTZINXB3M0o4dW1kUk1TdVZZcVdiR3NFcjJqOGZWTWFmTTRQTzVBRS1CYVRiTmEyeXV3ZGc?oc=5",
+      "source": "مبتدا",
+      "direction": "neutral",
+      "ts": "2026-08-18T00:08:27+00:00",
+      "amman": "03:08"
     }
   ]
 }

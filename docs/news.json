@@ -1,24 +1,48 @@
 {
-  "updated_amman": "2026-08-18 17:53",
+  "updated_amman": "2026-08-18 18:17",
   "count": 45,
-  "up": 5,
-  "down": 15,
+  "up": 6,
+  "down": 13,
   "items": [
     {
-      "title": "Should You Buy the 3 Highest-Yielding Dividend King Consumer Staples Stocks?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-highest-yielding-dividend-143500524.html",
-      "source": "Yahoo Finance",
+      "title": "6% Treasury yields are the biggest risk facing stocks right now. Here’s why.",
+      "url": "https://www.marketwatch.com/story/6-treasury-yields-are-the-biggest-risk-facing-stocks-right-now-heres-why-04fb9bbe?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "direction": "neutral",
-      "ts": "2026-08-18T14:35:00+00:00",
-      "amman": "17:35"
+      "ts": "2026-08-18T15:16:00+00:00",
+      "amman": "18:16"
     },
     {
-      "title": "CoreWeave Sinks 7% as Rising Yields Test the Most Leveraged AI Landlord",
-      "url": "https://finance.yahoo.com/technology/ai/articles/coreweave-sinks-7-rising-yields-143050505.html",
+      "title": "Billionaire Dan Loeb Is Buying This Boring Non-AI Stock the Market Is Ignoring",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/billionaire-dan-loeb-buying-boring-145802385.html",
       "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-18T14:30:50+00:00",
-      "amman": "17:30"
+      "direction": "neutral",
+      "ts": "2026-08-18T14:58:02+00:00",
+      "amman": "17:58"
+    },
+    {
+      "title": "3 Growth Stocks Down More Than 50% From Their Highs",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-growth-stocks-down-more-145236116.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-18T14:52:36+00:00",
+      "amman": "17:52"
+    },
+    {
+      "title": "Why Bank Of America Is Bullish On Cybersecurity Stocks",
+      "url": "https://www.investors.com/news/technology/cybersecurity-stocks-bank-america-hikes-price-targets/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-18T14:47:32+00:00",
+      "amman": "17:47"
+    },
+    {
+      "title": "10-Year Treasury Yield Near Breakout; What You Need To Know",
+      "url": "https://www.investors.com/news/10-year-treasury-yield-near-breakout-why-it-matters/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-18T14:45:49+00:00",
+      "amman": "17:45"
     },
     {
       "title": "Stock Market Today: Nasdaq Falls As Treasury Yields Rise; Micron, Sandisk And Fabrinet All Slide (Live Coverage)",
@@ -53,28 +77,12 @@
       "amman": "16:54"
     },
     {
-      "title": "Global bond sell-off pressures stocks: AlphaCheck",
-      "url": "https://finance.yahoo.com/markets/article/global-bond-sell-off-pressures-stocks-alphacheck-135011383.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-18T13:50:11+00:00",
-      "amman": "16:50"
-    },
-    {
       "title": "الذهب أمام سيناريوهين.. إلى أين تتجه الأسعار الفترة المقبلة؟ خبيران يوضحان",
       "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxOaUJNNGRveVc0MkRWMTNOZTc5NUp6dHZUdHNJeHBlUnI1UDEtYnlPTGFVQnlOd0RQdkNhVUFNakZvTEhnZDh5b292bGFwRlJ0U2RHYkVQUVNKVjJDWldQWFV1c2V0b0JjMW9TS3B6aWE3cmkzUmlwY2xiNlZDLTZqSXltZEhDM2dmMmFOeGpmUzFqSlZCYk55aVdpaGlaTEhTcWkzOUM5OXNPT2RFWjB5WjFZUUlUWE1WQWZDVmNOSDlaS0YxUGZDbWhFbU1jU1k3THpvc3IxTU9ORnRfM29xZEVRTkozZkNwWUxxX1d1Q0hJNVgwNEwwMFFrclU5UzZOVVJSd1htZVo1ckdMazB2RzZuVW9tT0JRV29HUUVScFpyNENiSjJ5Ui1tOEJzeVh3V1QtR0VTY1NfU3ZueEs5R1drQXJiQzlBN2hpTmNRZnpIXzZUb1pROHd1azdicHg5UDZ5aG0yNlpYZEZ2NWprVFhOdURGb0l5UWVjS0Ixb1dCQ0diN0tJQVlrRjJNV242aXVObDMwaHAyMU1uelFvSjZXT3p3UUdqM184RlQ1YmctYVFPOENNekg0NDBHenJ1WjN5MVRBXzNJZVhvb0FXSTF4eHRzTzhtMlFpRGJlRkVMS3BZTTFZUHdubXNTZzBKSjZhTjVPa1hzM0RJT0UxV0tMRlVobG9hUVhtMzZHUkZpaVYyanRQbzhhZmxwM0xSUThDempzWUtxSG5GcHBOWFo4NTBqY29ybDNMOEVjUm9ibU9ldlNObmQxck1SVVMtd1A3azhpUV9RU3VMaWl6SVc4V0c5YnZxLTZTZ9IB8gRBVV95cUxNQkhJaFBDMG1icG1scTBWZUFQeDNfdHZVR0RNUzN6UG5QeE5rSTZkVVZ4dFpoUEJQRXhjRG5rcWNTanVhOVJNUzF6WnRjQmphRW05ZXA3NGFqdnJvWGxkdFpITWtuRlN1bGs2RVlVMFNHREYwTGRyZXlIUktLYWxqbzRWa0c5ZmY5TXdTck9NeGItWDZjcTV4X3lsTnJ3TWU0bGVSbnoxa19HbWwwRFJjaVFXTG9Zd19BMmtjUzFfWlR3UkZfUHhWdW5KdDFzLWJlSlBSZHBQRUNBaWhMNDZpMW84SXFRSjBKeGxCNFpFWnAxQ3hSTFgwSHlyYjN0NjRYUGR1dEFoalVyTTg4T252ZkI1LVg3cGgxMmNBUEZDT1VMdTg1X2NQTzQ5VFdXMHZqWWVaWTE3SjJzdUJ3VzBtWHZhZzVKaDBpQnZ3NEYzM1NTSTJ6WkpDSm50MHBLaVF1Y0RMendJdHNuc3hjOTQzYlVyTHVqLTNFZV94eHpXZkhnb2tJbkRCMzZ1MW52NGZfS0pNZUt3WXh0QW1uRVFLNGI2M0ZtUC01QzVhYnRna0pBQjZaSHBUeHBsb0lpVjItVVBhQmszbHNnbjhFd2l2MGVseDF0OEh6RWJ4UmI3U2g2RHB2ZktYeTJwUmpzd1Q4QVlDTTR5aXQ2Y0k2alFtSmI1N2VmbzQ4Z2xTcXN1WVR5NHNNVkljVzB0Vk9Vd04xTVVFbklydEVNUF9HY2I1MFBwLXVBTzhreXVITHUwWXZ2Sm1tOEJEdTBTSk5qSXNRS3oxNFpCMnVhM3V3blZHbXJLRXdmWWVrcnF2eWxhTUlqQQ?oc=5",
       "source": "Masrawy",
       "direction": "neutral",
       "ts": "2026-08-18T13:26:26+00:00",
       "amman": "16:26"
-    },
-    {
-      "title": "Stocks keep shrugging off rising Treasury yields. Here’s the level that could finally trigger a selloff.",
-      "url": "https://www.marketwatch.com/story/stocks-keep-shrugging-off-rising-treasury-yields-heres-the-level-that-could-finally-trigger-a-selloff-80c1634c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "down",
-      "ts": "2026-08-18T13:06:00+00:00",
-      "amman": "16:06"
     },
     {
       "title": "عائدات سندات الخزانة الأمريكية تستمر في الارتفاع، وهذا هو السبب",
@@ -99,6 +107,14 @@
       "direction": "neutral",
       "ts": "2026-08-18T11:42:00+00:00",
       "amman": "14:42"
+    },
+    {
+      "title": "Home Depot Q2 earnings beat forecasts as customers stick to small projects, housing market remains 'frozen'",
+      "url": "https://finance.yahoo.com/markets/stocks/article/home-depot-q2-earnings-beat-forecasts-as-customers-stick-to-small-projects-housing-market-remains-frozen-113055971.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-18T11:30:55+00:00",
+      "amman": "14:30"
     },
     {
       "title": "متماشياً مع التوقعات... التضخم الأميركي يتباطأ إلى 3.4 في المائة في يوليو",
@@ -239,7 +255,7 @@
     {
       "title": "الذهب يواصل مكاسبه مع تراجع توقعات رفع الفائدة وترقب محضر الفيدرالي",
       "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPVlBoSXpKTWNSR0RqdE1JcUYwSkt6aU5tTTBBZ0kzZHRRVVdJTWZ1dU9tdDVSXzVjcDdvTkZSQVhpUTRxWHAwUEFmSkNGWGNvZkk4anF4MHg1ZGJqMXNMX0pBcFhtcVZJZURXbUZtMktDX0YwLVBmaWdiS1hNYlVHd2xwSTRxVGJOOE9fU0Q4OFJQYVNpdFduNzZUWmJiV2FwNWZULWZWV0NRYUtrTTlKLXpLUG45c2FoRDlLZGJkUXRWTlNsenRBUno3WGlVeVZzMmk1QjJkYjQ1d2pNT3gxSUdzeXplUjBIeV9XSTNYNmRIQkhsaUNDNlVTd1N3QklKT0ZfcExpS3dhOGRGWURSQkdkS3Boenl2YzZYY0k5R3RRbElIeGxyc0E5TzNoNENDWHJmNlJ4UjhVXzZhaHpPNnAwbldlLXZDMHRUSTQ2eE1HSGFzTWVSNDMxc3Vtc0JnWnhVQzJXUHp2YWE0bmdDS2UtOGFGT2EyYWdubTFZdUs2R19sQWdhQlEyVTRtU0pnVEI1cmpSRXZSTzR1SFFidmdVeWNRYkVyTWQyc0JQak8xcHNhTFZzdzBMRVlSR3VibjA2VjU5ZkcxOWxzSlMybUszV1BuazZiLW9Jam9ZN3pNTG5MZDZ5WWs3WTllWGJFZ0JqdlR1b2U1X0Itc2l6V21rM3BMaURvUktiNHhidG5xZHdrb08yMjY4dVFBUEljX0ItRzBwSTFGbnZndE9aUFRneHNJUjRuRFNMZk9ZSHJwQQ?oc=5",
-      "source": "شفق نيوز",
+      "source": "shafaq.com",
       "direction": "down",
       "ts": "2026-08-18T04:59:47+00:00",
       "amman": "07:59"
@@ -319,23 +335,15 @@
     {
       "title": "تراجع الأسهم الأمريكية في ختام التعاملات وسط ترقب نتائج قطاع التجزئة",
       "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5aWFplcVVpb2pCWWx2aUxoNUlHUDVCWjBGTi1LeDVIcnVlMm16Y0pxQzJmbXlDejZDcmZDcWliUENhbndpWGZOOA?oc=5",
-      "source": "عاجل",
+      "source": "ajel.sa",
       "direction": "down",
       "ts": "2026-08-17T21:33:00+00:00",
       "amman": "00:33"
     },
     {
-      "title": "خليجيون / مؤشرات الأسهم الأمريكية تبدأ تعاملاتها على تباين في وول ستريت",
-      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5qRWlpdGkwX2ZXVHdlWnNrcWFKU2x6RGxScHF0WTlVWmtkaTdvbXdrLXdhbU5xZGdQR2tfNWdkZFVzWlhVaFE?oc=5",
-      "source": "تطبيق نبض",
-      "direction": "neutral",
-      "ts": "2026-08-17T21:05:55+00:00",
-      "amman": "00:05"
-    },
-    {
       "title": "بولارد: الوقت الحالي «مناسب» لرفع أسعار الفائدة الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQVnlVQXBlRWRGdFVDTkpOR0hBOFlQYWNaWGhoYVB5ODBlVVlITGYxVTM4dlJ1c0w5ZWhURFkzQ3ZSdXVQeE9LU055ZXk0NUlMYlRyYWEtbm1DSm0xcWd0aFQ3RGdJeS1tZnphbkhVcnBZaUx3ZkdpT09wSTR2YW41b1RaRHdSZmdFQUx3b3h6QTdZWnM4NFh4a2xDeEZwLWcwN3ZOOTkwR2owc0x1TWJYQmgzWk12bWhOYlM5aVBKekV0dHdacnBEYTBmSFpzaXM0NGotSk5xSV9KZ1pwT05EaHR5V1JfRm9VYkN4T1NRZ241dFo5dmdsSm1XQlphMkRpSTA1OGs5T2p3VFVMdkRxZ3pnVHpiWkVjYVlINDVoazJBVVA1YjdWWkxIdlZfOHpnckd1RTg4ZS1naEtYMDBkV3NKbEh1bGpNXzNoYklPbzFlVGM2NUhCU3dNYlRzQjJ6ZU03bmMtN0lrWGdCT0JyR0t1cy1EZWFkZllXOXcwZ2tMZlFmOXlJUV9Na0Z3NWpoeEkzQXhFNTNfOTVWaXlIWlQ5aXp1U0RwOUlSbjNhTjZ4aWtaVmV1aF9tdGJnOG5kUkdwWThiQ18xRTBhNWdnM05MRjFfMG9rdFlVc0g3VHhxMWVUVWY3N0ZST3RudEh0NDI1Y25hMHNueGM?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "neutral",
       "ts": "2026-08-17T20:55:38+00:00",
       "amman": "23:55"
@@ -343,7 +351,7 @@
     {
       "title": "الذهب يرتفع بالتزامن مع انخفاض الدولار وتقلص توقعات رفع الفائدة الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxNZmNkRzNzS0pBZ2lMNmY4MnlaMTlIdm9VMTYtQWduS1RjamtCMmZKWml4T1dDQXFXU0JKNWg4V0NDQWZvTnp1N0xaa1RGMkl0UEI2R2IycXhTcENFVVdpVXNZOHdjWFFyazVac01vaXlZMzFBRks4N0p4MUZvOWhGSndUZHliNHp6R3ZLTWRVLVoxY2ZLcVdIT0RQUk1pRlIzd0xMaEtqS0Y1VXdlZl95OUdmN25IaVlRVVg5UHBzSnJvMTlIWXNlNW05ZS1NTldENnZZNnRLSFEyNzNmdU1kWUlseHo1QXMyMmFKdXFLSC1JZXhmb2JqRXhtZGMyR0N4T2V4RlYzZDVHc1BQU1pXczJONkNhRWx0b0hQZlJHVmFZdng2THdNb3dRd3N3ckZwWlluc1FVNXJRZlBQaXM1ZlVpOWhqUHpDOWlTaGRoZE5HMFpPSzR5bWJGS3lYSUVmeDRrNW5ldzgxTTRzZ3dISW90SnZIWEp0cDZEaS0yNWpITkJWd0d2cTNJTUw1ZTZlMi1jZDN6WGpkQ0lKemdESGt0TzJUUEEzbHlLamZFcG1oOGlnVklqR2NWOFRHX3E1eXZ1T3l6TUlaUmdnRmJVelBhZnh6Q0REODRpRXRJMzhnbUZHUlJJVjdsZkxrZEF2WEtKakhya2lkaDY1SWppamduMVA1WHhLajlNTWlDTmJWV011RHNFYmZidWNJSlpoVTlER2ZGZGNWYVhsSVVWbjZ6WXZPaGxOaFZCUHk2OTVKcnlRbTI3SGJFSmJpYlprekFMb3pEa1JNLWx1Nng1NEpDb1U3anN1dUJQXw?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "down",
       "ts": "2026-08-17T20:20:37+00:00",
       "amman": "23:20"
@@ -355,14 +363,6 @@
       "direction": "neutral",
       "ts": "2026-08-17T19:24:53+00:00",
       "amman": "22:24"
-    },
-    {
-      "title": "«وول ستريت» تستهل الأسبوع بالتباين مع ضبابية السلام",
-      "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxPMVlYczhsbkZpT2lkVVdRRHg5TzFVT0NiM0tYWUoxNlhtaXVyYndwblBYaldtZHVzQWNCT1EwX0M3ZnV5QVoxSEFsa04yM3FTQjhzZ2Jva0kzdVF5bUQyOEN6RnZ0UFFZbktzaFZ6bFF5d0hEb3V6WnF3MFEwQ0t0SmpPalZjSFpCa2JlTmNnYi1WQnZqczh0REJiZWZDOVpQcDZHSjJhanhuVktqVDdxWjJNX0d3NFlaTTdJMy10WnB6WEtxSW95N2lxdWFVTkxockFXZGs5X2o3T2g1LUtROEVNNjVrOVY3Wm5ETEVtWTJwZzRua2pkY1psSGNSQzhRNDktRXFWSGdYcUJVbS1hZWhPV1lyTEtVRlBncEM3TkQzVkwxTnJTX00telFRckhOck9Uenh4X3NEXzk2Sk45ZHB2QjVKZ0JiVDVfaVNLR2I2SFAyQ0FfRkpFT3RZczZWbnZmcFctaWdwMEZhaHZ0dnM3aFRhTTJINXBLNDdfazk2dkVxUUR1VGwtQlpTbFpOZ29ucGQ1bWMwcXluVVBPNnBBaVJWMjdGMFNyNzAwLS1tNnB0dW1QSEJlWmhzWGZDY1VTbk1NSVFXX0hGTDFuVTJCYjJUTTQtbGlrbUZMN3hya0pfTk05Q01VazU4c0JG?oc=5",
-      "source": "صحيفة الخليج",
-      "direction": "neutral",
-      "ts": "2026-08-17T18:30:05+00:00",
-      "amman": "21:30"
     }
   ]
 }

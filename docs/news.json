@@ -1,9 +1,41 @@
 {
-  "updated_amman": "2026-08-19 23:17",
+  "updated_amman": "2026-08-19 23:47",
   "count": 45,
   "up": 6,
-  "down": 22,
+  "down": 21,
   "items": [
+    {
+      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+      "source": "CNBC",
+      "direction": "neutral",
+      "ts": "2026-08-19T20:32:48+00:00",
+      "amman": "23:32"
+    },
+    {
+      "title": "رفع محتمل لكبح التضخم.. انقسام داخل الفدرالي الأمريكي بشأن أسعار الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14cVU4RnNNRXFhdWZGT0VDYS15MmxMU1VlWE9NazJCMkZBMEhFTnl1UDNWdWphcTk5aGY4YXhSY3VnQTBkalhhTS12MU5qbzJFVHc?oc=5",
+      "source": "إرم نيوز",
+      "direction": "neutral",
+      "ts": "2026-08-19T20:30:33+00:00",
+      "amman": "23:30"
+    },
+    {
+      "title": "Moderna’s cancer-vaccine breakthrough drives broad biopharma stock rally",
+      "url": "https://www.marketwatch.com/story/modernas-cancer-vaccine-breakthrough-drives-broad-biopharma-stock-rally-ff2816aa?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-08-19T20:28:00+00:00",
+      "amman": "23:28"
+    },
+    {
+      "title": "ارتفاع \"وول ستريت\" بدعم تراجع عوائد السندات وأسهم \"موديرنا\"",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQdkxXQXlSOTducDZGLU41UTgwNFBBSjM4UXh0SHpBd3lGOFRkSDQxMnd3T0MzVUt1ZGo0dFVnYkdZaHViN0ZVd2pia2RtNWl5TjJjaWJmWkJhcTROLUdDbnRmWnRaZVY5QTg0WGFSM0dXVGpMVlhlaXpya01zcVVwck9WaU5iZ0E1aWlrY1lxVHdQYTJwSkl2QVNrR1VXT01mOVZnUkRqQXdvcVV5TVFuVlphUEotWWhCdVp5LVBBMXdIR0FUTE5yTkhMUVRBYmxLZHJTTXp6dkpOSUhLR1RFNUtzSmV5M0dmS3dCamJvMnFHVENIZ0lvaXFHeExlUWhnZlBLX0dNc29SN1AwODY0TVdJN05aNFgwWC1DSl9ieV9pRXlLZmtpc2tab09VYlJpZVRudWl1SFJtY0NwWEVnT09NUjlYdG01RmpLdm5jbVRGWnBxdWNHNlFWdkNUalphajh3Uk9PUGRzSG5sUjZGZ1BnTHZqRzFmdGdZZXpJdTNzNllfS05MZGpsQ1lTbjJfMEVRYlowMlJXRnhsLXJXaU5PblhGSWlmX3dLLU5pRjdST3BjRWFwdDV4Y28wcWJ1WDJESG1aSEYyVU4zMm5zaG5yWkM0Zw?oc=5",
+      "source": "معلومات مباشر",
+      "direction": "neutral",
+      "ts": "2026-08-19T20:19:22+00:00",
+      "amman": "23:19"
+    },
     {
       "title": "محضر الفيدرالي يكشف انقسام 9-3 وسط ارتفاع النفط إلى 85 دولاراً وترقب قرار سبتمبر",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcVVDdHo5aWo2NVpUOVZkZkFwTVhORWdNZS1QTlcyc19LcHJqcmlJWjR0T2NNVk9acEo3S2xIbjJ1Mk5OMmgzUmpCWDI1TXcwY1NHMERxQUpfaHRnM1FhR19JTFhOMWdBRFZEVGN1dkRnWGlLS25IS2NseXVjTEM5aTZTSHpZS0VVZ3JNaElnanhjbl9kVE9VeGtqZmxSX1VXS2ZZS2tfNEM4N0xrM1NidlZFWklrc1djX0tZSWx0dzdadw?oc=5",
@@ -21,14 +53,6 @@
       "amman": "22:45"
     },
     {
-      "title": "Moderna’s cancer-vaccine breakthrough drives broad biopharma stock rally",
-      "url": "https://www.marketwatch.com/story/modernas-cancer-vaccine-breakthrough-drives-broad-biopharma-stock-rally-ff2816aa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "up",
-      "ts": "2026-08-19T19:38:00+00:00",
-      "amman": "22:38"
-    },
-    {
       "title": "محضر الفيدرالي الأمريكي يهز الأسواق.. تلميح برفع الفائدة إذا استمر التضخم",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5vSC1mSjFzeWlzcy1sN0VSakpCVkp1TzBVVmRaTWdLMXRHWkNtank1TGZ6MGtFZEp4VkVkVll3cmtCc295ZFZ0eU9TMHMxbkljNGxQYlFLUHpUSm9UM1ltNXIxME9vRThQV0F3dnFsblpFUQ?oc=5",
       "source": "العين الإخبارية",
@@ -37,12 +61,28 @@
       "amman": "22:22"
     },
     {
+      "title": "«تخفيف ضغط السندات» ينعش «وول ستريت»",
+      "url": "https://news.google.com/rss/articles/CBMi6ANBVV95cUxOTVVGTUUtYTlHbUF6SmFacldSQ0dCOGtGS29ubWRqMi1pS3MzMjhKVkFURDRhcmxSakRTOTZOUTZ0VWlUck5oYnNYNW1kaDdTS09ESHNiU0U3OWU3SEs5YlVWcUlYSVpsdWt3MUpxOTFNSDQ4dEdicUlSQm5JejZPdU54VWstNjI5ck52UE5zQU9hWENrTEFBZ2UxekxoSWhjYUo3Q3NSVFh5aGNlTFQ2WUhUSXhJOFhlcW92MElIVERiNHRwUVM2QlNJXzQ2NHpaWHNXc3FaRWs0MzdSalNab0NaVk9MSkJlSzJXaGhUbEJSNEJvbWlMWDVDc05sOHVVdXBMMWtwcHI1eWw1bjc1MzJmME01WkQ2MGVRZjJGb2JYWW1OWFZmMUN5dHgyaHM4VDhMemtSMkd0ODRWdFZLV2hqRG45ZFdVY2ZMeVN0RVR5alBoSDE1R2ZKLUtWcHRkZzFGeTR3d0lxWTIzcUJuQTRGWk4xc3JYX3p1dnJWMm12M1M0aUNWTUxyWHpJb3dsanZKWXZ2SnY3QUF2U2ZtNWkxLTBHYjFicUlpSHhUVkZzYXJJTXBOWGNMZGFaZDlMMTI4LVkyRTdVdHdQVUFJYnVqMFYxYVZsOVNMRUZacDBNRWo4U3lUOQ?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "neutral",
+      "ts": "2026-08-19T19:12:30+00:00",
+      "amman": "22:12"
+    },
+    {
       "title": "انقسام حاد داخل الفيدرالي الامريكي بشان اسعار الفائدة وسط غموض اقتصادي",
       "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9IV2M3aGh2SWkxSm5SREF5ZHZqb3FfNGc2NTJnRE1hdW0yTnRvRHcyb01nZkY2YUd0eGtsSnRnVFV2OE1la29HajlYMA?oc=5",
       "source": "الوقائع الإخبارية",
       "direction": "neutral",
       "ts": "2026-08-19T19:05:20+00:00",
       "amman": "22:05"
+    },
+    {
+      "title": "الدولار يتراجع لأدنى مستوى في ثلاثة أشهر بعد محضر الفيدرالي",
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxNN0d4TmlkaWY0UUozbXF0eU9sMS1ETHp6YVkweC1xemk2a1V6aGtHbUR0c0xoWHJKS2otRVI5Z1htbEViMl9jRjNtdU9aX200OXJZM1psR1d0SDc4MlN2SFBIeVVnTUxlYTNxRkFEb1oxX1VwTDd2M2R2eVcwN2Vvb1BIQzZFMlEwYTdadTc5eERSdjhRbTBJTWlLSmNYaFFHelA3cWo0cl9KRGRjQjB5UExpbkQ3RUZsUENydzhob1d3cFU5MzFCRlRVbUNvTHVWc0J5a3RUQ3RXV1FqUkk3UHo2aFhScS02SWV6cUc3V2JjT05fd0ZsdFNwenU1dGRINzUtZUtrOTdveXY4MW56bnpZc19EWEh0Ukp0MS04bzBQRXM5NzM0NEZCRHZySFBRTHVPRE43ZVI2T1BveEo3WkZNcjN1OUhUdmxEUDA0b1R0bXQ4bmh1Wkh0Vk9JRXhTOTk1LVF0b1N3NkluMnNVXy10czc4dkxtalFHOUNmanNIR2ZlaFV6QlhRRGR3ODBUWE1wY3BST0Z1VnJsdEo4cEpvTlNTODNFTlVsd0JSb3I4eGVyOHBncjNNX2VvVF95bmFMeVl3WnNBQ05mLVUwUlIzUUpnMWN6VDF5VnlvWWwzMWh2NGVwemJ3ckp2QQ?oc=5",
+      "source": "معلومات مباشر",
+      "direction": "down",
+      "ts": "2026-08-19T19:00:33+00:00",
+      "amman": "22:00"
     },
     {
       "title": "الفيدرالي: رفع الفائدة إذا لم يهدأ التضخم",
@@ -75,14 +115,6 @@
       "direction": "down",
       "ts": "2026-08-19T18:34:56+00:00",
       "amman": "21:34"
-    },
-    {
-      "title": "Fed minutes reveal growing support for rate hikes",
-      "url": "https://www.marketwatch.com/story/fed-minutes-reveal-growing-support-for-rate-hikes-84fc9afa?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "down",
-      "ts": "2026-08-19T18:27:00+00:00",
-      "amman": "21:27"
     },
     {
       "title": "الفيدرالي: العديد من المسؤولين يرون أن رفع الفائدة قد يكون ضرورياً",
@@ -199,7 +231,7 @@
     {
       "title": "لماذا تراجع الذهب بعد تجاوز 4400 دولار ومتى يتخطى 4500؟",
       "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxNdGdNNlNjVlVERWxBR3lnU2VPOUVQTlpESFlhWWpnM2FPV0RDWjUxMFRuVk4zYkd6b2lTbnEwTVNWbE1ueFd4anZCOWYxRWpyZkVXSUtUSkFra3F2OFRYYlNxVjdpUkoyTUk2N3A5VVBaV3Mwcl9mSWFCWW1WODRUSmkwY0c1Z1RXdzB0MFNsdmtpTHJKeXJVOHBZNWRjd25pUGNpZkVkM2JueGJ0MENYRldvaVNPa0RtTXBZd29WUFNzbnV3dlhuUkZBSWg0REZGNWlzM2pxeGhTamZjYnFELWhHQ2UxWWxESVZ0bHoxbVYxSlB1TzVPREFWZnB3WEd5UUM4Tlhmc0hoOW8yRXBYSzMyZTFrS2dFbkhrdEtPV3JuLWtnTl9ZdkR2MVAxRUVQYWhUenVQc0pJM29sUDl2UW1tNFhZRm9jZjRDVXVpb0txYldIMTZNS1prOUlPS2pmTkpqblJQMnB0QU05RXMtblQtS2N5SGplQ2M0TTZZSHpBZUwzaUFPclhnYzZqRjhKU19pYkhQNkZqX3VsLW9jemFWLWF3aUdraDRvWUd0TGlxTE9XZ0dradIBvgNBVV95cUxQQXV4TDY5RHI0Y0x6d09KMWRkVnd6WkFKQWNXSGs3NVhlU3NQeG1tU1FITWlrcnBDR2RpOFh1R0EzeWh0SmxROW1YTkFRMVNzTE5qQ2RIaS0xWVVmZjg4NlU1NVZzN2M4R3VObnl3VEVleHV1ejZJbFJac2tLcFVRWXc1b0E4Y2xVazZzUl81NGx0SzI2UkRUdTFmRlpDWlVaUWRoWTd0VW9VaXVxcTZ1dWwydUpQUG1yajVTUDMzcjJMMm9HRkFOZDlkM1lUQllyVW83OGxBdDNQaHNkcUJhcmlMNHoyQTlpTTdpUTRHUTRsWGh1Nkp6blBsZ1FMdXB5WTZMR3NIVXR5OGxMRFFzY1ZhbG53UmcxZE5MZGZPY29mdjM0UnN4Tmp5TkVjREdfWWVpbkRjOGlISFdwSzN1NE53cFZkTFljWENsYUc0amFFLVN1cnFyUk1DQ3E3aENtV3ZyeWJGY0ZyeWdONmJncHFnazB6X0xYclRUODVIQkxRRDgtTDg4d0NvYVZfUVZQZFIxU3phS3lnb29WOVFha0ZDUHA3SThSYzlnTDdCUWZDV2lnYnM1QUplbWJpdw?oc=5",
-      "source": "masrawy.com",
+      "source": "Masrawy",
       "direction": "down",
       "ts": "2026-08-19T14:30:14+00:00",
       "amman": "17:30"
@@ -331,38 +363,6 @@
       "direction": "neutral",
       "ts": "2026-08-19T06:38:09+00:00",
       "amman": "09:38"
-    },
-    {
-      "title": "الذهب تحت حصار السندات.. هل يملك «الفيدرالي» مفتاح النجاة؟",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyNERYWG5vazFEUnRBWjllSnoxQURFTi1xVWdvLTlkNVdWZzRCeUMyLU0tdXZMS21IVXg2eG04WktlWVhHMnFjM1lSbEIwRFhacmowYkNJWQ?oc=5",
-      "source": "إرم بزنس",
-      "direction": "neutral",
-      "ts": "2026-08-19T06:13:09+00:00",
-      "amman": "09:13"
-    },
-    {
-      "title": "ارتفاع عملات آسيا مع تراجع عوائد الخزانة والوون الكوري يبلغ أعلى مستوى في عام",
-      "url": "https://news.google.com/rss/articles/CBMi8ARBVV95cUxOQlpGb2szMlpNSU1jMUdZTjFkTFNSQmhpdkZIUmNQa2I2VWtGTHFXcW5qUEZKdmJqandyM1lCMDAxeWhWcVRMd1I5Mjk3TnNDMFBTeEV1NkxpY284a3lmYzNxWklpV01yQ3NsdjdQY2NsUm5nLW1sSHhBS205RjBuRlBsZE04WDJiVnI1ampaV3FUQVpDMGxRTFAxOC1SNVNrbDdNbklkbDFXZ2RCTTc4RnlCeDF4UDEzcE5tREN3R184TFM0Z1BIOENpNmlXV3A4RFJqUlRsTktKajU0VlljWUJ1WW5hXzRUXy1XOVFnQUs5T3FnbGZSaGJRZElXSlpiVk9kZ0dOY042R0liTHQtRnpTZFNHTDNmYk1LRTZmbjFmVkVMMlVsSndUcE9JQTRwNlVLaVphOWR6S2FUY25PbkxiaXJNcVhmdXA1VmNhMEk0aHRQTHk5Qy1MUjM2bGNGX0I5LU9wejZGY0RFX3hNUUtCQmlVczUteXJCeERIbC1ic211ak81RklVSWxxcGxyeEE3RFZHUURCNENCRmwzelE5TVRwVmd1TzVtXy16TFpyYjg0NldpVzI1UmI5UTFqOUZRZ1dRUWNRX1JScGFTT0ZnaHVpRWpfTGk1WHA3MUR0cElSN2tST0RJRU03bDZXRHdQamt6OVNJRkszTVlHbHFITTQybnNmbkRQdEN0SDg0OEMySWp5WVpZVXZXNEp3bWpLWE5zTFhjOXBZczNQSzNES2hJVDRhNWxmeGpkSjU3c201TEFOSWJkTHFXVTZBY3k1bUx2NmJZcWdZM04tektuSkNNYkE3Z0pqWW5ZaFI?oc=5",
-      "source": "المتداول العربي",
-      "direction": "neutral",
-      "ts": "2026-08-19T05:31:54+00:00",
-      "amman": "08:31"
-    },
-    {
-      "title": "تجاوزت أسعار الذهب 4400 دولار للأونصة؛ كيف ستؤثر البيانات الاقتصادية الأمريكية وقرارات الاحتياطي الفيدرالي على ذلك؟",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb05HV0VPYWU4bkhaSVoyamNhblhEajl2MG1SMWxnQkNDN3hKS1Ixa3JxZmo5bEZ0dU9rYUlqb1E1ZmNTdUVrZ0ZpekppeWdFdkVfaVdURFI5MGxoT0ZSYkMxODkxdFl0M1hLMGlteExoa015ZGxDUVhWaGJzYWZjRnFjaTZIVF9lZ2pzNFZNcTFQT2NBdFVQdDFfdGEtajg?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-19T05:30:14+00:00",
-      "amman": "08:30"
-    },
-    {
-      "title": "كوسبي يتراجع نحو 5 في المائة تحت ضغط بيع الأسهم الأمريكية التكنولوجية",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qOUszUFRIR1YtaXQ0M3g0M0wwZ0VvWHA3cE5ONXlDZ3plOGd4MnV5Y3p5V2RsZnl4cWN3dkhpa3JsMkVqcUVQedIBQkFVX3lxTE9ZMzJCUUg2SkZPU1dGajhfRjh6OWtmVzJULUMxSW91U0ZmN24zcy1qc3BaRGtfTDFxeVFTN1F1RV9XQQ?oc=5",
-      "source": "VOI.ID",
-      "direction": "down",
-      "ts": "2026-08-19T04:37:51+00:00",
-      "amman": "07:37"
     }
   ]
 }

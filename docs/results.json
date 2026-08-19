@@ -1,9 +1,9 @@
 {
-  "updated_ny": "2026-08-19 16:16:47",
-  "updated_amman": "2026-08-19 23:16:47",
+  "updated_ny": "2026-08-19 16:47:26",
+  "updated_amman": "2026-08-19 23:47:26",
   "session_date": "2026-08-19",
-  "requested": 91,
-  "scanned": 91,
+  "requested": 92,
+  "scanned": 92,
   "waiting": 0,
   "buy_count": 42,
   "sell_count": 21,
@@ -31,8 +31,8 @@
     "PLUG",
     "RIG",
     "SAN",
-    "SOFI",
-    "SPCX"
+    "SPCX",
+    "WBS"
   ],
   "errors": [],
   "opportunities": [
@@ -406,7 +406,7 @@
           "price": 18.41
         }
       ],
-      "active": true
+      "active": false
     },
     {
       "ticker": "GOOGL",
@@ -702,13 +702,13 @@
       "open_high": 263.33,
       "open_low": 259.55,
       "open_range": 3.78,
-      "vwap": 264.57,
+      "vwap": 264.62,
       "ema200": 259.7,
       "above_ema200": true,
       "entry_price": 264.56,
       "change_pct": 0.6,
       "day_change_pct": 1.77,
-      "volume": 3901941,
+      "volume": 4080105,
       "targets": [
         270.88,
         278.43,
@@ -1024,8 +1024,8 @@
       "ema200": 5.22,
       "above_ema200": true,
       "entry_price": 5.18,
-      "change_pct": 0.96,
-      "day_change_pct": 2.25,
+      "change_pct": 1.06,
+      "day_change_pct": 2.34,
       "volume": 27575975,
       "targets": [
         5.43,
@@ -1036,7 +1036,7 @@
       ],
       "targets_hit": 0,
       "next_target": 5.43,
-      "next_target_pct": 3.72,
+      "next_target_pct": 3.63,
       "last_signal_time": "11:45",
       "bars_since_signal": 50,
       "signals": [
@@ -1874,13 +1874,13 @@
       "open_high": 263.33,
       "open_low": 259.55,
       "open_range": 3.78,
-      "vwap": 264.57,
+      "vwap": 264.62,
       "ema200": 259.7,
       "above_ema200": true,
       "entry_price": 264.56,
       "change_pct": 0.6,
       "day_change_pct": 1.77,
-      "volume": 3901941,
+      "volume": 4080105,
       "targets": [
         270.88,
         278.43,
@@ -3752,13 +3752,13 @@
       "open_high": 218.77,
       "open_low": 215.27,
       "open_range": 3.5,
-      "vwap": 214.92,
+      "vwap": 214.9,
       "ema200": 216.01,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
       "day_change_pct": -2.05,
-      "volume": 3683809,
+      "volume": 3821682,
       "targets": [
         225.78,
         232.79,
@@ -4992,8 +4992,8 @@
       "ema200": 5.22,
       "above_ema200": true,
       "entry_price": 5.18,
-      "change_pct": 0.96,
-      "day_change_pct": 2.25,
+      "change_pct": 1.06,
+      "day_change_pct": 2.34,
       "volume": 27575975,
       "targets": [
         5.43,
@@ -5004,7 +5004,7 @@
       ],
       "targets_hit": 0,
       "next_target": 5.43,
-      "next_target_pct": 3.72,
+      "next_target_pct": 3.63,
       "last_signal_time": "11:45",
       "bars_since_signal": 50,
       "signals": [
@@ -5060,7 +5060,7 @@
           "price": 18.41
         }
       ],
-      "active": true
+      "active": false
     },
     {
       "ticker": "SPCX",
@@ -5270,6 +5270,36 @@
         }
       ],
       "active": false
+    },
+    {
+      "ticker": "WBS",
+      "session_date": "2026-08-19",
+      "state": 0,
+      "price": 77.6,
+      "open_high": 78.07,
+      "open_low": 77.91,
+      "open_range": 0.16,
+      "vwap": 77.8,
+      "ema200": 78.08,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -0.55,
+      "volume": 28332478,
+      "targets": [
+        78.39,
+        78.71,
+        79.03,
+        79.35,
+        79.67
+      ],
+      "targets_hit": 0,
+      "next_target": 78.39,
+      "next_target_pct": 1.02,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
     },
     {
       "ticker": "WFC",

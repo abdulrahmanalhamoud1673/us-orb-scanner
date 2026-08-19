@@ -1,9 +1,17 @@
 {
-  "updated_amman": "2026-08-20 00:36",
+  "updated_amman": "2026-08-20 00:55",
   "count": 45,
-  "up": 6,
+  "up": 7,
   "down": 21,
   "items": [
+    {
+      "title": "ServiceNow’s stock leads a software rally. Here’s what’s energizing investors.",
+      "url": "https://www.marketwatch.com/story/servicenows-stock-leads-a-software-rally-heres-whats-energizing-investors-0ad74dd1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-08-19T21:50:00+00:00",
+      "amman": "00:50"
+    },
     {
       "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
       "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
@@ -243,14 +251,6 @@
       "direction": "down",
       "ts": "2026-08-19T14:36:29+00:00",
       "amman": "17:36"
-    },
-    {
-      "title": "سعر الذهب اليوم في مصر الأربعاء 19 أغسطس 2026.. كم سجل عيار 21؟",
-      "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxNQWI0SWZxZWJLMFp2MENMMjgxLWJUaGxRb0FuUnhpY01tdy05eGJVU09jR1lzRzBmSS15Sl80dURuVldBZXFlUXlzRkd0dXR3M3VkR0VOVkNMNEtMNFR4TnB2UGx6d2hnWkp2UU52ckZBRXd1R0hjclJyTTg3N1o0dmx4NDM5NkN4NjcyNlZEcXJILV9jNEp0aGlueDY2QXdMOGxldHBvUDlUQ0RlYzQ4TFJWNEt1TWExeThCY2tyaG10cEdFdHB0WV83S1Ayc25STDNSd2ljbVBnLXMyN0NOR1B2ck1QXzB4Q0xiWUxOeGxJV1hMcDJfdXBzUjMzRGRzU25nM3h3MGxDeXM2Y2RoejhzQ3NjOXU4dWRoSnE4VmJzQ1NYWWhjNEJQVUtOejJRaWhZRjg2RVRnZVhmNUVfekhUWWRVSjNxajBtUzZFQ19UVHFCMkVGaTN2WjBJRU41cUtrMm5BaDk1LTJZVUdPT0NOeEVIdG00ZnVvMTA5bUhfU1Zaa0JOcWU3bWZIcDRYem1YSmpadzg1ZzBGbzNqckJHM0cxVU5CTUlhZFFQWGVRelBFZ3RvSFFFdUNYRWtIVnNQRjM2cU5oODhfTTF1NzAySVQ4dkJWUmFuOGo0R0l1SHFfdkZUX2hycHZRMjdVVkpEUFpZQ1lJUkJyNF9rbk1jM3ltZGwxSFVRYy1GNWxTdndxa0FMMHBrVGE2TmJIZUpGMXVJRzFaQWx1TWF4QmNPbTlmcnl3SFlLNm8xVVVTZW85SEx4YnBvdV9GRDRzVGE4NTVPSEFRSlE4N2tlUDdkY0w?oc=5",
-      "source": "صحيفة الخليج",
-      "direction": "neutral",
-      "ts": "2026-08-19T14:34:58+00:00",
-      "amman": "17:34"
     },
     {
       "title": "لماذا تراجع الذهب بعد تجاوز 4400 دولار ومتى يتخطى 4500؟",

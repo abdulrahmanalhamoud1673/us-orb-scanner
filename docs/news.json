@@ -1,16 +1,80 @@
 {
-  "updated_amman": "2026-08-19 18:48",
+  "updated_amman": "2026-08-19 19:11",
   "count": 45,
-  "up": 6,
-  "down": 18,
+  "up": 7,
+  "down": 15,
   "items": [
     {
-      "title": "Aehr Test Systems Sinks 10%, Teradyne Falls 5%, FormFactor Drops 6%: What’s Hitting These Semiconductor Test Equipment Stocks?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/aehr-test-systems-sinks-10-152829418.html",
-      "source": "Yahoo Finance",
+      "title": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging",
+      "url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-08-19T15:55:00+00:00",
+      "amman": "18:55"
+    },
+    {
+      "title": "عوائد السندات الأميركية تتراجع بعد دعم وزارة الخزانة للسيولة",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81NHBPb1JNQ2xEWDZhc2dDcU1NOWhNT2ZkZXZqcFVvNUtHNFRXdC1jZjFnRTE2RWk1b2VlTUhaTE92RmdMLUJDWE5EcWI5Q2V1aGhXeWVGTQ?oc=5",
+      "source": "إرم بزنس",
       "direction": "down",
-      "ts": "2026-08-19T15:28:29+00:00",
-      "amman": "18:28"
+      "ts": "2026-08-19T15:54:05+00:00",
+      "amman": "18:54"
+    },
+    {
+      "title": "The Dividend Winners and Losers From 5% Treasury Yields",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-winners-losers-5-treasury-155118463.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-19T15:51:18+00:00",
+      "amman": "18:51"
+    },
+    {
+      "title": "How the soaring federal debt affects you personally",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/how-the-soaring-federal-debt-affects-you-personally-155000383.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-19T15:50:00+00:00",
+      "amman": "18:50"
+    },
+    {
+      "title": "صعود 'داو جونز الصناعي'.. مؤشرات الأسهم الأمريكية تفتتح على ارتفاع",
+      "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxNNGVmLURIVThIYzJtNTE1Ny13QVdZVUE2T3YycGFxU3dCZUl0NkhaWERWRDQ3UDg0cVBUNjhUNEIyWjZad3RFMHdSWnVwQTRkcFpwNHlYel9SWk5kaWIzM28wdjNGOHl0Skg3aDNQM0tmX2hDZzR6Mmt6QkhYRWdHUEZwdXBuYkEtVXB3Nmx6WURXV080WnZRVkdIWndNVGJ0NDJnV1NMejlfNU1wMjkxei03RzhmSC1OMEZxTGwwcThQXzVXRGpaZ1Q2MDByX0Mxb1hsUF9WQ2JSaEJmMV9fMy1oLWxaZEF2bHVKVTFPU3kyNTNBTUtveVlmZHNpczNFWW9XNFptNE1wRC1qX1RsSzlPQWNkMVdvM013c3BJUUJMOE9uZEVuTXc5RW1sOUtleFZpRkkwVldiNEQzdEpWcEdNU0RrUzVrcndaeF9hamFpZzliMUR5Rk1EZWZDYWtqcTRuUFNiQmVaZlBxY3BvelZpZVpaa3FRM1ZYWndqM2RiV1M0VUp4TmdsRmxHYzdmQTdqeFgxLTVUZU5hZVlWUmRwcDlvQmlUVV9MS2dZcHdweFdDdVpZYXRXRGhZSEMxdEZydnppVElncVNrcG9sdnJSWkRfZkxUajZVWVFlMjBkNUlpNThmSDZ3S1l5VEdoZmJUaHRVUGVEa1R3dkJvckd1Q0I4d2VCZ0JJQjE5R25ObmdsNGF4V1dYaFJMQzZpRFByX190MnBoVkNwd3A1MW0tdjZEdlVseklPdk4zd3l0RnBtNEtnajBfMFVjZVhGNDExNWxiTTYtalQ5Z1g4Z2lDVWFlWnpKa2htWGllYUh5RktMbHlqX0pzblBIRG5nb3ljMGxQazBicWRyTTdIRUxkbXBkSlk4X1dnS3doMHVoQdIBU0FVX3lxTE1Fcl9tSFpsUS15UEN4TVoxWXg4THg0Uk40QUpka3hjZGFHVGx4ZXM4YzF1ZGpVQXYwaV9Xa0NiNzdyTGtSRGVodmNoLUcxT2ttMHZ3?oc=5",
+      "source": "alyaum",
+      "direction": "up",
+      "ts": "2026-08-19T15:49:00+00:00",
+      "amman": "18:49"
+    },
+    {
+      "title": "The 5% Treasury Is Exposing Every Fake Dividend Stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/5-treasury-exposing-every-fake-154755799.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-19T15:47:55+00:00",
+      "amman": "18:47"
+    },
+    {
+      "title": "The Fed Held Rates Flat for 231 Days, Your Mortgage Rates Went Up Anyway",
+      "url": "https://finance.yahoo.com/real-estate/articles/fed-held-rates-flat-231-154702403.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-19T15:47:02+00:00",
+      "amman": "18:47"
+    },
+    {
+      "title": "Dollar weakens after Treasury boosts long-dated bond repurchases",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-drifts-near-multi-month-013146327.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-19T15:43:14+00:00",
+      "amman": "18:43"
+    },
+    {
+      "title": "Stock Market Today: S&P 500 Charges Up As Fed Minutes Loom; Moderna Soars On Cancer News (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-19T15:42:56+00:00",
+      "amman": "18:42"
     },
     {
       "title": "تتذبذب أسعار الذهب اليوم، 20 أغسطس 2026، في اتجاهين متعاكسين، لكنها لا تزال تُعتبر ملاذاً آمناً وموثوقاً. متى سيصل سعر الذهب إلى 5600 دولار للأونصة؟",
@@ -25,7 +89,7 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15WjR2NGVESUQ3bTFCZUl0TU1xeHpGUjZEMU8ya0ZsajFlRHRtZE5ZRElYUHhBNXVfVDcwMG1GbjNGUW40cmUyU0RGUHktTC1jM2tXUlpRSnU4Rm15OFlpR29ETXdxdWc3NGY3Umd0eFFLQQ?oc=5",
       "source": "alwatanvoice.com",
       "direction": "down",
-      "ts": "2026-08-19T15:15:31+00:00",
+      "ts": "2026-08-19T15:15:12+00:00",
       "amman": "18:15"
     },
     {
@@ -53,28 +117,12 @@
       "amman": "18:00"
     },
     {
-      "title": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging",
-      "url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "up",
-      "ts": "2026-08-19T15:00:00+00:00",
-      "amman": "18:00"
-    },
-    {
       "title": "Bessent Doubles Down on the Bond Market Nobody Wanted",
       "url": "https://finance.yahoo.com/markets/articles/bessent-doubles-down-bond-market-145709628.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-19T14:57:09+00:00",
       "amman": "17:57"
-    },
-    {
-      "title": "Stock Market Today: Dow Gathers Steam On Treasury News; Moderna Soars As Bitcoin Rises (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-19T14:56:45+00:00",
-      "amman": "17:56"
     },
     {
       "title": "Berkshire Hathaway bet big on the U.S. housing market. You probably shouldn’t follow suit.",
@@ -137,8 +185,8 @@
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZTdnYkVway1ZeDRJQ2ZNZzUxd3prT241cmJZWWR5WFFBM1YtVVphUWFGZnVMYkVFM2gzTTU2QVI1X2xjQXNFV3c4SFZOeWNBXy1ZZkgzTUdnRDBxZEd0dnBlWFdQaG8zZVpkMlRtdWo2T3VWRWNobTZWS0VmcnBKUWFremQwMDVEU0RuZ09CdUR3emg5dkhIbElpTVpWLWgxSGxaUjY0RXhTZGtPY28zUHlrQl83Rm9yelFSTUxRUTBXdTF0cG5qVVJfcnYwa0lJZ01ya3VEZzliNjc1NE1aV0x1cldJWmVrRUttV3dIVndaQVdpWTZPVkpTM0llWV9oQ2w2UUJwYTM0bm9DdjdYQXRWYjR3bGpQQW1NOU1tSV9MUHBRUFFTUW45bzRJT3FtTXBxS3ozeElaMzg5RzB0cncyZjFFelJDX0VfcA?oc=5",
       "source": "جريدة المال",
       "direction": "down",
-      "ts": "2026-08-19T12:56:15+00:00",
-      "amman": "15:56"
+      "ts": "2026-08-19T12:57:21+00:00",
+      "amman": "15:57"
     },
     {
       "title": "الدولار يتراجع قبيل محضر الفيدرالي الأميركي",
@@ -237,7 +285,7 @@
       "amman": "11:40"
     },
     {
-      "title": "Stock market today: Dow, S&P 500 gain steam as bonds rally, Trump pauses tariffs on Canadian goods",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq gain steam as bonds rally, Trump pauses tariffs on Canadian goods",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-august-19-dow-sp-500-nasdaq-081116064.html",
       "source": "Yahoo Finance",
       "direction": "up",
@@ -267,14 +315,6 @@
       "direction": "neutral",
       "ts": "2026-08-19T06:38:09+00:00",
       "amman": "09:38"
-    },
-    {
-      "title": "استقرار أسعار الذهب مع تراجع عوائد السندات وترقب محضر «الفيدرالي»",
-      "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxQdjRnSnUweUU2Z0NoZkVjeXVHYWVWQ1pYcGJhUUwtdmtrSlItS3loZ2VTUmRqRTFJX1l3QlJkSU10ZFVXUG9NVDNoWEljTUg4YldQa3gyazU1bXV0ajNrMW9iMGl3OXFDbEo2UDJST0YydG1TQU9DSERqLWNNYjQ1UjByd05KOFM2UU91N0Z2NUdMNUZKdWtDWnF3TG54YVUtZVVtMTVzTjZZMkhiYWpEc0ZXeXVCWEhjd0M1azNGSXVOTUhaWFkwOGktcnJ1bWFNX281UkZkcVU1VF9MOVVqRXg1N0k5dl9LUTFmUU5VSjZfeVhxcWplUkViS2tjLTVHUFE1LWRPVUJhS25MTFR3QklDdXdpVVd4R3R0bjJQQ1BXUDM0djJMVlhOUGJsRTNFcTBhZ0xHdFJ1bDNMaVFTSEV4T04tTzRmNnpPZkNwX2ZtX21JUkxqUXhYbDMzWDl5VHFnaEJxckE5WXVGOFZObnBxV1NlR1I0OUZhWm9zdFpjdDAyb01xVlBIX05RS2sxMjJuUXlILXNNUDN4Tko3OU1Mc2ZibUEwZkpZaU05RXVNa0ZOTUxnclprT1NqbHNuUEtxZmNxYVJZQnE0ZWx6ZnE2UkE1WHNEcTc0TTRYVzU5RllwUk1IendpNGFKVWhuRmxCeHZPWWFNNEFRNlJYazUtanFiY004OUV4REpDalJoamdOcjFvcTJNbFlZQnFOSVFfcEFZQjVLZlNzTEM3a1BPU0NzMDlrSDR0WjNHTnpvbjUxLTJaX1Q0Z21XQXZWUDBDS1ZfM2Vjelp5QUlXbEk3R2NPdkJ2SW80OXR4bVBQQ3lZZWJaZFFmQmxmY0dPdUdObDFvMF9GX054Z3lRbHZBM00xWk1Zd2fSAVNBVV95cUxNbnlLNjR4UEpaTkt3bXowajlLSjh0QmtFeWxjQ1lldGYwN2VidnVpTTJLNUFRMGlhSUdmZTJ5aUhRTEVJV1hlY1RqSWR6QTdyaG9kcw?oc=5",
-      "source": "alyaum",
-      "direction": "down",
-      "ts": "2026-08-19T06:28:00+00:00",
-      "amman": "09:28"
     },
     {
       "title": "الذهب تحت حصار السندات.. هل يملك «الفيدرالي» مفتاح النجاة؟",
@@ -323,46 +363,6 @@
       "direction": "down",
       "ts": "2026-08-19T01:21:20+00:00",
       "amman": "04:21"
-    },
-    {
-      "title": "تراجع مؤشر ناسداك، وضغوط أسهم الذكاء الاصطناعي على وول ستريت.",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQlR2c2RUcjZ5OVlkRzRrNWFGUEFFWEdLZWZEVWVVUE81U1NKZ3FkUXRpeW9DN1R3MjN0M0IyUzlzaGk4Q3hOT19IMEg3STYydHNhWWxnUHVGSmVZWnFsYmQ2dEtDcDZaZ2ZsZzVjLVJ3LWJRNHJnQTJZdzkxN29RbTZIbEw?oc=5",
-      "source": "vietnam.vn",
-      "direction": "down",
-      "ts": "2026-08-19T00:51:05+00:00",
-      "amman": "03:51"
-    },
-    {
-      "title": "سعر صرف الدولار الأمريكي اليوم، 19 أغسطس 2026: أسعار الفائدة المصرفية تنعكس وتنخفض، ومؤشر الدولار الأمريكي (DXY) أقل من 100 نقطة.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0xxSWFFYjNqYjZ6SHhIdlZzYkZETVF4TkNZWHlhZ3Y0cnBjWU13enJoVDVSdUF0Z0pBNVZpRGhWbUdaRXdoRk9ISms0X3VlaU9USXR6MnNwWHhxVThFSXozQzQxOHNlTEVlY0dCaFp1QkMyMkdTYkNZNWhYZDhqb0s0MVVhblQ4WDNZeXozT0htb3RZM2dIdTM2dTI0dHlhM0E?oc=5",
-      "source": "vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-19T00:07:36+00:00",
-      "amman": "03:07"
-    },
-    {
-      "title": "محللة اقتصادية: ارتفاع النفط قد يعيد التضخم العالمي إلى الواجهة",
-      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxNOFpTUWhsR0FScFBzeW04eG12RGJ3em1LNDZpM0h6WEtWTVFpLTV3eFM3SEEwTDFEY3RueGpjcFJZNU1jc0JJLXJXQ1BqdjFHQkhZUng3MXFEYWtWaVlVRUpyUnVuRFNVT2JKcjM2TE1KeWQycFFXdDlHWXVrOUJUeXdBX2xXQ0VTaURha1RpTEI3cmZQS21qbnJISFhHLUdBU2ZyM2hjN3p2OUl6RUlSXzVEb0RnMW9FUEUyM0tBdkVCM1Jodk54NEdacGNrQjlIdFN4LWIyVGw3T1JBS251c3ZLbGtTRHhobmZEVHI1T2tiLW5heGJoVjB5Z05ZbE9uZlRDYXJZdjZ4Yk9NS1pZdHdheGhWSkdLa1ZSTXVaNU5CWVpHd1BtVlhMcnJJTnZCSDBxa2RUX1hVZnV5LWR0ZEtMbjQyNGdqR1ZIeUI5RTAtUm0xajZYLXRDNjFmTjhvR1pZR05la19MZ09nREVwU3VOUEVqM2k4SzVkelhteUhoeWhjVXRhVTU5NjFtZjV0dmRQUjVlQXJrUjVOTDl3aXM5a0s3XzBYVHpZVjY1SXJfUlBrUVZCZzZkWEtHR2tZaWhxNTZqQlBQU2lBa0N5dndPUjRQZi1TcHB6amFSLWE1VVdmb2h4czN0cnhCZ3I5SU5QaHRQem1mMS1IVEY3UzhHQTVkMGw2c1JBdVBn0gGIBEFVX3lxTFBVT20yd0l5bGV6YTNMT2tZU2RiUlJVRGNoVjNhaGJ1Vkc0T2lKWi14czc3dzRrN2RPTDF6aldEdGtnQVEyaFJMTkFvaTgxZ01xMmswVWNhNHgwOVlDVFpuY01iM2RVT3ZLbkd2OUc3d3pNSXBrYUtqekZvUDBKSjFiZ3lMdjdQVDRKRlRoUXpMa2ZKTEV2emRVVGptMnp5U2hkYVVyMGlXdGtGUG5ETVV5UC1EeGlzYjZNOFhrcWdHcy1HbUZ2Zm9STFY3ZE8ybWtpcG9SejM5aHNKdVVoTFVKakFXZjlUT3lnYWxxY2JMLUpIWUp4TjI3a254Zm9XempEMmhyNXIzOHRKVG8teEF5eHRZODIzLTNhREpOV2FRcXk1cGRSSmpFUHAwVngxTDM1NUZ4eE9SQ3JzcmVCZjE0X1RhSl9rSkJlelRGSkw1SldyakpTQ2pfZFlrN2RnYXVhaGFKcDdBVzhBdjVKQ01nd1hCUFZiVjVrUUowR092WkpURlJCX25CTElZblhRRHFnTEtRV1FiTnZtOW5ObXJJb1Q5ZlE2ZVROVFhwZUtBRFdGSWJQbDJUbzc2Nm9RcXJ0QU04eWVhWi11T09hc0k0MmN0Q2d6VksySnRVSlFrUmJJc1hTTjNoWXF5dzFrWU9lVlBKZExhQ0dsTXRwMnMxWGlGTWFvZzA?oc=5",
-      "source": "youm7.com",
-      "direction": "up",
-      "ts": "2026-08-19T00:00:00+00:00",
-      "amman": "03:00"
-    },
-    {
-      "title": "تراجع الأسهم الأمريكية في ختام التعاملات",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OR0JyS1FtdFQ2dkZ1UVZuQXpWM0FmMnEyak01c19aWjV5czR5UFpGTHFfdXJ5ZFNlSVJJSkxPN2kza1diSjg2ZUJveWVYakJP?oc=5",
-      "source": "www.sabanew.net",
-      "direction": "down",
-      "ts": "2026-08-18T19:18:49+00:00",
-      "amman": "22:18"
-    },
-    {
-      "title": "الدولار الأمريكي يترقب محضر الاحتياطي الفيدرالي.. ماذا ينتظر الأسواق؟",
-      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxQWlU4TlJ0N0RnVFBHYzlRTXNtc18tNEV4WVJQLWVnbTlDOEMyVjM5VjBRaTdPWG10MUUzSzV6eDlRX1BxcTBHUFNjcHlZUEozUGd5VC1nTGFrYjBOOWFfUU1mS2F2cTkzMUhvX0E2WFBFWDF5dnQzemVOSkdVcHFEcnFUbU9hR3hkaUs3WHBVZVNhaEljR2xmWUxScElDNHdOZlIwVGpoNE41Vnd6LTJGaUE4MWJaaDhmVXpZQzVOeXFraHFONGJscm1RQ25HOFVhZTNVUHNieUZlMXd0LWdDQzg1N0V4d1YyYUJnOG1mbWRsMkdJOEVMbVZaNW9HSnU0OWhNR1otdFZhWTItVF94ZnI2bVlia1hvVmNVLWw5RFkxb0g2MUUxN0ktcF9kbVlJSElMdmF1dW9VRW12dHE0dEEzR3FYSjZVYzBlOHcxaFVWS3M5VTZudVYwYjk0M0Q5MGVHNUVoYk43QjlaS2tqRHYtaEQzWVZrQWNkM3o5YkdHTFJGVTl5R1lIa2l4ZHMyc25SSkVqTFJ2Ylo2S281aVkydU9lV296X2FkUkJob2tLTmpEeW1KRC1JaTJBbEJvVmt0Y3FsazNOMFFoTWhiNmRjampVNEdSOXN3ZmJ6RUtzd0hUcVgyVVJoSEhnbHVWZkZLeHI1TVUxamxPa1FoT1daQ0xoOTdVRmZyMkZJWFNXZTFobFNYeVIxTmh6ZFRpWTRDajc2YzhNdERMd2dkYS15YktYQ3l5S1BCUFowV3lDZw?oc=5",
-      "source": "المتداول العربي",
-      "direction": "neutral",
-      "ts": "2026-08-18T16:46:14+00:00",
-      "amman": "19:46"
     }
   ]
 }

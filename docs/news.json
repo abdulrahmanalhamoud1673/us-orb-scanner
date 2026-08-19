@@ -1,9 +1,25 @@
 {
-  "updated_amman": "2026-08-20 00:08",
+  "updated_amman": "2026-08-20 00:36",
   "count": 45,
   "up": 6,
-  "down": 22,
+  "down": 21,
   "items": [
+    {
+      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
+      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
+      "source": "CNBC",
+      "direction": "neutral",
+      "ts": "2026-08-19T21:29:38+00:00",
+      "amman": "00:29"
+    },
+    {
+      "title": "Why the Treasury market’s newfound calm could break down in September",
+      "url": "https://www.marketwatch.com/story/treasury-market-reprieve-could-be-fleeting-with-deluge-of-corporate-bond-issuance-due-in-september-33cfaacd?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-19T21:10:00+00:00",
+      "amman": "00:10"
+    },
     {
       "title": "محضر الفيدرالي يكشف تأييداً أوسع لرفع أسعار الفائدة",
       "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQSGxnMUlrQ0N0Z3BCQUZia0RObk5lOFUyZzZnYzBpdjFvVEFOVE9aNTZzamdkTC0wa1dqNG9xeXlyUE9KTlM3WmZvNWc4SEFUYURjTXo0OGNZektfU3NrejVjV3FNaUIwdVBEdEZoNDlvWXVOb09oNVZ3VHZHb2RpeVZhTU14ZFNGMWVGaVFBcVlvVGhCN3RkWE9wbXM3N3hDYlBNMGxmZGQ5ck8xTDEwdDlDWjF4OE9qUGotZFMwZVA2YVVRYWlKa1B4UWFyZWFzSm5ZdHlDWEJkTzFYckFSRHYwY1FMQjluTzRzdGp1dGNFWS05ZU5oQmd4UlM4ZjFWWkIwSXhLMWF0TFRzZjRaVk9lS3MxZnZhWFJKcDF4ZmJZTFNPUkpsd3htTVJmYXNicTF1c0lkeHNJUnN2d1dCRzJ1UG5Zck5IeExnYmMwV1ZVT1doLXI4WDNQSk5TOWdFVEhibWMzZDJla2JTS0wtd3U5UVpEWTBsVEpWa2dxdER1NkVra2VyeWQ3d2RwdlAyOVNVSWV5cG5YV2hsYk9LbWtnODdxX2d6V1hENGlNZlk2VG1yZ1RpY3V3?oc=5",
@@ -35,14 +51,6 @@
       "direction": "neutral",
       "ts": "2026-08-19T20:37:30+00:00",
       "amman": "23:37"
-    },
-    {
-      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
-      "source": "CNBC",
-      "direction": "neutral",
-      "ts": "2026-08-19T20:32:48+00:00",
-      "amman": "23:32"
     },
     {
       "title": "رفع محتمل لكبح التضخم.. انقسام داخل الفدرالي الأمريكي بشأن أسعار الفائدة",
@@ -127,7 +135,7 @@
     {
       "title": "محضر الفيدرالي: صناع السياسة رأوا ضرورة رفع الفائدة إذا لم يتراجع التضخم",
       "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxPeGI1Tm0xU0c1amhnZm1sUUduY2RzS3RhczNBWGJzamlsYkJ1dTVZSy03eTVLZUVQSXMtZWhjRVd1Mkw1OFdCTEZvQV9oTjFSSm9xVngwMmhXTDliRlpDdEk1VEFsWU1xejdMNU5QQzZTRzlrLTF2S3A5cFA4WUN2Xzk5V3RCcGg4WV9GbWp4NjE0TE5jR2s5T3FiRnRPYlVFeHc1c0lldTBXYlRIVURnel9mbGlsZ3FFV0N3dzFJSldXTkszcEtSWS1iYTNFb1c5bUFKbV9nYXo1bzRyRnNNbHFva3RLUERwS3lZOVpfSkUyWG9jTzVneUZVdVIta0JkeWZqU2RuNlJEYkZ2UW9ZemgtLUFZRWNRc2htRFM3N2dpRTVqUGxwcm4zOVBVQUtDNVpXQ09SWXlYODB5ZldNQXlOMFdVRzBSRVNzQnlSWkR4Unp3X2pjeE02ZFllcEVheU9aSlkwQzlwV1JEbE0xU1JLNDR6RW1QUWtxQXV5VVRlaU1jRGVYYjl6Nk05cDNoT2Q5QU43SHVsdHM2dHNXWDdUNzQ0ZVJBelZNRUFjcm1HMEkwWEMzbXFtcUhfVkhYMWFaNnM3NGZ5Yi0zUzNBTGpBLWZ2RHhvck9wdjJJYW9RNGFMdzVFZ3dXM09XWFlYbTZKVUl3TkVRYV9LYTBjZlFyZl9LNnk5bGx3SnFrNGNpWjFMLVA0bzFmMzAtQ2NpRmNObEw0aWllTWxwVThsYU1KU1pvc1lucGR3dEZNWkJpM0F2V25QMGpJT1RLTGx5eTRoYUtHQjU?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "down",
       "ts": "2026-08-19T18:34:56+00:00",
       "amman": "21:34"
@@ -155,14 +163,6 @@
       "direction": "down",
       "ts": "2026-08-19T18:14:56+00:00",
       "amman": "21:14"
-    },
-    {
-      "title": "محضر \"الفيدرالي\" يحذر من استمرار مخاطر التضخم",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQam5LSkI0RTh4M29iUGVwbzctdUhLb2hHWmlCcjZpMDUzNV9jUVN5UW5jRzM4VHJrSXJ0eVJMaEpoUTgtZUJoVDJIVkIyWDFnNjhodlphUlNyTHhkV3NmcDdid05xMFZUbE51OUlGMER1eUQyWXYxSjRFQzN5MERDcE5TVVZGLUtkU2FYZjV1dFhVQnd3bW5LcXJxNW9PTWg1ZnZ4ZjFUMW1jUVVGSlctNjQyZ09kbTdLLUMwbzJDRWlZLTNldmFmZF9B0gHPAUFVX3lxTE41VEZ0R2VhUXJuVXlrR2NxRENBcVgtWllxN2FkWnFkTlA2NzdyZTR4LVkzdWFOUFBiSUlBRFp6N09TOEp5b2h1Tk8xZlJRZjhGaWJjRVRHSFk2Nk4xMzNqWE15TDllU1p6ckIza1ZHdTZ1ejVuOU5NRU91WUE0aEJod0R1X0RQYU5renFHS2x0ZV9nN3JmbExRMWNfbGVtbTd2TDk1VTNDT3dRR3ktX3R5Qi0yOG51MGw1b1RrZEZnMWdoeHlkcWxyXzFwSmthWQ?oc=5",
-      "source": "alarabiya.net",
-      "direction": "neutral",
-      "ts": "2026-08-19T18:00:00+00:00",
-      "amman": "21:00"
     },
     {
       "title": "انخفض الدولار بنسبة 0.8%",
@@ -205,20 +205,20 @@
       "amman": "18:49"
     },
     {
+      "title": "وول ستريت ترتفع بالتزامن مع تراجع عوائد السندات الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxQWTdzdlpNTjc2blcxV0tPTmVuTFdOdWowNThmMXNGN0w2R1R5OXN6YWZIRW5RekFMcHdCSnJ6SFk2dkRqM0JTXzdOc2Z1aEdva2RLNk5CUHowNW9uYXZyYktqcmNMeTZPenh3RWpxRms5b1dIdlRPT0tFZHlPaXhubjU5NFZNN2JJWkVNMEJPdXdXTXo5QVZ5NkNka2pQT3JCbW5mY3FhZ2dJLW9XRFFyMkRsYnA5WklRbFA1R0hyakF6MUtwS1pSVi1EMnFGb2JJbFRaWUdidXZzOXNHLVJvT2tiaDlfVm9NeDlrTFpZQnNZV3BMNjJaRmhmYUlIbmYwRWFqYkZ3dWZLR0p6a0FwZGJTTTFzNWplR2IwWmJURENTY3dVeWxJUlR0RjRiM1A1TVhPcDNhMENwZnU5SVk5RU8zeHFKaUZfR0dKdDBnWGp4WGo0bURhYmtrVHpFbHFEc0UyNnZQLTkzUm9mOVM5b0VZUFJ6UVdXMXFUX0xneWo5dkVRTzBYcmFONmd3OWttUFhINnFYcTFBc3YtWUlaSXhlUl9UTnd4alF2SEp1dTFBV3I4eElTdUttNXR3SllpN3NVOWFnWlIwbXhteXp6T0ZhRW1PM0laSXo3b0JFTFN0RVhnaFhHZHh5bFIxaWxOeEFENlNfTlRRdzlCM1djc1BpQS04cm9XcUxRdVlhN0NVdnI4M1pwOW5yemstanF4MHgyRzRfeHJab1FmTUttOXRoVXdKd0dWa3h1eTN3SXdZZ0pHNHZZMEwzS2tGODJ2UFVja1pFeDg5azBqNnFGSE9yMS1URGc5Z1Z2dktjdE15MENPNzZLXzBmVDlHTEdGTklrU3NiVkdhLTRQSkhuR2Fqdkc4TmhyZF8ySzZ3?oc=5",
+      "source": "FxNewsToday.ae",
+      "direction": "down",
+      "ts": "2026-08-19T15:47:26+00:00",
+      "amman": "18:47"
+    },
+    {
       "title": "عوائد سندات الخزانة الأمريكية تقفز لأعلى مستوى منذ 2007 وسط مخاوف الديون والتضخم",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE15WjR2NGVESUQ3bTFCZUl0TU1xeHpGUjZEMU8ya0ZsajFlRHRtZE5ZRElYUHhBNXVfVDcwMG1GbjNGUW40cmUyU0RGUHktTC1jM2tXUlpRSnU4Rm15OFlpR29ETXdxdWc3NGY3Umd0eFFLQQ?oc=5",
       "source": "alwatanvoice.com",
       "direction": "down",
       "ts": "2026-08-19T15:15:12+00:00",
       "amman": "18:15"
-    },
-    {
-      "title": "وول ستريت ترتفع بالتزامن مع تراجع عوائد السندات الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMingVBVV95cUxQWTdzdlpNTjc2blcxV0tPTmVuTFdOdWowNThmMXNGN0w2R1R5OXN6YWZIRW5RekFMcHdCSnJ6SFk2dkRqM0JTXzdOc2Z1aEdva2RLNk5CUHowNW9uYXZyYktqcmNMeTZPenh3RWpxRms5b1dIdlRPT0tFZHlPaXhubjU5NFZNN2JJWkVNMEJPdXdXTXo5QVZ5NkNka2pQT3JCbW5mY3FhZ2dJLW9XRFFyMkRsYnA5WklRbFA1R0hyakF6MUtwS1pSVi1EMnFGb2JJbFRaWUdidXZzOXNHLVJvT2tiaDlfVm9NeDlrTFpZQnNZV3BMNjJaRmhmYUlIbmYwRWFqYkZ3dWZLR0p6a0FwZGJTTTFzNWplR2IwWmJURENTY3dVeWxJUlR0RjRiM1A1TVhPcDNhMENwZnU5SVk5RU8zeHFKaUZfR0dKdDBnWGp4WGo0bURhYmtrVHpFbHFEc0UyNnZQLTkzUm9mOVM5b0VZUFJ6UVdXMXFUX0xneWo5dkVRTzBYcmFONmd3OWttUFhINnFYcTFBc3YtWUlaSXhlUl9UTnd4alF2SEp1dTFBV3I4eElTdUttNXR3SllpN3NVOWFnWlIwbXhteXp6T0ZhRW1PM0laSXo3b0JFTFN0RVhnaFhHZHh5bFIxaWxOeEFENlNfTlRRdzlCM1djc1BpQS04cm9XcUxRdVlhN0NVdnI4M1pwOW5yemstanF4MHgyRzRfeHJab1FmTUttOXRoVXdKd0dWa3h1eTN3SXdZZ0pHNHZZMEwzS2tGODJ2UFVja1pFeDg5azBqNnFGSE9yMS1URGc5Z1Z2dktjdE15MENPNzZLXzBmVDlHTEdGTklrU3NiVkdhLTRQSkhuR2Fqdkc4TmhyZF8ySzZ3?oc=5",
-      "source": "FxNewsToday.ae",
-      "direction": "down",
-      "ts": "2026-08-19T15:13:02+00:00",
-      "amman": "18:13"
     },
     {
       "title": "مؤشر الدولار الأمريكي يضعف قبيل محضر اجتماع الاحتياطي الفيدرالي",
@@ -243,6 +243,14 @@
       "direction": "down",
       "ts": "2026-08-19T14:36:29+00:00",
       "amman": "17:36"
+    },
+    {
+      "title": "سعر الذهب اليوم في مصر الأربعاء 19 أغسطس 2026.. كم سجل عيار 21؟",
+      "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxNQWI0SWZxZWJLMFp2MENMMjgxLWJUaGxRb0FuUnhpY01tdy05eGJVU09jR1lzRzBmSS15Sl80dURuVldBZXFlUXlzRkd0dXR3M3VkR0VOVkNMNEtMNFR4TnB2UGx6d2hnWkp2UU52ckZBRXd1R0hjclJyTTg3N1o0dmx4NDM5NkN4NjcyNlZEcXJILV9jNEp0aGlueDY2QXdMOGxldHBvUDlUQ0RlYzQ4TFJWNEt1TWExeThCY2tyaG10cEdFdHB0WV83S1Ayc25STDNSd2ljbVBnLXMyN0NOR1B2ck1QXzB4Q0xiWUxOeGxJV1hMcDJfdXBzUjMzRGRzU25nM3h3MGxDeXM2Y2RoejhzQ3NjOXU4dWRoSnE4VmJzQ1NYWWhjNEJQVUtOejJRaWhZRjg2RVRnZVhmNUVfekhUWWRVSjNxajBtUzZFQ19UVHFCMkVGaTN2WjBJRU41cUtrMm5BaDk1LTJZVUdPT0NOeEVIdG00ZnVvMTA5bUhfU1Zaa0JOcWU3bWZIcDRYem1YSmpadzg1ZzBGbzNqckJHM0cxVU5CTUlhZFFQWGVRelBFZ3RvSFFFdUNYRWtIVnNQRjM2cU5oODhfTTF1NzAySVQ4dkJWUmFuOGo0R0l1SHFfdkZUX2hycHZRMjdVVkpEUFpZQ1lJUkJyNF9rbk1jM3ltZGwxSFVRYy1GNWxTdndxa0FMMHBrVGE2TmJIZUpGMXVJRzFaQWx1TWF4QmNPbTlmcnl3SFlLNm8xVVVTZW85SEx4YnBvdV9GRDRzVGE4NTVPSEFRSlE4N2tlUDdkY0w?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "neutral",
+      "ts": "2026-08-19T14:34:58+00:00",
+      "amman": "17:34"
     },
     {
       "title": "لماذا تراجع الذهب بعد تجاوز 4400 دولار ومتى يتخطى 4500؟",
@@ -355,14 +363,6 @@
       "direction": "up",
       "ts": "2026-08-19T07:40:00+00:00",
       "amman": "10:40"
-    },
-    {
-      "title": "أسعار الذهب تتراجع وسط ترقب صدور محضر اجتماع \"الفيدرالي\"",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LVGl0S1JHbzRUMHNNS1VTMDRqNEpwOEpGbE10QmVVS3B6MTJrdlVfNGo0SDFVdEdreHVtLWh3SGxpUDEyNjVha19oRGVLa2RfS3c5S09RVzVoMzg?oc=5",
-      "source": "جريدة البورصة",
-      "direction": "down",
-      "ts": "2026-08-19T07:13:11+00:00",
-      "amman": "10:13"
     }
   ]
 }

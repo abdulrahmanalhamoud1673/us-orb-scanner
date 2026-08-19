@@ -1,9 +1,57 @@
 {
-  "updated_amman": "2026-08-19 16:41",
+  "updated_amman": "2026-08-19 17:16",
   "count": 45,
-  "up": 6,
+  "up": 9,
   "down": 16,
   "items": [
+    {
+      "title": "Pressure on bonds abates as Treasury announces buybacks. What may come next.",
+      "url": "https://www.marketwatch.com/story/pressure-on-bonds-abates-as-treasury-announces-buybacks-what-may-come-next-af7d7c76?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-19T13:58:00+00:00",
+      "amman": "16:58"
+    },
+    {
+      "title": "15 S&P 500 stocks are up 100% or more this year — here's what they have in common",
+      "url": "https://finance.yahoo.com/markets/article/15-sp-500-stocks-are-up-100-or-more-this-year--heres-what-they-have-in-common-135448325.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-19T13:54:48+00:00",
+      "amman": "16:54"
+    },
+    {
+      "title": "Global bonds rally on signs of support for US Treasury market",
+      "url": "https://finance.yahoo.com/news/bond-selloff-slows-stocks-wobble-025827451.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-19T13:51:47+00:00",
+      "amman": "16:51"
+    },
+    {
+      "title": "Stock Market Today (Aug. 19, 2026): S&P 500 rises on Treasury buyback",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-aug-19-135024947.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-19T13:50:24+00:00",
+      "amman": "16:50"
+    },
+    {
+      "title": "Instant View: US Treasury will double some bond buy backs",
+      "url": "https://finance.yahoo.com/news/instant-view-us-treasury-double-134328359.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-19T13:43:28+00:00",
+      "amman": "16:43"
+    },
+    {
+      "title": "Stock Market Today: Dow Rises On Treasury Buybacks; Moderna Soars On Cancer Drug News (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-19T13:39:24+00:00",
+      "amman": "16:39"
+    },
     {
       "title": "The bond selloff is rattling investors, but here’s why they shouldn’t expect a deeper stock downturn",
       "url": "https://www.marketwatch.com/story/the-bond-selloff-is-rattling-investors-but-heres-why-they-shouldnt-expect-a-deeper-stock-downturn-43139350?mod=mw_rss_topstories",
@@ -21,28 +69,12 @@
       "amman": "16:25"
     },
     {
-      "title": "Treasury doubles long-term bond buybacks to $4 billion",
-      "url": "https://finance.yahoo.com/economy/policy/articles/treasury-doubles-long-term-bond-130635805.html",
+      "title": "Robinhood CEO Calls On U.S. To Approve Tokenized Stocks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/robinhood-ceo-calls-u-approve-132000671.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
-      "ts": "2026-08-19T13:20:33+00:00",
+      "ts": "2026-08-19T13:20:00+00:00",
       "amman": "16:20"
-    },
-    {
-      "title": "Moderna, Merck, SK Hynix, Micron, Target, Estée Lauder, and More Stocks That Explain Today’s Market",
-      "url": "https://www.barrons.com/articles/stock-movers-882bea6d?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-19T13:19:00+00:00",
-      "amman": "16:19"
-    },
-    {
-      "title": "$500,000 and One Income ETF Slot: Which of SPYI, JEPQ and GPIQ Holds Up in a Dead Quiet Market?",
-      "url": "https://finance.yahoo.com/markets/options/articles/500-000-one-income-etf-131532114.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-19T13:15:32+00:00",
-      "amman": "16:15"
     },
     {
       "title": "Nike’s nightmare collapse deepens as shares crash 78% from highs — critics say brand went ‘woke’ and now it’s broke",
@@ -61,36 +93,12 @@
       "amman": "16:02"
     },
     {
-      "title": "Stock Market Today: Dow Rises Amid Treasury Buybacks; Moderna Soars On Cancer Drug News (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-fed-minutes-nvidia-sk-hynix-skhy/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-19T13:00:51+00:00",
-      "amman": "16:00"
-    },
-    {
       "title": "الدولار يتراجع مع استقرار سوق السندات",
       "url": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNZTdnYkVway1ZeDRJQ2ZNZzUxd3prT241cmJZWWR5WFFBM1YtVVphUWFGZnVMYkVFM2gzTTU2QVI1X2xjQXNFV3c4SFZOeWNBXy1ZZkgzTUdnRDBxZEd0dnBlWFdQaG8zZVpkMlRtdWo2T3VWRWNobTZWS0VmcnBKUWFremQwMDVEU0RuZ09CdUR3emg5dkhIbElpTVpWLWgxSGxaUjY0RXhTZGtPY28zUHlrQl83Rm9yelFSTUxRUTBXdTF0cG5qVVJfcnYwa0lJZ01ya3VEZzliNjc1NE1aV0x1cldJWmVrRUttV3dIVndaQVdpWTZPVkpTM0llWV9oQ2w2UUJwYTM0bm9DdjdYQXRWYjR3bGpQQW1NOU1tSV9MUHBRUFFTUW45bzRJT3FtTXBxS3ozeElaMzg5RzB0cncyZjFFelJDX0VfcA?oc=5",
       "source": "جريدة المال",
       "direction": "down",
       "ts": "2026-08-19T12:56:15+00:00",
       "amman": "15:56"
-    },
-    {
-      "title": "Target Earnings Double, Guidance Raised Amid Tariff Refunds. TGT Stock Wavers.",
-      "url": "https://www.investors.com/news/target-earnings-q2-tgt-stock/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-19T12:35:30+00:00",
-      "amman": "15:35"
-    },
-    {
-      "title": "India rate panel signals impending hikes, eyes inflation path to gauge timing",
-      "url": "https://finance.yahoo.com/economy/policy/articles/india-rate-panel-signals-impending-122914248.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-19T12:32:52+00:00",
-      "amman": "15:32"
     },
     {
       "title": "الدولار يتراجع قبيل محضر الفيدرالي الأميركي",
@@ -137,14 +145,6 @@
       "url": "https://news.google.com/rss/articles/CBMi_ARBVV95cUxQMEkycjNad1dacWZrLUMxNUg3MmpIcEF2aW5ZN1FPX1ByVmlMaWRfR3o3dmVnTENxRWFPQ205OFdmSnowWXNZeTRUWWNYYUdWQk9DdTVaczFXMjZqS0JIRl9UNDdnam5HYUlHT1hPZkMtcVI2YVZmQTRGdi03cDAwS1BTT2hQTmt1WE1GYThHMURPRzd6M0c2RjdPSkc3S0szZ0Vab2VGa0RFLXo2eXhDX1FHVTZVQkx3ZTFzcjE3dVlSRjNTM1g3UDVhMnZRR05MZm9Ld2haOTR6VHJONWRhMklNaXZQUVZXMEZJWF9haWE4WEw4SFM1cGhaYWZIQjhXQnk3MWppalV3cFF1WUViR3A4VWVQSGZ3dGJOd0NhdFE2M002R3owYWw2cUxyS1VxaVp1bmR5QnRHWldCVnBNREpBLUZuclc1MnhoVGhYbDd3enQ3THNSRkdXQ1UzcHdmdmEzQW1zcW56UXc5UmxUMlRHVlJjbmUtNmxXZEE5dzNVZ1dMTU0zcHJxSkEtMVl2VUpKSW1MOWRGRXpoSnF3M3RxandEU2hVYkV2dzNNVUFsNkRqMXlmMHNBemtQd0dWZHF4QkRUVTczYmxUeE1xV3VPWUxGZkJYTnlCcW5Rd1NRZU1fZFpQMkRXTzdWN0ltaHhvajVFQ3ZGLVFodEhCM1NmX3lHMTJaVDJMOGRFM19DRmcwNzROeVpQcXRfLUdTTDU3eDRlSU9WVy12REZvLWZQNGxmRXRRNXg3Nk8wQTRrNVZVekVjMkNaQ2Zqa2wzSWpRR0NkLUhxQWRtZVUwYzZCNFNIZUFzWjRtdk5RMDk4bDZaT0kxeW51b0U?oc=5",
       "source": "idnfinancials.com",
       "direction": "down",
-      "ts": "2026-08-19T10:00:00+00:00",
-      "amman": "13:00"
-    },
-    {
-      "title": "Wall Street's hot streak is running into a midterm-year curse: Chart of the Day",
-      "url": "https://finance.yahoo.com/markets/article/wall-streets-hot-streak-is-running-into-a-midterm-year-curse-chart-of-the-day-100000963.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
       "ts": "2026-08-19T10:00:00+00:00",
       "amman": "13:00"
     },
@@ -243,14 +243,6 @@
       "direction": "neutral",
       "ts": "2026-08-19T06:13:09+00:00",
       "amman": "09:13"
-    },
-    {
-      "title": "الذهب يرتفع مع تراجع عوائد سندات الخزانة وترقب محضر الفيدرالي",
-      "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPQy1vTTUwSnBBMU1PbXptVnhHczRJcTZYakJJbkluTi1LNWRuR054UGU3TkQ2dEhHbVM4Ukw0MzZRS3hGWjdaMEcweEQwcG5vdDMxY2o4YV9YNFYwNmdFUHBmVXlHVHQ1MDNQbXlJTG12QnM5SFI2QUxvSUhKc0FrR3ptQXVrMURlZGt0N3JMUG1XY29RaFlUYUIxbzdINnRvYXZlenNkMk1jX0NZc0Fhbm1sdUwzQVMwWm5PdEJ5WW5tN3gzTFJ2WHJzeFc5MFUxSGR1THlEdGtnUmFGRERXZ0Y2OWdLbDlMREluM1NkanlmTFVFNkdzbzU0blRGMVcwWVBzQzhzbUVaMk5Bc3RkeEV0RGxOYWlnQi1OZ3hHZUVQeHBlbDdGX0NHZkxuR1lobTNz?oc=5",
-      "source": "سودان اندبندنت",
-      "direction": "neutral",
-      "ts": "2026-08-19T06:11:52+00:00",
-      "amman": "09:11"
     },
     {
       "title": "ارتفاع عملات آسيا مع تراجع عوائد الخزانة والوون الكوري يبلغ أعلى مستوى في عام",
@@ -363,6 +355,14 @@
       "direction": "down",
       "ts": "2026-08-18T15:39:00+00:00",
       "amman": "18:39"
+    },
+    {
+      "title": "تباين أداء الأسهم الآسيوية بعد مكاسب «وول ستريت» وارتفاع أسعار النفط",
+      "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxPcU1lSGhFLUlqUWlrXy1zUEZ4ZkU1cnpianRMZ2lWa1M4NVJsTXRXbWVndVo1RndmdVdHbGxBc3hranQ2ZGx6bnE5MjZSLWhBUkNudWZTTTM0dXBWcTZhZ3RYQ2VhcGlLSEpDbnNMWnpNNkhlSTBwMkpvNkVtdEdaRC14ZEsySVZlZXZQUnYyWmY5WHlNcVRkMEstSFNKMXFNZ1Rza2tjTU5uWkp0bXVPWWNQRHB4clJ2dXdGSTN2U3pPYTVvMldZWHJjb3N2YjlDeTNHQ2JEMjBDZGNRUE83UEF4Y2lLeXBhdlIwOW9KQVlmc2Mtd19hWUIzZFJFMGI2bzRHNXRvd0diMmNRYmhxMTlneWRERXR5VVdpVXRxbkVOTzVRekpOa25tV29BTkZaS2NxdHotVk5obWZzd0JXNzhEX2dXclEyWHk3Q1YxNUVia1pUakxCVXBveXBwSzFVWVBCek1lQlJQTHJ5aGc2SDRhRHRKNkVHdjdOU29BTEdLMUZYb0p1R2NjN2xCUlJHVWM1aEE0cnA4R0Q2M0toRXc0RnhYbGZGMmpfQkk2elVmUnU1YUc0bjlubmdtYTdvWnF3V18weE1UZ1QxNklBU3pTd0JzNEhHS3BZSjlqUjR5SERfakhrbF9hMDBkY3FqN2o2WGFieVVEU3NsMGNoRUEwQ2FlLXdpTm01R2JtckVwTHpsMnllWVJpcUkxbmJCb0Y1b0R6RGEwRHJGdV9GTV9HNlpMdXo3d0x4QTF0aGZmNU1qZllDNTVxSFgzUlk?oc=5",
+      "source": "الشرق الأوسط",
+      "direction": "up",
+      "ts": "2026-08-18T14:46:46+00:00",
+      "amman": "17:46"
     }
   ]
 }

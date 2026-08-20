@@ -1,9 +1,65 @@
 {
-  "updated_amman": "2026-08-20 16:43",
+  "updated_amman": "2026-08-20 17:20",
   "count": 45,
-  "up": 9,
+  "up": 13,
   "down": 8,
   "items": [
+    {
+      "title": "Conditions are ripe for a market ‘accident,’ but surging bond yields alone won’t cause it, concedes pessimistic strategist",
+      "url": "https://www.marketwatch.com/story/conditions-are-ripe-for-a-market-accident-but-surging-bond-yields-alone-wont-cause-it-concedes-pessimistic-strategist-222cfc57?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-20T14:14:00+00:00",
+      "amman": "17:14"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Energy Giant Breaks Out (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-20T14:06:37+00:00",
+      "amman": "17:06"
+    },
+    {
+      "title": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-20T14:01:42+00:00",
+      "amman": "17:01"
+    },
+    {
+      "title": "داو جونز يخسر 400 نقطة متأثراً بارتفاع عوائد سندات الخزانة الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMiywVBVV95cUxOMl96TGNNelJfdkRHdEhBZVdTUUNFbFMwZlp0U2tnZ2xRU2FkNGtkWE5DS0c3TjE2N0lxTEp5MThwaGpwbWYwaDlnd01vMERCeDhtX2JpTnpWbFpZODJoQ3JxdjhfNHViazU3T2g2REdnOXo5T25oR0p4Qjc4M1hfR2Q3Smwtd1NCNklKSXNIdlFESmZNbi16eEpaNHhLYi02SjBBWXhtYjd2RDdzY3l2MklranVnd0ppRVUtb3BINmVQUkJYLUQ4d2pmeG92dnJzQlNGZnhfV3FPRGI5c3V4ZUpRSHR4SjlTc1ZrSUdRbUdnSmtHNzU0Q20wand4MlpsNjB0RVZUajFPbHJvOW5wVjJobE54OER2R1BWQTB2YVJuMXZiMTZIWko2TEgwTkt4aG9kX25nVjNLajRkVkdjdkhjb3BzX19nMWE5eS1rSGRVTG80bTJtQzZZLUFwb2NvdWUxbVlpa0lhcXhsZmVvODkxLWNudWxrV3dCRjVLWGdYaWw4TkFGMFBOMURUaUQwbG96UGVleHRNbTZLcklSY1pYTGZub0hIQWI4ZHVZc0JrZXJHZHZVNUZhaF91VlFRZ1Z4MzFZWm10S2hBcE5OYmh2bEZsS1Z2S3JwanVESTlRRk5PM0JvaXBpWGl1MWNmbW1famphWjk3Q1pwUWd4ZE1kM0pVbHFOTGZPQ3cySkdBbGJqVVphQ0FLMXFNMkxnb2FOQkw1NlBRdVl0bXgweF9kUEV6bjZSbXFGQVRPUHQ5YlVTeDRNeXVNWGNaTG5maGZfZ3VjWmlxLXoxWmJ1RXNhbUZTTXZUNmRaYVBBOTkxTXd1eC12cVFyY3R2cFVfY0FCTjFObmRPRFJOcHF5R3ZSeTl4azZIVGhyRjhCZW1JSVQtMTlmN0Q3Q284OHlQekV5a2J6b2NXMENQT1VtN0V6R0ZTWFk5T0Nr?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "up",
+      "ts": "2026-08-20T14:00:41+00:00",
+      "amman": "17:00"
+    },
+    {
+      "title": "Wall Street has an answer to 60/40 — this ETF crams 90/60 into the same dollar: One Big Investment Idea",
+      "url": "https://finance.yahoo.com/markets/article/wall-street-has-an-answer-to-6040--this-etf-crams-9060-into-the-same-dollar-one-big-investment-idea-135503448.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T13:55:03+00:00",
+      "amman": "16:55"
+    },
+    {
+      "title": "بعد تخطيه 4500 دولار.. ما أسباب صعود الذهب وهل يواصل الارتفاع؟",
+      "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQRUNuUll6cFpJTXNwek9uNUJUOFpfWThURjYzZFltMkJ0TkRVcGhTN3FIa3ZWM0xFQnplLU9pMEpfT01FTUVwa1dJVS1WNldQMGp6ZDRJSjJXeEx5NVF4dTlvSjF1dE9tUlhxSTFMeThKMF9pY0dvc09WSmtiVGhRQzdPNkJjNDJ1bk94Z3BUM2p1Y19YOE5TckJfYVpBYTBQWklLS2RzaTN3MTA0ejAxbzVuZjBuajFBeG1hcEFJNmt3RTlDYXhjcjFuOXpZb3NHSkFDOGhCc244V1NpdnlSMGQyTVhtcGhyX09RaWMzN1AxRUU0NVdlMGJtV3BqZjZVemRQeVdadGtfQ0xaRC1FSV9KRzlJNmtQV0dlZjQyM3dXcl9zLWQ5b1pwNG5HNGs0VmJuWDRHcW1zLXEycDBkbG43MUJLVTlnZldKN3pySDNoX095MW1FX0k3VEZXZFVsb1d6ZXVkRmNpRkt3a25EMV9va1ZPYTZkMmdzUi1KZ1lscm1TLVVQZ25OLWFOb05xLTVmUmVTeWZHLTJMMW1ySFVuVFBJTFpvR3RYMWdiSGh6TTdHeERwTnZSb2NTQnJaR1JndFIwZzdlRXJxX1FIOUthOFVwOGZnb3dYZzQ4ZlVsZ0VvdUxRZkFlNW93aFJXYm1z0gH4A0FVX3lxTFBZZzBNUWJKWFRLbmFEdldtTTQxYmx6WDJVWmlqbGFHYlNJN3k2TC0yd1VBMm15M3RMWjc0WHp0RDVUYUw0UnZUakRiQ3VWcjJ5ZkJtUDAtSHpZVEg1bVJSYnZCaF80T2hqTTBWRk95WkI2cUdYQ0E4VlRqbDdBMTdaQUpjYXE1UWpHQjdwekctdTVIZGhWRnl6XzNGTmlNX3hYNWZMMXpqQ1ZBVmtFUXJacHRKdTh6VlUzcEt5VDJjTWVENktON2puY2QyRU1OZ3JMUVA4N29veGFjeUo2S1RIOUZielMzeXhjNTZFUHJyQXdyU29TNDVTVUtQZkNNV3NmR3B3UVZrbnZWZHdLb2FzZHoybkpNSUk5LWkxWUxyQ2tKR3lmaTZoQ3JZcnJtT0FxOFU3T2UxbFBuWktocnUxQW1tYXlvY3pQRmZmMmstbVg4UHNleHNKeDNqWkdKYmdEcGF2MmVRLU9nODE5bS1rTDRRQ1BHaU1CWnZmeFdIY0oyRDhXalVnN1lyNmtTNzZqMjY5QnFwY1ltYkUwN2ViZlBEVFdNNDRoelpSNUJMNC1kQVpBcU5BeXZDNVFaQVFuc1VWOHVlTEZ5ay1ua1hfRzg3cjNpX3NIeGo5LW1PQjAyRWZjQzFUVUR5WllzX0x5ZzFFUWlyTQ?oc=5",
+      "source": "Masrawy",
+      "direction": "up",
+      "ts": "2026-08-20T13:50:23+00:00",
+      "amman": "16:50"
+    },
+    {
+      "title": "Crypto Stocks Soar Alongside Bitcoin As Rally Reignited",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-soar-alongside-bitcoin-133600627.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-20T13:36:00+00:00",
+      "amman": "16:36"
+    },
     {
       "title": "Treasury’s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here’s its advice for investors.",
       "url": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
@@ -13,52 +69,12 @@
       "amman": "16:33"
     },
     {
-      "title": "JEPQ and HYG Both Pay Monthly Income, but Only One Survives When Credit Markets Crack",
-      "url": "https://finance.yahoo.com/markets/options/articles/jepq-hyg-both-pay-monthly-132032878.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T13:20:32+00:00",
-      "amman": "16:20"
-    },
-    {
-      "title": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Walmart Takes A Dive (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-20T13:07:02+00:00",
-      "amman": "16:07"
-    },
-    {
-      "title": "Bitcoin Price Spikes Above $72K On Treasury-Fueled Short Squeeze",
-      "url": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T13:03:43+00:00",
-      "amman": "16:03"
-    },
-    {
       "title": "Want to bet on the bond rally? Check out these overlooked funds.",
       "url": "https://www.marketwatch.com/story/want-to-bet-on-the-bond-rally-check-out-these-overlooked-funds-15e957a2?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "direction": "up",
       "ts": "2026-08-20T12:38:00+00:00",
       "amman": "15:38"
-    },
-    {
-      "title": "ACV Auctions (ACVA) Reports Record Revenue and EBITDA Growth As Market Softens",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/acv-auctions-acva-reports-record-123518860.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T12:35:18+00:00",
-      "amman": "15:35"
-    },
-    {
-      "title": "Dow Jones Futures Fall As Oil Prices, Bitcoin Jump; Walmart Skids On Earnings",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-bitcoin-jump-walmart-earnings/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T12:16:00+00:00",
-      "amman": "15:16"
     },
     {
       "title": "انخفض ناسداك قبل افتتاح وول ستريت 🚩 الدولار يحاول استعادة خسائره",
@@ -163,14 +179,6 @@
       "direction": "neutral",
       "ts": "2026-08-20T07:57:49+00:00",
       "amman": "10:57"
-    },
-    {
-      "title": "انخفاض عوائد السندات الأمريكية، وارتفاع أسعار المعادن الثمينة بشكل عام.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUWszQ01jWlBjSm0wUjhFMWZLZ1h1bzdqTHJ5RnVNNVJmMl9aeWV5N1FPR2tDZ2U4bzJjRElhR2FaS01mMjQ4QXNCbThVZDlPdW92bTdMRG5aQUZWVUdxVUhEb3E3Skc0dk1INlhIek54dkJONjFORVVGM3ZtWnFxeTlFdjRUdXBjeHYyekx3?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-20T06:15:45+00:00",
-      "amman": "09:15"
     },
     {
       "title": "سعر الذهب اليوم الخميس 20 أغسطس 2026 بتعاملات السوق المصري",
@@ -355,14 +363,6 @@
       "direction": "neutral",
       "ts": "2026-08-19T20:32:22+00:00",
       "amman": "23:32"
-    },
-    {
-      "title": "ارتفاع \"وول ستريت\" بدعم تراجع عوائد السندات وأسهم \"موديرنا\"",
-      "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxPZXlzajRHT1BvQkNOSTBGRVNZaWlyMjgzYklIVmFGQkx6bEFhRV8tRG4ySlM3d3paRlRCcjZQVy1oZW1VcnZDei02a09vb2VvX0tnTkJmOEp6NGpuSzRJbFJxUXhGbk9nZGtUbkZfNF9qaTNJLXhXelV1WkFRZjAwMG5QYXEzRl9qd3FjSVIwazBETjZWSmV2MTRjcDNVcWVtMkRpYjA2SF9JWDF5Yk1LX1lHdXhmdWZPbFRMeEZnUXdwdWRqMUpjYzlCSktfZjNjVS11XzltanVVdktXcDFSS0h1Um1nSndEMFNnQnVQcmhqR1ZkQnVEOXAyMkZiRUxCaDQyYnd6OUFIMkFlVnk0a1hsd1VSck9WWnJLcjFaTGhsX05rbHZXNGJZelBDOFJIdHM3RVQ1cHpsVXU4aE1EVzlCNkNYZHk5eWg4Uk1HSnlsV2xzZHNqNUtwOWdheHp1c1lkVGxscU5sMFJZTUREMkJaQlFEZ3AyZS01UnRpb0o2NnhWMHVLTi1mUkthN2pEVWt2TFBYU25xdjRfYkp3a3I0MjhsMkNqY1FkSXJkVTJ5T2Rqbmd0bWJtekpWQnRPQzF1akx2ZUpfeHp3bmxtOEswdnhFN1g0ZGZINHNWMkxidmRIc3V1WVg4SnhTRUZRWk1wUlVpeVE?oc=5",
-      "source": "معلومات مباشر",
-      "direction": "neutral",
-      "ts": "2026-08-19T20:19:22+00:00",
-      "amman": "23:19"
     }
   ]
 }

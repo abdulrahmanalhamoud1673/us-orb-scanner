@@ -1,24 +1,56 @@
 {
-  "updated_amman": "2026-08-20 18:59",
+  "updated_amman": "2026-08-20 19:34",
   "count": 45,
   "up": 10,
   "down": 8,
   "items": [
     {
-      "title": "النفط وعوائد السندات يضغطان على وول ستريت.. الأسهم الأمريكية تتراجع",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoZ1BFeXB0YzBRRlRMbHVTejNzd1YwT29pR29ER0J0OXNEaWc4NHl6cG9BVnlsNVJRYXZYMlRpY2c0ZnBhdUY3dFdUVVhnc0NKb21Z?oc=5",
-      "source": "شبكة تواصل الإخبارية",
+      "title": "Why Wolfspeed Stock Crashed Today",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-wolfspeed-stock-crashed-today-162505275.html",
+      "source": "Yahoo Finance",
       "direction": "down",
-      "ts": "2026-08-20T15:51:34+00:00",
-      "amman": "18:51"
+      "ts": "2026-08-20T16:25:05+00:00",
+      "amman": "19:25"
     },
     {
-      "title": "VYM Is Beating the S&P 500 With a 17% Year-to-Date Return by Owning What Wall Street Won’t",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/vym-beating-p-500-17-154027118.html",
-      "source": "Yahoo Finance",
+      "title": "The rise in interest rates hit a ‘raw nerve’ at the White House. Bessent’s plan has analysts on edge.",
+      "url": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "direction": "up",
-      "ts": "2026-08-20T15:40:27+00:00",
-      "amman": "18:40"
+      "ts": "2026-08-20T16:23:00+00:00",
+      "amman": "19:23"
+    },
+    {
+      "title": "The biggest loser from the Treasury’s latest buyback plan: The U.S. dollar. Here’s why.",
+      "url": "https://www.marketwatch.com/story/the-biggest-loser-from-the-treasurys-latest-buyback-plan-the-u-s-dollar-heres-why-5e996225?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-20T16:22:00+00:00",
+      "amman": "19:22"
+    },
+    {
+      "title": "Vanguard's private equity math undercuts Wall Street's retiree pitch",
+      "url": "https://finance.yahoo.com/markets/options/articles/vanguards-private-equity-math-undercuts-161700287.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T16:17:00+00:00",
+      "amman": "19:17"
+    },
+    {
+      "title": "عضو الفيدرالي موسالم يرفع راية التشدد.. أسعار الفائدة قد تبقى مرتفعة!",
+      "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPOWktcmx0VDhOdFNBMjU1NWNCWWQ3SHBFd0p6RWxfYkhwWGpseEdHMThvNWRUNGk5RUVkenpsZXA3X3VybnU0S2VSTnlmR2xCeVdKUm11Q0hQSm1Ya3FxTktoM0plWm10WFk0UmRnVlV3SnVFSlI5SVA0X0MyeEFHOHlaa2NwQUptaGRUOHY0TU9CUmpVQUlvV1AzZktWNEpJTGpMSkFfbEdkNVZ3RXFkY1ZNbnM4NlZPMkxPd1BPMHdDU0JNQjJOTGdMczNxWWJYUmR2Zl8xblJkMDgyUEwxUUp2eW5Pd0tyY3B3VUZTYUtuR0tYM3o0eGVNTGE0dGFWVEVUbURGRU80S2NzTUJoVVlNbEQ4TkZQWWRwdzMwT0xaS2FsTThWbURLRjZwellveUtvTXBSNjdEZEk4al80eVp2NlFpV3pVM2pWaEVNdjdnR2lhWGJraWFjUDZQOFNqR3h4SWZfUnhaSmtXNVl6R0EtZFdrX25ia1BsamkwaVgzU2JaMDNFa3lhbWZoelpaazd1R21GOEdiem9PVHlhVkwxWnhvdkhKSy1sa2VORXAwak1RT1l5R2JwNEpENWd0Q1hDUXdfV2Z3TmFLUHRSeUYyNE5VeGZnTlBMQjhVQ21KdTdQZ3RVZzJvOXFlM0t2WDFpOUtQcXE3dlIyX2k5OVNnRnBwelRfSTMwekdyTndIa0c0ejU3eDFydDEyT1R4RGFBbDIxZDZNemlmZXliaW80ZzJlNG8?oc=5",
+      "source": "المتداول العربي",
+      "direction": "neutral",
+      "ts": "2026-08-20T16:06:49+00:00",
+      "amman": "19:06"
+    },
+    {
+      "title": "Stock Market Today: Dow Off On 'Economic D-Day' Threat; This Medical Firm Hits New Entry (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T15:53:59+00:00",
+      "amman": "18:53"
     },
     {
       "title": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan",
@@ -93,14 +125,6 @@
       "amman": "18:25"
     },
     {
-      "title": "Bessent suggests Treasury could intervene again in bond market: ‘We have a big tool kit’",
-      "url": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-20T15:25:00+00:00",
-      "amman": "18:25"
-    },
-    {
       "title": "داو جونز يخسر 400 نقطة متأثراً بارتفاع عوائد سندات الخزانة الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMiywVBVV95cUxOMl96TGNNelJfdkRHdEhBZVdTUUNFbFMwZlp0U2tnZ2xRU2FkNGtkWE5DS0c3TjE2N0lxTEp5MThwaGpwbWYwaDlnd01vMERCeDhtX2JpTnpWbFpZODJoQ3JxdjhfNHViazU3T2g2REdnOXo5T25oR0p4Qjc4M1hfR2Q3Smwtd1NCNklKSXNIdlFESmZNbi16eEpaNHhLYi02SjBBWXhtYjd2RDdzY3l2MklranVnd0ppRVUtb3BINmVQUkJYLUQ4d2pmeG92dnJzQlNGZnhfV3FPRGI5c3V4ZUpRSHR4SjlTc1ZrSUdRbUdnSmtHNzU0Q20wand4MlpsNjB0RVZUajFPbHJvOW5wVjJobE54OER2R1BWQTB2YVJuMXZiMTZIWko2TEgwTkt4aG9kX25nVjNLajRkVkdjdkhjb3BzX19nMWE5eS1rSGRVTG80bTJtQzZZLUFwb2NvdWUxbVlpa0lhcXhsZmVvODkxLWNudWxrV3dCRjVLWGdYaWw4TkFGMFBOMURUaUQwbG96UGVleHRNbTZLcklSY1pYTGZub0hIQWI4ZHVZc0JrZXJHZHZVNUZhaF91VlFRZ1Z4MzFZWm10S2hBcE5OYmh2bEZsS1Z2S3JwanVESTlRRk5PM0JvaXBpWGl1MWNmbW1famphWjk3Q1pwUWd4ZE1kM0pVbHFOTGZPQ3cySkdBbGJqVVphQ0FLMXFNMkxnb2FOQkw1NlBRdVl0bXgweF9kUEV6bjZSbXFGQVRPUHQ5YlVTeDRNeXVNWGNaTG5maGZfZ3VjWmlxLXoxWmJ1RXNhbUZTTXZUNmRaYVBBOTkxTXd1eC12cVFyY3R2cFVfY0FCTjFObmRPRFJOcHF5R3ZSeTl4azZIVGhyRjhCZW1JSVQtMTlmN0Q3Q284OHlQekV5a2J6b2NXMENQT1VtN0V6R0ZTWFk5T0Nr?oc=5",
       "source": "صحيفة الخليج",
@@ -117,44 +141,12 @@
       "amman": "18:22"
     },
     {
-      "title": "Stock Market Today: Dow Falls 300 Points On 'Economic D-Day' Threat; These Energy Funds Rise (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-20T14:57:30+00:00",
-      "amman": "17:57"
-    },
-    {
       "title": "More SpaceX stock is about to hit the market. Here’s what to know.",
       "url": "https://www.marketwatch.com/story/more-spacex-stock-is-about-to-hit-the-market-heres-what-to-know-789923d4?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "direction": "neutral",
       "ts": "2026-08-20T14:53:00+00:00",
       "amman": "17:53"
-    },
-    {
-      "title": "Bitcoin Could Extend Rally as ETF Inflows Hit $517M: Expert",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-could-extend-rally-etf-144800080.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-20T14:48:00+00:00",
-      "amman": "17:48"
-    },
-    {
-      "title": "Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze",
-      "url": "https://www.investors.com/news/bitcoin-price-72000-two-month-high-treasury-bond-crypto-shorts-cftc-trump-clarity-act-white-house/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T14:35:01+00:00",
-      "amman": "17:35"
-    },
-    {
-      "title": "Walmart’s Tariff Refund Couldn’t Save a Soft Quarter",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/walmart-tariff-refund-couldn-t-143233771.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T14:32:33+00:00",
-      "amman": "17:32"
     },
     {
       "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
@@ -187,14 +179,6 @@
       "direction": "up",
       "ts": "2026-08-20T13:50:23+00:00",
       "amman": "16:50"
-    },
-    {
-      "title": "Treasury’s buyback blitz may end up driving bond yields higher, warns JPMorgan. Here’s its advice for investors.",
-      "url": "https://www.marketwatch.com/story/treasurys-bond-buyback-blitz-may-end-up-driving-yields-higher-warns-jpmorgan-heres-their-investment-advice-b8f507be?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-20T13:33:00+00:00",
-      "amman": "16:33"
     },
     {
       "title": "وول ستريت تنهي سلسلة خسائر استمرت 3 جلسات.. والسندات والدولار يتراجعان بواسطة Arincen",
@@ -269,20 +253,12 @@
       "amman": "13:00"
     },
     {
-      "title": "Scott Bessent just cried uncle on the bond market: Chart of the Day",
-      "url": "https://finance.yahoo.com/markets/article/scott-bessent-just-cried-uncle-on-the-bond-market-chart-of-the-day-100000219.html",
+      "title": "Mortgage rates dropped last week despite heightened bond market volatility: Mortgage and refinance interest rates today, Thursday, August 20, 2026",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-dropped-last-week-despite-heightened-bond-market-volatility-mortgage-and-refinance-interest-rates-today-thursday-august-20-2026-100000272.html",
       "source": "Yahoo Finance",
-      "direction": "neutral",
+      "direction": "down",
       "ts": "2026-08-20T10:00:00+00:00",
       "amman": "13:00"
-    },
-    {
-      "title": "محضر الفيدرالي: انقسام واضح حول الفائدة ورسالة مهمة للذهب",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jMHlJOHNWY0psaWFxeGU0bzZubjlFV3pGYjVmVTV4b3RzUXdUYUlsOHhxRDltQi1VQk9vdkxQYklrNjRaSnBZZGpXMWVHRTFDN1ZxNXBjbER0Qy0tMlFaSw?oc=5",
-      "source": "Investing.com",
-      "direction": "neutral",
-      "ts": "2026-08-20T08:51:02+00:00",
-      "amman": "11:51"
     },
     {
       "title": "انخفض الدولار الأمريكي إلى أدنى مستوى له في ثلاثة أشهر.",
@@ -293,7 +269,15 @@
       "amman": "11:28"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq slip as bond yields rebound after Treasury intervention, oil rises",
+      "title": "محضر الفيدرالي: انقسام واضح حول الفائدة ورسالة مهمة للذهب",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jMHlJOHNWY0psaWFxeGU0bzZubjlFV3pGYjVmVTV4b3RzUXdUYUlsOHhxRDltQi1VQk9vdkxQYklrNjRaSnBZZGpXMWVHRTFDN1ZxNXBjbER0Qy0tMlFaSw?oc=5",
+      "source": "Investing.com",
+      "direction": "neutral",
+      "ts": "2026-08-20T08:16:41+00:00",
+      "amman": "11:16"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq slide as bond yields rebound after Treasury intervention, oil rises",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-august-20-dow-sp-500-nasdaq-081139322.html",
       "source": "Yahoo Finance",
       "direction": "up",
@@ -341,14 +325,6 @@
       "amman": "08:10"
     },
     {
-      "title": "وارش يريد وترامب يرغب.. هل يتكرر سيناريو التضييق على جيروم باول؟",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1BN0pYd0pCREozQkxwdEkzQXJaZUVFc19palgydTd4MnVpZ21hdDlyUE5RNm83dmJENDVMd19MWHJiMDFaTkh5aUEzcjFabW1pakxtS2ZPbw?oc=5",
-      "source": "إرم بزنس",
-      "direction": "neutral",
-      "ts": "2026-08-20T04:39:15+00:00",
-      "amman": "07:39"
-    },
-    {
       "title": "قبل اجتماع البنك المركزى اليوم.. هل يغيّر قرار الفائدة مسار أسعار الذهب؟",
       "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPS09zMFJ5TjdXa1hhbmhQMW5ZNVJGYWVqZ1lnc3BHX2xPS294dFJYRDZKOXNrTnNDcWFOTU9palU4eDR5TzZPdHZlc0w0aFdodnJwMzAxd0M0NVR6V29WdXoyU2R4TFgwbDJhSlo1LXBwaXFtXzdXbXpMYlduQU1FaldXN2ROYVNRWTR0U05YTWx2Zk5jZFR2Q3Rjc2ZpRnZZNjFJLXN4NDJTVVdKTDZrLTg2MFBjWVpsRGkyV2FrZ001a3c5T2NCdjRmdHlmSXZfQVBNalZMSTdUc1pQZ0NJZHc3RmRJTHRDVmYyUmdkUHJvQ3dsSWNPY2hPc0paenRvNjVidGdpV1Q4MlpHNnlKZ3hyLTU5U2w5RnZQNVJuUXBJY1NJcVQ1T2p5d1N1MVg1MXlDVFZQczN2dFhFSEYzbnBGcUFpN21uMHlfaS1xQThRX1hzVTdYaDF1RWFaT0oxXzlCMlNVY3N1RjBheGtxWjM5cVVnaC0zSmFVa1gzbzNxRFhsRmVRUnRvMi0zV1JmYlpTc3Z0dHlkQ2FXVG1zbUxpMGROVENMX1IwWWZZLUUzaDhlVHFpT3UxZWVNR2k1OUFiR013TFEtY2JHM0JxUlIySDZrb1duM1JHRTY2OHdEX1VuZUHSAeADQVVfeXFMTjBsam50LV9lVDJ4TFRuZExZM2YzaDE4TGtESjJWbjB1SWFBZTVyWlpEYVVIRmJoaVFycC14UjV5QlJOQnJKSFpXeG85WVVPaXJEVlE5X3VjMlc3OWQ5bUJ6Mk1sLWJVVEQwNFpzTndBT1hUTFAyNjFvSEIzLVpweUJzRHBHUVFTdEFVOFhBaEFiU0JULW9CRVZsTHU5a3FYVldRV29kMkRpUml3RjZ0SDZMb24yZ0EyVUJoQmZZT2ZuUFZ1RFEwaWZTSjJERk9rWjlBYWdrUGFSd20zNTgzWkxZZTFkNklkNkRxM1JMUDlFZzNBMDlLUWd2ZXZXeXVKT1hGUUJ6TnphTmVRUW40M0w0UXc1UnlMOVlxeC1iOXVZQmMyQU5XWFp2NEl4UmtkRVFXS3lUeWI3bl9SMzdFYkl2Y09ua3FySVd2OThlRmNhdjNqampkWk1OWWxxZUc2UTZIWHJSRVNobmZUZHZ5NTZDeUVQMEF3WG1fQW03TW9DdWNVbTdVY05WT1JEa2pHVWxkc1RBUjRIeW1ibzNtckhycC03U2FFUllPZkxFY1M1OHdyNXY5MVk1OXFPNVd0N0FPSGpYRkZ0Q25QSFhucEotZ01DQ18zeXFCQmFRWDRm?oc=5",
       "source": "اليوم السابع",
@@ -363,6 +339,30 @@
       "direction": "neutral",
       "ts": "2026-08-20T02:20:15+00:00",
       "amman": "05:20"
+    },
+    {
+      "title": "رئيسة «فيدرالي سان فرانسيسكو»: «المركزي» أصاب في تثبيت الفائدة خلال اجتماع يوليو",
+      "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxNSXByVjR6bzJZYzlveXRuaVB3MFphX2lRQTRzdEd1X1MxLW4zX3ZrTE4xaVgxUHROd25ybGRwWThGdEsyUnFqMTZkbncxci1PNmV6SHVEVGlROVpJdnNRTmZDajJiOGxDbkhYQ0FwVUV0ZW80VzVjUWVVQkw3TmQ3X2FYVXRkRDhOdnhaVWc4eHFYVXpWUnVRV25KMy0wZGc3RFJPNGdMOEhjczcyRmhZRktmR0xlSS1jTmhEek56MW8zbGFLYk5lX1VmNWhxQlhLUnBiZnNQRzl2TkNLa29pNG44dnR5TDZoMHptcmE2ckx6aE1rN19abUpSalZlOVpoejFfajNUck0yRUFQSFBMUzliQjhCUlV3eU9zLV8wVWlYSFA4RVAwT0lwVnZqaWFpWmRZeDJtSGFOaEpCYlc0aFFyVzBpTURTU1ZYNFRfam9OR2ZTX0VXbFNGSVY2dWxrSTFvbDMzdHR2SnF5SnpuN2d2MWYwemMzQXpXVWptVklQWjF5WTliSXQ1bjcwbURta0FMZDBxLVNKNzlTLWF0elZOMGUtdmtXZGZTRmt3ZUJxbHVYaGI1MFhxR0RYRl9qVkRSRnpNYkM2c3l3Z3VzcjN2VENOQ21vcVpidWNCb0lzZWwxUm5nQ21yOElTT2tpZUFTcFg2alJNZGEtZEF0YnkwaWhKR2RtRG9NVE1ndlVtUnFLaVdhVXdxRlRScDk1OUpOLTE4SWN0R1N1YnUzQ00tbEhBU2xhQ2tmZjNsUWdBbTlRZ0hacTIwMTQ5UnNDSDlZdC1TblpOb21kaU1TWF92a1J3bzFRWnE4MnNORWdMQVRKckhISEZfT3NGaUx1OExmNVBidFpmRlNWM05ENw?oc=5",
+      "source": "الشرق الأوسط",
+      "direction": "neutral",
+      "ts": "2026-08-20T02:19:29+00:00",
+      "amman": "05:19"
+    },
+    {
+      "title": "ماذا تشير إليه أحدث محاضر اجتماع مجلس الاحتياطي الفيدرالي بشأن أسعار الفائدة؟",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSWdpZ2lFQ2lsWXh0OFNnVWU1NDdLUVFyYkcwYXduYUpka2ZTZFMtV19YS0VIVUxWMGluTjdHdTZBMWtORnYyV2VZTWdUT3dxekF1bXBnY0l0ZUlaZDhRUjhjakJnQjRtTEEwbTdzcDJmUHYzV09ES2F3VndoN2g3RDRYd0RXaHM?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-08-20T02:08:37+00:00",
+      "amman": "05:08"
+    },
+    {
+      "title": "سعر الذهب عيار 24 يسجل نحو 7276 جنيها للجرام.. هل يواصل الارتفاع؟",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPU1NrS1NvMGRtSW1DSVlHWVdtMmkxWjh5TGU3ZmduMHhhSmU0WUJSQnppMDlkeTdUSmZwbTNacWFUc0xzdzBsOWdKdkJhZmx2Q3B2c1JkYm9PLUVNeXJzMHBIb3BKVGsxYlZwVTFHSHZDVHlYWk1ueFlwcWM5NVF2c21kOWNOYnhEWjd3aXcwQWJCX3VoUHZhdFZkX3cwaVpfUFJQbnNxZWQtZ3NHUFZqX3ZwYWh0bW4tOFIybVlGb1lQbUc5SEMxeS03dVpPVTZIZXVYOXVPN2JMajBTZk1FZlpJNjBWUnlZb3ZFTm5RMmJtdHVEQlc3Ym5ERVFQa01wODZrNHBWM3JmLVpuTkNXeGR5TjB0b28wNmVtNVlTMHZYMlNfYTd5LW1LdWpyeF9BaGluNXNYTzl0U25ieGdxa3g2Z0R4Nk9nT243VjFUZnFuTkNNaHRidHM2bkdkRVhWa3MwQVlpOU9XUGxFd0HSAegCQVVfeXFMTnRjNk1fOGJIRVJaNVk4V0dQdng1Yl93T0ZJZFlja2FONENSWU5RZHVIbVpvbHJXcnd0alpCYnFuUzlmRlU3eXVJQVdLcE9QZVZEQk9rSFFZc0hGal8tS1p0eWZHWjJ4TFFpcVBtOGRENklSTU0xNk9fenFLQUY4d1l0QlpMM2FyQnBlTzc5d0VrVDhJaXdzNEJWRmxKTHFxY2Rsd2hlb0VyLTE5OFBuQjR0dHoweFBvS0xlUGtrUk1EQ3VuSzJESXVZdUgyS3dSTllXbGZ6UDBNSlVVTnM0MW5JakY1cVBiaVNsSDJ5OHNXYVFwRVRYWlFfUFFIeEZ5SUQwcDVxeUlXRGdvbHQ4R2hPRUZWVVFTVnpXdklMYTR0bkFaUXFDbktaSG93UjEyTENQeFlmNGdBS0NqOU85UTdWRm5mME9Fd1hDYWE4VjEwaXRRQ2lza05VcHdaejgzSWVpdTQ5TVV6?oc=5",
+      "source": "اليوم السابع",
+      "direction": "up",
+      "ts": "2026-08-20T02:00:00+00:00",
+      "amman": "05:00"
     }
   ]
 }

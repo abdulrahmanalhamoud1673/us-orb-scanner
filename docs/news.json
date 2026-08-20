@@ -1,7 +1,7 @@
 {
-  "updated_amman": "2026-08-21 00:32",
+  "updated_amman": "2026-08-21 00:55",
   "count": 45,
-  "up": 7,
+  "up": 6,
   "down": 11,
   "items": [
     {
@@ -133,12 +133,28 @@
       "amman": "18:53"
     },
     {
+      "title": "Silver prices today, Thursday, August 20, 2026: Silver opens higher on Treasury’s news of increased debt buybacks",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-20-2026-silver-opens-higher-on-treasurys-news-of-increased-debt-buybacks-153635987.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T15:36:35+00:00",
+      "amman": "18:36"
+    },
+    {
       "title": "Bessent says Treasury buyback operation could be more than $4 billion",
       "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
       "source": "CNBC",
       "direction": "neutral",
       "ts": "2026-08-20T15:35:33+00:00",
       "amman": "18:35"
+    },
+    {
+      "title": "Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T15:33:23+00:00",
+      "amman": "18:33"
     },
     {
       "title": "لماذا قرر البنك المركزي تثبيت سعر الفائدة؟",
@@ -347,22 +363,6 @@
       "direction": "down",
       "ts": "2026-08-20T01:52:16+00:00",
       "amman": "04:52"
-    },
-    {
-      "title": "خطوة غير متوقعة من وزارة الخزانة الأمريكية تعزز أسهم وول ستريت.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1lERzZ0MGhtX1RZOG8xR1JvdXQ0QkRDTDlackg5cFl1VnhxUl9wUlZoYjFmV1JWVXMxeFRmTDEtRDE2NkFXUGNZU09MSklNTTZjSFRCcEltR0JURTl0OFlPeG9Ya1FPZFl0Vkp0MUh4OG9Cd1dpel9PYnZsOWhjSGRxYWVoOXBBMWxvYzdzYXJDWS1mRFMw?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-20T01:41:41+00:00",
-      "amman": "04:41"
-    },
-    {
-      "title": "انتعاش وول ستريت، وارتفاع أسهم شركة موديرنا.",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DSkZlVWJRakR2ajQwOE9EMHVlM0UyRTAyQWMzLWJCYnR4aFRnOHV2NmhNRDBTOTVjUmNfdzZOYVBfUFVVWW5mby1WeHYyMjhQNDNSVGFTalMyeTNURmFlaFBNQzhpZ1FrbVJnRXFINmJlYkJYcGhrMHlR?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "up",
-      "ts": "2026-08-20T01:06:18+00:00",
-      "amman": "04:06"
     }
   ]
 }

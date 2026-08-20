@@ -1,9 +1,73 @@
 {
-  "updated_amman": "2026-08-20 20:03",
+  "updated_amman": "2026-08-20 20:38",
   "count": 45,
-  "up": 8,
-  "down": 8,
+  "up": 7,
+  "down": 11,
   "items": [
+    {
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-20T17:30:00+00:00",
+      "amman": "20:30"
+    },
+    {
+      "title": "FuelCell Energy Sinks 8%, Bloom Energy Falls 3%, Plug Power Drops 3%: What’s Behind the Hydrogen Stock Selloff?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-sinks-8-bloom-172250605.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-20T17:22:50+00:00",
+      "amman": "20:22"
+    },
+    {
+      "title": "US Treasury buyback briefly eases bond rout, but debt worries persist",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bonds-bounce-us-buybacks-relief-040238251.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-20T17:19:29+00:00",
+      "amman": "20:19"
+    },
+    {
+      "title": "A Rare U.S. Sales Miss for Walmart Is Concerning for the Economy. But It Could Also Prove to Be a \"Bad News Is Good News\" Event for the Fed.",
+      "url": "https://finance.yahoo.com/economy/articles/rare-u-sales-miss-walmart-171801056.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-20T17:18:01+00:00",
+      "amman": "20:18"
+    },
+    {
+      "title": "Liquidations hit highest level since Oct. 10 crypto market crash",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/liquidations-hit-highest-level-since-171751793.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-20T17:17:51+00:00",
+      "amman": "20:17"
+    },
+    {
+      "title": "Nebius Drops 4%, Cloudflare Falls 3%, Snowflake Slips: Are Financing Concerns Sinking AI-Cloud Stocks?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-drops-4-cloudflare-falls-171149294.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-20T17:11:49+00:00",
+      "amman": "20:11"
+    },
+    {
+      "title": "Treasury's upsized buybacks may complicate Fed's monetary policy work",
+      "url": "https://finance.yahoo.com/economy/policy/articles/treasurys-upsized-buybacks-may-complicate-050106824.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T17:05:24+00:00",
+      "amman": "20:05"
+    },
+    {
+      "title": "Stock Market Today: Dow Off On 'Economic D-Day' Threat; These Oil Stocks, ETFs Catch Fire (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T16:51:22+00:00",
+      "amman": "19:51"
+    },
     {
       "title": "الذكاء الاصطناعي يتسلل إلى مناقشات الاحتياطي الفيدرالي الأميركي",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQXZoZnl1a0dJZW5VXzlqdTBfWU0zT3NQaE5BbjFseW10SUJvb2tPOGxPNGcxRkozV2FKMnNJaWVYcUtOemhNeHp5LXBWaFktcEhHbDQ0bGVqbXM?oc=5",
@@ -11,30 +75,6 @@
       "direction": "neutral",
       "ts": "2026-08-20T16:39:33+00:00",
       "amman": "19:39"
-    },
-    {
-      "title": "Riskier AT1s Are Most Stable in This Upside-Down Bond Market",
-      "url": "https://finance.yahoo.com/markets/options/articles/riskier-at1s-most-stable-upside-163830714.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T16:38:30+00:00",
-      "amman": "19:38"
-    },
-    {
-      "title": "Rigetti Drops 7%, IonQ Sinks 6%, D-Wave Falls 4%: What’s Behind the Quantum Stock Selloff?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rigetti-drops-7-ionq-sinks-163553902.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-20T16:35:53+00:00",
-      "amman": "19:35"
-    },
-    {
-      "title": "Scott Bessent Steadied the Bond Market — President Trump’s Iran Threat Wiped It Out in Less Than a Day",
-      "url": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-steadied-bond-market-163521100.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T16:35:21+00:00",
-      "amman": "19:35"
     },
     {
       "title": "Driver shortages, booming exports reshape US-Mexico freight market",
@@ -69,14 +109,6 @@
       "amman": "19:06"
     },
     {
-      "title": "Stock Market Today: Dow Off On 'Economic D-Day' Threat; This Medical Firm Hits New Entry (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T15:53:59+00:00",
-      "amman": "18:53"
-    },
-    {
       "title": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan",
       "url": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -90,14 +122,6 @@
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-20T15:36:35+00:00",
-      "amman": "18:36"
-    },
-    {
-      "title": "Strong Sales Power Birkenstock Holding plc’s (BIRK) Q2 Rally",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-sales-power-birkenstock-holding-153613080.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-20T15:36:13+00:00",
       "amman": "18:36"
     },
     {
@@ -115,22 +139,6 @@
       "direction": "neutral",
       "ts": "2026-08-20T15:33:23+00:00",
       "amman": "18:33"
-    },
-    {
-      "title": "How Mastercard CEO is preparing for a world where AI agents do the shopping",
-      "url": "https://finance.yahoo.com/markets/article/how-mastercard-ceo-is-preparing-for-a-world-where-ai-agents-do-the-shopping-153238803.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T15:32:38+00:00",
-      "amman": "18:32"
-    },
-    {
-      "title": "Bond relief ebbs, stocks fall as investors question Treasury's rescue efforts",
-      "url": "https://finance.yahoo.com/markets/options/articles/bonds-recover-after-us-treasury-comes-to-the-rescue-054757285.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-20T15:31:21+00:00",
-      "amman": "18:31"
     },
     {
       "title": "لماذا قرر البنك المركزي تثبيت سعر الفائدة؟",
@@ -155,22 +163,6 @@
       "direction": "neutral",
       "ts": "2026-08-20T15:22:00+00:00",
       "amman": "18:22"
-    },
-    {
-      "title": "More SpaceX stock is about to hit the market. Here’s what to know.",
-      "url": "https://www.marketwatch.com/story/more-spacex-stock-is-about-to-hit-the-market-heres-what-to-know-789923d4?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-20T14:53:00+00:00",
-      "amman": "17:53"
-    },
-    {
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-20T14:30:00+00:00",
-      "amman": "17:30"
     },
     {
       "title": "عاجل: وول ستريت تتراجع مجددًا مع صعود عوائد السندات.. وداو جونز يخسر 432 نقطة",
@@ -363,6 +355,14 @@
       "direction": "neutral",
       "ts": "2026-08-20T02:19:29+00:00",
       "amman": "05:19"
+    },
+    {
+      "title": "ماذا تشير إليه أحدث محاضر اجتماع مجلس الاحتياطي الفيدرالي بشأن أسعار الفائدة؟",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSWdpZ2lFQ2lsWXh0OFNnVWU1NDdLUVFyYkcwYXduYUpka2ZTZFMtV19YS0VIVUxWMGluTjdHdTZBMWtORnYyV2VZTWdUT3dxekF1bXBnY0l0ZUlaZDhRUjhjakJnQjRtTEEwbTdzcDJmUHYzV09ES2F3VndoN2g3RDRYd0RXaHM?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-08-20T02:08:37+00:00",
+      "amman": "05:08"
     }
   ]
 }

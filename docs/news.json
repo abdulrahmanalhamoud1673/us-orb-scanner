@@ -1,9 +1,17 @@
 {
-  "updated_amman": "2026-08-21 00:55",
+  "updated_amman": "2026-08-21 01:15",
   "count": 45,
-  "up": 6,
+  "up": 7,
   "down": 11,
   "items": [
+    {
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-20T22:00:00+00:00",
+      "amman": "01:00"
+    },
     {
       "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",
       "url": "https://www.cnbc.com/2026/08/20/bessents-efforts-in-the-treasury-market-so-far-havent-worked-heres-what-else-he-can-try.html",
@@ -101,14 +109,6 @@
       "amman": "20:37"
     },
     {
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-20T17:30:00+00:00",
-      "amman": "20:30"
-    },
-    {
       "title": "الذكاء الاصطناعي يتسلل إلى مناقشات الاحتياطي الفيدرالي الأميركي",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQXZoZnl1a0dJZW5VXzlqdTBfWU0zT3NQaE5BbjFseW10SUJvb2tPOGxPNGcxRkozV2FKMnNJaWVYcUtOemhNeHp5LXBWaFktcEhHbDQ0bGVqbXM?oc=5",
       "source": "إرم بزنس",
@@ -121,8 +121,8 @@
       "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxPOWktcmx0VDhOdFNBMjU1NWNCWWQ3SHBFd0p6RWxfYkhwWGpseEdHMThvNWRUNGk5RUVkenpsZXA3X3VybnU0S2VSTnlmR2xCeVdKUm11Q0hQSm1Ya3FxTktoM0plWm10WFk0UmRnVlV3SnVFSlI5SVA0X0MyeEFHOHlaa2NwQUptaGRUOHY0TU9CUmpVQUlvV1AzZktWNEpJTGpMSkFfbEdkNVZ3RXFkY1ZNbnM4NlZPMkxPd1BPMHdDU0JNQjJOTGdMczNxWWJYUmR2Zl8xblJkMDgyUEwxUUp2eW5Pd0tyY3B3VUZTYUtuR0tYM3o0eGVNTGE0dGFWVEVUbURGRU80S2NzTUJoVVlNbEQ4TkZQWWRwdzMwT0xaS2FsTThWbURLRjZwellveUtvTXBSNjdEZEk4al80eVp2NlFpV3pVM2pWaEVNdjdnR2lhWGJraWFjUDZQOFNqR3h4SWZfUnhaSmtXNVl6R0EtZFdrX25ia1BsamkwaVgzU2JaMDNFa3lhbWZoelpaazd1R21GOEdiem9PVHlhVkwxWnhvdkhKSy1sa2VORXAwak1RT1l5R2JwNEpENWd0Q1hDUXdfV2Z3TmFLUHRSeUYyNE5VeGZnTlBMQjhVQ21KdTdQZ3RVZzJvOXFlM0t2WDFpOUtQcXE3dlIyX2k5OVNnRnBwelRfSTMwekdyTndIa0c0ejU3eDFydDEyT1R4RGFBbDIxZDZNemlmZXliaW80ZzJlNG8?oc=5",
       "source": "المتداول العربي",
       "direction": "neutral",
-      "ts": "2026-08-20T16:06:49+00:00",
-      "amman": "19:06"
+      "ts": "2026-08-20T16:12:49+00:00",
+      "amman": "19:12"
     },
     {
       "title": "مسالم من الاحتياطي الفيدرالي: رفع أسعار الفائدة الآن قد يجنب اتخاذ إجراءات أكثر تشددًا لاحقًا",
@@ -133,28 +133,12 @@
       "amman": "18:53"
     },
     {
-      "title": "Silver prices today, Thursday, August 20, 2026: Silver opens higher on Treasury’s news of increased debt buybacks",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-20-2026-silver-opens-higher-on-treasurys-news-of-increased-debt-buybacks-153635987.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T15:36:35+00:00",
-      "amman": "18:36"
-    },
-    {
       "title": "Bessent says Treasury buyback operation could be more than $4 billion",
       "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
       "source": "CNBC",
       "direction": "neutral",
       "ts": "2026-08-20T15:35:33+00:00",
       "amman": "18:35"
-    },
-    {
-      "title": "Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T15:33:23+00:00",
-      "amman": "18:33"
     },
     {
       "title": "لماذا قرر البنك المركزي تثبيت سعر الفائدة؟",
@@ -229,6 +213,14 @@
       "amman": "13:45"
     },
     {
+      "title": "عائد سندات الخزانة لأجل 30 عامًا يرتفع إلى 5.23% بعد إعادة شراء ديون الولايات المتحدة",
+      "url": "https://news.google.com/rss/articles/CBMi6gRBVV95cUxOVEhpNGpBQV9LWHpSY1dhRkhNNWstQW1YdDZINHNHNDQzU0JadHV2dDdIUWdLTDV6V1pJem5iZWl5WXBQbEV2Z2NOdGhOa0VSa1JtWUN5X2RuRlFfbEFob1E1T0RHWW9EN0x2R3pVOGxGNUpmLTA3dHgycXl2ZWFHV2t0VXZWNTgxRm4taHU2S1hrYzZXR05oamZxczJNUjVBeDA1a21yOW5yREhUbk9WMW0wU3ZXQy1TU2ZmR0ZQRGV3UkJIZGxJM2tabHdoYUFkU04yZzVNZGxIN1Z5eFVUam5udWJoM1dCc0FpVlM5Vmoxb3ZBZFBrREloU2hUdnZkT0dpbEIxWW1xNVFRMzRNNHJlRmtnVVF1NGlPVUJDbDdGQjNzSnJOMWJ2bHZuQW96SUhqRUhNdjBtcUhHMmkxcm9LMjl6M1U0UjdueDBkUVpTLWZCaFFldmQ2SGltY05DOWI5aTV5S0lEc3lVMmk4ZFlyNUlsYzZuNUZqZXZLNUZmSm5VVG83bnJ1ZlM4Q1FVbTNHMnZsMXNhR096cTB1d1JUUEhkN29VRXRScjJOcnF0eVNDSFM1VGJRTFVPRTFzbUZCWEpwSGtpTUxqUmRJME02RFNPSUVsR0lXcmZlTDdXWnJLcWRPYWNQYVBwZW9uZzFjSzBwUGoyOTZVUlBxVGlMeVlxUVU5aFpxem03RjZDZm9ST1VjLXhvQ1EzelBSOFVJZHFjekU0VjJUMVlTUHdzWTBvYV9SLUdrZC1wMXI1YnFsU2huUkdMTTNFZXg0elE1VmtianloQmE2RzBlVVR3cGNrWVdqYXc?oc=5",
+      "source": "idnfinancials.com",
+      "direction": "up",
+      "ts": "2026-08-20T10:40:00+00:00",
+      "amman": "13:40"
+    },
+    {
       "title": "ترامب يعرب عن استيائه من عدم خفض الفيدرالي للفائدة",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UcVZhenJWRWthcVRaSmxLOUd6VXFvczVqN296dF9rS1ZoeFltMExIbDFBSnlyczRZdndPT0lIWmxmQ1pUNWJCZTg3U0F0YlNrYU85bGhza0diUE5RYXBZUzBScndzNllCbXVZbmxR0gFzQVVfeXFMTmdoaHloc2xuamYtLV9yZ2NRN0VQQmh4UnIxcVVVV1BXcHg2ajd2SmFxdmpnSXVxcktOQUNqT2NHLXNyT3dLdzhVVElpUm9YTENMOHpvVzNVdnMxMTZBTXFzZTRoYTRJTktSTzFRSU5rbDdySQ?oc=5",
       "source": "البيان",
@@ -283,6 +275,14 @@
       "direction": "neutral",
       "ts": "2026-08-20T07:57:49+00:00",
       "amman": "10:57"
+    },
+    {
+      "title": "انخفاض عوائد السندات الأمريكية، وارتفاع أسعار المعادن الثمينة بشكل عام.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUWszQ01jWlBjSm0wUjhFMWZLZ1h1bzdqTHJ5RnVNNVJmMl9aeWV5N1FPR2tDZ2U4bzJjRElhR2FaS01mMjQ4QXNCbThVZDlPdW92bTdMRG5aQUZWVUdxVUhEb3E3Skc0dk1INlhIek54dkJONjFORVVGM3ZtWnFxeTlFdjRUdXBjeHYyekx3?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-08-20T06:15:45+00:00",
+      "amman": "09:15"
     },
     {
       "title": "سعر الذهب اليوم الخميس 20 أغسطس 2026 بتعاملات السوق المصري",

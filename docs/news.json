@@ -1,8 +1,8 @@
 {
-  "updated_amman": "2026-08-20 22:48",
+  "updated_amman": "2026-08-20 23:05",
   "count": 45,
   "up": 8,
-  "down": 8,
+  "down": 9,
   "items": [
     {
       "title": "Anxious bond market sends troubling message to investors: There’s no easy fix for U.S. debt",
@@ -101,12 +101,36 @@
       "amman": "19:06"
     },
     {
+      "title": "مسالم من الاحتياطي الفيدرالي: رفع أسعار الفائدة الآن قد يجنب اتخاذ إجراءات أكثر تشددًا لاحقًا",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa1h0Zl80Z0pOOTBDNFZ5MlY1R0c1UGtPZi15NmYwdkRFTjNscG41QWM2STdGZFFUSTkxdVlKd0Ffb3cyUHVPaXdhc1pkZzZUS21sSDlHdHItdVFQY1pQcFlZbWM2QUMwZHFvYlNmYmZlazlYUExfOTZKWTZHZ2RpRUVSQ0ZKUG5uRXFKdXBhWEx6UWZzWDh2em9vLXB5NXRZazVfeEZGZFJDQUdIdWx5N0JiSjM0ajJM0gG-AUFVX3lxTFA2QzZjR3ZnM2RSSUpoQ2RpSWxrZk52MFB1ZzRON1dGcDk1RFR2dFFmeVdDOTE5dUhBU3VIVGktQ1lzVVdkSEs2QWhIV1pBSnd6MWxhOWIzdkxUSndTLURLWUFURzNYZ0ZSSHNORGtBN1M2UE51amhnR3Z1Z1p3WU1LaVljNlpXZUxURnNhLUFWc0o4YTJCdXRYMUtNUk1pRHdPb1BENVczblJHYndVU0FyT2t4QkFJN3dITlRldEE?oc=5",
+      "source": "FXStreet",
+      "direction": "neutral",
+      "ts": "2026-08-20T15:53:21+00:00",
+      "amman": "18:53"
+    },
+    {
+      "title": "Silver prices today, Thursday, August 20, 2026: Silver opens higher on Treasury’s news of increased debt buybacks",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-august-20-2026-silver-opens-higher-on-treasurys-news-of-increased-debt-buybacks-153635987.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T15:36:35+00:00",
+      "amman": "18:36"
+    },
+    {
       "title": "Bessent says Treasury buyback operation could be more than $4 billion",
       "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
       "source": "CNBC",
       "direction": "neutral",
       "ts": "2026-08-20T15:35:33+00:00",
       "amman": "18:35"
+    },
+    {
+      "title": "Gold prices today, Thursday, August 20, 2026: Gold rallies after Treasury announcement, FOMC meeting minutes",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-thursday-august-20-2026-gold-rallies-after-treasury-announcement-fomc-meeting-minutes-153323375.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T15:33:23+00:00",
+      "amman": "18:33"
     },
     {
       "title": "لماذا قرر البنك المركزي تثبيت سعر الفائدة؟",
@@ -203,6 +227,14 @@
       "direction": "down",
       "ts": "2026-08-20T10:00:00+00:00",
       "amman": "13:00"
+    },
+    {
+      "title": "«جي بي مورغان» يقدّم توقعات رفع الفائدة الأميركية إلى ديسمبر بدلاً من 2027",
+      "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxNbHBjamNid2JOeWdhRVIzQnlZcEo1dlhNZXY5d0xBWF83MEtEa1FEVjlJanRYMWhlQnRKZ0FBM1o3UlBWMDY0SFZQdWlxaTFRVG51SkdpUEJPQWRqZGozV0JHdnFhdk8zOGZsNFlNbjctZnFoQlMxbEcwblM4SWE1VXhIejdtOUlYbVRubVc5YndjTU9SNDJITmJmVTVFaENud1NoM3RRUVRLcFVjX1B3RnU3cFBETVFKWTl0Z1RPQU0zRVEwbXpQR0tFRGV1ZWU2NmFRZE1BZThSNkJSWlhKbElsOW5wbkJ3enpsSmhOS1NrYXotWi1HUll0U2IxODljSVBJRU4wYWp6Yzd0d1N5RldIbUJBWDViZGh2SnZYMklqLW1zeXlCMFVRS1FMR3d0N1EwVXJIc0c2dTFUZ2FMd29MRm1IbEJrQ25PbW9zb2VldDhWaXhBYVVJMGg4TFltVzhCanR0T0JNLUpjd3hnV1ZGWWZPME41V0IxeWcyajVld09ESF9VYV9WaS1LQWVOb05IYkhJN09Udk1iRDBxQmpRX1VPeVk3MmJvWDVjYXBvYzNxWmM0T2JoTE40bHVBZ0NHb3ZtaG91RG5MeENVSjlVNnM1TjdEU0dlcFl3Z2FSUElGZG5PS3BUcE5oWkNFd3NtR2E2RWxMT2prcFVGbjhfTm5jM3o3cnlRaVNaVlhPNEpIQnBKalBMdGNiVmJvYUtUeEg3VWNZaG5reEptbEFTaG1XMGZORkZfRmdpNkF2UUdqME9VRTNFU092VzhlN2E0S0Jwaw?oc=5",
+      "source": "الشرق الأوسط",
+      "direction": "down",
+      "ts": "2026-08-20T08:41:51+00:00",
+      "amman": "11:41"
     },
     {
       "title": "انخفض الدولار الأمريكي إلى أدنى مستوى له في ثلاثة أشهر.",
@@ -331,38 +363,6 @@
       "direction": "up",
       "ts": "2026-08-20T00:00:00+00:00",
       "amman": "03:00"
-    },
-    {
-      "title": "محضر الفيدرالي يكشف تأييداً أوسع لرفع أسعار الفائدة",
-      "url": "https://news.google.com/rss/articles/CBMiugNBVV95cUxQSGxnMUlrQ0N0Z3BCQUZia0RObk5lOFUyZzZnYzBpdjFvVEFOVE9aNTZzamdkTC0wa1dqNG9xeXlyUE9KTlM3WmZvNWc4SEFUYURjTXo0OGNZektfU3NrejVjV3FNaUIwdVBEdEZoNDlvWXVOb09oNVZ3VHZHb2RpeVZhTU14ZFNGMWVGaVFBcVlvVGhCN3RkWE9wbXM3N3hDYlBNMGxmZGQ5ck8xTDEwdDlDWjF4OE9qUGotZFMwZVA2YVVRYWlKa1B4UWFyZWFzSm5ZdHlDWEJkTzFYckFSRHYwY1FMQjluTzRzdGp1dGNFWS05ZU5oQmd4UlM4ZjFWWkIwSXhLMWF0TFRzZjRaVk9lS3MxZnZhWFJKcDF4ZmJZTFNPUkpsd3htTVJmYXNicTF1c0lkeHNJUnN2d1dCRzJ1UG5Zck5IeExnYmMwV1ZVT1doLXI4WDNQSk5TOWdFVEhibWMzZDJla2JTS0wtd3U5UVpEWTBsVEpWa2dxdER1NkVra2VyeWQ3d2RwdlAyOVNVSWV5cG5YV2hsYk9LbWtnODdxX2d6V1hENGlNZlk2VG1yZ1RpY3V3?oc=5",
-      "source": "الشرق بلومبرغ",
-      "direction": "neutral",
-      "ts": "2026-08-19T23:33:49+00:00",
-      "amman": "02:33"
-    },
-    {
-      "title": "محضر الاحتياطي الفيدرالي يكشف انقساما حادا حول أسعار الفائدة والتضخم",
-      "url": "https://news.google.com/rss/articles/CBMitgRBVV95cUxQNW9VanJtaVY1bzJpbE0wc3lNc25CUzZ2V0NCOVdTUEF6bU1ma2FudzlYakdncmozaXE1ZDctUVZLT2hGbTVoZGlKYWdrYTdxQm5BdHVmdkw2R1RZNWZKYUhzbkJwTVRKQ2ctaWpCb0JrMHc4ekUwVml0dzdndTNfNEV3S0VvTVBTR0tHNzJVcm5sUGpZOUVTWU1RWE5UbGhxbXF1Z1JLaEY5anY2YTBybUhqNEozQWRnd2pLbElpY1F1cnQ3Ml9wZjBoY1hYcFhMOW5RdUtKa3BISkx4TkZocEVlLVRFZkNyUnNLTVRuVUZSRmdPMlhWaEduV3VxU09Wb1R3enNydjY3WEhJVkR4YlhzcWgxdTlrdXpyOGZOdk5lek43bHJJTVAyczR5N2hJUWUtQlVWTU5CSllUWHBqdDFyaVBoQUVLaGItaV94azI2TFZpZUswSlBERnJiWlBnS0JyQ0VlRnRVbUhXclJlQmQ0dGxrYjBpbVRFQzhxbzVPS2NSbU9EdFBwVDJsX2s3NnVLMURtWG9kTXlxYm1CRFdUSUxSTDJ1cjBBR3dwd2dmLXFOWV9fVU5Bcm9vbHBDSDluNHU5eVEwT2xNYUFlbE53cnBRdGZkUnRLRzdOdlVaalgySE1SUE9JcWxEUVU0MDVDemtNcG55dmd2SVRtZHlDZ0psVHRZSTR2LXZrSm8wRzJYeWtELVE1cWVTQjhNYjNaWkFEY2pGYnRQdk44VjlEMkk5Zw?oc=5",
-      "source": "مبتدا",
-      "direction": "neutral",
-      "ts": "2026-08-19T22:45:57+00:00",
-      "amman": "01:45"
-    },
-    {
-      "title": "وول ستريت تغلق على ارتفاع طفيف بدعم تراجع عوائد السندات",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE9TQVBUODktZlJuQjZ0TUxoVFFxYmZYUnVwVG9SQkFaX2gtbXlCUUpmckNKZm1ZR0pxeExIeWFfOTd2aW1Rcy0w?oc=5",
-      "source": "سانا",
-      "direction": "neutral",
-      "ts": "2026-08-19T21:50:40+00:00",
-      "amman": "00:50"
-    },
-    {
-      "title": "Trump bemoans Fed interest rate policy, says U.S. should be paying much less",
-      "url": "https://www.cnbc.com/2026/08/19/trump-bemoans-fed-interest-rate-policy-says-us-should-be-paying-much-less.html",
-      "source": "CNBC",
-      "direction": "neutral",
-      "ts": "2026-08-19T21:29:38+00:00",
-      "amman": "00:29"
     }
   ]
 }

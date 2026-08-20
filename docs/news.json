@@ -1,16 +1,48 @@
 {
-  "updated_amman": "2026-08-20 19:34",
+  "updated_amman": "2026-08-20 20:03",
   "count": 45,
-  "up": 10,
+  "up": 8,
   "down": 8,
   "items": [
     {
-      "title": "Why Wolfspeed Stock Crashed Today",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-wolfspeed-stock-crashed-today-162505275.html",
+      "title": "الذكاء الاصطناعي يتسلل إلى مناقشات الاحتياطي الفيدرالي الأميركي",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQXZoZnl1a0dJZW5VXzlqdTBfWU0zT3NQaE5BbjFseW10SUJvb2tPOGxPNGcxRkozV2FKMnNJaWVYcUtOemhNeHp5LXBWaFktcEhHbDQ0bGVqbXM?oc=5",
+      "source": "إرم بزنس",
+      "direction": "neutral",
+      "ts": "2026-08-20T16:39:33+00:00",
+      "amman": "19:39"
+    },
+    {
+      "title": "Riskier AT1s Are Most Stable in This Upside-Down Bond Market",
+      "url": "https://finance.yahoo.com/markets/options/articles/riskier-at1s-most-stable-upside-163830714.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T16:38:30+00:00",
+      "amman": "19:38"
+    },
+    {
+      "title": "Rigetti Drops 7%, IonQ Sinks 6%, D-Wave Falls 4%: What’s Behind the Quantum Stock Selloff?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/rigetti-drops-7-ionq-sinks-163553902.html",
       "source": "Yahoo Finance",
       "direction": "down",
-      "ts": "2026-08-20T16:25:05+00:00",
-      "amman": "19:25"
+      "ts": "2026-08-20T16:35:53+00:00",
+      "amman": "19:35"
+    },
+    {
+      "title": "Scott Bessent Steadied the Bond Market — President Trump’s Iran Threat Wiped It Out in Less Than a Day",
+      "url": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-steadied-bond-market-163521100.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T16:35:21+00:00",
+      "amman": "19:35"
+    },
+    {
+      "title": "Driver shortages, booming exports reshape US-Mexico freight market",
+      "url": "https://finance.yahoo.com/economy/articles/driver-shortages-booming-exports-reshape-162434955.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-20T16:24:34+00:00",
+      "amman": "19:24"
     },
     {
       "title": "The rise in interest rates hit a ‘raw nerve’ at the White House. Bessent’s plan has analysts on edge.",
@@ -27,14 +59,6 @@
       "direction": "neutral",
       "ts": "2026-08-20T16:22:00+00:00",
       "amman": "19:22"
-    },
-    {
-      "title": "Vanguard's private equity math undercuts Wall Street's retiree pitch",
-      "url": "https://finance.yahoo.com/markets/options/articles/vanguards-private-equity-math-undercuts-161700287.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T16:17:00+00:00",
-      "amman": "19:17"
     },
     {
       "title": "عضو الفيدرالي موسالم يرفع راية التشدد.. أسعار الفائدة قد تبقى مرتفعة!",
@@ -109,7 +133,7 @@
       "amman": "18:31"
     },
     {
-      "title": "خبيرة مصرفية: قرار تثبيت أسعار الفائدة جاء متوازنًا مع ارتفاع التضخم",
+      "title": "لماذا قرر البنك المركزي تثبيت سعر الفائدة؟",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwUlN4VW00U2QyTS1vU2pCelZ3ck51STBaZUdOTmdsZDJvMWFodzRpbUUtU2tGQ0R3YjJMeUM5SnRvRUp5Nm9DcU9FSm9WbXZYdVlVdVFrWV9UbllpbTRR?oc=5",
       "source": "المصري اليوم",
       "direction": "neutral",
@@ -117,20 +141,12 @@
       "amman": "18:28"
     },
     {
-      "title": "Jim Cramer names 4 'indispensable' memory stocks he says investors 'can't afford' to skip as AI demand soars",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-names-4-indispensable-152500596.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-20T15:25:00+00:00",
-      "amman": "18:25"
-    },
-    {
       "title": "داو جونز يخسر 400 نقطة متأثراً بارتفاع عوائد سندات الخزانة الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMiywVBVV95cUxOMl96TGNNelJfdkRHdEhBZVdTUUNFbFMwZlp0U2tnZ2xRU2FkNGtkWE5DS0c3TjE2N0lxTEp5MThwaGpwbWYwaDlnd01vMERCeDhtX2JpTnpWbFpZODJoQ3JxdjhfNHViazU3T2g2REdnOXo5T25oR0p4Qjc4M1hfR2Q3Smwtd1NCNklKSXNIdlFESmZNbi16eEpaNHhLYi02SjBBWXhtYjd2RDdzY3l2MklranVnd0ppRVUtb3BINmVQUkJYLUQ4d2pmeG92dnJzQlNGZnhfV3FPRGI5c3V4ZUpRSHR4SjlTc1ZrSUdRbUdnSmtHNzU0Q20wand4MlpsNjB0RVZUajFPbHJvOW5wVjJobE54OER2R1BWQTB2YVJuMXZiMTZIWko2TEgwTkt4aG9kX25nVjNLajRkVkdjdkhjb3BzX19nMWE5eS1rSGRVTG80bTJtQzZZLUFwb2NvdWUxbVlpa0lhcXhsZmVvODkxLWNudWxrV3dCRjVLWGdYaWw4TkFGMFBOMURUaUQwbG96UGVleHRNbTZLcklSY1pYTGZub0hIQWI4ZHVZc0JrZXJHZHZVNUZhaF91VlFRZ1Z4MzFZWm10S2hBcE5OYmh2bEZsS1Z2S3JwanVESTlRRk5PM0JvaXBpWGl1MWNmbW1famphWjk3Q1pwUWd4ZE1kM0pVbHFOTGZPQ3cySkdBbGJqVVphQ0FLMXFNMkxnb2FOQkw1NlBRdVl0bXgweF9kUEV6bjZSbXFGQVRPUHQ5YlVTeDRNeXVNWGNaTG5maGZfZ3VjWmlxLXoxWmJ1RXNhbUZTTXZUNmRaYVBBOTkxTXd1eC12cVFyY3R2cFVfY0FCTjFObmRPRFJOcHF5R3ZSeTl4azZIVGhyRjhCZW1JSVQtMTlmN0Q3Q284OHlQekV5a2J6b2NXMENQT1VtN0V6R0ZTWFk5T0Nr?oc=5",
       "source": "صحيفة الخليج",
       "direction": "up",
-      "ts": "2026-08-20T15:22:30+00:00",
-      "amman": "18:22"
+      "ts": "2026-08-20T15:24:15+00:00",
+      "amman": "18:24"
     },
     {
       "title": "The energy market’s rising ‘crack spread’ is threatening to break the American consumer",
@@ -163,14 +179,6 @@
       "direction": "neutral",
       "ts": "2026-08-20T14:20:00+00:00",
       "amman": "17:20"
-    },
-    {
-      "title": "Conditions are ripe for a market ‘accident,’ but surging bond yields alone won’t cause it, concedes pessimistic strategist",
-      "url": "https://www.marketwatch.com/story/conditions-are-ripe-for-a-market-accident-but-surging-bond-yields-alone-wont-cause-it-concedes-pessimistic-strategist-222cfc57?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-20T14:14:00+00:00",
-      "amman": "17:14"
     },
     {
       "title": "بعد تخطيه 4500 دولار.. ما أسباب صعود الذهب وهل يواصل الارتفاع؟",
@@ -325,6 +333,14 @@
       "amman": "08:10"
     },
     {
+      "title": "انتعاش وول ستريت بفضل تراجع عوائد السندات الامريكية",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1YTVcwWnZfck91TnVpdTFOMzRwdmVDWWIzMElZZHQ4b21lV3g2M1hoYVJrRE85eXBsYlNFTy1jaFl3TjVuOGljSW1kVQ?oc=5",
+      "source": "الوقائع الإخبارية",
+      "direction": "neutral",
+      "ts": "2026-08-20T04:35:21+00:00",
+      "amman": "07:35"
+    },
+    {
       "title": "قبل اجتماع البنك المركزى اليوم.. هل يغيّر قرار الفائدة مسار أسعار الذهب؟",
       "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPS09zMFJ5TjdXa1hhbmhQMW5ZNVJGYWVqZ1lnc3BHX2xPS294dFJYRDZKOXNrTnNDcWFOTU9palU4eDR5TzZPdHZlc0w0aFdodnJwMzAxd0M0NVR6V29WdXoyU2R4TFgwbDJhSlo1LXBwaXFtXzdXbXpMYlduQU1FaldXN2ROYVNRWTR0U05YTWx2Zk5jZFR2Q3Rjc2ZpRnZZNjFJLXN4NDJTVVdKTDZrLTg2MFBjWVpsRGkyV2FrZ001a3c5T2NCdjRmdHlmSXZfQVBNalZMSTdUc1pQZ0NJZHc3RmRJTHRDVmYyUmdkUHJvQ3dsSWNPY2hPc0paenRvNjVidGdpV1Q4MlpHNnlKZ3hyLTU5U2w5RnZQNVJuUXBJY1NJcVQ1T2p5d1N1MVg1MXlDVFZQczN2dFhFSEYzbnBGcUFpN21uMHlfaS1xQThRX1hzVTdYaDF1RWFaT0oxXzlCMlNVY3N1RjBheGtxWjM5cVVnaC0zSmFVa1gzbzNxRFhsRmVRUnRvMi0zV1JmYlpTc3Z0dHlkQ2FXVG1zbUxpMGROVENMX1IwWWZZLUUzaDhlVHFpT3UxZWVNR2k1OUFiR013TFEtY2JHM0JxUlIySDZrb1duM1JHRTY2OHdEX1VuZUHSAeADQVVfeXFMTjBsam50LV9lVDJ4TFRuZExZM2YzaDE4TGtESjJWbjB1SWFBZTVyWlpEYVVIRmJoaVFycC14UjV5QlJOQnJKSFpXeG85WVVPaXJEVlE5X3VjMlc3OWQ5bUJ6Mk1sLWJVVEQwNFpzTndBT1hUTFAyNjFvSEIzLVpweUJzRHBHUVFTdEFVOFhBaEFiU0JULW9CRVZsTHU5a3FYVldRV29kMkRpUml3RjZ0SDZMb24yZ0EyVUJoQmZZT2ZuUFZ1RFEwaWZTSjJERk9rWjlBYWdrUGFSd20zNTgzWkxZZTFkNklkNkRxM1JMUDlFZzNBMDlLUWd2ZXZXeXVKT1hGUUJ6TnphTmVRUW40M0w0UXc1UnlMOVlxeC1iOXVZQmMyQU5XWFp2NEl4UmtkRVFXS3lUeWI3bl9SMzdFYkl2Y09ua3FySVd2OThlRmNhdjNqampkWk1OWWxxZUc2UTZIWHJSRVNobmZUZHZ5NTZDeUVQMEF3WG1fQW03TW9DdWNVbTdVY05WT1JEa2pHVWxkc1RBUjRIeW1ibzNtckhycC03U2FFUllPZkxFY1M1OHdyNXY5MVk1OXFPNVd0N0FPSGpYRkZ0Q25QSFhucEotZ01DQ18zeXFCQmFRWDRm?oc=5",
       "source": "اليوم السابع",
@@ -347,22 +363,6 @@
       "direction": "neutral",
       "ts": "2026-08-20T02:19:29+00:00",
       "amman": "05:19"
-    },
-    {
-      "title": "ماذا تشير إليه أحدث محاضر اجتماع مجلس الاحتياطي الفيدرالي بشأن أسعار الفائدة؟",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSWdpZ2lFQ2lsWXh0OFNnVWU1NDdLUVFyYkcwYXduYUpka2ZTZFMtV19YS0VIVUxWMGluTjdHdTZBMWtORnYyV2VZTWdUT3dxekF1bXBnY0l0ZUlaZDhRUjhjakJnQjRtTEEwbTdzcDJmUHYzV09ES2F3VndoN2g3RDRYd0RXaHM?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-20T02:08:37+00:00",
-      "amman": "05:08"
-    },
-    {
-      "title": "سعر الذهب عيار 24 يسجل نحو 7276 جنيها للجرام.. هل يواصل الارتفاع؟",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPU1NrS1NvMGRtSW1DSVlHWVdtMmkxWjh5TGU3ZmduMHhhSmU0WUJSQnppMDlkeTdUSmZwbTNacWFUc0xzdzBsOWdKdkJhZmx2Q3B2c1JkYm9PLUVNeXJzMHBIb3BKVGsxYlZwVTFHSHZDVHlYWk1ueFlwcWM5NVF2c21kOWNOYnhEWjd3aXcwQWJCX3VoUHZhdFZkX3cwaVpfUFJQbnNxZWQtZ3NHUFZqX3ZwYWh0bW4tOFIybVlGb1lQbUc5SEMxeS03dVpPVTZIZXVYOXVPN2JMajBTZk1FZlpJNjBWUnlZb3ZFTm5RMmJtdHVEQlc3Ym5ERVFQa01wODZrNHBWM3JmLVpuTkNXeGR5TjB0b28wNmVtNVlTMHZYMlNfYTd5LW1LdWpyeF9BaGluNXNYTzl0U25ieGdxa3g2Z0R4Nk9nT243VjFUZnFuTkNNaHRidHM2bkdkRVhWa3MwQVlpOU9XUGxFd0HSAegCQVVfeXFMTnRjNk1fOGJIRVJaNVk4V0dQdng1Yl93T0ZJZFlja2FONENSWU5RZHVIbVpvbHJXcnd0alpCYnFuUzlmRlU3eXVJQVdLcE9QZVZEQk9rSFFZc0hGal8tS1p0eWZHWjJ4TFFpcVBtOGRENklSTU0xNk9fenFLQUY4d1l0QlpMM2FyQnBlTzc5d0VrVDhJaXdzNEJWRmxKTHFxY2Rsd2hlb0VyLTE5OFBuQjR0dHoweFBvS0xlUGtrUk1EQ3VuSzJESXVZdUgyS3dSTllXbGZ6UDBNSlVVTnM0MW5JakY1cVBiaVNsSDJ5OHNXYVFwRVRYWlFfUFFIeEZ5SUQwcDVxeUlXRGdvbHQ4R2hPRUZWVVFTVnpXdklMYTR0bkFaUXFDbktaSG93UjEyTENQeFlmNGdBS0NqOU85UTdWRm5mME9Fd1hDYWE4VjEwaXRRQ2lza05VcHdaejgzSWVpdTQ5TVV6?oc=5",
-      "source": "اليوم السابع",
-      "direction": "up",
-      "ts": "2026-08-20T02:00:00+00:00",
-      "amman": "05:00"
     }
   ]
 }

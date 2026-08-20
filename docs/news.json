@@ -1,9 +1,25 @@
 {
-  "updated_amman": "2026-08-20 20:38",
+  "updated_amman": "2026-08-20 21:00",
   "count": 45,
-  "up": 7,
-  "down": 11,
+  "up": 8,
+  "down": 9,
   "items": [
+    {
+      "title": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan",
+      "url": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-20T17:44:00+00:00",
+      "amman": "20:44"
+    },
+    {
+      "title": "NuScale Power and Oklo Drop 5%, Centrus Energy Sinks 6%: What’s Behind the Nuclear Stock Selloff?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nuscale-power-oklo-drop-5-173717296.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-20T17:37:17+00:00",
+      "amman": "20:37"
+    },
     {
       "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
       "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
@@ -13,44 +29,12 @@
       "amman": "20:30"
     },
     {
-      "title": "FuelCell Energy Sinks 8%, Bloom Energy Falls 3%, Plug Power Drops 3%: What’s Behind the Hydrogen Stock Selloff?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/fuelcell-energy-sinks-8-bloom-172250605.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-20T17:22:50+00:00",
-      "amman": "20:22"
-    },
-    {
       "title": "US Treasury buyback briefly eases bond rout, but debt worries persist",
       "url": "https://finance.yahoo.com/economy/policy/articles/bonds-bounce-us-buybacks-relief-040238251.html",
       "source": "Yahoo Finance",
       "direction": "down",
       "ts": "2026-08-20T17:19:29+00:00",
       "amman": "20:19"
-    },
-    {
-      "title": "A Rare U.S. Sales Miss for Walmart Is Concerning for the Economy. But It Could Also Prove to Be a \"Bad News Is Good News\" Event for the Fed.",
-      "url": "https://finance.yahoo.com/economy/articles/rare-u-sales-miss-walmart-171801056.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-20T17:18:01+00:00",
-      "amman": "20:18"
-    },
-    {
-      "title": "Liquidations hit highest level since Oct. 10 crypto market crash",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/liquidations-hit-highest-level-since-171751793.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-20T17:17:51+00:00",
-      "amman": "20:17"
-    },
-    {
-      "title": "Nebius Drops 4%, Cloudflare Falls 3%, Snowflake Slips: Are Financing Concerns Sinking AI-Cloud Stocks?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-drops-4-cloudflare-falls-171149294.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-20T17:11:49+00:00",
-      "amman": "20:11"
     },
     {
       "title": "Treasury's upsized buybacks may complicate Fed's monetary policy work",
@@ -107,14 +91,6 @@
       "direction": "neutral",
       "ts": "2026-08-20T16:06:49+00:00",
       "amman": "19:06"
-    },
-    {
-      "title": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan",
-      "url": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-20T15:40:00+00:00",
-      "amman": "18:40"
     },
     {
       "title": "Silver prices today, Thursday, August 20, 2026: Silver opens higher on Treasury’s news of increased debt buybacks",
@@ -363,6 +339,30 @@
       "direction": "neutral",
       "ts": "2026-08-20T02:08:37+00:00",
       "amman": "05:08"
+    },
+    {
+      "title": "سعر الذهب عيار 24 يسجل نحو 7276 جنيها للجرام.. هل يواصل الارتفاع؟",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPU1NrS1NvMGRtSW1DSVlHWVdtMmkxWjh5TGU3ZmduMHhhSmU0WUJSQnppMDlkeTdUSmZwbTNacWFUc0xzdzBsOWdKdkJhZmx2Q3B2c1JkYm9PLUVNeXJzMHBIb3BKVGsxYlZwVTFHSHZDVHlYWk1ueFlwcWM5NVF2c21kOWNOYnhEWjd3aXcwQWJCX3VoUHZhdFZkX3cwaVpfUFJQbnNxZWQtZ3NHUFZqX3ZwYWh0bW4tOFIybVlGb1lQbUc5SEMxeS03dVpPVTZIZXVYOXVPN2JMajBTZk1FZlpJNjBWUnlZb3ZFTm5RMmJtdHVEQlc3Ym5ERVFQa01wODZrNHBWM3JmLVpuTkNXeGR5TjB0b28wNmVtNVlTMHZYMlNfYTd5LW1LdWpyeF9BaGluNXNYTzl0U25ieGdxa3g2Z0R4Nk9nT243VjFUZnFuTkNNaHRidHM2bkdkRVhWa3MwQVlpOU9XUGxFd0HSAegCQVVfeXFMTnRjNk1fOGJIRVJaNVk4V0dQdng1Yl93T0ZJZFlja2FONENSWU5RZHVIbVpvbHJXcnd0alpCYnFuUzlmRlU3eXVJQVdLcE9QZVZEQk9rSFFZc0hGal8tS1p0eWZHWjJ4TFFpcVBtOGRENklSTU0xNk9fenFLQUY4d1l0QlpMM2FyQnBlTzc5d0VrVDhJaXdzNEJWRmxKTHFxY2Rsd2hlb0VyLTE5OFBuQjR0dHoweFBvS0xlUGtrUk1EQ3VuSzJESXVZdUgyS3dSTllXbGZ6UDBNSlVVTnM0MW5JakY1cVBiaVNsSDJ5OHNXYVFwRVRYWlFfUFFIeEZ5SUQwcDVxeUlXRGdvbHQ4R2hPRUZWVVFTVnpXdklMYTR0bkFaUXFDbktaSG93UjEyTENQeFlmNGdBS0NqOU85UTdWRm5mME9Fd1hDYWE4VjEwaXRRQ2lza05VcHdaejgzSWVpdTQ5TVV6?oc=5",
+      "source": "اليوم السابع",
+      "direction": "up",
+      "ts": "2026-08-20T02:00:00+00:00",
+      "amman": "05:00"
+    },
+    {
+      "title": "يؤدي ذلك إلى انخفاض الأسعار، وتعود الأموال إلى وول ستريت.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5taXljSFBhTGdGMHA2dWVZSkRoUXgzc0ZmNk1hTXc4by1jYnFxcm5xbk5UbUxFVkxMNVZidnRLNWVhWTVxejl1UUxNc0owdi1lbFlwRkpfT0NwOVF4X3ZEakVjbEx0S3RDWjNWOUNVZGlKSkk5?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "down",
+      "ts": "2026-08-20T01:52:16+00:00",
+      "amman": "04:52"
+    },
+    {
+      "title": "خطوة غير متوقعة من وزارة الخزانة الأمريكية تعزز أسهم وول ستريت.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1lERzZ0MGhtX1RZOG8xR1JvdXQ0QkRDTDlackg5cFl1VnhxUl9wUlZoYjFmV1JWVXMxeFRmTDEtRDE2NkFXUGNZU09MSklNTTZjSFRCcEltR0JURTl0OFlPeG9Ya1FPZFl0Vkp0MUh4OG9Cd1dpel9PYnZsOWhjSGRxYWVoOXBBMWxvYzdzYXJDWS1mRFMw?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-08-20T01:41:41+00:00",
+      "amman": "04:41"
     }
   ]
 }

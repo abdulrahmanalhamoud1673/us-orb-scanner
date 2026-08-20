@@ -1,9 +1,49 @@
 {
-  "updated_amman": "2026-08-20 17:58",
+  "updated_amman": "2026-08-20 18:30",
   "count": 45,
-  "up": 11,
+  "up": 12,
   "down": 8,
   "items": [
+    {
+      "title": "Bessent says Treasury buyback operation could be more than $4 billion",
+      "url": "https://www.cnbc.com/2026/08/20/bessent-says-treasury-buyback-operation-could-be-more-than-4-billion.html",
+      "source": "CNBC",
+      "direction": "neutral",
+      "ts": "2026-08-20T15:26:37+00:00",
+      "amman": "18:26"
+    },
+    {
+      "title": "Bessent suggests Treasury could intervene again in bond market: ‘We have a big tool kit’",
+      "url": "https://www.marketwatch.com/story/bessent-suggests-treasury-could-intervene-again-in-bond-market-we-have-a-big-tool-kit-358829e1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-20T15:25:00+00:00",
+      "amman": "18:25"
+    },
+    {
+      "title": "The energy market’s rising ‘crack spread’ is threatening to break the American consumer",
+      "url": "https://www.marketwatch.com/story/the-energy-markets-rising-crack-spread-is-threatening-to-break-the-american-consumer-90b421dc?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-20T15:22:00+00:00",
+      "amman": "18:22"
+    },
+    {
+      "title": "Scott Bessent’s Surprise Bond Buyback Sparks a Silver Rally. Is It Too Late to Buy In?",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/scott-bessent-surprise-bond-buyback-151753181.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-20T15:17:53+00:00",
+      "amman": "18:17"
+    },
+    {
+      "title": "Stock Market Today: Dow Falls 300 Points On 'Economic D-Day' Threat; These Energy Funds Rise (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-20T14:57:30+00:00",
+      "amman": "17:57"
+    },
     {
       "title": "More SpaceX stock is about to hit the market. Here’s what to know.",
       "url": "https://www.marketwatch.com/story/more-spacex-stock-is-about-to-hit-the-market-heres-what-to-know-789923d4?mod=mw_rss_topstories",
@@ -11,6 +51,14 @@
       "direction": "neutral",
       "ts": "2026-08-20T14:53:00+00:00",
       "amman": "17:53"
+    },
+    {
+      "title": "Bitcoin Could Extend Rally as ETF Inflows Hit $517M: Expert",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-could-extend-rally-etf-144800080.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-20T14:48:00+00:00",
+      "amman": "17:48"
     },
     {
       "title": "Bitcoin Price Spikes Above $72,000 On Treasury-Fueled Short Squeeze",
@@ -29,28 +77,12 @@
       "amman": "17:32"
     },
     {
-      "title": "Treasury Details Rules for Trump Account Investments",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026/card/treasury-details-rules-for-trump-account-investments-st5tKvklzLdTQyw8UUwu?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T14:32:20+00:00",
-      "amman": "17:32"
-    },
-    {
       "title": "SpaceX stock slips as 319 million new shares come to market",
       "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-slips-as-319-million-new-shares-come-to-market-143100875.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-20T14:31:00+00:00",
       "amman": "17:31"
-    },
-    {
-      "title": "Credo Is Up 71% This Year and Wall Street Just Raised Its Targets Again",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/credo-71-wall-street-just-143057491.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T14:30:57+00:00",
-      "amman": "17:30"
     },
     {
       "title": "Search and Cloud Strength Drive Alphabet’s (GOOG) Rally",
@@ -67,14 +99,6 @@
       "direction": "neutral",
       "ts": "2026-08-20T14:30:00+00:00",
       "amman": "17:30"
-    },
-    {
-      "title": "Moderna, Walmart, Coinbase, Deere, SpaceX, Tesla, Alibaba, and More Stocks That Explain Today’s Market",
-      "url": "https://www.barrons.com/articles/stock-movers-dee21e98?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T14:28:00+00:00",
-      "amman": "17:28"
     },
     {
       "title": "عاجل: وول ستريت تتراجع مجددًا مع صعود عوائد السندات.. وداو جونز يخسر 432 نقطة",
@@ -109,36 +133,12 @@
       "amman": "17:14"
     },
     {
-      "title": "Stock Market Today: Dow Falls On Trump's 'Economic D-Day' Threat; Energy Giant Breaks Out (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-trump-iran-threat-walmart-stock-wmt/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-20T14:06:37+00:00",
-      "amman": "17:06"
-    },
-    {
-      "title": "Stocks dip as bond yields and oil rise, Walmart earnings drag on retail: AlphaCheck",
-      "url": "https://finance.yahoo.com/markets/article/stocks-dip-as-bond-yields-and-oil-rise-walmart-earnings-drag-on-retail-alphacheck-140142173.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-20T14:01:42+00:00",
-      "amman": "17:01"
-    },
-    {
       "title": "داو جونز يخسر 400 نقطة متأثراً بارتفاع عوائد سندات الخزانة الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMiywVBVV95cUxOMl96TGNNelJfdkRHdEhBZVdTUUNFbFMwZlp0U2tnZ2xRU2FkNGtkWE5DS0c3TjE2N0lxTEp5MThwaGpwbWYwaDlnd01vMERCeDhtX2JpTnpWbFpZODJoQ3JxdjhfNHViazU3T2g2REdnOXo5T25oR0p4Qjc4M1hfR2Q3Smwtd1NCNklKSXNIdlFESmZNbi16eEpaNHhLYi02SjBBWXhtYjd2RDdzY3l2MklranVnd0ppRVUtb3BINmVQUkJYLUQ4d2pmeG92dnJzQlNGZnhfV3FPRGI5c3V4ZUpRSHR4SjlTc1ZrSUdRbUdnSmtHNzU0Q20wand4MlpsNjB0RVZUajFPbHJvOW5wVjJobE54OER2R1BWQTB2YVJuMXZiMTZIWko2TEgwTkt4aG9kX25nVjNLajRkVkdjdkhjb3BzX19nMWE5eS1rSGRVTG80bTJtQzZZLUFwb2NvdWUxbVlpa0lhcXhsZmVvODkxLWNudWxrV3dCRjVLWGdYaWw4TkFGMFBOMURUaUQwbG96UGVleHRNbTZLcklSY1pYTGZub0hIQWI4ZHVZc0JrZXJHZHZVNUZhaF91VlFRZ1Z4MzFZWm10S2hBcE5OYmh2bEZsS1Z2S3JwanVESTlRRk5PM0JvaXBpWGl1MWNmbW1famphWjk3Q1pwUWd4ZE1kM0pVbHFOTGZPQ3cySkdBbGJqVVphQ0FLMXFNMkxnb2FOQkw1NlBRdVl0bXgweF9kUEV6bjZSbXFGQVRPUHQ5YlVTeDRNeXVNWGNaTG5maGZfZ3VjWmlxLXoxWmJ1RXNhbUZTTXZUNmRaYVBBOTkxTXd1eC12cVFyY3R2cFVfY0FCTjFObmRPRFJOcHF5R3ZSeTl4azZIVGhyRjhCZW1JSVQtMTlmN0Q3Q284OHlQekV5a2J6b2NXMENQT1VtN0V6R0ZTWFk5T0Nr?oc=5",
       "source": "صحيفة الخليج",
       "direction": "up",
       "ts": "2026-08-20T14:00:41+00:00",
       "amman": "17:00"
-    },
-    {
-      "title": "Wall Street has an answer to 60/40 — this ETF crams 90/60 into the same dollar: One Big Investment Idea",
-      "url": "https://finance.yahoo.com/markets/article/wall-street-has-an-answer-to-6040--this-etf-crams-9060-into-the-same-dollar-one-big-investment-idea-135503448.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T13:55:03+00:00",
-      "amman": "16:55"
     },
     {
       "title": "بعد تخطيه 4500 دولار.. ما أسباب صعود الذهب وهل يواصل الارتفاع؟",
@@ -155,14 +155,6 @@
       "direction": "neutral",
       "ts": "2026-08-20T13:33:00+00:00",
       "amman": "16:33"
-    },
-    {
-      "title": "Want to bet on the bond rally? Check out these overlooked funds.",
-      "url": "https://www.marketwatch.com/story/want-to-bet-on-the-bond-rally-check-out-these-overlooked-funds-15e957a2?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "up",
-      "ts": "2026-08-20T12:38:00+00:00",
-      "amman": "15:38"
     },
     {
       "title": "وول ستريت تنهي سلسلة خسائر استمرت 3 جلسات.. والسندات والدولار يتراجعان بواسطة Arincen",
@@ -214,7 +206,7 @@
     },
     {
       "title": "ترامب يعرب عن استيائه من عدم خفض الفيدرالي للفائدة",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UcVZhenJWRWthcVRaSmxLOUd6VXFvczVqN296dF9rS1ZoeFltMExIbDFBSnlyczRZdndPT0lIWmxmQ1pUNWJCZTg3U0F0YlNrYU85bGhza0diUE5RYXBZUzBScndzNllCbXVZbmxR?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1UcVZhenJWRWthcVRaSmxLOUd6VXFvczVqN296dF9rS1ZoeFltMExIbDFBSnlyczRZdndPT0lIWmxmQ1pUNWJCZTg3U0F0YlNrYU85bGhza0diUE5RYXBZUzBScndzNllCbXVZbmxR0gFzQVVfeXFMTmdoaHloc2xuamYtLV9yZ2NRN0VQQmh4UnIxcVVVV1BXcHg2ajd2SmFxdmpnSXVxcktOQUNqT2NHLXNyT3dLdzhVVElpUm9YTENMOHpvVzNVdnMxMTZBTXFzZTRoYTRJTktSTzFRSU5rbDdySQ?oc=5",
       "source": "البيان",
       "direction": "neutral",
       "ts": "2026-08-20T10:22:00+00:00",
@@ -239,14 +231,6 @@
     {
       "title": "Scott Bessent just cried uncle on the bond market: Chart of the Day",
       "url": "https://finance.yahoo.com/markets/article/scott-bessent-just-cried-uncle-on-the-bond-market-chart-of-the-day-100000219.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-20T10:00:00+00:00",
-      "amman": "13:00"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Thursday, August 20, 2026: Small changes, but a big move up on the 5/1 ARM",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-thursday-august-20-2026-small-changes-but-a-big-move-up-on-the-51-arm-100000272.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-20T10:00:00+00:00",
@@ -363,6 +347,22 @@
       "direction": "down",
       "ts": "2026-08-20T01:52:16+00:00",
       "amman": "04:52"
+    },
+    {
+      "title": "خطوة غير متوقعة من وزارة الخزانة الأمريكية تعزز أسهم وول ستريت.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOY1lERzZ0MGhtX1RZOG8xR1JvdXQ0QkRDTDlackg5cFl1VnhxUl9wUlZoYjFmV1JWVXMxeFRmTDEtRDE2NkFXUGNZU09MSklNTTZjSFRCcEltR0JURTl0OFlPeG9Ya1FPZFl0Vkp0MUh4OG9Cd1dpel9PYnZsOWhjSGRxYWVoOXBBMWxvYzdzYXJDWS1mRFMw?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-08-20T01:41:41+00:00",
+      "amman": "04:41"
+    },
+    {
+      "title": "انتعاش وول ستريت، وارتفاع أسهم شركة موديرنا.",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DSkZlVWJRakR2ajQwOE9EMHVlM0UyRTAyQWMzLWJCYnR4aFRnOHV2NmhNRDBTOTVjUmNfdzZOYVBfUFVVWW5mby1WeHYyMjhQNDNSVGFTalMyeTNURmFlaFBNQzhpZ1FrbVJnRXFINmJlYkJYcGhrMHlR?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "up",
+      "ts": "2026-08-20T01:06:18+00:00",
+      "amman": "04:06"
     }
   ]
 }

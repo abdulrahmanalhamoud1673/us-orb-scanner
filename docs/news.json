@@ -1,6 +1,6 @@
 {
-  "updated_amman": "2026-08-22 00:55",
-  "count": 27,
+  "updated_amman": "2026-08-22 01:11",
+  "count": 26,
   "up": 3,
   "down": 5,
   "items": [
@@ -19,14 +19,6 @@
       "direction": "neutral",
       "ts": "2026-08-21T20:11:00+00:00",
       "amman": "23:11"
-    },
-    {
-      "title": "🔴 مؤشر داو جونز يقفز 500 نقطة.. لكن المؤشرات الأميركية تسجل خسائر أسبوعية",
-      "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOWVVoMHliRjJUMmRadDYxa3h6OTFMREFxcEk4a19JWTVTTWRvNmFzRTRWcmYzWV9KM3Q2aUdnOUJtLWNBZTc5LTVhTjVlRm5aME9faGJ6Q0pZN2lzYnZUUUxnMWVqdG5YVWVuSVpuZ0JkY3lja2tNQ0pJMG9uYjZiUk9rdFhWd2FuZU0taVktY1R1WEJnRTdsbkc0cUlSOXhMSTJVaU1lZWQ3N3ZqZzN5bHdXUmdORGozTmJDMnJOUTZCdUc3T1NwaHhoYXU5ck9pZzQ0M2tHRS1ucldxOUFwZGJvQkJRcndWU2FKSVFrOGpHSGJpWGdybTNZNjJnLURxWHcwUmhJMVFHWHBKZ0VJRWVOaFdXOUFFbnJWV29lQ0lJUmNBT2JkNXhtX0tvSHNUT1RiUm5BSzJjUV9Ud2UtRnIyVlZZbFlzYk56Q0h4YlZWNWtCUW9paWxGeU9ON0tZU2lRSGFxYUNKRUZHdGpub3hZRXlEMnBoRElOTTJXTlR4eldZYXd6ZHdzb09ISEhUbF9TOXQ2VW03aWt3bUg2cWxqS3lVZWNRODd5ZlcyZ0YzcGNtZDBsazZjVHVEa0M3OFhmSjBLVU5OWkNONVcydmlFdzF0U2F0QXhvRHhwcnpCcXUtcDdObHRiZDJJVWxuZThaTmR0cV9xZTJNZkN3S3R1NFQ4Y0pkVmN5QmQxNmtkeGVkSXAyeXlMWC1sTFY0b1VVTXJnUjlVRXFSOXpPLTVyd1ZSN3M?oc=5",
-      "source": "CNBC عربية",
-      "direction": "down",
-      "ts": "2026-08-21T20:09:43+00:00",
-      "amman": "23:09"
     },
     {
       "title": "ارتفاع مؤشرات الأسهم الأمريكية عند افتتاح جلسة الجمعة",
@@ -93,6 +85,14 @@
       "amman": "17:00"
     },
     {
+      "title": "🔴 مؤشر داو جونز يقفز 500 نقطة.. لكن المؤشرات الأميركية تسجل خسائر أسبوعية",
+      "url": "https://news.google.com/rss/articles/CBMitwRBVV95cUxOWVVoMHliRjJUMmRadDYxa3h6OTFMREFxcEk4a19JWTVTTWRvNmFzRTRWcmYzWV9KM3Q2aUdnOUJtLWNBZTc5LTVhTjVlRm5aME9faGJ6Q0pZN2lzYnZUUUxnMWVqdG5YVWVuSVpuZ0JkY3lja2tNQ0pJMG9uYjZiUk9rdFhWd2FuZU0taVktY1R1WEJnRTdsbkc0cUlSOXhMSTJVaU1lZWQ3N3ZqZzN5bHdXUmdORGozTmJDMnJOUTZCdUc3T1NwaHhoYXU5ck9pZzQ0M2tHRS1ucldxOUFwZGJvQkJRcndWU2FKSVFrOGpHSGJpWGdybTNZNjJnLURxWHcwUmhJMVFHWHBKZ0VJRWVOaFdXOUFFbnJWV29lQ0lJUmNBT2JkNXhtX0tvSHNUT1RiUm5BSzJjUV9Ud2UtRnIyVlZZbFlzYk56Q0h4YlZWNWtCUW9paWxGeU9ON0tZU2lRSGFxYUNKRUZHdGpub3hZRXlEMnBoRElOTTJXTlR4eldZYXd6ZHdzb09ISEhUbF9TOXQ2VW03aWt3bUg2cWxqS3lVZWNRODd5ZlcyZ0YzcGNtZDBsazZjVHVEa0M3OFhmSjBLVU5OWkNONVcydmlFdzF0U2F0QXhvRHhwcnpCcXUtcDdObHRiZDJJVWxuZThaTmR0cV9xZTJNZkN3S3R1NFQ4Y0pkVmN5QmQxNmtkeGVkSXAyeXlMWC1sTFY0b1VVTXJnUjlVRXFSOXpPLTVyd1ZSN3M?oc=5",
+      "source": "CNBC عربية",
+      "direction": "down",
+      "ts": "2026-08-21T13:45:10+00:00",
+      "amman": "16:45"
+    },
+    {
       "title": "انخفض الدولار الأمريكي إلى أدنى مستوى له في ثلاثة أشهر.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA2R3BfMnB2TVZwNktMeV96dVJEVXdPNUpVcXRYVTg4ZmdlWFNWc0RoN2dZN0h0NFVMcDM0M0dxRUhWSWVLOTFHeDV1WERKQWdVcHBObFpzRVJPRHRJaVpMS3JpcFlpZXVLRUpEZzQ5QnhINGNYcEE?oc=5",
       "source": "Vietnam.vn",
@@ -115,14 +115,6 @@
       "direction": "neutral",
       "ts": "2026-08-21T11:14:57+00:00",
       "amman": "14:14"
-    },
-    {
-      "title": "Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-21T10:00:00+00:00",
-      "amman": "13:00"
     },
     {
       "title": "Here are three key takeaways from the disappointing July jobs report",

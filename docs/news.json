@@ -1,7 +1,7 @@
 {
-  "updated_amman": "2026-08-22 00:37",
-  "count": 28,
-  "up": 4,
+  "updated_amman": "2026-08-22 00:55",
+  "count": 27,
+  "up": 3,
   "down": 5,
   "items": [
     {
@@ -27,14 +27,6 @@
       "direction": "down",
       "ts": "2026-08-21T20:09:43+00:00",
       "amman": "23:09"
-    },
-    {
-      "title": "محللون لـ أرقام: تثبيت الفائدة الأقرب في أول اجتماع بقيادة وارش.. والتضخم يُبقي التشديد مطروحاً",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VcEU1QXVlRU41UlM1b2dEZExJZWlSc3pKOEhVMEFBVWxmNHM1cXJMM1JDaU9DYnhEVTBnTk9SdzFpSXc0VUM2LUtLU1QxWlNmd0pLdERnYU1FMnJtczgzQzF4d1doUnZhcXc?oc=5",
-      "source": "ارقام",
-      "direction": "neutral",
-      "ts": "2026-08-21T20:02:21+00:00",
-      "amman": "23:02"
     },
     {
       "title": "ارتفاع مؤشرات الأسهم الأمريكية عند افتتاح جلسة الجمعة",
@@ -91,14 +83,6 @@
       "direction": "neutral",
       "ts": "2026-08-21T16:37:58+00:00",
       "amman": "19:37"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-21T16:16:33+00:00",
-      "amman": "19:16"
     },
     {
       "title": "«وول ستريت» تنتعش متعافية من «تداعيات ارتفاع السندات»",
@@ -179,6 +163,14 @@
       "direction": "neutral",
       "ts": "2026-08-21T06:05:01+00:00",
       "amman": "09:05"
+    },
+    {
+      "title": "محللون لـ أرقام: تثبيت الفائدة الأقرب في أول اجتماع بقيادة وارش.. والتضخم يُبقي التشديد مطروحاً",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VcEU1QXVlRU41UlM1b2dEZExJZWlSc3pKOEhVMEFBVWxmNHM1cXJMM1JDaU9DYnhEVTBnTk9SdzFpSXc0VUM2LUtLU1QxWlNmd0pLdERnYU1FMnJtczgzQzF4d1doUnZhcXc?oc=5",
+      "source": "ارقام",
+      "direction": "neutral",
+      "ts": "2026-08-21T05:29:21+00:00",
+      "amman": "08:29"
     },
     {
       "title": "الذهب يرتفع مع تراجع عوائد سندات الخزانة وترقب محضر «الفيدرالي»",

@@ -1,9 +1,57 @@
 {
-  "updated_amman": "2026-08-21 16:42",
-  "count": 41,
-  "up": 5,
-  "down": 6,
+  "updated_amman": "2026-08-21 17:17",
+  "count": 45,
+  "up": 8,
+  "down": 8,
   "items": [
+    {
+      "title": "Dollar near three-month low on Treasury buyback worries",
+      "url": "https://finance.yahoo.com/markets/currencies/articles/dollar-falls-as-investors-weigh-us-treasurys-rescue-efforts-053406923.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-21T14:10:57+00:00",
+      "amman": "17:10"
+    },
+    {
+      "title": "UBS lifts UK earnings forecast but keeps market at neutral",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-lifts-uk-earnings-forecast-140300299.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-21T14:03:00+00:00",
+      "amman": "17:03"
+    },
+    {
+      "title": "Bitcoin Rally Tops $79,000. Crypto Shorts, ETF Flows Soar. CFTC Explores Crypto Rules.",
+      "url": "https://www.investors.com/news/bitcoin-price-3-month-high-79000-treasury-bonds-short-squeeze-bitcoin-etfs-crypto-stocks/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-21T14:00:37+00:00",
+      "amman": "17:00"
+    },
+    {
+      "title": "«وول ستريت» تنتعش متعافية من «تداعيات ارتفاع السندات»",
+      "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxQemJzakdEWng5cUxVRDQ2ZTZhRFh3c08zTnJBZzgtZktZYjQxTzZXSWdhb3piS3hHRFY0MWdyN3BZNWFRSGFnVXJoT3VWdGJ4NElXN1l4N3JKRDNCbW16RnNMTExaN2xfWEU4MUN1dkYwNlc2RTVzVkQzNS1scFU3WUllc3c3RjRfQmw1M2JkSUtRYk04QXVFVENoUkxOOVZEM2k3cjhjWWptQ1lBZGZBVWJ2T0NkVFpJT0hqVVBtbnY3Q01YZDBjbzJqczBTVVhTRjhKLUZLTDB3R1JCcXh1YmpNS1hoekE2WUJPSVIxLU40Ny03ak9vc2VHUVBhWTJMd1F6Y3c4SmRkNm9IMWRETXQweFVEdlNGVmgyRTBfMzJiMVVDbUg4eXp3UEd6SlhnY3JOUGFQeFBjOHZHdFV2YlpOWTFLYjBwaC1kVXhESml3c0NfOTc5ZWF1WXhOb3AyS0hyOWxoWWUxdnZlN1BTc0pXZ1o4R1RvUWhSQWM0Y0NZajl0ZlBTZkZVRVdhWnZQLVRGQ0Z5NUs1ZkxDVmJvYzVKMS1tOWVaZW1sbG1xSkJfUWo1OUJIWmR0MS1IZTZNR2VMT1djdFdGXzlIa0hSdzFIaHhTMFBFUW1YejVob3pjd1YzNl9KUWJ5MXBEdXJ5R0NYVU1rVHJVcHRrN1BQLTVfUmM1S0I0aEN2OXJRM2Iwd2ZRX2U2UlhobjhzOVNxV2dPUmVVRThtV2xDdU12azd4UWF2dVRCc1ZiQk1ieVdnQmNxdkViN0l0VHVadmdPNElUYmVFcnJSMVI0YkxkRlEzaw?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "up",
+      "ts": "2026-08-21T14:00:34+00:00",
+      "amman": "17:00"
+    },
+    {
+      "title": "Stocks trade higher, lifted by crypto, commodities: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/stocks-trade-higher-lifted-by-crypto-commodities-alphacheck-135720189.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-21T13:57:20+00:00",
+      "amman": "16:57"
+    },
+    {
+      "title": "Stock Market Today: Dow Rebounding From Sell-Off; Bitcoin Surges Near $77K (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-21T13:51:45+00:00",
+      "amman": "16:51"
+    },
     {
       "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
       "url": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
@@ -37,20 +85,20 @@
       "amman": "14:14"
     },
     {
-      "title": "Hedge funds are doubling down on megacap tech stocks after summer volatility triggers massive portfolio cleanup",
-      "url": "https://www.marketwatch.com/story/hedge-funds-are-doubling-down-on-big-tech-even-after-summer-volatility-triggered-a-massive-portfolio-cleanup-57dbbf8a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-21T09:11:00+00:00",
-      "amman": "12:11"
-    },
-    {
       "title": "Here are three key takeaways from the disappointing July jobs report",
       "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
       "source": "CNBC",
       "direction": "neutral",
       "ts": "2026-08-21T08:36:07+00:00",
       "amman": "11:36"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-21T08:05:33+00:00",
+      "amman": "11:05"
     },
     {
       "title": "المستثمرون يقلصون توقعاتهم بشأن رفع أسعار الفائدة في أمريكا وبريطانيا",
@@ -163,6 +211,14 @@
       "direction": "down",
       "ts": "2026-08-20T23:46:00+00:00",
       "amman": "02:46"
+    },
+    {
+      "title": "وول ستريت تتراجع.. عوائد السندات ونتائج وول مارت تضغط على الأسهم",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQRTd2WVdWMGNNNVhiSVNibF9abi15ME1FYjB4TzVxdTJTTTZCdl84cHhCdUpWN3MtbGhVZERwV25xMTFYWERoU3hyRnpEdkdZanNOOVRocWRoY04zTUExRTVCcmJmTjE2Wkphd3ZEV21DTzc4amNZaTdCRjNoTm1lRURjWjRhTWUzVmhZU0RMbmdraERpUGQwd3ZYYWlYZWM3WlZUem8wSTVsQTRYS28yZVdMRF84LUxhekpCRk5GNnNHRnZ0NHoxOGhCT2owQ1R4dkRxeFdocG4yMmFaU2twUnhNWDhuQldYQXAwNzNUdjBuUUN5c2NqU3lrdHRYak54cHgySGk2Vkd0Yl8yRGZHT3dRTXNlTVU5WG4yQ3NTMGsyclV2c3RmWGUySEtpcGlqdWxlQzZIZXIwYy1lWlh2MzdVNVNRaWxINkxnU1V4Um95aTN5eGQ5dnRR?oc=5",
+      "source": "صحيفة الوئام",
+      "direction": "down",
+      "ts": "2026-08-20T22:23:55+00:00",
+      "amman": "01:23"
     },
     {
       "title": "وول ستريت تغلق على خسائر حادة بعد فشل تدخل الخزانة الأمريكية في تهدئة سوق السندات",
@@ -301,36 +357,12 @@
       "amman": "18:29"
     },
     {
-      "title": "لماذا قرر البنك المركزي تثبيت سعر الفائدة؟",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwUlN4VW00U2QyTS1vU2pCelZ3ck51STBaZUdOTmdsZDJvMWFodzRpbUUtU2tGQ0R3YjJMeUM5SnRvRUp5Nm9DcU9FSm9WbXZYdVlVdVFrWV9UbllpbTRR?oc=5",
-      "source": "المصري اليوم",
-      "direction": "neutral",
-      "ts": "2026-08-20T15:28:00+00:00",
-      "amman": "18:28"
-    },
-    {
       "title": "داو جونز يخسر 400 نقطة متأثراً بارتفاع عوائد سندات الخزانة الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMiywVBVV95cUxOMl96TGNNelJfdkRHdEhBZVdTUUNFbFMwZlp0U2tnZ2xRU2FkNGtkWE5DS0c3TjE2N0lxTEp5MThwaGpwbWYwaDlnd01vMERCeDhtX2JpTnpWbFpZODJoQ3JxdjhfNHViazU3T2g2REdnOXo5T25oR0p4Qjc4M1hfR2Q3Smwtd1NCNklKSXNIdlFESmZNbi16eEpaNHhLYi02SjBBWXhtYjd2RDdzY3l2MklranVnd0ppRVUtb3BINmVQUkJYLUQ4d2pmeG92dnJzQlNGZnhfV3FPRGI5c3V4ZUpRSHR4SjlTc1ZrSUdRbUdnSmtHNzU0Q20wand4MlpsNjB0RVZUajFPbHJvOW5wVjJobE54OER2R1BWQTB2YVJuMXZiMTZIWko2TEgwTkt4aG9kX25nVjNLajRkVkdjdkhjb3BzX19nMWE5eS1rSGRVTG80bTJtQzZZLUFwb2NvdWUxbVlpa0lhcXhsZmVvODkxLWNudWxrV3dCRjVLWGdYaWw4TkFGMFBOMURUaUQwbG96UGVleHRNbTZLcklSY1pYTGZub0hIQWI4ZHVZc0JrZXJHZHZVNUZhaF91VlFRZ1Z4MzFZWm10S2hBcE5OYmh2bEZsS1Z2S3JwanVESTlRRk5PM0JvaXBpWGl1MWNmbW1famphWjk3Q1pwUWd4ZE1kM0pVbHFOTGZPQ3cySkdBbGJqVVphQ0FLMXFNMkxnb2FOQkw1NlBRdVl0bXgweF9kUEV6bjZSbXFGQVRPUHQ5YlVTeDRNeXVNWGNaTG5maGZfZ3VjWmlxLXoxWmJ1RXNhbUZTTXZUNmRaYVBBOTkxTXd1eC12cVFyY3R2cFVfY0FCTjFObmRPRFJOcHF5R3ZSeTl4azZIVGhyRjhCZW1JSVQtMTlmN0Q3Q284OHlQekV5a2J6b2NXMENQT1VtN0V6R0ZTWFk5T0Nr?oc=5",
       "source": "صحيفة الخليج",
       "direction": "up",
       "ts": "2026-08-20T15:24:15+00:00",
       "amman": "18:24"
-    },
-    {
-      "title": "عاجل: وول ستريت تتراجع مجددًا مع صعود عوائد السندات.. وداو جونز يخسر 432 نقطة",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uSVF1allIcTdZNjJGOTI0dWIxNVRrYVFIM0g0ODdYSzFyMU5IdnlYT3pSZnZzVjdZbW03WDBuV3FKZ2tUR0J6bEVOdnU1UGtMeHNJYW5mNFlycm56ekwtRHpuSlVydW9yQVBoSWNtT3A?oc=5",
-      "source": "Investing.com",
-      "direction": "neutral",
-      "ts": "2026-08-20T14:20:00+00:00",
-      "amman": "17:20"
-    },
-    {
-      "title": "بعد تخطيه 4500 دولار.. ما أسباب صعود الذهب وهل يواصل الارتفاع؟",
-      "url": "https://news.google.com/rss/articles/CBMi8wNBVV95cUxQRUNuUll6cFpJTXNwek9uNUJUOFpfWThURjYzZFltMkJ0TkRVcGhTN3FIa3ZWM0xFQnplLU9pMEpfT01FTUVwa1dJVS1WNldQMGp6ZDRJSjJXeEx5NVF4dTlvSjF1dE9tUlhxSTFMeThKMF9pY0dvc09WSmtiVGhRQzdPNkJjNDJ1bk94Z3BUM2p1Y19YOE5TckJfYVpBYTBQWklLS2RzaTN3MTA0ejAxbzVuZjBuajFBeG1hcEFJNmt3RTlDYXhjcjFuOXpZb3NHSkFDOGhCc244V1NpdnlSMGQyTVhtcGhyX09RaWMzN1AxRUU0NVdlMGJtV3BqZjZVemRQeVdadGtfQ0xaRC1FSV9KRzlJNmtQV0dlZjQyM3dXcl9zLWQ5b1pwNG5HNGs0VmJuWDRHcW1zLXEycDBkbG43MUJLVTlnZldKN3pySDNoX095MW1FX0k3VEZXZFVsb1d6ZXVkRmNpRkt3a25EMV9va1ZPYTZkMmdzUi1KZ1lscm1TLVVQZ25OLWFOb05xLTVmUmVTeWZHLTJMMW1ySFVuVFBJTFpvR3RYMWdiSGh6TTdHeERwTnZSb2NTQnJaR1JndFIwZzdlRXJxX1FIOUthOFVwOGZnb3dYZzQ4ZlVsZ0VvdUxRZkFlNW93aFJXYm1z0gH4A0FVX3lxTFBZZzBNUWJKWFRLbmFEdldtTTQxYmx6WDJVWmlqbGFHYlNJN3k2TC0yd1VBMm15M3RMWjc0WHp0RDVUYUw0UnZUakRiQ3VWcjJ5ZkJtUDAtSHpZVEg1bVJSYnZCaF80T2hqTTBWRk95WkI2cUdYQ0E4VlRqbDdBMTdaQUpjYXE1UWpHQjdwekctdTVIZGhWRnl6XzNGTmlNX3hYNWZMMXpqQ1ZBVmtFUXJacHRKdTh6VlUzcEt5VDJjTWVENktON2puY2QyRU1OZ3JMUVA4N29veGFjeUo2S1RIOUZielMzeXhjNTZFUHJyQXdyU29TNDVTVUtQZkNNV3NmR3B3UVZrbnZWZHdLb2FzZHoybkpNSUk5LWkxWUxyQ2tKR3lmaTZoQ3JZcnJtT0FxOFU3T2UxbFBuWktocnUxQW1tYXlvY3pQRmZmMmstbVg4UHNleHNKeDNqWkdKYmdEcGF2MmVRLU9nODE5bS1rTDRRQ1BHaU1CWnZmeFdIY0oyRDhXalVnN1lyNmtTNzZqMjY5QnFwY1ltYkUwN2ViZlBEVFdNNDRoelpSNUJMNC1kQVpBcU5BeXZDNVFaQVFuc1VWOHVlTEZ5ay1ua1hfRzg3cjNpX3NIeGo5LW1PQjAyRWZjQzFUVUR5WllzX0x5ZzFFUWlyTQ?oc=5",
-      "source": "Masrawy",
-      "direction": "up",
-      "ts": "2026-08-20T13:50:23+00:00",
-      "amman": "16:50"
     }
   ]
 }

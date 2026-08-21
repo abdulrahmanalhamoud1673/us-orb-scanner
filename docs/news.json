@@ -1,9 +1,17 @@
 {
-  "updated_amman": "2026-08-21 20:46",
-  "count": 38,
-  "up": 8,
-  "down": 4,
+  "updated_amman": "2026-08-21 21:04",
+  "count": 28,
+  "up": 3,
+  "down": 5,
   "items": [
+    {
+      "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
+      "url": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
+      "source": "CNBC",
+      "direction": "down",
+      "ts": "2026-08-21T17:51:10+00:00",
+      "amman": "20:51"
+    },
     {
       "title": "مؤشرات الأسهم الأمريكية تستهل تعاملاتها على ارتفاع",
       "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOaW04TldSLXhVUEQ1R0tsY0hsQ2pxbnFSaGxrMjAtZERYVGFDcGw0MXhJdENza2QtM3lYNzRPOEs3RHRQUE0ycldncUo5QTQ5YzB4cWNUYW9SVnR2V1N0eU1URjQzQ3R0TXBFcnBzMmREYkFXdWtpaGFsQS13TjlLYjMxeVZkY08wTV9La25pclN2dXBaUlIxT1ZDc3Rnek9Ua2Vld0o4M2JVa1hrVDFld1JqUi02Q1VJdnNhVTMxaU1jcGxlVndPOHJBTnp1U0pJaU9BYXhjWDdpbGdaZzJuSGozbVhWTWM5bXQtRENRVWFkQXVoS250STVmcjRPTmJIZ1JSSFdtdEg4SGkweFVyaXZBMzlxN096OENZZ0pSWVlLMkJuV0lCZFpvUllKaGFUazU5RlZPd1gxUXZEckwzelhJQURoOUxaLTdfdTNnOTlYZ3ZsWFdNbGgtYUZtSWJIXzcyX1ZxRUNiQjhPMm9VN2t5eUNnX0ZkVWs5OTdKbHM1M01TZzNoOGhQQy1mNGlKcm0tci1JS0VQdW5zbjZGdjF6bFl2SV9DOUVNZVhmbzdKNFkxTDVKbjRCTmZCempmOV9YOXNLUQ?oc=5",
@@ -11,22 +19,6 @@
       "direction": "up",
       "ts": "2026-08-21T17:42:44+00:00",
       "amman": "20:42"
-    },
-    {
-      "title": "Infleqtion Soars 10%, Rigetti Jumps 9%, IonQ Climbs 7%: What’s Driving Quantum Computing Stocks Now?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/infleqtion-soars-10-rigetti-jumps-172842078.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-21T17:28:42+00:00",
-      "amman": "20:28"
-    },
-    {
-      "title": "Bond yields head higher again, giving back almost all gains since Treasury Department intervention",
-      "url": "https://finance.yahoo.com/markets/article/bond-yields-head-higher-again-giving-back-almost-all-gains-since-treasury-department-intervention-165921301.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-21T16:59:21+00:00",
-      "amman": "19:59"
     },
     {
       "title": "The U.S. and Canada are scrambling to avoid new tariffs and seal a trade deal. Here’s what could be in it.",
@@ -45,44 +37,12 @@
       "amman": "19:27"
     },
     {
-      "title": "Global stocks close out a tough week as bond yields, oil stay high",
-      "url": "https://finance.yahoo.com/news/asia-shares-downbeat-week-bond-012255911.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-21T16:17:20+00:00",
-      "amman": "19:17"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-21T16:16:33+00:00",
-      "amman": "19:16"
-    },
-    {
       "title": "States are coming after prediction markets — and setting up a costly legal battle over who gets to regulate them",
       "url": "https://www.marketwatch.com/story/states-are-coming-after-prediction-markets-and-setting-up-a-costly-legal-battle-over-who-gets-to-regulate-them-f9ab9a37?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "direction": "neutral",
       "ts": "2026-08-21T16:14:00+00:00",
       "amman": "19:14"
-    },
-    {
-      "title": "Stock Market Today: Dow Jumps After Sell-Off; Bitcoin Tops $77,000; Gold Miners Shine (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-21T16:11:37+00:00",
-      "amman": "19:11"
-    },
-    {
-      "title": "Three Biotech Stocks Stick Out With Their Stellar Charts",
-      "url": "https://www.investors.com/stock-lists/ibd-50/biotech-stocks-drug-eton-pharmaceuticals-travere-therapeutics-kiniksa-tvtx-knsa/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-21T16:09:12+00:00",
-      "amman": "19:09"
     },
     {
       "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
@@ -125,28 +85,12 @@
       "amman": "14:14"
     },
     {
-      "title": "Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-21T10:00:00+00:00",
-      "amman": "13:00"
-    },
-    {
       "title": "Here are three key takeaways from the disappointing July jobs report",
       "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
       "source": "CNBC",
       "direction": "neutral",
       "ts": "2026-08-21T08:36:07+00:00",
       "amman": "11:36"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-21T08:05:33+00:00",
-      "amman": "11:05"
     },
     {
       "title": "المستثمرون يقلصون توقعاتهم بشأن رفع أسعار الفائدة في أمريكا وبريطانيا",
@@ -163,14 +107,6 @@
       "direction": "neutral",
       "ts": "2026-08-21T07:10:00+00:00",
       "amman": "10:10"
-    },
-    {
-      "title": "يتوخى الاحتياطي الفيدرالي الحذر إزاء تحرك وزارة الخزانة للتدخل في سوق السندات.",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORWlpdjVEdkR1VnpsZW16NElDSjRaZ3puYWpzOWo2Q1hJWDlqU0dLVlVWSkJZS1JEOXlGUnpHakVDcUxyMlVaN2tWVXJhX2l1dEJxbHRfVHZFRmlNSTRmNV8wUllfNnEwdF9TX00tOXExSHd4OWtjZDhnc18xQ2dBRDV2WGFmV3pEaXpIU2toOW9sd0pZdWkweDB5VDZRWG9ZMVVTTklCT0o?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-21T06:58:10+00:00",
-      "amman": "09:58"
     },
     {
       "title": "أسعار الذهب ترتفع 40 دولارًا وتتجه إلى تحقيق مكاسب أسبوعية - الطاقة",
@@ -205,14 +141,6 @@
       "amman": "08:00"
     },
     {
-      "title": "أسعار الذهب ترتفع بشكل كبير، هل هي على وشك الوصول إلى ذروة جديدة أم ستنهار مرة أخرى؟",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeGZZRi1UNUlhMzVoYmRtdC1OUC1teGx1a3VtSjJVUXUxNWRFZW9vd2xIdHVlWnFZX3hWR2ZldmhCOThidjFhOUxGVDlITVBTbEJMM3dKaXVEdVBtN09iZXFrU3JSVnZnZmJnMGlHS1RoNktSS3hLUGRyWFE0dmJsYVFGWnRVZVpoZVE?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-21T04:33:42+00:00",
-      "amman": "07:33"
-    },
-    {
       "title": "وزارة الخزانة الأمريكية تعيد شراء السندات، فما هو رد فعل الاحتياطي الفيدرالي؟",
       "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxQTERUeXZTQmRmQVluell4ZmZHMVJQUFQ0RXcwWGFMQjZRak03UEg3b1ZkY1FSN0VieE5XZE5VazdtbTk5X0lsZUhfeE9CYWV5M0V6eUZyVURaZG9neF9qYnlNRW5qelYxT1UwcGN6eGpXbmsxLS1qMFhRVjNDdjdITUhEdTlFQXkzYmNkTllSaUV2d0dWWDhOeDB5SkdteGNuMW5aVmFLWUdRdnRVVXNzOHdIVEN1R2pBdjN2WEhERlRiWHpHclRaM0M0aGg5R0ZKaXREam5RcUt0V0RWWmYteWhmTVgtMEFxUV9OR3BKWnVjMHd5dGNxWHpWTnBGaFg4QXZEYzJ5Qm9PYlhKMGVNel9fSmFaZWx1VGNMZW05bTdvRDN0SDF4YlI5ZDVTakhCMHV4RHVOSGpsMVNUVTRjQkMwNHh0b21UWWhpMlI4RnZuamVuODMtTW0zbEhVenJoVXMzVV94Ymk1ZGJGSlowNVhMT2FrdGdGNDlyYVBtQzBNWWVsbFRoQWVnS2ZaSHpCWndfcU9Mb1RlOUdEbDZmY0U5Zkduc1NRNi1UVC1EWmVsb0haSmt0WnlVNWFnR3NoUWdyRDgzTDE2UVVWa054SElPVUdLUHRNbzNYN192TDdoWlNGbHpkaG9DSEEwZzBKSE80WlZtRXQzODl4aWFXYmIteDZON1F6NTJvVVZQSEtRU0luWDRnU3BUVF9PYUllcXZaSjhFTnVpZldybmp1X3BRbFE5M2FjRmRMXzlYc2ZfcUtGR05sQm9WWWpvVmtOcXVKQmFfT3d6UWpIM0lTYWpGcWFPQQ?oc=5",
       "source": "idnfinancials.com",
@@ -235,14 +163,6 @@
       "direction": "neutral",
       "ts": "2026-08-21T01:46:42+00:00",
       "amman": "04:46"
-    },
-    {
-      "title": "سعر صرف الدولار الأمريكي اليوم، 21 أغسطس: أسعار الفائدة المصرفية لا تزال مستقرة، ولم يتجاوز الدولار الأمريكي أدنى مستوياته بعد.",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeTNrcWJvMGREbHBqREpzeFdBdlVScnZzWFNGc3lNV0d4bURIY3RMc3VCaFpJWEs1dGYxVHZxRmVYbmQtUWYxM3o4NEdSU2dRUXQ1aHNMNklFV09xM1BYQkNrU21zWjVvakFGTFVfbng5eE81QWhTZk94QmtnYUdvTXYwemJfZGU1Nk5kR2dpemtUYk9weVJ1UnBvZndnTjFaYWc?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-21T00:47:54+00:00",
-      "amman": "03:47"
     },
     {
       "title": "عقود الأسهم الأمريكية ترتفع طفيفاً بعد تراجع وول ستريت جراء صعود عوائد سندات الخزانة",

@@ -1,9 +1,65 @@
 {
-  "updated_amman": "2026-08-21 19:16",
-  "count": 16,
-  "up": 4,
+  "updated_amman": "2026-08-21 19:53",
+  "count": 19,
+  "up": 6,
   "down": 0,
   "items": [
+    {
+      "title": "The U.S. and Canada are scrambling to avoid new tariffs and seal a trade deal. Here’s what could be in it.",
+      "url": "https://www.marketwatch.com/story/the-u-s-and-canada-are-scrambling-to-avoid-new-tariffs-and-seal-a-trade-deal-heres-what-could-be-in-it-f01dd61c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-21T16:38:00+00:00",
+      "amman": "19:38"
+    },
+    {
+      "title": "With Bitcoin Rallying, Strategy (MSTR) Just Flipped From a $13 Billion Loss to a $1.4 Billion Gain. Should Investors Buy the Rally?",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-rallying-strategy-mstr-just-163402643.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-21T16:34:02+00:00",
+      "amman": "19:34"
+    },
+    {
+      "title": "Wall Street Says Nebius Group ARR Can 10X in 4 Years",
+      "url": "https://finance.yahoo.com/technology/ai/articles/wall-street-says-nebius-group-163040492.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-21T16:30:40+00:00",
+      "amman": "19:30"
+    },
+    {
+      "title": "One Wall Street Analyst Thinks SoFi Stock Could Jump 20%. Here’s Why.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/one-wall-street-analyst-thinks-163036443.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-21T16:30:36+00:00",
+      "amman": "19:30"
+    },
+    {
+      "title": "6 AI hardware stocks to own for the remainder of the year, according to an analyst",
+      "url": "https://www.marketwatch.com/story/6-ai-hardware-stocks-to-own-for-the-remainder-of-the-year-according-to-an-analyst-ec0bad4e?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-21T16:27:00+00:00",
+      "amman": "19:27"
+    },
+    {
+      "title": "Global stocks close out a tough week as bond yields, oil stay high",
+      "url": "https://finance.yahoo.com/news/asia-shares-downbeat-week-bond-012255911.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-21T16:17:20+00:00",
+      "amman": "19:17"
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Friday, August 21, 2026: Cryptos continue rally sparked by Treasury repurchase announcement",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-21-2026-cryptos-continue-rally-sparked-by-treasury-repurchase-announcement-161633891.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-21T16:16:33+00:00",
+      "amman": "19:16"
+    },
     {
       "title": "States are coming after prediction markets — and setting up a costly legal battle over who gets to regulate them",
       "url": "https://www.marketwatch.com/story/states-are-coming-after-prediction-markets-and-setting-up-a-costly-legal-battle-over-who-gets-to-regulate-them-f9ab9a37?mod=mw_rss_topstories",
@@ -13,28 +69,20 @@
       "amman": "19:14"
     },
     {
-      "title": "Marvell Sinks 6% as Google Warrant Dilution Overtakes the Deal Rally; Broadcom Ticks Up",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/marvell-sinks-6-google-warrant-160609078.html",
+      "title": "Stock Market Today: Dow Jumps After Sell-Off; Bitcoin Tops $77,000; Gold Miners Shine (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-21T16:06:09+00:00",
-      "amman": "19:06"
+      "direction": "up",
+      "ts": "2026-08-21T16:11:37+00:00",
+      "amman": "19:11"
     },
     {
-      "title": "Polymarket's public ledger may be leaking military secrets",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/polymarkets-public-ledger-may-leaking-160300050.html",
+      "title": "Three Biotech Stocks Stick Out With Their Stellar Charts",
+      "url": "https://www.investors.com/stock-lists/ibd-50/biotech-stocks-drug-eton-pharmaceuticals-travere-therapeutics-kiniksa-tvtx-knsa/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
       "direction": "neutral",
-      "ts": "2026-08-21T16:03:00+00:00",
-      "amman": "19:03"
-    },
-    {
-      "title": "What’s Moving the Markets Today?",
-      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-21-2026/card/what-s-moving-the-markets-today--M6GRZM1zUhyEyGOMZdgf?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-21T15:50:29+00:00",
-      "amman": "18:50"
+      "ts": "2026-08-21T16:09:12+00:00",
+      "amman": "19:09"
     },
     {
       "title": "Artificial intelligence could push up inflation - SNB's Tschudin says",
@@ -69,36 +117,12 @@
       "amman": "17:55"
     },
     {
-      "title": "Stock Market Today: Dow Bounces After Sell-Off; Bitcoin Jumps Near $77K, Ross Pops On Outlook (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-stock-market-sell-off-bitcoin-surges/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-21T14:32:04+00:00",
-      "amman": "17:32"
-    },
-    {
-      "title": "Stock Market Rally Buckles; Moderna, Gold, Bitcoin Surge While Walmart Tumbles: Weekly Review",
-      "url": "https://www.investors.com/news/stock-market-rally-buckles-moderna-gold-bitcoin-surge-walmart-tumbles/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-21T14:31:51+00:00",
-      "amman": "17:31"
-    },
-    {
       "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
       "url": "https://www.marketwatch.com/story/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the-ai-chip-maker-breaks-this-trend-9b6504bc?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "direction": "neutral",
       "ts": "2026-08-21T13:33:00+00:00",
       "amman": "16:33"
-    },
-    {
-      "title": "Bitcoin on track for best week in more than two years. Can this mean the next crypto bull market has arrived?",
-      "url": "https://www.marketwatch.com/story/bitcoin-on-track-for-best-week-in-more-than-two-years-has-the-next-crypto-bull-market-arrived-0181180c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-21T13:01:00+00:00",
-      "amman": "16:01"
     },
     {
       "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try",

@@ -1,16 +1,24 @@
 {
-  "updated_amman": "2026-08-21 17:56",
-  "count": 40,
-  "up": 6,
+  "updated_amman": "2026-08-21 18:23",
+  "count": 45,
+  "up": 8,
   "down": 7,
   "items": [
     {
-      "title": "Looking to Generate Passive Income From Stocks? 3 Magnificent High-Yield Dividend Stocks to Buy Now",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/looking-generate-passive-income-stocks-143500552.html",
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "url": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-21T15:00:00+00:00",
+      "amman": "18:00"
+    },
+    {
+      "title": "Bank of America's sell signals are flashing red, but 56% of fund managers are going all-in on stocks anyway",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bank-americas-sell-signals-flashing-145500469.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
-      "ts": "2026-08-21T14:35:00+00:00",
-      "amman": "17:35"
+      "ts": "2026-08-21T14:55:00+00:00",
+      "amman": "17:55"
     },
     {
       "title": "Stock Market Today: Dow Bounces After Sell-Off; Bitcoin Jumps Near $77K, Ross Pops On Outlook (Live Coverage)",
@@ -37,12 +45,28 @@
       "amman": "17:10"
     },
     {
+      "title": "Bitcoin Rally Tops $79,000. Crypto Shorts, ETF Flows Soar. CFTC Explores Crypto Rules.",
+      "url": "https://www.investors.com/news/bitcoin-price-3-month-high-79000-treasury-bonds-short-squeeze-bitcoin-etfs-crypto-stocks/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-21T14:00:37+00:00",
+      "amman": "17:00"
+    },
+    {
       "title": "«وول ستريت» تنتعش متعافية من «تداعيات ارتفاع السندات»",
       "url": "https://news.google.com/rss/articles/CBMi4wRBVV95cUxQemJzakdEWng5cUxVRDQ2ZTZhRFh3c08zTnJBZzgtZktZYjQxTzZXSWdhb3piS3hHRFY0MWdyN3BZNWFRSGFnVXJoT3VWdGJ4NElXN1l4N3JKRDNCbW16RnNMTExaN2xfWEU4MUN1dkYwNlc2RTVzVkQzNS1scFU3WUllc3c3RjRfQmw1M2JkSUtRYk04QXVFVENoUkxOOVZEM2k3cjhjWWptQ1lBZGZBVWJ2T0NkVFpJT0hqVVBtbnY3Q01YZDBjbzJqczBTVVhTRjhKLUZLTDB3R1JCcXh1YmpNS1hoekE2WUJPSVIxLU40Ny03ak9vc2VHUVBhWTJMd1F6Y3c4SmRkNm9IMWRETXQweFVEdlNGVmgyRTBfMzJiMVVDbUg4eXp3UEd6SlhnY3JOUGFQeFBjOHZHdFV2YlpOWTFLYjBwaC1kVXhESml3c0NfOTc5ZWF1WXhOb3AyS0hyOWxoWWUxdnZlN1BTc0pXZ1o4R1RvUWhSQWM0Y0NZajl0ZlBTZkZVRVdhWnZQLVRGQ0Z5NUs1ZkxDVmJvYzVKMS1tOWVaZW1sbG1xSkJfUWo1OUJIWmR0MS1IZTZNR2VMT1djdFdGXzlIa0hSdzFIaHhTMFBFUW1YejVob3pjd1YzNl9KUWJ5MXBEdXJ5R0NYVU1rVHJVcHRrN1BQLTVfUmM1S0I0aEN2OXJRM2Iwd2ZRX2U2UlhobjhzOVNxV2dPUmVVRThtV2xDdU12azd4UWF2dVRCc1ZiQk1ieVdnQmNxdkViN0l0VHVadmdPNElUYmVFcnJSMVI0YkxkRlEzaw?oc=5",
       "source": "صحيفة الخليج",
       "direction": "up",
       "ts": "2026-08-21T14:00:34+00:00",
       "amman": "17:00"
+    },
+    {
+      "title": "Stocks trade higher, lifted by crypto, commodities: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/stocks-trade-higher-lifted-by-crypto-commodities-alphacheck-135720189.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-21T13:57:20+00:00",
+      "amman": "16:57"
     },
     {
       "title": "Nvidia earnings could rescue a stalled-out stock market — if the AI chip maker breaks this trend",
@@ -77,12 +101,28 @@
       "amman": "14:14"
     },
     {
+      "title": "Mortgage and refinance interest rates today, Friday, August 21, 2026: Rates stand on high ground despite bond market buybacks",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-friday-august-21-2026-rates-stand-on-high-ground-despite-bond-market-buybacks-100000222.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-21T10:00:00+00:00",
+      "amman": "13:00"
+    },
+    {
       "title": "Here are three key takeaways from the disappointing July jobs report",
       "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
       "source": "CNBC",
       "direction": "neutral",
       "ts": "2026-08-21T08:36:07+00:00",
       "amman": "11:36"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq rise as bitcoin surges",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-august-21-dow-sp-500-nasdaq-080533702.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-21T08:05:33+00:00",
+      "amman": "11:05"
     },
     {
       "title": "المستثمرون يقلصون توقعاتهم بشأن رفع أسعار الفائدة في أمريكا وبريطانيا",

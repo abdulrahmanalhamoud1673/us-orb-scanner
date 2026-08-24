@@ -1,40 +1,16 @@
 {
-  "updated_amman": "2026-08-24 20:57",
-  "count": 31,
-  "up": 7,
+  "updated_amman": "2026-08-24 21:30",
+  "count": 22,
+  "up": 3,
   "down": 4,
   "items": [
     {
-      "title": "Warren Buffett's Favorite 'Forever' Stock Hits A High After Big Rally",
-      "url": "https://www.investors.com/news/warren-buffett-coca-cola-stock-favorite-forever-holding/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-24T17:40:10+00:00",
-      "amman": "20:40"
-    },
-    {
-      "title": "Bitcoin Surges On Treasury Game-Changer; Strategy Raises $2 Bil",
-      "url": "https://www.investors.com/news/bitcoin-price-bessent-treasury-general-account-strategy/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-24T17:39:21+00:00",
-      "amman": "20:39"
-    },
-    {
-      "title": "Fisher Brothers Taps Israeli Bond Market for Office Buyout",
-      "url": "https://finance.yahoo.com/real-estate/articles/fisher-brothers-taps-israeli-bond-173634521.html",
-      "source": "Yahoo Finance",
+      "title": "Here’s how overvalued the stock market really is",
+      "url": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "direction": "neutral",
-      "ts": "2026-08-24T17:36:34+00:00",
-      "amman": "20:36"
-    },
-    {
-      "title": "AI Infrastructure Stocks Surge: How Long Can CoreWeave (CRWV) and Super Micro Computer (SMCI) Keep It Up?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-surge-long-172411864.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-24T17:24:11+00:00",
-      "amman": "20:24"
+      "ts": "2026-08-24T18:05:00+00:00",
+      "amman": "21:05"
     },
     {
       "title": "أسعار الذهب اليوم، 24 أغسطس: تصل إلى أعلى مستوى لها منذ أكثر من 3 أشهر، في انتظار إشارات من الاحتياطي الفيدرالي.",
@@ -43,22 +19,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T17:22:10+00:00",
       "amman": "20:22"
-    },
-    {
-      "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Steel Gains Melt (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T17:05:00+00:00",
-      "amman": "20:05"
-    },
-    {
-      "title": "TGTX Stock Outperforms 95% of Stocks. Here's Why.",
-      "url": "https://www.investors.com/research/multiple-sclerosis-tgtx-stock-biotech-tg-therapeutics/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T16:56:37+00:00",
-      "amman": "19:56"
     },
     {
       "title": "Bessent tapping Treasury’s rainy-day fund for buybacks isn’t a ‘bazooka’ to get markets to move his way",
@@ -75,14 +35,6 @@
       "direction": "up",
       "ts": "2026-08-24T16:44:39+00:00",
       "amman": "19:44"
-    },
-    {
-      "title": "President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/president-trump-portfolio-added-2-162941904.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T16:29:41+00:00",
-      "amman": "19:29"
     },
     {
       "title": "مؤشرات الأسهم الأمريكية تستهل تعاملاتها على انخفاض",
@@ -133,14 +85,6 @@
       "amman": "16:05"
     },
     {
-      "title": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T12:54:06+00:00",
-      "amman": "15:54"
-    },
-    {
       "title": "مؤشرات داو جونز وناسداك وS&P 500: نتائج Nvidia وجاكسون هول في الواجهة",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZY3lkRW8yU1YwUnR5Z0g2aXdXd3UzME0wZTh3WUkzMVU5SF81V0pJaHNjTnhKc0xZcW12cXVXSUJXUkkybmVreWNuMUhYbnB4NUNKQ3V3UUpvV2tNRTZwN1dnT3k5WkU5Znd1QzM2VXc?oc=5",
       "source": "Investing.com",
@@ -173,16 +117,16 @@
       "amman": "13:21"
     },
     {
-      "title": "Best high-yield savings interest rates today, Monday, August 24, 2026: Earn up to 4.15% APY",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-24-2026-earn-up-to-415-apy-100000361.html",
+      "title": "Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-24-2026-purchase-and-refi-rates-prove-shopping-matters-100000358.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-24T10:00:00+00:00",
       "amman": "13:00"
     },
     {
-      "title": "Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-24-2026-purchase-and-refi-rates-prove-shopping-matters-100000358.html",
+      "title": "Best high-yield savings interest rates today, Monday, August 24, 2026: Earn up to 4.15% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-24-2026-earn-up-to-415-apy-100000361.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-24T10:00:00+00:00",
@@ -229,28 +173,12 @@
       "amman": "06:35"
     },
     {
-      "title": "ارتفاع أسعار الذهب رغم الضغوط الهائلة: ما الذي يحدث؟",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX09rcU1uZFBySGRYVGhTLXBydjVIb2lDU1RSb3JjejJQT0YtS1VmMHRsc21DOGgwOTRvTmp0cXpIUVl6bkFrWHFfVmc0Tmh0dkw2ZFZIUGdIRm5HRWY0MDJiLXFCNG52VHVTd3ZqaU9tSHI1RUg3VWhZSFkySW9La1pwRS1BZzRUaGd6czBOTHM0QQ?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "up",
-      "ts": "2026-08-24T01:32:00+00:00",
-      "amman": "04:32"
-    },
-    {
       "title": "قد تشهد أسعار الذهب تقلبات حادة، في انتظار إشارات من الاحتياطي الفيدرالي.",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxONDJUcHh0VHJ5UDktb0dZTWlCbEY1T2o5alpFSHBKSTFzMjdaNjNPTVFOVmpqbVFvMlhHWlJMYnc2eFNTNXpNdGIwZGRObEJLd0xLUzBaVlEwQUN2Q1NLYm1tdGdELWdoRXk4UG4za2hIZDU2QW5DN0VndElXbHl1SDZB?oc=5",
       "source": "Vietnam.vn",
       "direction": "neutral",
       "ts": "2026-08-24T00:30:52+00:00",
       "amman": "03:30"
-    },
-    {
-      "title": "الفيدرالي الأمريكي أمام معضلة سبتمبر.. التضخم يتراجع وسوق العمل يضع خفض الفائدة على الطاولة",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY204Z29WSGN3UUlNWHBiWld6Y0MweGQ0RG13M09FR3JoZ2FYcE5CR0hhRjJlN1N6QXFYaFVMNUxHVWZXUldiZEpmNVNWV281YkpIU3MxUlczajQ3bm1kSHhOLTVyNmNVR29GWmRFT3Rza19FTkhWb3NxNXY2eDlFLVpDTng3bUFHS0tUT3ZlSm0yN09wdEM1cWRnaE1seHJialVCNVp2VV9MV2FBQWJzNlB6ZTJSdi1QVUJQemdadUQ3VmRvd21NTTBlLVZuM2czLWxkSWc5Z05wUUViWElUQXBxX0RGejFwNlA2OXBB?oc=5",
-      "source": "الجريدة العقارية",
-      "direction": "neutral",
-      "ts": "2026-08-23T19:19:07+00:00",
-      "amman": "22:19"
     }
   ]
 }

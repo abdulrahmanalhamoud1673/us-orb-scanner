@@ -1,9 +1,33 @@
 {
-  "updated_amman": "2026-08-24 18:53",
-  "count": 34,
-  "up": 4,
-  "down": 8,
+  "updated_amman": "2026-08-24 19:19",
+  "count": 37,
+  "up": 5,
+  "down": 9,
   "items": [
+    {
+      "title": "مؤشرات الأسهم الأمريكية تستهل تعاملاتها على انخفاض",
+      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOdGNxSlg5c3hLRTNmZzVPRXpuenBDT1RZV2QxQnl4S0pRRUNtRXZMQWl6RWR5WEIyajQwWHZKcTJSMlpkYnp3a1JocjJ5c2tWZGxYdU5SLUw5eEtPaXlWT1h5d3ZGNU5NTXhvNWd6d3hZU0NLZDM0ekkxY0l0RXUwZlhwLVMzRWJKSE1MZ2dsR2c4Vkt4VXYwYTl5MXJsZFZyLVl6cG1lMlhRSW9rbHVrbllob2o0R2VmaHBHTExuRFcyVm9KY0RRN3R1SFl5V0FaOU5DRTNLT3JNR2ZnRFRFU2ppdWRsNG04V1diSHJjWndrSmVJa24yMzdiZ201LWU4Y0dfcHpYMjJndVRMR1JDaF9FNVhUbTVGb2VqMHFSaVVQaHJtZy14c3JFNWJaaHllRmF1OUo3dmJJNVdxU2FveTBIV19oNEVPRWt5Q1lQSm02MTNnZ3hrUlNkNFpLcXFsakFURHBsNmoyR0JLTzV4bjIxUzA0TmdJYjdFQldFNldCMERLSEg0YVp0Q2x2RmJrT25xVkxRckpkWGs5TUVValM2d21aS0FSaWhQcUZha3ZIQmVuREtBUk1JOXhFZDNWSmhCeG1qZw?oc=5",
+      "source": "Qatar news agency",
+      "direction": "down",
+      "ts": "2026-08-24T16:07:37+00:00",
+      "amman": "19:07"
+    },
+    {
+      "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Nvidia Dips, Retailer Tests Entry (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-24T15:56:36+00:00",
+      "amman": "18:56"
+    },
+    {
+      "title": "Gold and Bitcoin Surge on Treasury Bond Market Fight. Scarce Asset Owners Are This Market’s Big Winners",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-bitcoin-surge-treasury-bond-154835198.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-24T15:48:35+00:00",
+      "amman": "18:48"
+    },
     {
       "title": "Shares dip on pressure from technology; yields and oil fall",
       "url": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html",
@@ -21,12 +45,28 @@
       "amman": "18:46"
     },
     {
+      "title": "Digi Power X president, CEO both buy shares in open-market purchases",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/digi-power-x-president-ceo-153900175.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T15:39:00+00:00",
+      "amman": "18:39"
+    },
+    {
       "title": "Scott Bessent’s $1 Trillion Bond Market Fight — Treasury Yields Aren’t Buying It",
       "url": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-1-trillion-bond-153757594.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-24T15:37:57+00:00",
       "amman": "18:37"
+    },
+    {
+      "title": "Apple Just Became Wall Street’s Favorite Mag 7 Stock for a Surprising Reason",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/apple-just-became-wall-street-153006755.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T15:30:06+00:00",
+      "amman": "18:30"
     },
     {
       "title": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",
@@ -61,14 +101,6 @@
       "amman": "18:20"
     },
     {
-      "title": "Bessent Promised to Rescue the Bond Market. It Sold Off Anyway, and That Should Worry Every Investor.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bessent-promised-rescue-bond-market-151553244.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T15:15:53+00:00",
-      "amman": "18:15"
-    },
-    {
       "title": "انخفاض وول ستريت مع تصاعد التوترات بشأن إيران في أسبوع حاسم للأسواق",
       "url": "https://news.google.com/rss/articles/CBMi2gVBVV95cUxQWnVJYXEyT2s2SlVvVF9POVJ3bXpfQjNMLVc3VV9fWUF5cHgtNGg1OEZJRHNranB0Wk1OQkJUVjBDUGJpdGFWM2tnZW1YaDhIMG5SOVp6SG9mdDdBUXJMM3ozSWRnTHhEQVA0ekJLZmpYSThBYm1Oa0xEWktabHVsNmxuck1JNFJ1Sjg2UmJjenhNV2k2UVgyN1FQbDE0NE9YYnA3SE9IVFRxUDVUamc4MEhjalRLY1dyTTVpV29xQjFNeWxyNFlsRmRtNHRKMS1YS0lFc3pPRVZoOXlqY1kwbm5ETGRDTEdJR3ZIOWpxcG5hdktvbktGbUNsaXd2dldmdE82dFYwMWY3Y1dWeDRUdkFnQ2NINnozeW1KelFCNjZIWDdSNXhpSU5MRzBoRzhpeFp2SVJoelFCbFRnZjNDTGFxUjlvcWluVXBwQzJZdWFsdGNkN1kxbWRWRXNCR1dkaW5rc3J4U1hoX1Vudmw5QmQxRWtFdVJYZGFTTEptMDE3T1BYWkpFSV9MNHN6QlBONk0tWTFzTWM5c1VadFJWQzRKdlJuYkZxMW1vTURoOGZkVFFRSTYxcE1SbS1DZllEMVp2a0RhX05WcW9kbFRTVW92NHZ6SEdmZUhnbDM2STJ6UTNIV203RXZJUXpvS2EweVVuR1JlXzNCQWZaOWF3T1dqcWJCajQ3V0hTR045aWxoZUVTWnZaYU5fZnM0aWpwMU5JNDd3WGNjX3VqUWJycGdjanlLUXpQQzBVWXZLdjREcDFwV1lwT1ZEbW1NREZ2M3BHUkhVdUZHbGdIRy1wVjdpS0JZZXdMUW14T0VudkJGdklZU1JGV2d1NXlCYkpTckd2VDBsMnpIMUdZMmhvek1CWF91d2NVTWJucG0wMU5NLWppa0ZrdnhlVlY3ZzNtLXR3ZDRHRXJYSGNnb3Fja013MzVPWDEwdGdjU3RNbElWN3ZXSGJlZFpB?oc=5",
       "source": "FxNewsToday.ae",
@@ -93,28 +125,12 @@
       "amman": "18:02"
     },
     {
-      "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Tech Hit With Micron, Nvidia Drops (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-24T14:43:36+00:00",
-      "amman": "17:43"
-    },
-    {
       "title": "«وول ستريت» تتباين مع تراجع أسهم «الرقائق»",
       "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxOQ2t2Y1o1VDVFdW9Dek5Lb0pzZ2lUNTRnSkVLa2l0V1BZMXduWlJ6LTdUbXZiUTVlNzUwdGJiZElfdEhMaFNtdFAza081cWZCUnRFTVRHT0lJaVF5Y3EtR0NKbjcxUzVFU2MxUVRVdkxNbng0YWMtdEpFQXRuQUFjQzE4aWJ5Rk1HVnRZMzMtS2RYUjB1SlpIM1Y0UFRobWFiTzVtUnQ3MnZPamswUThRbU9wbDFwTWNMZWhmU1NFM2NCdHVNRzJUMlRNY3NlVW9mOHEzclVlZXItQmpaZkFqZmlCZWJmdk1Yc193UzdIZDIxMURqMkFrNmdvZEhQR1EycmIxSVBYOHN0VmZJNjQ2RkExNDhTc1FkaXBoS29UU1BNbjlPU2oyX2dEVlVaMzlGTXoxLWtvLXJNM3FSc3MyOWJLOS1EdDVQRUhDUnlxM3RMck8wMDBwR1g3OHZMampEdi1EWHpqbHpkRklQU2M3NnpZbmFkNFBwQTIyWTlHQnFKdEtQaTdQTTRDNkpsSFJHblZRaUZNWFNKSy1Ua1NqMFlUWFBfMS1NemNRWmpxWTN6Rmk0TjlmVVZ2UEJUY3V4bkZEYjJ5eC1faTd1SzZkZmMzeUJMNjBrWUE2dW1Gc0VoZFVrdk5IeDZKTUJWMUZGQ2dkOHlkaTJCdWdCRGRndm5pbXEzbEFvUWxacHNYR0RQZw?oc=5",
       "source": "صحيفة الخليج",
       "direction": "down",
       "ts": "2026-08-24T14:12:35+00:00",
       "amman": "17:12"
-    },
-    {
-      "title": "Treasury Yields Fall, Gold Rises On Bessent's $1 Trillion Warning",
-      "url": "https://www.investors.com/news/10-year-treasury-yield-gold-price-bessent-general-account-federal-reserve/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T14:07:50+00:00",
-      "amman": "17:07"
     },
     {
       "title": "Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’",
@@ -147,6 +163,14 @@
       "direction": "neutral",
       "ts": "2026-08-24T13:05:38+00:00",
       "amman": "16:05"
+    },
+    {
+      "title": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
+      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T12:54:06+00:00",
+      "amman": "15:54"
     },
     {
       "title": "مؤشرات داو جونز وناسداك وS&P 500: نتائج Nvidia وجاكسون هول في الواجهة",

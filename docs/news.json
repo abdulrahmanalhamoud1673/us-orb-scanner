@@ -1,9 +1,41 @@
 {
-  "updated_amman": "2026-08-24 23:32",
-  "count": 25,
-  "up": 2,
+  "updated_amman": "2026-08-25 00:01",
+  "count": 28,
+  "up": 3,
   "down": 6,
   "items": [
+    {
+      "title": "Here’s how overvalued the stock market really is",
+      "url": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-24T20:54:00+00:00",
+      "amman": "23:54"
+    },
+    {
+      "title": "Bitcoin has beaten stocks and gold over six months. Now it’s closing in on $80,000.",
+      "url": "https://www.marketwatch.com/story/bitcoin-has-beaten-stocks-and-gold-over-six-months-now-its-closing-in-on-80-000-b8aa48f9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-08-24T20:53:00+00:00",
+      "amman": "23:53"
+    },
+    {
+      "title": "It’s time to bet big on Nvidia’s stock, says this analyst who thinks the market has it all wrong",
+      "url": "https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-24T20:50:00+00:00",
+      "amman": "23:50"
+    },
+    {
+      "title": "أداء متباين للأسهم الأميركية.. داو جونز يرتفع 140 نقطة وناسداك يتراجع 200 نقطة",
+      "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxQMFFpQVBsU1VMSll0RktKeGZjNFJxYVVqOE55aTliWVVRTXQ5WnU4eEU1ZDhSRGYyckx4N2h2Q2pZTXRkR3hpNU1EM1ZqcEh2MHpHbzZ2MmNNN3YxMGljU1Rzc2pVZFozMGpRejlzLWt5d2RWbzZHTTJsbTZ1VUxzVk9pekFwQkZ1WDVVSGIza0NhSVpMSFIwS2dBTGY4Tk5Lc0xGQWhlVnNRNHFiSUdHdW8xWmRlU0RZVTNZTlI1Z3U3UWw1Y0U4UGNINDN4aEhvdWM0dEJLbFFKQXdiUEdTYzhNYlBaQjVUbC1nU01idnpReXU3ZjFWaC1NNHRucDdyLTlwU1hSQ0tiX2xCR0hKUGRqNDNsdWI2UGJHcm5rZFg5WWV1NzJwRkJ4SEp1amVEMXVmeGN2LWU1SmRXMnctaVFwekc1aGllbTJMd0d4ZmlLODFhX0d5X0V3Vlc0VnB4eHVpTWVOYWpWM0EyeW9BVUNSZU9rMl9kMFNoeS1oel9KZkVPM3JuYzdKRTQ2RHJCU3hGd3Zpc0V0UGh4b1hVUWZBT2JBRDZqdVFJSldUdmJEbkxkRmlseEgtek5fYnFNNVh0TGlucGliLTBlU3BPU0hLS2pqZW1SQk1INFR5d2lfcXdTUmY1Y3lvb050LUotUWdxOWU3ZExWMkw0T0ducmYzSldtRXlsbVdBNU1LWVp6aHRkdmJjX3VEd1pfT2dndm9WYXR2RGJGTTFrWVVScWgzZGpMYi14YVZRY3Z4cXpBYllKWjhseDBQeW1nMXVjcXktTTJvbEVtbFBNd0lRWms4U1pkeFJhYmFrbVBaYWxHd1RZSlVRMGljc1ZieUVLano2VnVSUkc?oc=5",
+      "source": "مجلة البوصلة الاقتصادية",
+      "direction": "neutral",
+      "ts": "2026-08-24T20:37:23+00:00",
+      "amman": "23:37"
+    },
     {
       "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
       "url": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
@@ -21,28 +53,20 @@
       "amman": "21:19"
     },
     {
-      "title": "Here’s how overvalued the stock market really is",
-      "url": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-24T18:05:00+00:00",
-      "amman": "21:05"
-    },
-    {
-      "title": "من الفائدة إلى الثروة.. لماذا تراجعت قدرة الفيدرالي على كبح التضخم؟",
-      "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxQZlQxbzFwOWZObmF5dlJVV0FKeVh0REpQT1AwYmpLamlIWVZ3R19OUERnNXpITzZEc1ZoeEp5UEVOOE5FcGl3eVRlR3p1LTlBU0c2N1dIc1dELWtKNDk1X3pDNUVVTkVYcjhxT1ZhYjktOTVCcFViV3ZjTkxFOWlLVUVWWERnbVpSRU5Ob3FDb0xLT2lfTnlLcVpyVGNORjNMQTNQcC1CeExWbGxtZ2w0ay1feTRhOFdZajk5d1dlRUcxa3l3MFhBVU5CUXVEUEltV1ZIR1JJOUFGSlJYa3ZGQVZUb3AwOGhIUGlKa2FwXy10ankwdk5WZVdmSlNvUElVZkNiaHhUWTQ1Q1Y3S0daaG5RckxEVzdDb2JMU2h2U090U0pwNnQweHVPVkFHVG5xVlRBMll4R0wtOXc3MlJsaXpFc3lZYnlidnl3V2RlRHlnckJGdzRZTjRUSm5qLWFkOGxmbG5NMFVzZWJOVE8yTGprdmNPaUJKUFM1N21tZEkydW12TUdaRFpYWGRxd2Vqd0tuM2htUEREZlM0YW81czRWTlEwbHlzVEFxbmpNZnRwc2dlT3dPOVh5UUY1cGctNzJ3Mk50OHBfb095SXpVZzlKQzdrbWt5RE11MFVCSHB0UmxDZHNHTW1SaXRDcWp1aS1xU2dxck5GbFIzeXhXd1ctV0tHdGRMVVE3SkV2MkVFWGNvLXlkc0xaeFljdDBfR1hV?oc=5",
-      "source": "CNN الاقتصادية",
-      "direction": "down",
-      "ts": "2026-08-24T17:56:56+00:00",
-      "amman": "20:56"
-    },
-    {
       "title": "«وول ستريت» تتباين مع تراجع أسهم «الرقائق»",
       "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxOQ2t2Y1o1VDVFdW9Dek5Lb0pzZ2lUNTRnSkVLa2l0V1BZMXduWlJ6LTdUbXZiUTVlNzUwdGJiZElfdEhMaFNtdFAza081cWZCUnRFTVRHT0lJaVF5Y3EtR0NKbjcxUzVFU2MxUVRVdkxNbng0YWMtdEpFQXRuQUFjQzE4aWJ5Rk1HVnRZMzMtS2RYUjB1SlpIM1Y0UFRobWFiTzVtUnQ3MnZPamswUThRbU9wbDFwTWNMZWhmU1NFM2NCdHVNRzJUMlRNY3NlVW9mOHEzclVlZXItQmpaZkFqZmlCZWJmdk1Yc193UzdIZDIxMURqMkFrNmdvZEhQR1EycmIxSVBYOHN0VmZJNjQ2RkExNDhTc1FkaXBoS29UU1BNbjlPU2oyX2dEVlVaMzlGTXoxLWtvLXJNM3FSc3MyOWJLOS1EdDVQRUhDUnlxM3RMck8wMDBwR1g3OHZMampEdi1EWHpqbHpkRklQU2M3NnpZbmFkNFBwQTIyWTlHQnFKdEtQaTdQTTRDNkpsSFJHblZRaUZNWFNKSy1Ua1NqMFlUWFBfMS1NemNRWmpxWTN6Rmk0TjlmVVZ2UEJUY3V4bkZEYjJ5eC1faTd1SzZkZmMzeUJMNjBrWUE2dW1Gc0VoZFVrdk5IeDZKTUJWMUZGQ2dkOHlkaTJCdWdCRGRndm5pbXEzbEFvUWxacHNYR0RQZw?oc=5",
       "source": "صحيفة الخليج",
       "direction": "down",
       "ts": "2026-08-24T17:49:52+00:00",
       "amman": "20:49"
+    },
+    {
+      "title": "من الفائدة إلى الثروة.. لماذا تراجعت قدرة الفيدرالي على كبح التضخم؟",
+      "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxQZlQxbzFwOWZObmF5dlJVV0FKeVh0REpQT1AwYmpLamlIWVZ3R19OUERnNXpITzZEc1ZoeEp5UEVOOE5FcGl3eVRlR3p1LTlBU0c2N1dIc1dELWtKNDk1X3pDNUVVTkVYcjhxT1ZhYjktOTVCcFViV3ZjTkxFOWlLVUVWWERnbVpSRU5Ob3FDb0xLT2lfTnlLcVpyVGNORjNMQTNQcC1CeExWbGxtZ2w0ay1feTRhOFdZajk5d1dlRUcxa3l3MFhBVU5CUXVEUEltV1ZIR1JJOUFGSlJYa3ZGQVZUb3AwOGhIUGlKa2FwXy10ankwdk5WZVdmSlNvUElVZkNiaHhUWTQ1Q1Y3S0daaG5RckxEVzdDb2JMU2h2U090U0pwNnQweHVPVkFHVG5xVlRBMll4R0wtOXc3MlJsaXpFc3lZYnlidnl3V2RlRHlnckJGdzRZTjRUSm5qLWFkOGxmbG5NMFVzZWJOVE8yTGprdmNPaUJKUFM1N21tZEkydW12TUdaRFpYWGRxd2Vqd0tuM2htUEREZlM0YW81czRWTlEwbHlzVEFxbmpNZnRwc2dlT3dPOVh5UUY1cGctNzJ3Mk50OHBfb095SXpVZzlKQzdrbWt5RE11MFVCSHB0UmxDZHNHTW1SaXRDcWp1aS1xU2dxck5GbFIzeXhXd1ctV0tHdGRMVVE3SkV2MkVFWGNvLXlkc0xaeFljdDBfR1hV?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "down",
+      "ts": "2026-08-24T17:43:33+00:00",
+      "amman": "20:43"
     },
     {
       "title": "أسعار الذهب اليوم، 24 أغسطس: تصل إلى أعلى مستوى لها منذ أكثر من 3 أشهر، في انتظار إشارات من الاحتياطي الفيدرالي.",

@@ -1,9 +1,17 @@
 {
-  "updated_amman": "2026-08-25 00:55",
-  "count": 28,
-  "up": 3,
+  "updated_amman": "2026-08-25 01:15",
+  "count": 27,
+  "up": 2,
   "down": 6,
   "items": [
+    {
+      "title": "Visa and Mastercard stocks hit fresh records, underscoring a resilient U.S. consumer",
+      "url": "https://www.marketwatch.com/story/visa-and-mastercard-shares-hit-fresh-records-underscoring-a-resilient-u-s-consumer-ef328548?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-24T21:55:00+00:00",
+      "amman": "00:55"
+    },
     {
       "title": "Here’s how overvalued the stock market really is",
       "url": "https://www.marketwatch.com/story/heres-how-overvalued-the-stock-market-really-is-f26540c5?mod=mw_rss_topstories",
@@ -99,14 +107,6 @@
       "direction": "down",
       "ts": "2026-08-24T15:27:53+00:00",
       "amman": "18:27"
-    },
-    {
-      "title": "إعادة شراء سندات الخزانة الأمريكية.. هل تدعم وول ستريت والذهب؟",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3LVRpNU9YZ2ZaVUltZGtqRFhHa1Zvbk93d2dRd2NQZk04OXktczJOMGdJVmpuOUprUnRUY2tIOVJ2Wm01MjdKcGRYS19Lc2psclA2Tzh0NDBtSEdUWDRLYQ?oc=5",
-      "source": "Investing.com",
-      "direction": "neutral",
-      "ts": "2026-08-24T14:47:00+00:00",
-      "amman": "17:47"
     },
     {
       "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
@@ -211,14 +211,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T04:55:06+00:00",
       "amman": "07:55"
-    },
-    {
-      "title": "أسعار الصرف في 24 أغسطس: الدولار الأمريكي المحلي يبقى مستقراً، ويتوقع بنك يو بي إس ارتفاع قيمة اليورو.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHhpTXBsLWFnR0h4VS1mcnhCdDE1Y1hSV0JMMGtSX2ZtWWF1aDk2M2c4SGtZa3VxOVpyc01ycnhjX2YzdTdiYko3VGhLbW1UaWQ4bWJlM0JncXp4azdzZVI0RE9KdUU5ekJfUkpSeW9oMXBqdTdWd2pJNXFrVVRyZGg1RExrZ1VIN1hhWFJ2MWZXeDRtUmRv?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "up",
-      "ts": "2026-08-24T03:35:18+00:00",
-      "amman": "06:35"
     },
     {
       "title": "قد تشهد أسعار الذهب تقلبات حادة، في انتظار إشارات من الاحتياطي الفيدرالي.",

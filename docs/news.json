@@ -1,8 +1,8 @@
 {
-  "updated_amman": "2026-08-24 23:00",
-  "count": 22,
-  "up": 1,
-  "down": 5,
+  "updated_amman": "2026-08-24 23:32",
+  "count": 25,
+  "up": 2,
+  "down": 6,
   "items": [
     {
       "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
@@ -77,6 +77,14 @@
       "amman": "18:27"
     },
     {
+      "title": "إعادة شراء سندات الخزانة الأمريكية.. هل تدعم وول ستريت والذهب؟",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3LVRpNU9YZ2ZaVUltZGtqRFhHa1Zvbk93d2dRd2NQZk04OXktczJOMGdJVmpuOUprUnRUY2tIOVJ2Wm01MjdKcGRYS19Lc2psclA2Tzh0NDBtSEdUWDRLYQ?oc=5",
+      "source": "Investing.com",
+      "direction": "neutral",
+      "ts": "2026-08-24T14:47:00+00:00",
+      "amman": "17:47"
+    },
+    {
       "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
       "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
       "source": "CNBC",
@@ -125,6 +133,14 @@
       "amman": "14:18"
     },
     {
+      "title": "قلق سوق السندات يرفع التوقعات مع أول خطاب لرئيس الاحتياطي الفيدرالي الأمريكي",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPanVieWprNVdZOGJ4VDM2RGtJd1NEWE1nRmdZdm1LS2tBVGZBWUNRT1lPRF9FOHNKMXNGLXI3eVgxYUoybWpwWDBZdlg4N2NtSFF4QlFWX0EtYVFCQXRxM0lPME44X3p1WHJtQ0RRcllhRGowSWpyYlVBMktKYnhJa3pQWGZ1Z3VqTThoOXVNa1JBbUw5RDVLTTI4SEpJNHJGakNpRnAxUHFsNTlTNE16VnJ6RHEzRDYtLVJ4eUtFemFrTmZvM245NDZiSVZJUlM2MmJpMVJFVWs1UHdlWG96SF81ZmNsaktIRXZpRW1iR25lbTQ2NHhLMEM4OGItbTBHbWxHYlZVc2xZT0NlUS1RbnBQamhFZGxwV0Z2NDVMYTc1c055RWNYMTdzT2RyVjMxVFNtVWRWNGFZZjdpcXc?oc=5",
+      "source": "جريدة المال",
+      "direction": "down",
+      "ts": "2026-08-24T11:05:47+00:00",
+      "amman": "14:05"
+    },
+    {
       "title": "آي صاغة: أسعار الذهب محليا أعلى من العالمي بسبب شح السيولة وإجازة الصاغة",
       "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOZGl5QzRPMlJkVmVUMk1jZnpYdzRudlFnYmV2dVBMS0FzbEVYMWwwSkd6VG01TnJPdHhpVzRpQWl1RG5aVEJQZVFWRHRvSV9PWHRTQWZCam1EZVA5SjhONHZxelNRR0R1SW9RbUtROURlNDhZQll0M3NGdXlyamQ0NEVQNkpuN0VnVXFYV2RUZUxEV3JPQmp1NTRoLXNQTkxzZTg5eEpyd0g4Qkw4T0FEZTd6ZFg4NHFMOFR1a045LUtNaWNLcTVZbElWcGM2WF80enB2Y2FvUHJBWVAybnE1cC1OZWo0S0JfSlVLLXpQM3BMa0ZTSVQxWjRFaFFGaVliVkpkNmowcEVJVEx3SmkzYkhhNHR6YVVxLTh5a1pXNWs1ZTFXeEV3YkI0TXZpWUYzZ2FBNnAzZDFHOGZTbXZYQmtPc1FnQTVhdFA5aGtLbjlVMUJnaHBBTXVsUDBHc0N5Q2tvMGM4RjlPR1lyLW9WSElhN21CUFkzUmpDLXo4VlhnWEk1SVMxSmt4TEYxQ2NTY2pwSkRUM1RsMWs5LS1XZXJSLUVNOThELWhvOWhpeEt4RVpWckdnU1ZpZXZRaTNqWFZ6bXJ2bFJ6U3ZDckUyUFdueXkzMUR4N1o5dWRPM2xMZHVYYk0xWktoS1FGZzdCZWJvOXg4elpBY0JWM1dENEM2enBTZ1paMnowM241QksxeXBqR1lKcGpSbS0ycGlzemdFS2wxWVRQTW1xQUx5LU5JRVNPUF9oVUdFNm9xNnNoeXJNcGhlSFh5WlJlVThMQkpTRzN1MHNqbm55QWtv0gHkBEFVX3lxTE9XVXk5ZFhTQ1VRYTFCOEZ0MnFveHlFOTZRelEwZXI3NXZpVXRYQ09JZF81N1BGR1ItMWd0TEJYTW1oZDdKQUFybW5NZ0FhYzJLS3M4enFPdV9BaHlOVXZTYU40alRQRHh1SE1lQTZ1RUplT2ZNc0JVT1ZTeE5TSkRKY3FXcWNWY1p2ZWlKOElZa1c3REVHMDNseUxqR0d2RjRyaXFQVTNIdkRSWkM0OTdJWm8zdmE3dURyNXJXSDVXMFM1VlV1YWZNVmZySUlJTEVPWUdHc05wT2Z6RDhTQU9VMkhqOTZpSFhwcmZlam1USTZsYldOYzl1T2FKXzF2cC1RbzVMaWNPYks1UEFSMDFqM21jc0dpSlVlWW0tTVZDckFrajdpcmhhVnNKUnJYU2x3czJfNmw0MF9MSHdacC1WSS04SmU3U24tOE5VY2hNZTJqNzNsMlNBX2JkUW1XNHV1dmF1VlZVeUhURUtHWG82UUt2d1N4WEsxMVZYTWY2Zk5MUHNMeVNvdG9ObnNNeFVRZ2RoQmpUY29pUExQZWpiLWxYb2xidjJJd00xdHppY0FVbzFBcVRDVUxZMzVxalpuSFpnTUpjUGtLUHhlcUQ0endPUmdIdERzbmpZeklGY2tOajBCN2w0SDZhNlYyZXl2aFROUWpZTkJpSW12RlBfYWg5LTkweWdCcDRVZFdsY1daN0M2TU8wS195WnBIYjhUX3pGTW92akJiZGJ1RnotYWtuWlRnQjdRMTNtUWh0WHozS3ZNSHI4QnRPZ1Jtckc4UHdwbmZpQXA0Nm1kanh3RlZDcQ?oc=5",
       "source": "Masrawy",
@@ -133,16 +149,16 @@
       "amman": "13:21"
     },
     {
-      "title": "Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-24-2026-purchase-and-refi-rates-prove-shopping-matters-100000358.html",
+      "title": "Best high-yield savings interest rates today, Monday, August 24, 2026: Earn up to 4.15% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-24-2026-earn-up-to-415-apy-100000361.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-24T10:00:00+00:00",
       "amman": "13:00"
     },
     {
-      "title": "Best high-yield savings interest rates today, Monday, August 24, 2026: Earn up to 4.15% APY",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-24-2026-earn-up-to-415-apy-100000361.html",
+      "title": "Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-24-2026-purchase-and-refi-rates-prove-shopping-matters-100000358.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-24T10:00:00+00:00",
@@ -171,6 +187,14 @@
       "direction": "neutral",
       "ts": "2026-08-24T04:55:06+00:00",
       "amman": "07:55"
+    },
+    {
+      "title": "أسعار الصرف في 24 أغسطس: الدولار الأمريكي المحلي يبقى مستقراً، ويتوقع بنك يو بي إس ارتفاع قيمة اليورو.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWHhpTXBsLWFnR0h4VS1mcnhCdDE1Y1hSV0JMMGtSX2ZtWWF1aDk2M2c4SGtZa3VxOVpyc01ycnhjX2YzdTdiYko3VGhLbW1UaWQ4bWJlM0JncXp4azdzZVI0RE9KdUU5ekJfUkpSeW9oMXBqdTdWd2pJNXFrVVRyZGg1RExrZ1VIN1hhWFJ2MWZXeDRtUmRv?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "up",
+      "ts": "2026-08-24T03:35:18+00:00",
+      "amman": "06:35"
     },
     {
       "title": "قد تشهد أسعار الذهب تقلبات حادة، في انتظار إشارات من الاحتياطي الفيدرالي.",

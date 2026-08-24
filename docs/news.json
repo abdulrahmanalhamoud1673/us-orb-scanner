@@ -1,9 +1,49 @@
 {
-  "updated_amman": "2026-08-24 19:58",
-  "count": 37,
-  "up": 7,
+  "updated_amman": "2026-08-24 20:28",
+  "count": 35,
+  "up": 6,
   "down": 7,
   "items": [
+    {
+      "title": "AI Infrastructure Stocks Surge: How Long Can CoreWeave (CRWV) and Super Micro Computer (SMCI) Keep It Up?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-surge-long-172411864.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-24T17:24:11+00:00",
+      "amman": "20:24"
+    },
+    {
+      "title": "أسعار الذهب اليوم، 24 أغسطس: تصل إلى أعلى مستوى لها منذ أكثر من 3 أشهر، في انتظار إشارات من الاحتياطي الفيدرالي.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWDdBZXFVblUxZlFiYTJpRzhLN3JnejhMeHpkbDJjVGVnc3VpSVMyQjRNbTBaMmlVQm5aWF9NWmEzYm5tU1RHUGpDelJueGE1UTFKby1FbU5BMXVlM2tYV3hDUFFGY3VVUXVNVkxpdmxrZUZjaUhXZUgyQ01RSEM3aHNsNWttbndXbEUyNnY2OFcxWlQzcjNr?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-08-24T17:22:10+00:00",
+      "amman": "20:22"
+    },
+    {
+      "title": "The Nasdaq Slips as Micron Falls 6% to Kick Off Nvidia's Big Week",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-slips-micron-falls-6-170943624.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-24T17:09:43+00:00",
+      "amman": "20:09"
+    },
+    {
+      "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Steel Gains Melt (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T17:05:00+00:00",
+      "amman": "20:05"
+    },
+    {
+      "title": "TGTX Stock Outperforms 95% of Stocks. Here's Why.",
+      "url": "https://www.investors.com/research/multiple-sclerosis-tgtx-stock-biotech-tg-therapeutics/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T16:56:37+00:00",
+      "amman": "19:56"
+    },
     {
       "title": "Bessent tapping Treasury’s rainy-day fund for buybacks isn’t a ‘bazooka’ to get markets to move his way",
       "url": "https://www.marketwatch.com/story/bessent-tapping-treasurys-rainy-day-fund-for-buybacks-isnt-a-bazooka-to-get-markets-to-move-his-way-705ca356?mod=mw_rss_topstories",
@@ -11,6 +51,30 @@
       "direction": "neutral",
       "ts": "2026-08-24T16:52:00+00:00",
       "amman": "19:52"
+    },
+    {
+      "title": "U.S. Stocks Mixed With Nasdaq Slipping on Weakness in Tech Sector",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-lower-weakness-110900822.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T16:49:00+00:00",
+      "amman": "19:49"
+    },
+    {
+      "title": "مع اقتراب سعر الذهب من 4700 دولار، ما الذي أدى إلى هذا الارتفاع المفاجئ في أسعار الذهب؟",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTk5TRmZmMnI2SjlqUjY2b2xjOVNxdnBfYldRMUlRM0VpT1pXdk9rNlZhcjhfd21FN3VwTjdvRWN4b09VQXZJbS0wT01hckFSZlViME52enRHcElrLXJVYXVaRGNlQ0g3VE1ta3IwNkMweXZVQnZ5Z292aWM1bEZVY2dmQ3dYaFdpN2d6UzJ2Ykw?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "up",
+      "ts": "2026-08-24T16:44:39+00:00",
+      "amman": "19:44"
+    },
+    {
+      "title": "Why Is QBTS Stock Dropping While Its Quantum Order Book Explodes?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-qbts-stock-dropping-while-164338482.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-24T16:43:38+00:00",
+      "amman": "19:43"
     },
     {
       "title": "Stock Market Midday, Aug. 24: Dow Edges Higher as Chip Weakness Pressures Nasdaq",
@@ -21,14 +85,6 @@
       "amman": "19:35"
     },
     {
-      "title": "Quantum Stocks Unwind a Revenue-Headline Rally: Rigetti Computing and Infleqtion Down 7%, IonQ Down 6%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/quantum-stocks-unwind-revenue-headline-163110702.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-24T16:31:10+00:00",
-      "amman": "19:31"
-    },
-    {
       "title": "President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own",
       "url": "https://finance.yahoo.com/markets/stocks/articles/president-trump-portfolio-added-2-162941904.html",
       "source": "Yahoo Finance",
@@ -37,44 +93,12 @@
       "amman": "19:29"
     },
     {
-      "title": "Bitcoin’s Bounce Is a ‘Gift to Sell,’ Mike McGlone Warns as Bond Yields Flash 2007-Level Danger",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitcoin-bounce-gift-sell-mike-162625668.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T16:26:25+00:00",
-      "amman": "19:26"
-    },
-    {
-      "title": "Nvidia's Longest Losing Streak Since 2022 Is Dragging on the Nasdaq",
-      "url": "https://www.barrons.com/livecoverage/stock-market-news-today-082426/card/nvidia-s-longest-losing-streak-since-2022-is-dragging-on-the-nasdaq-wJJV3v12ZwNYxj4N9nz1?siteid=yhoof2&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T16:20:25+00:00",
-      "amman": "19:20"
-    },
-    {
       "title": "مؤشرات الأسهم الأمريكية تستهل تعاملاتها على انخفاض",
       "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOdGNxSlg5c3hLRTNmZzVPRXpuenBDT1RZV2QxQnl4S0pRRUNtRXZMQWl6RWR5WEIyajQwWHZKcTJSMlpkYnp3a1JocjJ5c2tWZGxYdU5SLUw5eEtPaXlWT1h5d3ZGNU5NTXhvNWd6d3hZU0NLZDM0ekkxY0l0RXUwZlhwLVMzRWJKSE1MZ2dsR2c4Vkt4VXYwYTl5MXJsZFZyLVl6cG1lMlhRSW9rbHVrbllob2o0R2VmaHBHTExuRFcyVm9KY0RRN3R1SFl5V0FaOU5DRTNLT3JNR2ZnRFRFU2ppdWRsNG04V1diSHJjWndrSmVJa24yMzdiZ201LWU4Y0dfcHpYMjJndVRMR1JDaF9FNVhUbTVGb2VqMHFSaVVQaHJtZy14c3JFNWJaaHllRmF1OUo3dmJJNVdxU2FveTBIV19oNEVPRWt5Q1lQSm02MTNnZ3hrUlNkNFpLcXFsakFURHBsNmoyR0JLTzV4bjIxUzA0TmdJYjdFQldFNldCMERLSEg0YVp0Q2x2RmJrT25xVkxRckpkWGs5TUVValM2d21aS0FSaWhQcUZha3ZIQmVuREtBUk1JOXhFZDNWSmhCeG1qZw?oc=5",
       "source": "Qatar news agency",
       "direction": "down",
       "ts": "2026-08-24T16:07:37+00:00",
       "amman": "19:07"
-    },
-    {
-      "title": "Microsoft Stock in 2027: My Prediction Is That It Still Beats the Market",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/microsoft-stock-2027-prediction-still-160500487.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-24T16:05:00+00:00",
-      "amman": "19:05"
-    },
-    {
-      "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Nvidia Dips, Retailer Tests Entry (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-24T15:56:19+00:00",
-      "amman": "18:56"
     },
     {
       "title": "Shares dip on pressure from technology; yields and oil fall",
@@ -99,22 +123,6 @@
       "direction": "down",
       "ts": "2026-08-24T15:07:49+00:00",
       "amman": "18:07"
-    },
-    {
-      "title": "Dollar edges up, loonie drops after U.S. announces tariffs",
-      "url": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-24T15:07:00+00:00",
-      "amman": "18:07"
-    },
-    {
-      "title": "It’s time to bet big on Nvidia’s stock, says this analyst who thinks the market has it all wrong",
-      "url": "https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-24T15:02:00+00:00",
-      "amman": "18:02"
     },
     {
       "title": "«وول ستريت» تتباين مع تراجع أسهم «الرقائق»",
@@ -189,14 +197,6 @@
       "amman": "14:12"
     },
     {
-      "title": "زيادة المعروض تكبح وتيرة صعود الذهب محليًا.. وقوة الدولار تحدّ من مكاسبه عالميًا.. والجرام يسجل 6640 جنيهًا",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNNjFqN3BrT1pyRzU0dzZ6V01XYW1VZ3NxYmNfV3hJbHJDOXlhX19lTlQ1U3lWWjNEQnBFeW5fMGhZTUlzeGdkcVpuN0NFd0VBZUxOMWd4dW16dDRfaXhkQzhsX2VmbzNhOFA5S2cyX2lIWXZaZlY3aDBVSi1oQ244MUk5TnlFd3VwNmR6REpETFI5R1F6bXRmTUMzZlJnTGdkZ01iemxDeE1qTk9hdXY5Z3FqaHJGVlBfN2tSaWY1LTRCTDJIc2RLLU5lZHB6ODQzV2VBMjVCMXplVnYzQzFiNThocjJsMUUyVG0yN015eks3bjRFRmM0eU5HbFc3U0lmOGpqX0NNTVc1YlAyMWtuMzdLRU92RGFtVDl4Snlya0RweVZtUzFJbVdOeXlsY1VTQzZPS05CVU4wMXVMNkNKZGY5OHB2eG1FS0xMOGR1NVZGNmFP?oc=5",
-      "source": "صدى البلد عقارات",
-      "direction": "up",
-      "ts": "2026-08-24T10:38:05+00:00",
-      "amman": "13:38"
-    },
-    {
       "title": "آي صاغة: أسعار الذهب محليا أعلى من العالمي بسبب شح السيولة وإجازة الصاغة",
       "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOZGl5QzRPMlJkVmVUMk1jZnpYdzRudlFnYmV2dVBMS0FzbEVYMWwwSkd6VG01TnJPdHhpVzRpQWl1RG5aVEJQZVFWRHRvSV9PWHRTQWZCam1EZVA5SjhONHZxelNRR0R1SW9RbUtROURlNDhZQll0M3NGdXlyamQ0NEVQNkpuN0VnVXFYV2RUZUxEV3JPQmp1NTRoLXNQTkxzZTg5eEpyd0g4Qkw4T0FEZTd6ZFg4NHFMOFR1a045LUtNaWNLcTVZbElWcGM2WF80enB2Y2FvUHJBWVAybnE1cC1OZWo0S0JfSlVLLXpQM3BMa0ZTSVQxWjRFaFFGaVliVkpkNmowcEVJVEx3SmkzYkhhNHR6YVVxLTh5a1pXNWs1ZTFXeEV3YkI0TXZpWUYzZ2FBNnAzZDFHOGZTbXZYQmtPc1FnQTVhdFA5aGtLbjlVMUJnaHBBTXVsUDBHc0N5Q2tvMGM4RjlPR1lyLW9WSElhN21CUFkzUmpDLXo4VlhnWEk1SVMxSmt4TEYxQ2NTY2pwSkRUM1RsMWs5LS1XZXJSLUVNOThELWhvOWhpeEt4RVpWckdnU1ZpZXZRaTNqWFZ6bXJ2bFJ6U3ZDckUyUFdueXkzMUR4N1o5dWRPM2xMZHVYYk0xWktoS1FGZzdCZWJvOXg4elpBY0JWM1dENEM2enBTZ1paMnowM241QksxeXBqR1lKcGpSbS0ycGlzemdFS2wxWVRQTW1xQUx5LU5JRVNPUF9oVUdFNm9xNnNoeXJNcGhlSFh5WlJlVThMQkpTRzN1MHNqbm55QWtv0gHkBEFVX3lxTE9XVXk5ZFhTQ1VRYTFCOEZ0MnFveHlFOTZRelEwZXI3NXZpVXRYQ09JZF81N1BGR1ItMWd0TEJYTW1oZDdKQUFybW5NZ0FhYzJLS3M4enFPdV9BaHlOVXZTYU40alRQRHh1SE1lQTZ1RUplT2ZNc0JVT1ZTeE5TSkRKY3FXcWNWY1p2ZWlKOElZa1c3REVHMDNseUxqR0d2RjRyaXFQVTNIdkRSWkM0OTdJWm8zdmE3dURyNXJXSDVXMFM1VlV1YWZNVmZySUlJTEVPWUdHc05wT2Z6RDhTQU9VMkhqOTZpSFhwcmZlam1USTZsYldOYzl1T2FKXzF2cC1RbzVMaWNPYks1UEFSMDFqM21jc0dpSlVlWW0tTVZDckFrajdpcmhhVnNKUnJYU2x3czJfNmw0MF9MSHdacC1WSS04SmU3U24tOE5VY2hNZTJqNzNsMlNBX2JkUW1XNHV1dmF1VlZVeUhURUtHWG82UUt2d1N4WEsxMVZYTWY2Zk5MUHNMeVNvdG9ObnNNeFVRZ2RoQmpUY29pUExQZWpiLWxYb2xidjJJd00xdHppY0FVbzFBcVRDVUxZMzVxalpuSFpnTUpjUGtLUHhlcUQ0endPUmdIdERzbmpZeklGY2tOajBCN2w0SDZhNlYyZXl2aFROUWpZTkJpSW12RlBfYWg5LTkweWdCcDRVZFdsY1daN0M2TU8wS195WnBIYjhUX3pGTW92akJiZGJ1RnotYWtuWlRnQjdRMTNtUWh0WHozS3ZNSHI4QnRPZ1Jtckc4UHdwbmZpQXA0Nm1kanh3RlZDcQ?oc=5",
       "source": "Masrawy",
@@ -269,14 +269,6 @@
       "amman": "06:35"
     },
     {
-      "title": "أسهم آسيا تتذبذب في انتظار إنفيديا والفيدرالي وعقوبات أميركا على إيران",
-      "url": "https://news.google.com/rss/articles/CBMikgZBVV95cUxOLTFhOGFkOV9YRGtEMTNGTXFwT21vSnJJT3lKTWVmTGV0R1NydFlRTF9fd0lJSWVmV0R4NExxN3ZCcHM2dU1SdVVuT1doQmxtb0hSMlgweUhyME9fVXMzWDM3dG45YkRjOE02NW5HcWRITG5Vc0VsRUY3d3RlTlJjak8wNTUtSWc1SWxCQzd2UzZVbmdiTjZIQ3RqbXhEQ3JHVW1taWk2cWVNb0M5TzJRZEFGckNXMVJ6LXR0Um80RGs0NEZQbjlSenhsS1B1NHlIOVdCRWNpM2o3V3A1RUlXSEVMQ3JiVGZDSXFaTHRmdm01czdkMUk5Z3hNTm44N29UemZDVk10MHdMTmlKYVkwRXdVcFdvdjVvS2J2VEJmcHh3RVNBaDhJYVF2bmJQSW9YcmRRdlYxT3ljeXlNQUdXblZ1bnRZRm1lZ2plV09sM3FvVm80SkpDMjJCdFRCd2xVM0VMVHpFeWRSMi1zYXBTcHlTbVR0WUhWWTFzRm0tQW5DdlhTQThQd0dsZlFGbWtCWmM5UmxjZkdTRDdzRjZENWFfUjF4QmdkUlB4cFc2eFZSSU5XUWc1UGcxNmhzcjY2WWVFOG5MU1VQY0hmd1NqZTRFRmZjaVBzODg5N1JubTFMZUJKUnEwU3FaNkktWlBodld0bHZhYTlRLWx6U0I1ek14cXZqWkthSGZIZnhLUS1ZUEtxUnloNG1YUEJONjFvOTBWM0JRMlZLVy0xcjhfZlhKYkMyRlFEMG0zdXhNeHB0QUdsaHJoVXlkU2tnd1g0NS1LYjRvbGdpSVV3YldGOXBoZFo4LUF3QUtLa3Yza2RDaEVCSlJNbGl3ekpoWG9kcGRNSllJREFHU1plaTRhVVJVUzluZG0zNnZyRDJrZ3pHRndZaWFKdGtfQUt4ZHRQWHBYT1VSNTl2dTBtSHM4bHU3TW8xcDMzdzl5VTRCY19MZFB0Ny1hX3d2ZHlmOVZSQ1Boc1JzcHprQ1dvMFNUWlNLeDhUbXFNZFppQnF0RFNfT3ZKdnV4S1hrWkhtUVJsZkE?oc=5",
-      "source": "CNN الاقتصادية",
-      "direction": "neutral",
-      "ts": "2026-08-24T02:42:16+00:00",
-      "amman": "05:42"
-    },
-    {
       "title": "ارتفاع أسعار الذهب رغم الضغوط الهائلة: ما الذي يحدث؟",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX09rcU1uZFBySGRYVGhTLXBydjVIb2lDU1RSb3JjejJQT0YtS1VmMHRsc21DOGgwOTRvTmp0cXpIUVl6bkFrWHFfVmc0Tmh0dkw2ZFZIUGdIRm5HRWY0MDJiLXFCNG52VHVTd3ZqaU9tSHI1RUg3VWhZSFkySW9La1pwRS1BZzRUaGd6czBOTHM0QQ?oc=5",
       "source": "Vietnam.vn",
@@ -291,14 +283,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T00:30:52+00:00",
       "amman": "03:30"
-    },
-    {
-      "title": "تضخم يتراجع وسوق عمل يضعف.. لماذا يتردد الفيدرالي في خفض الفائدة؟",
-      "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPV2Zld2c1SEFPMlFSWUZWZzVzemZ5RnVONzRvNmtYczFSdkQyUWVPVmJpX29ybTN0VEgxdGRIVkNrLVAyS2NRRkdueUJsN0dCOVlnbEdkMGhSMGVYYTB1U2E0YVp6bG5QV1RieUVYRFNGOE9hUmQyaXNYcE85SHhaY2NJbmUtVGxCZlN4cnJKR1ZuVURqMGJ2VlRodHRRbU11cUFyajVjS0VnWk01b3laLXpOdjBUZXdQaU1GYXR4M0xjX2tYaHBrbE5LZFE2bGlsQ25JZEhaUTZxRGoyTUNnamhVazBmT2ktMk9IaUF2S0pqc29WQzBVVFJtdFN4Q3NDMlNCd3dyZzN5a2pua3R0bVZNemtfVE9YMGNFclZMVEROZGpwSHJ5MG1iYjRiSXFqOGJNeWlBQnNBR29oa2JMWmp3?oc=5",
-      "source": "25h.app",
-      "direction": "neutral",
-      "ts": "2026-08-23T19:33:10+00:00",
-      "amman": "22:33"
     }
   ]
 }

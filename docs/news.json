@@ -1,9 +1,89 @@
 {
-  "updated_amman": "2026-08-24 18:10",
-  "count": 37,
+  "updated_amman": "2026-08-24 18:53",
+  "count": 34,
   "up": 4,
-  "down": 5,
+  "down": 8,
   "items": [
+    {
+      "title": "Shares dip on pressure from technology; yields and oil fall",
+      "url": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-24T15:47:51+00:00",
+      "amman": "18:47"
+    },
+    {
+      "title": "U.S. automakers and home builders are among the big losers as Trump launches a trade war against Canada",
+      "url": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-08-24T15:46:00+00:00",
+      "amman": "18:46"
+    },
+    {
+      "title": "Scott Bessent’s $1 Trillion Bond Market Fight — Treasury Yields Aren’t Buying It",
+      "url": "https://finance.yahoo.com/economy/policy/articles/scott-bessent-1-trillion-bond-153757594.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T15:37:57+00:00",
+      "amman": "18:37"
+    },
+    {
+      "title": "Memory Stocks Slide on Report Apple May Source Chinese Chips: SanDisk Down 9%, Micron and Western Digital Down 7%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/memory-stocks-slide-report-apple-152936889.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-24T15:29:36+00:00",
+      "amman": "18:29"
+    },
+    {
+      "title": "Ford and Stellantis Drop 4% as Trump Sets 50% Auto Tariffs on Canada, General Motors Slips",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ford-stellantis-drop-4-trump-152513257.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-24T15:25:13+00:00",
+      "amman": "18:25"
+    },
+    {
+      "title": "Inflation Is Rising Again. History Says These 2 Stocks Are Among the Smartest Places to Hide",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/inflation-rising-again-history-says-152000101.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T15:20:00+00:00",
+      "amman": "18:20"
+    },
+    {
+      "title": "The Stock Market Just Did Something for the 2nd Time in 145 Years, and History Says What Comes Next",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-just-did-something-152000174.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T15:20:00+00:00",
+      "amman": "18:20"
+    },
+    {
+      "title": "Bessent Promised to Rescue the Bond Market. It Sold Off Anyway, and That Should Worry Every Investor.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bessent-promised-rescue-bond-market-151553244.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T15:15:53+00:00",
+      "amman": "18:15"
+    },
+    {
+      "title": "انخفاض وول ستريت مع تصاعد التوترات بشأن إيران في أسبوع حاسم للأسواق",
+      "url": "https://news.google.com/rss/articles/CBMi2gVBVV95cUxQWnVJYXEyT2s2SlVvVF9POVJ3bXpfQjNMLVc3VV9fWUF5cHgtNGg1OEZJRHNranB0Wk1OQkJUVjBDUGJpdGFWM2tnZW1YaDhIMG5SOVp6SG9mdDdBUXJMM3ozSWRnTHhEQVA0ekJLZmpYSThBYm1Oa0xEWktabHVsNmxuck1JNFJ1Sjg2UmJjenhNV2k2UVgyN1FQbDE0NE9YYnA3SE9IVFRxUDVUamc4MEhjalRLY1dyTTVpV29xQjFNeWxyNFlsRmRtNHRKMS1YS0lFc3pPRVZoOXlqY1kwbm5ETGRDTEdJR3ZIOWpxcG5hdktvbktGbUNsaXd2dldmdE82dFYwMWY3Y1dWeDRUdkFnQ2NINnozeW1KelFCNjZIWDdSNXhpSU5MRzBoRzhpeFp2SVJoelFCbFRnZjNDTGFxUjlvcWluVXBwQzJZdWFsdGNkN1kxbWRWRXNCR1dkaW5rc3J4U1hoX1Vudmw5QmQxRWtFdVJYZGFTTEptMDE3T1BYWkpFSV9MNHN6QlBONk0tWTFzTWM5c1VadFJWQzRKdlJuYkZxMW1vTURoOGZkVFFRSTYxcE1SbS1DZllEMVp2a0RhX05WcW9kbFRTVW92NHZ6SEdmZUhnbDM2STJ6UTNIV203RXZJUXpvS2EweVVuR1JlXzNCQWZaOWF3T1dqcWJCajQ3V0hTR045aWxoZUVTWnZaYU5fZnM0aWpwMU5JNDd3WGNjX3VqUWJycGdjanlLUXpQQzBVWXZLdjREcDFwV1lwT1ZEbW1NREZ2M3BHUkhVdUZHbGdIRy1wVjdpS0JZZXdMUW14T0VudkJGdklZU1JGV2d1NXlCYkpTckd2VDBsMnpIMUdZMmhvek1CWF91d2NVTWJucG0wMU5NLWppa0ZrdnhlVlY3ZzNtLXR3ZDRHRXJYSGNnb3Fja013MzVPWDEwdGdjU3RNbElWN3ZXSGJlZFpB?oc=5",
+      "source": "FxNewsToday.ae",
+      "direction": "down",
+      "ts": "2026-08-24T15:07:49+00:00",
+      "amman": "18:07"
+    },
+    {
+      "title": "Dollar edges up, loonie drops after U.S. announces tariffs",
+      "url": "https://finance.yahoo.com/news/dollar-pinned-at-multi-month-lows-as-debt-nerves-unnerve-investors-084611780.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-24T15:07:00+00:00",
+      "amman": "18:07"
+    },
     {
       "title": "It’s time to bet big on Nvidia’s stock, says this analyst who thinks the market has it all wrong",
       "url": "https://www.marketwatch.com/story/its-time-to-bet-big-on-nvidias-stock-says-this-analyst-who-thinks-the-market-has-it-all-wrong-4388d3a6?mod=mw_rss_topstories",
@@ -13,44 +93,12 @@
       "amman": "18:02"
     },
     {
-      "title": "Semiconductor Stocks Slide Ahead of NVIDIA Earnings: Intel Falls 5%, AMD Slides 4%, Taiwan Semiconductor Slips 3%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/semiconductor-stocks-slide-ahead-nvidia-144350563.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-24T14:43:50+00:00",
-      "amman": "17:43"
-    },
-    {
       "title": "Stock Market Today: Dow Up As Trump Says This On Canada; Tech Hit With Micron, Nvidia Drops (Live Coverage)",
       "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
       "direction": "down",
       "ts": "2026-08-24T14:43:36+00:00",
       "amman": "17:43"
-    },
-    {
-      "title": "UBS says record earnings, not hype, are driving 'one of the most significant bull markets in history'",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/ubs-says-record-earnings-not-143400708.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T14:34:00+00:00",
-      "amman": "17:34"
-    },
-    {
-      "title": "Trump Just Cracked the Door Open to 50x Leverage on Stocks, and Wall Street Cannot Agree on What Comes Next",
-      "url": "https://finance.yahoo.com/markets/options/articles/trump-just-cracked-door-open-143049923.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T14:30:49+00:00",
-      "amman": "17:30"
-    },
-    {
-      "title": "The Smart Money Is Sending a Mixed Signal on AI Stocks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/smart-money-sending-mixed-signal-143041651.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T14:30:41+00:00",
-      "amman": "17:30"
     },
     {
       "title": "«وول ستريت» تتباين مع تراجع أسهم «الرقائق»",
@@ -69,22 +117,6 @@
       "amman": "17:07"
     },
     {
-      "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
-      "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T13:57:25+00:00",
-      "amman": "16:57"
-    },
-    {
-      "title": "Is Netflix (NFLX) a Buying Opportunity After Its Sharp Selloff?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-buying-opportunity-sharp-135013365.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-24T13:50:13+00:00",
-      "amman": "16:50"
-    },
-    {
       "title": "Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’",
       "url": "https://www.marketwatch.com/story/trump-vance-and-bessent-try-to-calm-the-bond-market-with-alternative-facts-8e424378?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -93,28 +125,12 @@
       "amman": "16:50"
     },
     {
-      "title": "Gemini Expands Prediction Market Offering",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/gemini-expands-prediction-market-offering-133800875.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T13:38:00+00:00",
-      "amman": "16:38"
-    },
-    {
       "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
       "url": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
       "source": "CNBC",
       "direction": "down",
       "ts": "2026-08-24T13:35:08+00:00",
       "amman": "16:35"
-    },
-    {
-      "title": "Here are two trades to make ahead of a critical week for markets as Nvidia results and Jackson Hole loom",
-      "url": "https://www.marketwatch.com/story/here-are-two-trades-to-make-ahead-of-a-critical-week-for-markets-as-nvidia-results-and-jackson-hole-loom-8ac3653c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-24T13:31:00+00:00",
-      "amman": "16:31"
     },
     {
       "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
@@ -131,30 +147,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T13:05:38+00:00",
       "amman": "16:05"
-    },
-    {
-      "title": "Yields are the highest they’ve been in years — but are bonds cheap enough to buy? Two strategists disagree.",
-      "url": "https://www.marketwatch.com/story/theyre-the-highest-theyve-been-in-years-but-are-bonds-cheap-enough-to-buy-here-two-strategists-disagree-348fe330?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-24T13:04:00+00:00",
-      "amman": "16:04"
-    },
-    {
-      "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
-      "url": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-24T13:02:00+00:00",
-      "amman": "16:02"
-    },
-    {
-      "title": "Tech stocks today: All eyes on Nvidia as Meta trial resumes",
-      "url": "https://finance.yahoo.com/technology/live/tech-stocks-today-all-eyes-on-nvidia-as-meta-trial-resumes-125406169.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T12:54:06+00:00",
-      "amman": "15:54"
     },
     {
       "title": "مؤشرات داو جونز وناسداك وS&P 500: نتائج Nvidia وجاكسون هول في الواجهة",
@@ -187,14 +179,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T11:12:50+00:00",
       "amman": "14:12"
-    },
-    {
-      "title": "زيادة المعروض تكبح وتيرة صعود الذهب محليًا.. وقوة الدولار تحدّ من مكاسبه عالميًا.. والجرام يسجل 6640 جنيهًا",
-      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxNNjFqN3BrT1pyRzU0dzZ6V01XYW1VZ3NxYmNfV3hJbHJDOXlhX19lTlQ1U3lWWjNEQnBFeW5fMGhZTUlzeGdkcVpuN0NFd0VBZUxOMWd4dW16dDRfaXhkQzhsX2VmbzNhOFA5S2cyX2lIWXZaZlY3aDBVSi1oQ244MUk5TnlFd3VwNmR6REpETFI5R1F6bXRmTUMzZlJnTGdkZ01iemxDeE1qTk9hdXY5Z3FqaHJGVlBfN2tSaWY1LTRCTDJIc2RLLU5lZHB6ODQzV2VBMjVCMXplVnYzQzFiNThocjJsMUUyVG0yN015eks3bjRFRmM0eU5HbFc3U0lmOGpqX0NNTVc1YlAyMWtuMzdLRU92RGFtVDl4Snlya0RweVZtUzFJbVdOeXlsY1VTQzZPS05CVU4wMXVMNkNKZGY5OHB2eG1FS0xMOGR1NVZGNmFP?oc=5",
-      "source": "صدى البلد عقارات",
-      "direction": "up",
-      "ts": "2026-08-24T10:38:05+00:00",
-      "amman": "13:38"
     },
     {
       "title": "آي صاغة: أسعار الذهب محليا أعلى من العالمي بسبب شح السيولة وإجازة الصاغة",
@@ -267,14 +251,6 @@
       "direction": "up",
       "ts": "2026-08-24T03:35:18+00:00",
       "amman": "06:35"
-    },
-    {
-      "title": "أسهم آسيا تتذبذب في انتظار إنفيديا والفيدرالي وعقوبات أميركا على إيران",
-      "url": "https://news.google.com/rss/articles/CBMikgZBVV95cUxOLTFhOGFkOV9YRGtEMTNGTXFwT21vSnJJT3lKTWVmTGV0R1NydFlRTF9fd0lJSWVmV0R4NExxN3ZCcHM2dU1SdVVuT1doQmxtb0hSMlgweUhyME9fVXMzWDM3dG45YkRjOE02NW5HcWRITG5Vc0VsRUY3d3RlTlJjak8wNTUtSWc1SWxCQzd2UzZVbmdiTjZIQ3RqbXhEQ3JHVW1taWk2cWVNb0M5TzJRZEFGckNXMVJ6LXR0Um80RGs0NEZQbjlSenhsS1B1NHlIOVdCRWNpM2o3V3A1RUlXSEVMQ3JiVGZDSXFaTHRmdm01czdkMUk5Z3hNTm44N29UemZDVk10MHdMTmlKYVkwRXdVcFdvdjVvS2J2VEJmcHh3RVNBaDhJYVF2bmJQSW9YcmRRdlYxT3ljeXlNQUdXblZ1bnRZRm1lZ2plV09sM3FvVm80SkpDMjJCdFRCd2xVM0VMVHpFeWRSMi1zYXBTcHlTbVR0WUhWWTFzRm0tQW5DdlhTQThQd0dsZlFGbWtCWmM5UmxjZkdTRDdzRjZENWFfUjF4QmdkUlB4cFc2eFZSSU5XUWc1UGcxNmhzcjY2WWVFOG5MU1VQY0hmd1NqZTRFRmZjaVBzODg5N1JubTFMZUJKUnEwU3FaNkktWlBodld0bHZhYTlRLWx6U0I1ek14cXZqWkthSGZIZnhLUS1ZUEtxUnloNG1YUEJONjFvOTBWM0JRMlZLVy0xcjhfZlhKYkMyRlFEMG0zdXhNeHB0QUdsaHJoVXlkU2tnd1g0NS1LYjRvbGdpSVV3YldGOXBoZFo4LUF3QUtLa3Yza2RDaEVCSlJNbGl3ekpoWG9kcGRNSllJREFHU1plaTRhVVJVUzluZG0zNnZyRDJrZ3pHRndZaWFKdGtfQUt4ZHRQWHBYT1VSNTl2dTBtSHM4bHU3TW8xcDMzdzl5VTRCY19MZFB0Ny1hX3d2ZHlmOVZSQ1Boc1JzcHprQ1dvMFNUWlNLeDhUbXFNZFppQnF0RFNfT3ZKdnV4S1hrWkhtUVJsZkE?oc=5",
-      "source": "CNN الاقتصادية",
-      "direction": "neutral",
-      "ts": "2026-08-24T02:42:16+00:00",
-      "amman": "05:42"
     },
     {
       "title": "ارتفاع أسعار الذهب رغم الضغوط الهائلة: ما الذي يحدث؟",

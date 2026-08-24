@@ -1,12 +1,12 @@
 {
-  "updated_ny": "2026-08-24 17:01:00",
-  "updated_amman": "2026-08-25 00:01:00",
+  "updated_ny": "2026-08-24 17:32:46",
+  "updated_amman": "2026-08-25 00:32:46",
   "session_date": "2026-08-24",
-  "requested": 92,
-  "scanned": 91,
+  "requested": 91,
+  "scanned": 90,
   "waiting": 1,
   "buy_count": 30,
-  "sell_count": 22,
+  "sell_count": 21,
   "active_today": [
     "AAL",
     "ACHR",
@@ -25,10 +25,10 @@
     "PATH",
     "PLUG",
     "RIG",
-    "SAN",
     "SMCI",
     "SMR",
     "SNAP",
+    "SOFI",
     "SPCX",
     "TSLA",
     "VALE",
@@ -4218,47 +4218,6 @@
       "active": false
     },
     {
-      "ticker": "SAN",
-      "session_date": "2026-08-24",
-      "state": -1,
-      "price": 14.7,
-      "open_high": 14.74,
-      "open_low": 14.69,
-      "open_range": 0.05,
-      "vwap": 14.72,
-      "ema200": 14.6,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -0.07,
-      "volume": 25915440,
-      "targets": [
-        14.84,
-        14.94,
-        15.04,
-        15.14,
-        15.24
-      ],
-      "targets_hit": 0,
-      "next_target": 14.84,
-      "next_target_pct": 0.95,
-      "last_signal_time": "11:30",
-      "bars_since_signal": 53,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:45",
-          "price": 14.77
-        },
-        {
-          "kind": "Sell",
-          "time": "11:30",
-          "price": 14.75
-        }
-      ],
-      "active": true
-    },
-    {
       "ticker": "SBUX",
       "session_date": "2026-08-24",
       "state": 0,
@@ -4515,7 +4474,7 @@
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
-      "active": false
+      "active": true
     },
     {
       "ticker": "SPCX",

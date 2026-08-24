@@ -1,9 +1,33 @@
 {
-  "updated_amman": "2026-08-24 20:28",
-  "count": 35,
-  "up": 6,
-  "down": 7,
+  "updated_amman": "2026-08-24 20:57",
+  "count": 31,
+  "up": 7,
+  "down": 4,
   "items": [
+    {
+      "title": "Warren Buffett's Favorite 'Forever' Stock Hits A High After Big Rally",
+      "url": "https://www.investors.com/news/warren-buffett-coca-cola-stock-favorite-forever-holding/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-24T17:40:10+00:00",
+      "amman": "20:40"
+    },
+    {
+      "title": "Bitcoin Surges On Treasury Game-Changer; Strategy Raises $2 Bil",
+      "url": "https://www.investors.com/news/bitcoin-price-bessent-treasury-general-account-strategy/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-24T17:39:21+00:00",
+      "amman": "20:39"
+    },
+    {
+      "title": "Fisher Brothers Taps Israeli Bond Market for Office Buyout",
+      "url": "https://finance.yahoo.com/real-estate/articles/fisher-brothers-taps-israeli-bond-173634521.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T17:36:34+00:00",
+      "amman": "20:36"
+    },
     {
       "title": "AI Infrastructure Stocks Surge: How Long Can CoreWeave (CRWV) and Super Micro Computer (SMCI) Keep It Up?",
       "url": "https://finance.yahoo.com/technology/ai/articles/ai-infrastructure-stocks-surge-long-172411864.html",
@@ -19,14 +43,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T17:22:10+00:00",
       "amman": "20:22"
-    },
-    {
-      "title": "The Nasdaq Slips as Micron Falls 6% to Kick Off Nvidia's Big Week",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-slips-micron-falls-6-170943624.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-24T17:09:43+00:00",
-      "amman": "20:09"
     },
     {
       "title": "Stock Market Today: Dow Up As Trump Makes This Canada Warning; Steel Gains Melt (Live Coverage)",
@@ -53,36 +69,12 @@
       "amman": "19:52"
     },
     {
-      "title": "U.S. Stocks Mixed With Nasdaq Slipping on Weakness in Tech Sector",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-lower-weakness-110900822.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T16:49:00+00:00",
-      "amman": "19:49"
-    },
-    {
       "title": "مع اقتراب سعر الذهب من 4700 دولار، ما الذي أدى إلى هذا الارتفاع المفاجئ في أسعار الذهب؟",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTk5TRmZmMnI2SjlqUjY2b2xjOVNxdnBfYldRMUlRM0VpT1pXdk9rNlZhcjhfd21FN3VwTjdvRWN4b09VQXZJbS0wT01hckFSZlViME52enRHcElrLXJVYXVaRGNlQ0g3VE1ta3IwNkMweXZVQnZ5Z292aWM1bEZVY2dmQ3dYaFdpN2d6UzJ2Ykw?oc=5",
       "source": "Vietnam.vn",
       "direction": "up",
       "ts": "2026-08-24T16:44:39+00:00",
       "amman": "19:44"
-    },
-    {
-      "title": "Why Is QBTS Stock Dropping While Its Quantum Order Book Explodes?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-qbts-stock-dropping-while-164338482.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-24T16:43:38+00:00",
-      "amman": "19:43"
-    },
-    {
-      "title": "Stock Market Midday, Aug. 24: Dow Edges Higher as Chip Weakness Pressures Nasdaq",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-aug-24-163502736.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T16:35:02+00:00",
-      "amman": "19:35"
     },
     {
       "title": "President Trump’s Portfolio Added 2 Stocks Bill Gates and Bill Ackman Also Own",
@@ -99,22 +91,6 @@
       "direction": "down",
       "ts": "2026-08-24T16:07:37+00:00",
       "amman": "19:07"
-    },
-    {
-      "title": "Shares dip on pressure from technology; yields and oil fall",
-      "url": "https://finance.yahoo.com/news/shares-flat-asia-iran-sanctions-004936320.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-24T15:47:51+00:00",
-      "amman": "18:47"
-    },
-    {
-      "title": "U.S. automakers and home builders are among the big losers as Trump launches a trade war against Canada",
-      "url": "https://www.marketwatch.com/story/u-s-automakers-and-home-builders-are-among-the-big-losers-as-trump-launches-a-trade-war-against-canada-063c1d4c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "up",
-      "ts": "2026-08-24T15:46:00+00:00",
-      "amman": "18:46"
     },
     {
       "title": "انخفاض وول ستريت مع تصاعد التوترات بشأن إيران في أسبوع حاسم للأسواق",
@@ -189,14 +165,6 @@
       "amman": "14:18"
     },
     {
-      "title": "الذهب أعلى من 3 أشهر، السوق تنتظر بيانات التضخم الأمريكية وخطاب بنك الاحتياطي الفيدرالي",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xU2d3R1FjeDdLWDg2TkxrMDVsMUtPUWI1MnZlV0dYTXVRWGJwWFlYb3RJWUhLTmtqbG5xV3ZtbEtUOHhicklWMtIBQkFVX3lxTE9rVFBjOWQ1cVhCeTJaMkFXUnF0MEZKenZSYjU1WXoxNkUxblVrMHBqbjRXajNmOVFFUlN2YzFyTlJRUQ?oc=5",
-      "source": "VOI.ID",
-      "direction": "neutral",
-      "ts": "2026-08-24T11:12:50+00:00",
-      "amman": "14:12"
-    },
-    {
       "title": "آي صاغة: أسعار الذهب محليا أعلى من العالمي بسبب شح السيولة وإجازة الصاغة",
       "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOZGl5QzRPMlJkVmVUMk1jZnpYdzRudlFnYmV2dVBMS0FzbEVYMWwwSkd6VG01TnJPdHhpVzRpQWl1RG5aVEJQZVFWRHRvSV9PWHRTQWZCam1EZVA5SjhONHZxelNRR0R1SW9RbUtROURlNDhZQll0M3NGdXlyamQ0NEVQNkpuN0VnVXFYV2RUZUxEV3JPQmp1NTRoLXNQTkxzZTg5eEpyd0g4Qkw4T0FEZTd6ZFg4NHFMOFR1a045LUtNaWNLcTVZbElWcGM2WF80enB2Y2FvUHJBWVAybnE1cC1OZWo0S0JfSlVLLXpQM3BMa0ZTSVQxWjRFaFFGaVliVkpkNmowcEVJVEx3SmkzYkhhNHR6YVVxLTh5a1pXNWs1ZTFXeEV3YkI0TXZpWUYzZ2FBNnAzZDFHOGZTbXZYQmtPc1FnQTVhdFA5aGtLbjlVMUJnaHBBTXVsUDBHc0N5Q2tvMGM4RjlPR1lyLW9WSElhN21CUFkzUmpDLXo4VlhnWEk1SVMxSmt4TEYxQ2NTY2pwSkRUM1RsMWs5LS1XZXJSLUVNOThELWhvOWhpeEt4RVpWckdnU1ZpZXZRaTNqWFZ6bXJ2bFJ6U3ZDckUyUFdueXkzMUR4N1o5dWRPM2xMZHVYYk0xWktoS1FGZzdCZWJvOXg4elpBY0JWM1dENEM2enBTZ1paMnowM241QksxeXBqR1lKcGpSbS0ycGlzemdFS2wxWVRQTW1xQUx5LU5JRVNPUF9oVUdFNm9xNnNoeXJNcGhlSFh5WlJlVThMQkpTRzN1MHNqbm55QWtv0gHkBEFVX3lxTE9XVXk5ZFhTQ1VRYTFCOEZ0MnFveHlFOTZRelEwZXI3NXZpVXRYQ09JZF81N1BGR1ItMWd0TEJYTW1oZDdKQUFybW5NZ0FhYzJLS3M4enFPdV9BaHlOVXZTYU40alRQRHh1SE1lQTZ1RUplT2ZNc0JVT1ZTeE5TSkRKY3FXcWNWY1p2ZWlKOElZa1c3REVHMDNseUxqR0d2RjRyaXFQVTNIdkRSWkM0OTdJWm8zdmE3dURyNXJXSDVXMFM1VlV1YWZNVmZySUlJTEVPWUdHc05wT2Z6RDhTQU9VMkhqOTZpSFhwcmZlam1USTZsYldOYzl1T2FKXzF2cC1RbzVMaWNPYks1UEFSMDFqM21jc0dpSlVlWW0tTVZDckFrajdpcmhhVnNKUnJYU2x3czJfNmw0MF9MSHdacC1WSS04SmU3U24tOE5VY2hNZTJqNzNsMlNBX2JkUW1XNHV1dmF1VlZVeUhURUtHWG82UUt2d1N4WEsxMVZYTWY2Zk5MUHNMeVNvdG9ObnNNeFVRZ2RoQmpUY29pUExQZWpiLWxYb2xidjJJd00xdHppY0FVbzFBcVRDVUxZMzVxalpuSFpnTUpjUGtLUHhlcUQ0endPUmdIdERzbmpZeklGY2tOajBCN2w0SDZhNlYyZXl2aFROUWpZTkJpSW12RlBfYWg5LTkweWdCcDRVZFdsY1daN0M2TU8wS195WnBIYjhUX3pGTW92akJiZGJ1RnotYWtuWlRnQjdRMTNtUWh0WHozS3ZNSHI4QnRPZ1Jtckc4UHdwbmZpQXA0Nm1kanh3RlZDcQ?oc=5",
       "source": "Masrawy",
@@ -227,14 +195,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T08:50:00+00:00",
       "amman": "11:50"
-    },
-    {
-      "title": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada trade spat escalates",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T08:03:06+00:00",
-      "amman": "11:03"
     },
     {
       "title": "أسعار الذهب اليوم، 24 أغسطس: ارتفاع حاد في أسعار الذهب، مقترباً من 4650 دولارًا للأونصة.",
@@ -283,6 +243,14 @@
       "direction": "neutral",
       "ts": "2026-08-24T00:30:52+00:00",
       "amman": "03:30"
+    },
+    {
+      "title": "الفيدرالي الأمريكي أمام معضلة سبتمبر.. التضخم يتراجع وسوق العمل يضع خفض الفائدة على الطاولة",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQY204Z29WSGN3UUlNWHBiWld6Y0MweGQ0RG13M09FR3JoZ2FYcE5CR0hhRjJlN1N6QXFYaFVMNUxHVWZXUldiZEpmNVNWV281YkpIU3MxUlczajQ3bm1kSHhOLTVyNmNVR29GWmRFT3Rza19FTkhWb3NxNXY2eDlFLVpDTng3bUFHS0tUT3ZlSm0yN09wdEM1cWRnaE1seHJialVCNVp2VV9MV2FBQWJzNlB6ZTJSdi1QVUJQemdadUQ3VmRvd21NTTBlLVZuM2czLWxkSWc5Z05wUUViWElUQXBxX0RGejFwNlA2OXBB?oc=5",
+      "source": "الجريدة العقارية",
+      "direction": "neutral",
+      "ts": "2026-08-23T19:19:07+00:00",
+      "amman": "22:19"
     }
   ]
 }

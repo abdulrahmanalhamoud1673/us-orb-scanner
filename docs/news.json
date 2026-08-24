@@ -1,9 +1,65 @@
 {
-  "updated_amman": "2026-08-24 16:48",
-  "count": 39,
-  "up": 7,
-  "down": 4,
+  "updated_amman": "2026-08-24 17:27",
+  "count": 37,
+  "up": 5,
+  "down": 3,
   "items": [
+    {
+      "title": "«وول ستريت» تتباين مع تراجع أسهم «الرقائق»",
+      "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxOQ2t2Y1o1VDVFdW9Dek5Lb0pzZ2lUNTRnSkVLa2l0V1BZMXduWlJ6LTdUbXZiUTVlNzUwdGJiZElfdEhMaFNtdFAza081cWZCUnRFTVRHT0lJaVF5Y3EtR0NKbjcxUzVFU2MxUVRVdkxNbng0YWMtdEpFQXRuQUFjQzE4aWJ5Rk1HVnRZMzMtS2RYUjB1SlpIM1Y0UFRobWFiTzVtUnQ3MnZPamswUThRbU9wbDFwTWNMZWhmU1NFM2NCdHVNRzJUMlRNY3NlVW9mOHEzclVlZXItQmpaZkFqZmlCZWJmdk1Yc193UzdIZDIxMURqMkFrNmdvZEhQR1EycmIxSVBYOHN0VmZJNjQ2RkExNDhTc1FkaXBoS29UU1BNbjlPU2oyX2dEVlVaMzlGTXoxLWtvLXJNM3FSc3MyOWJLOS1EdDVQRUhDUnlxM3RMck8wMDBwR1g3OHZMampEdi1EWHpqbHpkRklQU2M3NnpZbmFkNFBwQTIyWTlHQnFKdEtQaTdQTTRDNkpsSFJHblZRaUZNWFNKSy1Ua1NqMFlUWFBfMS1NemNRWmpxWTN6Rmk0TjlmVVZ2UEJUY3V4bkZEYjJ5eC1faTd1SzZkZmMzeUJMNjBrWUE2dW1Gc0VoZFVrdk5IeDZKTUJWMUZGQ2dkOHlkaTJCdWdCRGRndm5pbXEzbEFvUWxacHNYR0RQZw?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "down",
+      "ts": "2026-08-24T14:12:35+00:00",
+      "amman": "17:12"
+    },
+    {
+      "title": "Treasure Yields Fall, Gold Rises On Bessent's $1 Trillion Warning",
+      "url": "https://www.investors.com/news/10-year-treasury-yield-gold-price-bessent-general-account-federal-reserve/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T14:07:50+00:00",
+      "amman": "17:07"
+    },
+    {
+      "title": "U.S. Stocks Mixed With Nasdaq Slipping on Weakness in Tech Sector",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-lower-weakness-110900822.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T14:00:00+00:00",
+      "amman": "17:00"
+    },
+    {
+      "title": "Semiconductor stocks drag S&P 500, Nasdaq lower: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/semiconductor-stocks-drag-sp-500-nasdaq-lower-alphacheck-135725875.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T13:57:25+00:00",
+      "amman": "16:57"
+    },
+    {
+      "title": "Is Netflix (NFLX) a Buying Opportunity After Its Sharp Selloff?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-buying-opportunity-sharp-135013365.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-24T13:50:13+00:00",
+      "amman": "16:50"
+    },
+    {
+      "title": "Trump, Vance and Bessent try to calm the bond market with ‘alternative facts’",
+      "url": "https://www.marketwatch.com/story/trump-vance-and-bessent-try-to-calm-the-bond-market-with-alternative-facts-8e424378?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-24T13:50:00+00:00",
+      "amman": "16:50"
+    },
+    {
+      "title": "Stock Market Today: Dow Rises Ahead of 'Economic D-Day'; Micron, Sandisk Dive (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-24T13:49:34+00:00",
+      "amman": "16:49"
+    },
     {
       "title": "Gemini Expands Prediction Market Offering",
       "url": "https://finance.yahoo.com/markets/crypto/articles/gemini-expands-prediction-market-offering-133800875.html",
@@ -19,30 +75,6 @@
       "direction": "down",
       "ts": "2026-08-24T13:35:08+00:00",
       "amman": "16:35"
-    },
-    {
-      "title": "With the Market Reaching Record Highs, Should You Sell Your Stocks? Historical Data Offers a Crystal-Clear Answer.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/market-reaching-record-highs-sell-133500442.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-24T13:35:00+00:00",
-      "amman": "16:35"
-    },
-    {
-      "title": "Strive Jumps 5% as CEO Declares the Bitcoin Bear Market Over, Strategy and Bitmine Rise 3%",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/strive-jumps-5-ceo-declares-133449226.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-24T13:34:49+00:00",
-      "amman": "16:34"
-    },
-    {
-      "title": "U.S. Steel Stocks Nucor, Steel Dynamics Rally As Canada Trade Talks Collapse",
-      "url": "https://www.investors.com/news/u-s-steel-stocks-nucor-steel-dynamics-canada-trade-talks-collapse/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-24T13:34:42+00:00",
-      "amman": "16:34"
     },
     {
       "title": "Here are two trades to make ahead of a critical week for markets as Nvidia results and Jackson Hole loom",
@@ -61,38 +93,6 @@
       "amman": "16:29"
     },
     {
-      "title": "Anthropic Wants Investors to Buy Into a $2 Trillion Dream—But a Wall Street Veteran Says SpaceX’s IPO Offers a Warning for AI Investors (UPDATED)",
-      "url": "https://finance.yahoo.com/technology/ai/articles/exclusive-anthropics-2-trillion-valuation-130029619.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-24T13:23:14+00:00",
-      "amman": "16:23"
-    },
-    {
-      "title": "Bessent Quietly Built a $950 Billion War Chest Sitting In An Account At The Fed. Now We Know What It’s For",
-      "url": "https://finance.yahoo.com/economy/policy/articles/bessent-quietly-built-950-billion-132130268.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T13:21:30+00:00",
-      "amman": "16:21"
-    },
-    {
-      "title": "Can XRP Be Used With FedNow Through Volante? Here’s What the Evidence Reveals",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/xrp-used-fednow-volante-evidence-132034537.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T13:20:34+00:00",
-      "amman": "16:20"
-    },
-    {
-      "title": "Wendy’s Names Tariq Hassan Chief Marketing and Customer Growth Officer",
-      "url": "https://finance.yahoo.com/media-advertising/articles/wendy-names-tariq-hassan-chief-132000448.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T13:20:00+00:00",
-      "amman": "16:20"
-    },
-    {
       "title": "Bessent could tap near $1 trillion Treasury General Account to fund bond buybacks, sources said",
       "url": "https://www.cnbc.com/2026/08/24/bessent-1-trillion-treasury-general-account-bond-buybacks.html",
       "source": "CNBC",
@@ -101,12 +101,12 @@
       "amman": "16:17"
     },
     {
-      "title": "U.S. Stocks Set for Cautious Open Ahead of Nvidia Earnings and Jackson Hole: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stocks-set-cautious-open-131715232.html",
+      "title": "Cathie Wood's ARK Goes On $27 Million SpaceX Shopping Spree",
+      "url": "https://www.investors.com/news/cathie-wood-spacex-tesla-ark-invest-etf/?src=A00220&yptr=yahoo",
       "source": "Yahoo Finance",
       "direction": "neutral",
-      "ts": "2026-08-24T13:17:15+00:00",
-      "amman": "16:17"
+      "ts": "2026-08-24T13:16:17+00:00",
+      "amman": "16:16"
     },
     {
       "title": "Bitcoin and ethereum prices today, Monday, August 24, 2026: Prices rising, as investors look for more Fed clues this week",
@@ -125,14 +125,6 @@
       "amman": "16:04"
     },
     {
-      "title": "Cathie Wood's ARK Goes On $27 Million SpaceX Shopping Spree",
-      "url": "https://www.investors.com/news/cathie-wood-spacex-tesla-ark-invest-etf/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T13:03:10+00:00",
-      "amman": "16:03"
-    },
-    {
       "title": "The Treasury’s bond-market intervention isn’t working. So what comes next?",
       "url": "https://www.marketwatch.com/story/the-treasurys-bond-market-intervention-isnt-working-so-what-comes-next-ba5e132a?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -147,14 +139,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T12:54:06+00:00",
       "amman": "15:54"
-    },
-    {
-      "title": "Stock Market Today: Dow Falls Ahead of 'Economic D-Day'; Alibaba Slides On Offering (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-economic-d-day-alibaba-stock-baba/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-08-24T12:53:27+00:00",
-      "amman": "15:53"
     },
     {
       "title": "مؤشرات داو جونز وناسداك وS&P 500: نتائج Nvidia وجاكسون هول في الواجهة",
@@ -173,20 +157,12 @@
       "amman": "15:37"
     },
     {
-      "title": "Nasdaq (NDAQ) Has Quietly Built a More Durable Business Beyond Trading",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-ndaq-quietly-built-more-123537840.html",
-      "source": "Yahoo Finance",
+      "title": "وول ستريت تحت الضغط.. عوائد السندات وإنفيديا وإيران ترسم ملامح أسبوع حاسم بواسطة Arincen",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SY1VPSWRyc0tCenZ1WEF6cmZFOEZ4NlBMd25mX2FHWU8zb3VCdjNEQTFsRWFtSU1BUHlYREZwNUxlZHpJN1dxajViZm1vb21PazZNZGtqX0h6NWl1Mm9zWU5UZERBd2N6aDRSbHhjaC0?oc=5",
+      "source": "Investing.com",
       "direction": "neutral",
-      "ts": "2026-08-24T12:35:37+00:00",
-      "amman": "15:35"
-    },
-    {
-      "title": "This market shift resembles the post–World War II era — and bond yields have room to go higher, says Morgan Stanley",
-      "url": "https://www.marketwatch.com/story/the-post-world-war-ii-market-shift-is-here-and-bond-yields-could-have-higher-to-go-says-morgan-stanley-9381532c?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-24T12:10:00+00:00",
-      "amman": "15:10"
+      "ts": "2026-08-24T11:18:00+00:00",
+      "amman": "14:18"
     },
     {
       "title": "الذهب أعلى من 3 أشهر، السوق تنتظر بيانات التضخم الأمريكية وخطاب بنك الاحتياطي الفيدرالي",
@@ -197,12 +173,12 @@
       "amman": "14:12"
     },
     {
-      "title": "قلق سوق السندات يرفع التوقعات مع أول خطاب لرئيس الاحتياطي الفيدرالي الأمريكي",
-      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxPanVieWprNVdZOGJ4VDM2RGtJd1NEWE1nRmdZdm1LS2tBVGZBWUNRT1lPRF9FOHNKMXNGLXI3eVgxYUoybWpwWDBZdlg4N2NtSFF4QlFWX0EtYVFCQXRxM0lPME44X3p1WHJtQ0RRcllhRGowSWpyYlVBMktKYnhJa3pQWGZ1Z3VqTThoOXVNa1JBbUw5RDVLTTI4SEpJNHJGakNpRnAxUHFsNTlTNE16VnJ6RHEzRDYtLVJ4eUtFemFrTmZvM245NDZiSVZJUlM2MmJpMVJFVWs1UHdlWG96SF81ZmNsaktIRXZpRW1iR25lbTQ2NHhLMEM4OGItbTBHbWxHYlZVc2xZT0NlUS1RbnBQamhFZGxwV0Z2NDVMYTc1c055RWNYMTdzT2RyVjMxVFNtVWRWNGFZZjdpcXc?oc=5",
-      "source": "جريدة المال",
-      "direction": "down",
-      "ts": "2026-08-24T11:05:47+00:00",
-      "amman": "14:05"
+      "title": "خطاب وورش في جاكسون هول يضع استقلالية الفيدرالي والفائدة تحت المجهر",
+      "url": "https://news.google.com/rss/articles/CBMiuwRBVV95cUxQcmJJQ3RLbG8wdWRBZkIwRm9LVXJmSXQ0bzdFWnhyVTE5MV9tSXd3Y0hiRHJoVGVXY1NJQjNuTFBsa19pRWc0eTNOaXM3RFZrcVRIRXFaRVAxNkgwWGk3SG91QUJkbUllNWl3eE05LTNzNmZncmZvN3ZsQTVPNkZGVHhWZlJ1Z0E1OWdsSm9Ta1BENnlWZk43TEplY19OSk91QzFoU29ZelZhZUM5WS01emNrWms3M3pZdWZMbFZEUldlaVRCcmYxN013SEdJdkdLeDB1RkpLekVzekIzWk1kYTQzcUFLTlZwc1V2SkJMYU9vYWNQTEFWWjNGWG01WjhEaWtKZGYzRTdQeS1feEFkLXVOUEMwaUdHZDZqNXh0MjdJeFVSeTJSLXNRdU9oS19lbGpxRkFuNmZLRi1IOG1IOHh2R1pLQ2puVTlTR2t2NjhJQWF6Wm9TS180RGZ5WDBCS1B5ejZSMU5DaDlBOFRYLXFRdzE3OWg4S1dURzZwWV9BMi03T2dHTmllTHhhQlFfclZSR3R2OEU3a3BUeF8xLU9wWWlhQUJvYmJUTEdhNDhlSGQwWkFZb1hua3Jac2FIaGNxNEFKTXlSUk44ZDhtVXRfY1hCay0wRzBSM1ZKVFluT2hxWE02X184WWMxQzhkY3lTcjZGaUo5WXQxWWRaazcyc2hENDRBM3dmVDBHU0RSbDREMk9Dc1Y4MmRjVXpXOTZsbjBVVEN5WjdiMzlsZkpkSDJuT0tvTFVj?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "neutral",
+      "ts": "2026-08-24T10:51:47+00:00",
+      "amman": "13:51"
     },
     {
       "title": "زيادة المعروض تكبح وتيرة صعود الذهب محليًا.. وقوة الدولار تحدّ من مكاسبه عالميًا.. والجرام يسجل 6640 جنيهًا",
@@ -221,16 +197,16 @@
       "amman": "13:21"
     },
     {
-      "title": "Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-24-2026-purchase-and-refi-rates-prove-shopping-matters-100000358.html",
+      "title": "Best high-yield savings interest rates today, Monday, August 24, 2026: Earn up to 4.15% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-24-2026-earn-up-to-415-apy-100000361.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-24T10:00:00+00:00",
       "amman": "13:00"
     },
     {
-      "title": "Best high-yield savings interest rates today, Monday, August 24, 2026: Earn up to 4.15% APY",
-      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-high-yield-savings-interest-rates-today-monday-august-24-2026-earn-up-to-415-apy-100000361.html",
+      "title": "Mortgage and refinance rates today, Monday, August 24, 2026: Purchase and refi rates prove shopping matters",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-monday-august-24-2026-purchase-and-refi-rates-prove-shopping-matters-100000358.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
       "ts": "2026-08-24T10:00:00+00:00",
@@ -243,6 +219,14 @@
       "direction": "neutral",
       "ts": "2026-08-24T08:50:00+00:00",
       "amman": "11:50"
+    },
+    {
+      "title": "Stock market today: S&P 500, Nasdaq slip as tech stocks sag, US-Canada talks break down",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-august-24-dow-sp-500-nasdaq-080306047.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-24T08:03:06+00:00",
+      "amman": "11:03"
     },
     {
       "title": "أسعار الذهب اليوم، 24 أغسطس: ارتفاع حاد في أسعار الذهب، مقترباً من 4650 دولارًا للأونصة.",
@@ -285,12 +269,12 @@
       "amman": "06:35"
     },
     {
-      "title": "Gold, silver rally off ugly crash, but investors remain on edge",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/gold-silver-rally-off-ugly-013700131.html",
-      "source": "Yahoo Finance",
+      "title": "أسهم آسيا تتذبذب في انتظار إنفيديا والفيدرالي وعقوبات أميركا على إيران",
+      "url": "https://news.google.com/rss/articles/CBMikgZBVV95cUxOLTFhOGFkOV9YRGtEMTNGTXFwT21vSnJJT3lKTWVmTGV0R1NydFlRTF9fd0lJSWVmV0R4NExxN3ZCcHM2dU1SdVVuT1doQmxtb0hSMlgweUhyME9fVXMzWDM3dG45YkRjOE02NW5HcWRITG5Vc0VsRUY3d3RlTlJjak8wNTUtSWc1SWxCQzd2UzZVbmdiTjZIQ3RqbXhEQ3JHVW1taWk2cWVNb0M5TzJRZEFGckNXMVJ6LXR0Um80RGs0NEZQbjlSenhsS1B1NHlIOVdCRWNpM2o3V3A1RUlXSEVMQ3JiVGZDSXFaTHRmdm01czdkMUk5Z3hNTm44N29UemZDVk10MHdMTmlKYVkwRXdVcFdvdjVvS2J2VEJmcHh3RVNBaDhJYVF2bmJQSW9YcmRRdlYxT3ljeXlNQUdXblZ1bnRZRm1lZ2plV09sM3FvVm80SkpDMjJCdFRCd2xVM0VMVHpFeWRSMi1zYXBTcHlTbVR0WUhWWTFzRm0tQW5DdlhTQThQd0dsZlFGbWtCWmM5UmxjZkdTRDdzRjZENWFfUjF4QmdkUlB4cFc2eFZSSU5XUWc1UGcxNmhzcjY2WWVFOG5MU1VQY0hmd1NqZTRFRmZjaVBzODg5N1JubTFMZUJKUnEwU3FaNkktWlBodld0bHZhYTlRLWx6U0I1ek14cXZqWkthSGZIZnhLUS1ZUEtxUnloNG1YUEJONjFvOTBWM0JRMlZLVy0xcjhfZlhKYkMyRlFEMG0zdXhNeHB0QUdsaHJoVXlkU2tnd1g0NS1LYjRvbGdpSVV3YldGOXBoZFo4LUF3QUtLa3Yza2RDaEVCSlJNbGl3ekpoWG9kcGRNSllJREFHU1plaTRhVVJVUzluZG0zNnZyRDJrZ3pHRndZaWFKdGtfQUt4ZHRQWHBYT1VSNTl2dTBtSHM4bHU3TW8xcDMzdzl5VTRCY19MZFB0Ny1hX3d2ZHlmOVZSQ1Boc1JzcHprQ1dvMFNUWlNLeDhUbXFNZFppQnF0RFNfT3ZKdnV4S1hrWkhtUVJsZkE?oc=5",
+      "source": "CNN الاقتصادية",
       "direction": "neutral",
-      "ts": "2026-08-24T01:37:00+00:00",
-      "amman": "04:37"
+      "ts": "2026-08-24T02:03:08+00:00",
+      "amman": "05:03"
     },
     {
       "title": "ارتفاع أسعار الذهب رغم الضغوط الهائلة: ما الذي يحدث؟",

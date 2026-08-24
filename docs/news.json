@@ -1,7 +1,7 @@
 {
-  "updated_amman": "2026-08-24 22:10",
-  "count": 24,
-  "up": 3,
+  "updated_amman": "2026-08-24 22:40",
+  "count": 23,
+  "up": 2,
   "down": 5,
   "items": [
     {
@@ -11,6 +11,14 @@
       "direction": "neutral",
       "ts": "2026-08-24T19:03:00+00:00",
       "amman": "22:03"
+    },
+    {
+      "title": "محللون لـ أرقام: تثبيت الفائدة الأقرب في أول اجتماع بقيادة وارش.. والتضخم يُبقي التشديد مطروحاً",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VcEU1QXVlRU41UlM1b2dEZExJZWlSc3pKOEhVMEFBVWxmNHM1cXJMM1JDaU9DYnhEVTBnTk9SdzFpSXc0VUM2LUtLU1QxWlNmd0pLdERnYU1FMnJtczgzQzF4d1doUnZhcXc?oc=5",
+      "source": "ارقام",
+      "direction": "neutral",
+      "ts": "2026-08-24T18:19:14+00:00",
+      "amman": "21:19"
     },
     {
       "title": "Here’s how overvalued the stock market really is",
@@ -43,14 +51,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T17:22:10+00:00",
       "amman": "20:22"
-    },
-    {
-      "title": "Bessent tapping Treasury’s rainy-day fund for buybacks isn’t a ‘bazooka’ to get markets to move his way",
-      "url": "https://www.marketwatch.com/story/bessent-tapping-treasurys-rainy-day-fund-for-buybacks-isnt-a-bazooka-to-get-markets-to-move-his-way-705ca356?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-24T16:52:00+00:00",
-      "amman": "19:52"
     },
     {
       "title": "مع اقتراب سعر الذهب من 4700 دولار، ما الذي أدى إلى هذا الارتفاع المفاجئ في أسعار الذهب؟",
@@ -155,14 +155,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T08:50:00+00:00",
       "amman": "11:50"
-    },
-    {
-      "title": "أسعار الذهب اليوم، 24 أغسطس: ارتفاع حاد في أسعار الذهب، مقترباً من 4650 دولارًا للأونصة.",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVDkzb0RuNjVjdzMwVzlzclhIS1pRdk5ZTUtLVVNEVHJ1RldyelFKdlhuWThMdGp1NHQ4RkZQcXFUMnZSVmZIQWI1MzNDWkdWcUtVNm1IMFIyTDRTQlRyN2tWVmx2Qm9ac2YxRTQ3dnFMVmRVb3RObl9YLVdJcVl0OXI0bmR0YU45aUk1NzlvUW1pNWs?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "up",
-      "ts": "2026-08-24T07:44:44+00:00",
-      "amman": "10:44"
     },
     {
       "title": "Singapore inflation hits highest in nearly two years, but undershoots expectations",

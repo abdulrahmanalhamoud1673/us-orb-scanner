@@ -1,24 +1,64 @@
 {
-  "updated_amman": "2026-08-25 20:08",
-  "count": 27,
-  "up": 9,
-  "down": 3,
+  "updated_amman": "2026-08-25 20:41",
+  "count": 29,
+  "up": 8,
+  "down": 4,
   "items": [
     {
-      "title": "If I Could Tell Every S&P 500 Investor Just 1 Thing About the Stock Market Right Now, It's This.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/could-tell-every-p-500-164000272.html",
-      "source": "Yahoo Finance",
+      "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
+      "url": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "direction": "neutral",
-      "ts": "2026-08-25T16:40:00+00:00",
-      "amman": "19:40"
+      "ts": "2026-08-25T17:32:00+00:00",
+      "amman": "20:32"
     },
     {
-      "title": "Why A New Bitcoin Bull Market Is Finally Here",
-      "url": "https://finance.yahoo.com/video/why-bitcoin-bull-market-finally-163700140.html",
+      "title": "مؤشر «ستاندرد آند بورز 500» يرتفع بشكل طفيف الثلاثاء مع انخفاض عوائد سندات الخزانة",
+      "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQTFVZdjhiakdac29VNEcyaXBFTEdGeE9UZXVmbzcwdmVLaVBTcW85TU92MmtRNDB3QmhIXzNqY3lUQ0VwUnZST2VnM1ZtSkxWbXZIOUs3NUgwSDlBNVBVaTY5YmhaWk5xbVdMdkx1MGpZcVNiYTBmSHpId2djQWZwemxpMG91UkpWdTdTOVlPaFhnbFdkVzg2dE5GQmVtZXI1M3VXSFBHeUw4UmpSWmJQek9id2wzUTdoS3BpX1ptZGRZOHZYbktOaktpM3NMQlFtZFlPZ0RBQzFIeTFPLXd4LXVLWXJtcjhJeUlCSE05TUVsaUVpa0NzdmlPajN6Q1dlWDRJVUhHSXQzUWZoZVhGclI1QUROSHpRUEMyV3MxbWtaN2VUX01ZNWhCenMyMU5oSGYwQTNFamZBZw?oc=5",
+      "source": "جريدة المال",
+      "direction": "neutral",
+      "ts": "2026-08-25T17:30:43+00:00",
+      "amman": "20:30"
+    },
+    {
+      "title": "Nebius Rises 4% Despite Adding $5.75B in Convertible Debt, Snapping a Six-Session Slide",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nebius-rises-4-despite-adding-172415679.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-25T17:24:15+00:00",
+      "amman": "20:24"
+    },
+    {
+      "title": "Anthropic pitches IPO investors on $30 trillion market opportunity",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-pitches-ipo-investors-30-172107288.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
-      "ts": "2026-08-25T16:37:00+00:00",
-      "amman": "19:37"
+      "ts": "2026-08-25T17:21:07+00:00",
+      "amman": "20:21"
+    },
+    {
+      "title": "The Nasdaq Floats as Oil Sinks and Memory Stocks Recover",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-floats-oil-sinks-memory-171734550.html",
+      "source": "Yahoo Finance",
+      "direction": "down",
+      "ts": "2026-08-25T17:17:34+00:00",
+      "amman": "20:17"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Leads Charge As Chip Names Gain; Gold Stocks Advance (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T17:03:27+00:00",
+      "amman": "20:03"
+    },
+    {
+      "title": "FedEx, Stock Of The Day, Eyes Buy Point — And A High-Margin Pivot",
+      "url": "https://www.investors.com/research/ibd-stock-of-the-day/fedex-stock-fdx-stock-buy-point-pivot-high-margin-businesses/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T17:03:18+00:00",
+      "amman": "20:03"
     },
     {
       "title": "تعافي اسهم التكنولوجيا في وول ستريت بانتظار نتائج انفيديا وبيانات التضخم",
@@ -45,28 +85,12 @@
       "amman": "19:14"
     },
     {
-      "title": "Stock Market Today: Nasdaq Leads Charge Amid Canada Tariff News; Bloom Energy Extends Gains (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-25T16:04:39+00:00",
-      "amman": "19:04"
-    },
-    {
       "title": "These growth stocks are still cheap, despite the S&P 500 being near a record high price-to-sales valuation",
       "url": "https://www.marketwatch.com/story/these-growth-stocks-are-still-cheap-despite-the-s-p-500-being-near-a-record-high-price-to-sales-valuation-03602260?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "direction": "up",
       "ts": "2026-08-25T16:04:00+00:00",
       "amman": "19:04"
-    },
-    {
-      "title": "Bitwise Launches Automated Portfolios for Tokenized U.S. Stocks",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/bitwise-launches-automated-portfolios-tokenized-152600936.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T15:26:00+00:00",
-      "amman": "18:26"
     },
     {
       "title": "الاحتياطي الفيدرالي يلوح برفع أسعار الفائدة إذا استمر التضخم",
@@ -83,14 +107,6 @@
       "direction": "neutral",
       "ts": "2026-08-25T15:24:39+00:00",
       "amman": "18:24"
-    },
-    {
-      "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
-      "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "up",
-      "ts": "2026-08-25T15:10:00+00:00",
-      "amman": "18:10"
     },
     {
       "title": "مؤشرات الأسهم الأمريكية تستهل تعاملاتها على ارتفاع",
@@ -117,8 +133,16 @@
       "amman": "16:32"
     },
     {
+      "title": "Mortgage and refinance interest rates today, Tuesday, August 25, 2026: Rates mixed this morning",
+      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-interest-rates-today-tuesday-august-25-2026-rates-mixed-this-morning-100000955.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T10:00:00+00:00",
+      "amman": "13:00"
+    },
+    {
       "title": "ارتفاع العقود الآجلة لمؤشر داو جونز مع ارتداد أسهم التكنولوجيا قبل صدور تقرير أرباح شركة Nvidia المرتقب",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3NqZ3dOd2poVHZrNDRXdm1oeDdfdkFDZEk4bmdzbEh0cnlyNmJza0dYVmUxTlMwelo1STFDNE5pV0IwdHZTaEk1Q3VXc0w5ay1hMnh2RjB2aXpjNVVMMzh3MlkwWTl2WE4tUFdlbHhtRjBveWFHS05YQzZzOUZ6N1RUWnQ3TXNQZ19yYUFLVGthSVN5SXJUYTZLeEp2c1kwbUxUMjMxdjJIdVpGd2pBRUFKSGJiRXcyWjAwWtIBvAFBVV95cUxPV3NqZ3dOd2poVHZrNDRXdm1oeDdfdkFDZEk4bmdzbEh0cnlyNmJza0dYVmUxTlMwelo1STFDNE5pV0IwdHZTaEk1Q3VXc0w5ay1hMnh2RjB2aXpjNVVMMzh3MlkwWTl2WE4tUFdlbHhtRjBveWFHS05YQzZzOUZ6N1RUWnQ3TXNQZ19yYUFLVGthSVN5SXJUYTZLeEp2c1kwbUxUMjMxdjJIdVpGd2pBRUFKSGJiRXcyWjAwWg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWW1xNTNRTWhWeWFPTUNEUGUxRWdUeEhLS0FZR0lGQTlaUXVXb0pXemplUkRqcGRvLU1EZDlUbUlwSEJ2MDhWemhyejg0ck43QmlpWExCNnlfVzRna0U5SnJ3RklPSFhFeEQ2dmVLX0kxNUNoODVzXzRRWXBUNzA4TkxaMHM0RE9LVS14WVU0YzNtMDRYNnhjOEZ6NmFqTVNLbmpvSVM2Rkp1Nlhxc29RRWZhYVhpdmvSAbwBQVVfeXFMT1dzamd3TndqaFR2azQ0V3ZtaHg3X3ZBQ2RJOG5nc2xIdHJ5cjZic2tHWFZlMU5TMHpaNUkxQzROaVdCMHR2U2hJNUN1V3NMOWstYTJ4dkYwdml6YzVVTDM4dzJZMFk5dlhOLVBXZWx4bUYwb3lhR0tOWEM2czlGejdUVFp0N01zUGdfcmFBS1RrYUlTeUlyVGE2S3hKdnNZMG1MVDIzMXYySHVaRndqQUVBSkhiYkV3MlowMFo?oc=5",
       "source": "FXStreet",
       "direction": "up",
       "ts": "2026-08-25T08:57:20+00:00",
@@ -211,14 +235,6 @@
       "direction": "down",
       "ts": "2026-08-24T17:49:52+00:00",
       "amman": "20:49"
-    },
-    {
-      "title": "أسعار الذهب اليوم، 24 أغسطس: تصل إلى أعلى مستوى لها منذ أكثر من 3 أشهر، في انتظار إشارات من الاحتياطي الفيدرالي.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWDdBZXFVblUxZlFiYTJpRzhLN3JnejhMeHpkbDJjVGVnc3VpSVMyQjRNbTBaMmlVQm5aWF9NWmEzYm5tU1RHUGpDelJueGE1UTFKby1FbU5BMXVlM2tYV3hDUFFGY3VVUXVNVkxpdmxrZUZjaUhXZUgyQ01RSEM3aHNsNWttbndXbEUyNnY2OFcxWlQzcjNr?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-24T17:22:10+00:00",
-      "amman": "20:22"
     }
   ]
 }

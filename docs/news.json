@@ -1,9 +1,17 @@
 {
-  "updated_amman": "2026-08-25 21:49",
-  "count": 24,
-  "up": 6,
-  "down": 4,
+  "updated_amman": "2026-08-25 22:19",
+  "count": 21,
+  "up": 5,
+  "down": 3,
   "items": [
+    {
+      "title": "This chart shows exactly why investors should worry about rising yields — even if they don’t own any bonds",
+      "url": "https://www.marketwatch.com/story/this-chart-shows-exactly-why-investors-should-worry-about-rising-yields-even-if-they-dont-own-any-bonds-075b93c0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-25T18:58:00+00:00",
+      "amman": "21:58"
+    },
     {
       "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
       "url": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
@@ -59,22 +67,6 @@
       "direction": "up",
       "ts": "2026-08-25T16:14:00+00:00",
       "amman": "19:14"
-    },
-    {
-      "title": "الأسهم الأمريكية تفتح مرتفعة بدعم من قطاع التكنولوجيا",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPQUhEMjBsWmxYVTJTN2JLWnM5VGx3WUZEaExwOE56YjhHMjF1Q0JkWVk2WUZoUGZ0b3lxWTNpVm1FRWdhX0NjTXdaaExmV1h0RDE5QTZ5Zkk4YjFJd01hckVGbTY5VUFVNlh4UTNjUml6OXhWZ3ZocE8zTEpRU2pNTk1vdTZON3lvbDc3dkxhYjEwaXBFYjc3Z2dQYkRid0ZJUHB3cWp5SEhsbk1FNDQwUHgzWnRSa3FmWXFteUE2RldlUHZ2OWFHNkd5TEhxc3dWNTZfYmRsNVBKeF9sN0ttVWVqS3MyT1l1ZkJlNVBCSmNIWFhid1BrYUhZb0Z2MVZablQtUFNmTV9GODdNMVFKQkdGQzJXRi1lY2lvQ2Y0ck9lS1d1eTdKOG1peVRGaEViMDlicEQ1dDlPSC1VVmJWMzE5U00?oc=5",
-      "source": "شبكة رؤية الإخبارية",
-      "direction": "neutral",
-      "ts": "2026-08-25T16:13:22+00:00",
-      "amman": "19:13"
-    },
-    {
-      "title": "These growth stocks are still cheap, despite the S&P 500 being near a record high price-to-sales valuation",
-      "url": "https://www.marketwatch.com/story/these-growth-stocks-are-still-cheap-despite-the-s-p-500-being-near-a-record-high-price-to-sales-valuation-03602260?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "up",
-      "ts": "2026-08-25T16:04:00+00:00",
-      "amman": "19:04"
     },
     {
       "title": "وول ستريت تنتعش مع تعافي أسهم التكنولوجيا قبيل بيانات التضخم",
@@ -173,28 +165,12 @@
       "amman": "05:57"
     },
     {
-      "title": "\"وول ستريت\" تتراجع متأثرة بانخفاض أسهم شركات التكنولوجيا",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1WUHVuZy1TTmwxazZGdlpJdXluTFpxYmxQRGd0T3pHb2FlZnhZQUdPcVdTZndQMEc3LUtCWjROME1SV3k5SnpYeF9CMG96ZGFY?oc=5",
-      "source": "alestad.com",
-      "direction": "down",
-      "ts": "2026-08-24T23:15:19+00:00",
-      "amman": "02:15"
-    },
-    {
       "title": "أداء متباين للأسهم الأميركية.. داو جونز يرتفع 140 نقطة وناسداك يتراجع 200 نقطة",
       "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxQMFFpQVBsU1VMSll0RktKeGZjNFJxYVVqOE55aTliWVVRTXQ5WnU4eEU1ZDhSRGYyckx4N2h2Q2pZTXRkR3hpNU1EM1ZqcEh2MHpHbzZ2MmNNN3YxMGljU1Rzc2pVZFozMGpRejlzLWt5d2RWbzZHTTJsbTZ1VUxzVk9pekFwQkZ1WDVVSGIza0NhSVpMSFIwS2dBTGY4Tk5Lc0xGQWhlVnNRNHFiSUdHdW8xWmRlU0RZVTNZTlI1Z3U3UWw1Y0U4UGNINDN4aEhvdWM0dEJLbFFKQXdiUEdTYzhNYlBaQjVUbC1nU01idnpReXU3ZjFWaC1NNHRucDdyLTlwU1hSQ0tiX2xCR0hKUGRqNDNsdWI2UGJHcm5rZFg5WWV1NzJwRkJ4SEp1amVEMXVmeGN2LWU1SmRXMnctaVFwekc1aGllbTJMd0d4ZmlLODFhX0d5X0V3Vlc0VnB4eHVpTWVOYWpWM0EyeW9BVUNSZU9rMl9kMFNoeS1oel9KZkVPM3JuYzdKRTQ2RHJCU3hGd3Zpc0V0UGh4b1hVUWZBT2JBRDZqdVFJSldUdmJEbkxkRmlseEgtek5fYnFNNVh0TGlucGliLTBlU3BPU0hLS2pqZW1SQk1INFR5d2lfcXdTUmY1Y3lvb050LUotUWdxOWU3ZExWMkw0T0ducmYzSldtRXlsbVdBNU1LWVp6aHRkdmJjX3VEd1pfT2dndm9WYXR2RGJGTTFrWVVScWgzZGpMYi14YVZRY3Z4cXpBYllKWjhseDBQeW1nMXVjcXktTTJvbEVtbFBNd0lRWms4U1pkeFJhYmFrbVBaYWxHd1RZSlVRMGljc1ZieUVLano2VnVSUkc?oc=5",
       "source": "مجلة البوصلة الاقتصادية",
       "direction": "neutral",
       "ts": "2026-08-24T20:37:23+00:00",
       "amman": "23:37"
-    },
-    {
-      "title": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/stanley-druckenmiller-cathie-wood-agree-191300323.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-24T19:13:00+00:00",
-      "amman": "22:13"
     }
   ]
 }

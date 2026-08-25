@@ -1,9 +1,25 @@
 {
-  "updated_amman": "2026-08-25 22:48",
-  "count": 22,
-  "up": 5,
-  "down": 4,
+  "updated_amman": "2026-08-25 23:04",
+  "count": 25,
+  "up": 4,
+  "down": 7,
   "items": [
+    {
+      "title": "\"وول ستريت\" ترتفع بدعم أسهم الرقائق وتراجع عوائد السندات",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83eUxlMEQ2dEZwNmczQTBKVmxWcUhZMnFPXy14cTgxSktzOTVRZFhHbmVZT1k5N29ueVVsS2dadnlpRVNaaG02YTBIeTkxcjdB?oc=5",
+      "source": "alestad.com",
+      "direction": "down",
+      "ts": "2026-08-25T20:01:09+00:00",
+      "amman": "23:01"
+    },
+    {
+      "title": "محضر اجتماع الفيدرالي في يوليو: أربعة رؤساء لبنوك إقليمية أيدوا رفع الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMi6ARBVV95cUxQbzN3Uk9yWGxHSTNkaDVrZlZ4RVgyVFl2QkIwNnkydFhtbmM5WGgxV1U0bjNyeTFFQzJhTS1nOFMtdXBub3k1OEdIcmtTeW9Zblo5dWxUQ29wTERrYXU5dWVzMGI4WVliLXNNQnlkSlBuaGZJNnhJRUN0NTJVakpZdUxidzllU0JDYUhwbEtIc3FBcHZyX1Y2b1VJTjdsWm9PLWVuRk5WTnZxM1ItWnc2NF9DcktFVk5SVXVSSGgwSVBHYkNMeW1oS2p0TXRGcFZXMGxyM3lUbmNSMExlc21KcTB1cWtibGtYTGFnZWc4anNzckExWEdtQ2tFSDhCREx1TndWNUNnY1FKVVg0VW04M0dVcnZXSmItanhheGU0MGVMUWFIUHppZWZoY1FxMG5NbUNwajlqZDZPUEJPdkU0Q3o1LXZfTWpVNjc3aGRjWWxSRkxGbGpzWVoyanJNTUVvb05jQjE0Z0EtMDl2WXJmYy1ydkl6dWlTRzVINmdmdVZRUVQ3Vnl6ZmlEYlBpYWw0Q0U2SGQ0X3hVX0RLZGt5am1GamJicGY1YkhNaExKOElCVFhhWmdzeFdnTU9WQWN6LTRuYlYyMnVUa1R5aXA2M3YwcTV2aVBUS2ZLc1hVcXJtMUFIR0tqUU5FcHlybDZjcl9yYllFOHVaVWZ1TDA4akExR3R5aEYyLWNrNXJVeF8tekpSbF96T3R5MFJaLWNqNThrbWFnNXloMUNmbkJTSlNsZkpQR3ktNlp4eVoxY3NWLV9fa0NHeHliMWduZy1ZSnRGYXdsWWxSaVQ5UUR5LXYyanQyNmtw?oc=5",
+      "source": "المتداول العربي",
+      "direction": "down",
+      "ts": "2026-08-25T19:53:42+00:00",
+      "amman": "22:53"
+    },
     {
       "title": "U.S.-Canada trade war threatens to worsen inflation for both economies. Neither can afford it.",
       "url": "https://www.marketwatch.com/story/u-s-canada-trade-war-threatens-to-worsen-inflation-for-both-economies-neither-can-afford-it-bd797506?mod=mw_rss_topstories",
@@ -27,6 +43,14 @@
       "direction": "neutral",
       "ts": "2026-08-25T18:58:00+00:00",
       "amman": "21:58"
+    },
+    {
+      "title": "مع انخفاض أسعار النفط.. 4.66% تراجعا في عوائد سندات الخزانة الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxORnB5cjhhcnpfWWc5b1ZROVRXX3N0U09SX2V0eklGQ1JWSW9yaTVtdnd1VFJNdTViNzltQk1ScTN3NjRpdEdrQ3dMdFEzWWhmdjUtclRJMG4ydXZZMnZmUTFiUVpCOEExX3ZLcWxnWms5Mk1Qak9fSEtuaV9tazg4YzU1ZnJqZHNPU0xoNU9jdFppcHZrN1NWZVZFNm5wZEpSal8tTHM4aWh4V09MTDhLMFZUZjB3bHIyU3diSWdXNzRPb3JkM2lkeW5nWmF6ZGFvNEZCOVlDNjdSa3p1UEZzd0xVR2hxX21MUGZFaWd3U0xzeTVJSmpqUVg0d25fcVhuWmNFN0RlQ3dIVzFSemxuaENCdm1wTlFYUUxWWU9fNE1tdzhmOTUtVFprdUpwY0RXMTY2M1FDR3JyX3lYZTl4MUZmemFSeFdfcVAzek1OQ2FXQjZ2eXRQNkxDN19naTdhaXZfOTk4UzFDZ2RNcjRTTXh3NVNVUkR5NlZnS0FsMWQtRVhQRG9TQjJpSkVIM1d0NlhHSVZqQXBOeU5GaGc2RzlUWS1kcW84UU1ZVVpVS01HS0Q4THoyOVJlb0JSeGhOSGpTY2VDLUF1NzdjaFVseklDNFYxODNPSWpQcXREUUFMOUptYklHX1d0WTFkdk42R1EyWU40SnNxeGxQQ0ZSVTRpSDA?oc=5",
+      "source": "مبتدا",
+      "direction": "down",
+      "ts": "2026-08-25T18:41:00+00:00",
+      "amman": "21:41"
     },
     {
       "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
@@ -133,14 +157,6 @@
       "amman": "13:00"
     },
     {
-      "title": "ارتفاع العقود الآجلة لمؤشر داو جونز مع ارتداد أسهم التكنولوجيا قبل صدور تقرير أرباح شركة Nvidia المرتقب",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3NqZ3dOd2poVHZrNDRXdm1oeDdfdkFDZEk4bmdzbEh0cnlyNmJza0dYVmUxTlMwelo1STFDNE5pV0IwdHZTaEk1Q3VXc0w5ay1hMnh2RjB2aXpjNVVMMzh3MlkwWTl2WE4tUFdlbHhtRjBveWFHS05YQzZzOUZ6N1RUWnQ3TXNQZ19yYUFLVGthSVN5SXJUYTZLeEp2c1kwbUxUMjMxdjJIdVpGd2pBRUFKSGJiRXcyWjAwWtIBvAFBVV95cUxPV3NqZ3dOd2poVHZrNDRXdm1oeDdfdkFDZEk4bmdzbEh0cnlyNmJza0dYVmUxTlMwelo1STFDNE5pV0IwdHZTaEk1Q3VXc0w5ay1hMnh2RjB2aXpjNVVMMzh3MlkwWTl2WE4tUFdlbHhtRjBveWFHS05YQzZzOUZ6N1RUWnQ3TXNQZ19yYUFLVGthSVN5SXJUYTZLeEp2c1kwbUxUMjMxdjJIdVpGd2pBRUFKSGJiRXcyWjAwWg?oc=5",
-      "source": "FXStreet",
-      "direction": "up",
-      "ts": "2026-08-25T08:57:20+00:00",
-      "amman": "11:57"
-    },
-    {
       "title": "الذهب يصمد فيما دون 4650 دولارًا مع قوة الدولار وسط مخاطر الفيدرالي ومخاوف الشرق الأوسط",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZF9IU0FpOF9KTFNYLWdwRndVSGlKQTdpX1Bpdkl4TWFnSkstdUU2YVJIVW9Gam1XMjh1N1pxTFRBSmxBekZKVHk2TUFFOWNQeURSdjZTUUFYd3VyZW5nbnY5eGFzU29YUi1GZW0yUFdoM2o2aWVHQnhXdWhnTHctZ1psTVh3ekJ6ZVMxZDVwSGF3RzdGSzRWaVhSb1htRkFndkVWMV9GY1Z3X3dQZWJsME1VZ3VOMm5wcjl3V3lzT1B4QWRjU3UzcnhZbl9MdFd5c3lZaVUzQdIB3AFBVV95cUxQaHRrbFA0VTRCWEFOc2xmVUFKOC1mcjh5ZzVsS2RQekUteHlfNWFDS2VxR2VMQ2szcUE0eE1GeHhxQVpZeFA2R1duTktldmplT3RTWXdXc01KcWstb21EUldxNVVtdG5tZkNHYmZOZkdMYmkwd1hDLWY0bnI1SFJ1X2Y3YjlPV1FxeGZLM05yeDVYQ2RpX3k0Zm1zS2dJNHZnbDIxSjh5X2xyMGdFT0NaeWJORzJKa2gtR2pCUkZDVTh2M2tKb1QxMEVMbDdwc2RwWUFUSlJmN3U4eXZM?oc=5",
       "source": "FXStreet",
@@ -171,6 +187,14 @@
       "direction": "up",
       "ts": "2026-08-25T03:14:07+00:00",
       "amman": "06:14"
+    },
+    {
+      "title": "الفيدرالي يثبت الفائدة في أول اجتماع له بقيادة وارش",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEQzJWSks1Q2ZIdklSYXdGU1YxSmZsdnF6YUpPNEpWTGxic0hpZG9JQllGYVBzSXRFV21WNFMzOE8yTTkyNVhhUjZncUFQV21leGRXM2d4Q0lzOFA5OGMxMU43Z2phQTBwSmc?oc=5",
+      "source": "ارقام",
+      "direction": "neutral",
+      "ts": "2026-08-25T02:57:01+00:00",
+      "amman": "05:57"
     },
     {
       "title": "أداء متباين للأسهم الأميركية.. داو جونز يرتفع 140 نقطة وناسداك يتراجع 200 نقطة",

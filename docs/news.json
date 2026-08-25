@@ -1,15 +1,63 @@
 {
-  "updated_amman": "2026-08-25 16:46",
-  "count": 24,
-  "up": 5,
-  "down": 5,
+  "updated_amman": "2026-08-25 17:28",
+  "count": 11,
+  "up": 1,
+  "down": 1,
   "items": [
     {
-      "title": "“Give Me Anything But Tech”: Jim Cramer’s Bold Call on the Market’s Next Big Rotation",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/anything-tech-jim-cramer-bold-132505655.html",
+      "title": "2 Tech Stocks I'd Load Up on Today and 1 I'd Avoid Until Further Notice",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/2-tech-stocks-id-load-140500377.html",
       "source": "Yahoo Finance",
       "direction": "neutral",
-      "ts": "2026-08-25T13:25:05+00:00",
+      "ts": "2026-08-25T14:05:00+00:00",
+      "amman": "17:05"
+    },
+    {
+      "title": "Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says",
+      "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-25T13:59:00+00:00",
+      "amman": "16:59"
+    },
+    {
+      "title": "“I Don’t Buy IPOs”: Veteran Investor Names 3 Profitable Space Stocks to Own Instead of SpaceX",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/don-t-buy-ipos-veteran-135723001.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T13:57:23+00:00",
+      "amman": "16:57"
+    },
+    {
+      "title": "Airbnb And Expedia Stocks Are Riding High. Here's Why.",
+      "url": "https://www.investors.com/news/technology/expedia-stock-airbnb-stock-rally-travel-booking/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T13:56:28+00:00",
+      "amman": "16:56"
+    },
+    {
+      "title": "Investors rotate into tech stocks as inflation concerns ease: AlphaCheck",
+      "url": "https://finance.yahoo.com/markets/article/investors-rotate-into-tech-stocks-as-inflation-concerns-ease-alphacheck-135258775.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T13:52:58+00:00",
+      "amman": "16:52"
+    },
+    {
+      "title": "Stock Market Today: Dow Rises As Treasury Yields Fall; Nvidia, Micron, Sandisk Rally (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-25T13:40:44+00:00",
+      "amman": "16:40"
+    },
+    {
+      "title": "Option Traders Bet On Bitcoin’s Price Topping $82,000",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/option-traders-bet-bitcoin-price-132500757.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T13:25:00+00:00",
       "amman": "16:25"
     },
     {
@@ -21,30 +69,6 @@
       "amman": "16:24"
     },
     {
-      "title": "Stock Market Today: Dow Rises As Treasury Yields Fall; Nvidia, Micron, Sandisk Rally (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-25T12:50:39+00:00",
-      "amman": "15:50"
-    },
-    {
-      "title": "Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says",
-      "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-25T12:40:00+00:00",
-      "amman": "15:40"
-    },
-    {
-      "title": "Dollar fragile as investors weigh Iran sanctions, Treasury buybacks",
-      "url": "https://finance.yahoo.com/news/dollar-struggles-traction-markets-weigh-013056238.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T12:39:59+00:00",
-      "amman": "15:39"
-    },
-    {
       "title": "Trump’s trade war with Canada could lead the U.S. back to quantitative easing",
       "url": "https://www.marketwatch.com/story/trumps-canada-trade-war-could-lead-the-u-s-back-to-quantitative-easing-eef9be8b?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -53,68 +77,12 @@
       "amman": "15:33"
     },
     {
-      "title": "Cybersecurity Stocks Are Priced For Big AI Growth. Earnings Could Bring Fireworks.",
-      "url": "https://www.investors.com/news/technology/cybersecurity-stocks-earnings-artificial-intelligence-high-expectations/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T12:00:57+00:00",
-      "amman": "15:00"
-    },
-    {
-      "title": "ارتفاع العقود الآجلة لمؤشر داو جونز مع ارتداد أسهم التكنولوجيا قبل صدور تقرير أرباح شركة Nvidia المرتقب",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWW1xNTNRTWhWeWFPTUNEUGUxRWdUeEhLS0FZR0lGQTlaUXVXb0pXemplUkRqcGRvLU1EZDlUbUlwSEJ2MDhWemhyejg0ck43QmlpWExCNnlfVzRna0U5SnJ3RklPSFhFeEQ2dmVLX0kxNUNoODVzXzRRWXBUNzA4TkxaMHM0RE9LVS14WVU0YzNtMDRYNnhjOEZ6NmFqTVNLbmpvSVM2Rkp1Nlhxc29RRWZhYVhpdmvSAbwBQVVfeXFMT1dzamd3TndqaFR2azQ0V3ZtaHg3X3ZBQ2RJOG5nc2xIdHJ5cjZic2tHWFZlMU5TMHpaNUkxQzROaVdCMHR2U2hJNUN1V3NMOWstYTJ4dkYwdml6YzVVTDM4dzJZMFk5dlhOLVBXZWx4bUYwb3lhR0tOWEM2czlGejdUVFp0N01zUGdfcmFBS1RrYUlTeUlyVGE2S3hKdnNZMG1MVDIzMXYySHVaRndqQUVBSkhiYkV3MlowMFo?oc=5",
-      "source": "FXStreet",
-      "direction": "up",
-      "ts": "2026-08-25T08:57:20+00:00",
-      "amman": "11:57"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq futures gain in countdown to Nvidia earnings, Fed Jackson Hole summit",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq gain as oil, Treasury yields fall",
       "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html",
       "source": "Yahoo Finance",
-      "direction": "neutral",
+      "direction": "down",
       "ts": "2026-08-25T08:05:27+00:00",
       "amman": "11:05"
-    },
-    {
-      "title": "أسعار الذهب اليوم، 25 أغسطس: وصل سعر الذهب في بورصة SJC إلى 150 مليون دونغ فيتنامي، فإلى أي مدى سيرتفع عالميًا؟",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUHNtcGJZdE9NeHFvWmkyVWNkY2tFVEptdVRQMGdQd0pCbXBWQkE1VmVyR1RFOGtPT1RqUkw2OU52aWZ0Mkhhb2lWWHhHTmJjckY4Q2lSbnMyMElNeGh4NDhXUDB0ZE5GRDRtTEJWUVRhb2pKc3V4c05CZjhqV0JKSHRxajRMTkVaUWZwUDVsSzFJWXNfbDAzd0RnV0gtWmZmM2U3LQ?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "up",
-      "ts": "2026-08-25T06:37:18+00:00",
-      "amman": "09:37"
-    },
-    {
-      "title": "تتذبذب أسعار الأسهم الأمريكية وسط سلسلة من الإشارات الجديدة.",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5sblJPMFcySF8yWktJcHBrRkxBdVBKckUtOERhYzM1dDc1T2tNeTBlS0xPMk55VjctdnpZVEZtRXlvSU1pUG9mR1B5WUpQUEdYdU12T0w5c3AtXzM4UGtZTldqVkVSV3E0MzdTUk9sMlN5MXFpUUU5VzNzbU9udw?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-25T03:19:18+00:00",
-      "amman": "06:19"
-    },
-    {
-      "title": "سعر صرف الدولار الأمريكي اليوم، 25 أغسطس 2026: ارتفاع أسعار الفائدة المصرفية، وارتفاع مؤشر الدولار الأمريكي إلى 99 نقطة.",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0JQOVpqRFZSNkJnb01yTWoyck5NSm1ub0dWSFBGYmFLVUNyUTBPaEs5TW9CMzJxSnRWV2o3dXY4M3N2Qk5obnVTbEU3UDVLejUwVVNlekdYNzduV1JkYjBEcGJjazdzUXFVanRWVjdiN1F1WW1kbTdReFB3UzU1UkpLUHVqZzhLZExVck1yWHJiRU93b0d4MA?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "up",
-      "ts": "2026-08-25T03:14:07+00:00",
-      "amman": "06:14"
-    },
-    {
-      "title": "الفيدرالي يثبت الفائدة في أول اجتماع له بقيادة وارش",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEQzJWSks1Q2ZIdklSYXdGU1YxSmZsdnF6YUpPNEpWTGxic0hpZG9JQllGYVBzSXRFV21WNFMzOE8yTTkyNVhhUjZncUFQV21leGRXM2d4Q0lzOFA5OGMxMU43Z2phQTBwSmc?oc=5",
-      "source": "ارقام",
-      "direction": "neutral",
-      "ts": "2026-08-25T02:57:01+00:00",
-      "amman": "05:57"
-    },
-    {
-      "title": "أداء متباين للأسهم الأميركية.. داو جونز يرتفع 140 نقطة وناسداك يتراجع 200 نقطة",
-      "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxQMFFpQVBsU1VMSll0RktKeGZjNFJxYVVqOE55aTliWVVRTXQ5WnU4eEU1ZDhSRGYyckx4N2h2Q2pZTXRkR3hpNU1EM1ZqcEh2MHpHbzZ2MmNNN3YxMGljU1Rzc2pVZFozMGpRejlzLWt5d2RWbzZHTTJsbTZ1VUxzVk9pekFwQkZ1WDVVSGIza0NhSVpMSFIwS2dBTGY4Tk5Lc0xGQWhlVnNRNHFiSUdHdW8xWmRlU0RZVTNZTlI1Z3U3UWw1Y0U4UGNINDN4aEhvdWM0dEJLbFFKQXdiUEdTYzhNYlBaQjVUbC1nU01idnpReXU3ZjFWaC1NNHRucDdyLTlwU1hSQ0tiX2xCR0hKUGRqNDNsdWI2UGJHcm5rZFg5WWV1NzJwRkJ4SEp1amVEMXVmeGN2LWU1SmRXMnctaVFwekc1aGllbTJMd0d4ZmlLODFhX0d5X0V3Vlc0VnB4eHVpTWVOYWpWM0EyeW9BVUNSZU9rMl9kMFNoeS1oel9KZkVPM3JuYzdKRTQ2RHJCU3hGd3Zpc0V0UGh4b1hVUWZBT2JBRDZqdVFJSldUdmJEbkxkRmlseEgtek5fYnFNNVh0TGlucGliLTBlU3BPU0hLS2pqZW1SQk1INFR5d2lfcXdTUmY1Y3lvb050LUotUWdxOWU3ZExWMkw0T0ducmYzSldtRXlsbVdBNU1LWVp6aHRkdmJjX3VEd1pfT2dndm9WYXR2RGJGTTFrWVVScWgzZGpMYi14YVZRY3Z4cXpBYllKWjhseDBQeW1nMXVjcXktTTJvbEVtbFBNd0lRWms4U1pkeFJhYmFrbVBaYWxHd1RZSlVRMGljc1ZieUVLano2VnVSUkc?oc=5",
-      "source": "مجلة البوصلة الاقتصادية",
-      "direction": "neutral",
-      "ts": "2026-08-24T20:37:23+00:00",
-      "amman": "23:37"
     },
     {
       "title": "Stanley Druckenmiller and Cathie Wood agree on 2 tech giant stocks",
@@ -123,78 +91,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T19:13:00+00:00",
       "amman": "22:13"
-    },
-    {
-      "title": "محللون لـ أرقام: تثبيت الفائدة الأقرب في أول اجتماع بقيادة وارش.. والتضخم يُبقي التشديد مطروحاً",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VcEU1QXVlRU41UlM1b2dEZExJZWlSc3pKOEhVMEFBVWxmNHM1cXJMM1JDaU9DYnhEVTBnTk9SdzFpSXc0VUM2LUtLU1QxWlNmd0pLdERnYU1FMnJtczgzQzF4d1doUnZhcXc?oc=5",
-      "source": "ارقام",
-      "direction": "neutral",
-      "ts": "2026-08-24T18:19:14+00:00",
-      "amman": "21:19"
-    },
-    {
-      "title": "«وول ستريت» تتباين مع تراجع أسهم «الرقائق»",
-      "url": "https://news.google.com/rss/articles/CBMikgRBVV95cUxOQ2t2Y1o1VDVFdW9Dek5Lb0pzZ2lUNTRnSkVLa2l0V1BZMXduWlJ6LTdUbXZiUTVlNzUwdGJiZElfdEhMaFNtdFAza081cWZCUnRFTVRHT0lJaVF5Y3EtR0NKbjcxUzVFU2MxUVRVdkxNbng0YWMtdEpFQXRuQUFjQzE4aWJ5Rk1HVnRZMzMtS2RYUjB1SlpIM1Y0UFRobWFiTzVtUnQ3MnZPamswUThRbU9wbDFwTWNMZWhmU1NFM2NCdHVNRzJUMlRNY3NlVW9mOHEzclVlZXItQmpaZkFqZmlCZWJmdk1Yc193UzdIZDIxMURqMkFrNmdvZEhQR1EycmIxSVBYOHN0VmZJNjQ2RkExNDhTc1FkaXBoS29UU1BNbjlPU2oyX2dEVlVaMzlGTXoxLWtvLXJNM3FSc3MyOWJLOS1EdDVQRUhDUnlxM3RMck8wMDBwR1g3OHZMampEdi1EWHpqbHpkRklQU2M3NnpZbmFkNFBwQTIyWTlHQnFKdEtQaTdQTTRDNkpsSFJHblZRaUZNWFNKSy1Ua1NqMFlUWFBfMS1NemNRWmpxWTN6Rmk0TjlmVVZ2UEJUY3V4bkZEYjJ5eC1faTd1SzZkZmMzeUJMNjBrWUE2dW1Gc0VoZFVrdk5IeDZKTUJWMUZGQ2dkOHlkaTJCdWdCRGRndm5pbXEzbEFvUWxacHNYR0RQZw?oc=5",
-      "source": "صحيفة الخليج",
-      "direction": "down",
-      "ts": "2026-08-24T17:49:52+00:00",
-      "amman": "20:49"
-    },
-    {
-      "title": "أسعار الذهب اليوم، 24 أغسطس: تصل إلى أعلى مستوى لها منذ أكثر من 3 أشهر، في انتظار إشارات من الاحتياطي الفيدرالي.",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWDdBZXFVblUxZlFiYTJpRzhLN3JnejhMeHpkbDJjVGVnc3VpSVMyQjRNbTBaMmlVQm5aWF9NWmEzYm5tU1RHUGpDelJueGE1UTFKby1FbU5BMXVlM2tYV3hDUFFGY3VVUXVNVkxpdmxrZUZjaUhXZUgyQ01RSEM3aHNsNWttbndXbEUyNnY2OFcxWlQzcjNr?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-08-24T17:22:10+00:00",
-      "amman": "20:22"
-    },
-    {
-      "title": "من الفائدة إلى الثروة.. لماذا تراجعت قدرة الفيدرالي على كبح التضخم؟",
-      "url": "https://news.google.com/rss/articles/CBMiowRBVV95cUxQZlQxbzFwOWZObmF5dlJVV0FKeVh0REpQT1AwYmpLamlIWVZ3R19OUERnNXpITzZEc1ZoeEp5UEVOOE5FcGl3eVRlR3p1LTlBU0c2N1dIc1dELWtKNDk1X3pDNUVVTkVYcjhxT1ZhYjktOTVCcFViV3ZjTkxFOWlLVUVWWERnbVpSRU5Ob3FDb0xLT2lfTnlLcVpyVGNORjNMQTNQcC1CeExWbGxtZ2w0ay1feTRhOFdZajk5d1dlRUcxa3l3MFhBVU5CUXVEUEltV1ZIR1JJOUFGSlJYa3ZGQVZUb3AwOGhIUGlKa2FwXy10ankwdk5WZVdmSlNvUElVZkNiaHhUWTQ1Q1Y3S0daaG5RckxEVzdDb2JMU2h2U090U0pwNnQweHVPVkFHVG5xVlRBMll4R0wtOXc3MlJsaXpFc3lZYnlidnl3V2RlRHlnckJGdzRZTjRUSm5qLWFkOGxmbG5NMFVzZWJOVE8yTGprdmNPaUJKUFM1N21tZEkydW12TUdaRFpYWGRxd2Vqd0tuM2htUEREZlM0YW81czRWTlEwbHlzVEFxbmpNZnRwc2dlT3dPOVh5UUY1cGctNzJ3Mk50OHBfb095SXpVZzlKQzdrbWt5RE11MFVCSHB0UmxDZHNHTW1SaXRDcWp1aS1xU2dxck5GbFIzeXhXd1ctV0tHdGRMVVE3SkV2MkVFWGNvLXlkc0xaeFljdDBfR1hV?oc=5",
-      "source": "CNN الاقتصادية",
-      "direction": "down",
-      "ts": "2026-08-24T17:08:38+00:00",
-      "amman": "20:08"
-    },
-    {
-      "title": "تراجع مؤشرات وول ستريت مع تصاعد التوترات بشأن إيران و ترقب نتائج إنفيديا",
-      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNc2VLcEZFV1ZUYmNTamdINkYwQjdRVEpWZDgyMWZRMVl1MS1xZFc0MERqcFNfRm1UeTJROGZQNUdiSmtQLVRPU0xxcmlNal91c202OTd1NHhYMUxONjEzRXdGajlSZjNySXV3dThrMjRxTFlncGcwdjAwc1dQemZiYTlPWUduWTNNMlNvcFVjZzJTdGRoeFBET05UWklpOFNFZ1RmTEVQOXhId0ZxNXhTX1lZYmstQXVEWDBiZ3lTWEpCNXpxa09mTWpxVmVvTzlrYmtQY0w5LW1BRURpTUt5NlVCaGpxMjBOeWc3UXFJcl9sWFZXM0Q5Q2psM1lTcEQ3OEp1R3dEenZpWG9rQ05idElMRWRkamd0NE5ZRVRrVHBRT29wb3RZTnN6MjdZS1NSNnpiWWxkcmxEaVNSamxyczhlM3NCWWQzRFNkQmllQkxfTzFOcmJJU0dYRXN0TEphRF93UmFQb2hkV01VYTB1WjNjaU5zOVFtOGVKdkx5YXAtWG5yZnAzR3Y2Y2t4alMxMFQ2U3ZRYm9saHB6YWdQYmwyTmRYcGRoU3ZoN05QeThnRF95WjlNdFBpejB2bnYtQWhjbGdn0gHAA0FVX3lxTE1NX0NCZnRDX0ROemd4WDZLenlSZkZFTjVkb0I4YnZSQldqa1ZxM0RIcmI2aVctWTRJaVkxSHVzSXFuTDBxbEF4RU1URDJuUzlOel9yVWV4RExEU190bW5DLVFBcnZOa1dmYURUTkY5RE13a2FPbmRYazd0TVlHWDc0enBRamNKNTY4TVZOVkhJbjVKbVo2MlNjNWJsajl3aUt0c1BfYVp3bDhSSDdGSzU5am1vNDJrbmt2czNxRjFxVFdsVTRWMG1EM0k0NEloSGJsUjRKdmI1OWVtYVFpd2NqWnRFNGswMjR2ZDhkM21zRUZoQmhEbmZ0UEVwZl9Bems3SVZscjByVG5JdnlYUzg4QUljQ2FaSTM2SXhBa2p1cHUwdzFZeVZTbmQ1OGpocnJwZmoxNWRVeWxIVXg0cUpYVUE4LUVxd3lJU3BkQktsMlU2XzZHOEZjU2EyZXhValJsX3VScC1WSXdmeENOeVotUk5PNVViNFdvNndBTnBwRjBZdjJ4ZE1jenNSQmhHQ185WTlVMGxVTmFDRnZ1MWdURFB3V1MwTFJxck1oVkdFTnMtOFlSaFpieTVsNFFsRU4?oc=5",
-      "source": "اليوم السابع",
-      "direction": "down",
-      "ts": "2026-08-24T17:05:00+00:00",
-      "amman": "20:05"
-    },
-    {
-      "title": "مع اقتراب سعر الذهب من 4700 دولار، ما الذي أدى إلى هذا الارتفاع المفاجئ في أسعار الذهب؟",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTk5TRmZmMnI2SjlqUjY2b2xjOVNxdnBfYldRMUlRM0VpT1pXdk9rNlZhcjhfd21FN3VwTjdvRWN4b09VQXZJbS0wT01hckFSZlViME52enRHcElrLXJVYXVaRGNlQ0g3VE1ta3IwNkMweXZVQnZ5Z292aWM1bEZVY2dmQ3dYaFdpN2d6UzJ2Ykw?oc=5",
-      "source": "Vietnam.vn",
-      "direction": "up",
-      "ts": "2026-08-24T16:44:39+00:00",
-      "amman": "19:44"
-    },
-    {
-      "title": "مؤشرات الأسهم الأمريكية تستهل تعاملاتها على انخفاض",
-      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOdGNxSlg5c3hLRTNmZzVPRXpuenBDT1RZV2QxQnl4S0pRRUNtRXZMQWl6RWR5WEIyajQwWHZKcTJSMlpkYnp3a1JocjJ5c2tWZGxYdU5SLUw5eEtPaXlWT1h5d3ZGNU5NTXhvNWd6d3hZU0NLZDM0ekkxY0l0RXUwZlhwLVMzRWJKSE1MZ2dsR2c4Vkt4VXYwYTl5MXJsZFZyLVl6cG1lMlhRSW9rbHVrbllob2o0R2VmaHBHTExuRFcyVm9KY0RRN3R1SFl5V0FaOU5DRTNLT3JNR2ZnRFRFU2ppdWRsNG04V1diSHJjWndrSmVJa24yMzdiZ201LWU4Y0dfcHpYMjJndVRMR1JDaF9FNVhUbTVGb2VqMHFSaVVQaHJtZy14c3JFNWJaaHllRmF1OUo3dmJJNVdxU2FveTBIV19oNEVPRWt5Q1lQSm02MTNnZ3hrUlNkNFpLcXFsakFURHBsNmoyR0JLTzV4bjIxUzA0TmdJYjdFQldFNldCMERLSEg0YVp0Q2x2RmJrT25xVkxRckpkWGs5TUVValM2d21aS0FSaWhQcUZha3ZIQmVuREtBUk1JOXhFZDNWSmhCeG1qZw?oc=5",
-      "source": "Qatar news agency",
-      "direction": "down",
-      "ts": "2026-08-24T16:07:37+00:00",
-      "amman": "19:07"
-    },
-    {
-      "title": "انخفاض وول ستريت مع تصاعد التوترات بشأن إيران في أسبوع حاسم للأسواق",
-      "url": "https://news.google.com/rss/articles/CBMi2gVBVV95cUxQWnVJYXEyT2s2SlVvVF9POVJ3bXpfQjNMLVc3VV9fWUF5cHgtNGg1OEZJRHNranB0Wk1OQkJUVjBDUGJpdGFWM2tnZW1YaDhIMG5SOVp6SG9mdDdBUXJMM3ozSWRnTHhEQVA0ekJLZmpYSThBYm1Oa0xEWktabHVsNmxuck1JNFJ1Sjg2UmJjenhNV2k2UVgyN1FQbDE0NE9YYnA3SE9IVFRxUDVUamc4MEhjalRLY1dyTTVpV29xQjFNeWxyNFlsRmRtNHRKMS1YS0lFc3pPRVZoOXlqY1kwbm5ETGRDTEdJR3ZIOWpxcG5hdktvbktGbUNsaXd2dldmdE82dFYwMWY3Y1dWeDRUdkFnQ2NINnozeW1KelFCNjZIWDdSNXhpSU5MRzBoRzhpeFp2SVJoelFCbFRnZjNDTGFxUjlvcWluVXBwQzJZdWFsdGNkN1kxbWRWRXNCR1dkaW5rc3J4U1hoX1Vudmw5QmQxRWtFdVJYZGFTTEptMDE3T1BYWkpFSV9MNHN6QlBONk0tWTFzTWM5c1VadFJWQzRKdlJuYkZxMW1vTURoOGZkVFFRSTYxcE1SbS1DZllEMVp2a0RhX05WcW9kbFRTVW92NHZ6SEdmZUhnbDM2STJ6UTNIV203RXZJUXpvS2EweVVuR1JlXzNCQWZaOWF3T1dqcWJCajQ3V0hTR045aWxoZUVTWnZaYU5fZnM0aWpwMU5JNDd3WGNjX3VqUWJycGdjanlLUXpQQzBVWXZLdjREcDFwV1lwT1ZEbW1NREZ2M3BHUkhVdUZHbGdIRy1wVjdpS0JZZXdMUW14T0VudkJGdklZU1JGV2d1NXlCYkpTckd2VDBsMnpIMUdZMmhvek1CWF91d2NVTWJucG0wMU5NLWppa0ZrdnhlVlY3ZzNtLXR3ZDRHRXJYSGNnb3Fja013MzVPWDEwdGdjU3RNbElWN3ZXSGJlZFpB?oc=5",
-      "source": "FxNewsToday.ae",
-      "direction": "down",
-      "ts": "2026-08-24T15:27:53+00:00",
-      "amman": "18:27"
-    },
-    {
-      "title": "إعادة شراء سندات الخزانة الأمريكية.. هل تدعم وول ستريت والذهب؟",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3LVRpNU9YZ2ZaVUltZGtqRFhHa1Zvbk93d2dRd2NQZk04OXktczJOMGdJVmpuOUprUnRUY2tIOVJ2Wm01MjdKcGRYS19Lc2psclA2Tzh0NDBtSEdUWDRLYQ?oc=5",
-      "source": "Investing.com",
-      "direction": "neutral",
-      "ts": "2026-08-24T14:47:00+00:00",
-      "amman": "17:47"
     }
   ]
 }

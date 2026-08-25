@@ -1,9 +1,73 @@
 {
-  "updated_amman": "2026-08-25 18:14",
-  "count": 26,
-  "up": 6,
-  "down": 7,
+  "updated_amman": "2026-08-25 18:59",
+  "count": 30,
+  "up": 12,
+  "down": 5,
   "items": [
+    {
+      "title": "Scotiabank posts record quarter as capital markets surge lifts profit past estimates",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-posts-record-quarter-capital-153900936.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-25T15:39:00+00:00",
+      "amman": "18:39"
+    },
+    {
+      "title": "Morgan Stanley sends clear signal on stock market, oil prices",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-clear-signal-153300835.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T15:33:00+00:00",
+      "amman": "18:33"
+    },
+    {
+      "title": "Bitwise Launches Automated Portfolios for Tokenized U.S. Stocks",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/bitwise-launches-automated-portfolios-tokenized-152600936.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T15:26:00+00:00",
+      "amman": "18:26"
+    },
+    {
+      "title": "الاحتياطي الفيدرالي يلوح برفع أسعار الفائدة إذا استمر التضخم",
+      "url": "https://news.google.com/rss/articles/CBMilARBVV95cUxPNzFvTWp6cFliVFdGVlF1dml0V3RDRWcxNzVlbks4WkRiTUpkOWMzQjZYaHJaLUxweWFWNGxSaXloY0wzbm92SWFkWlRNSUkzLUZzX2NVUU81S2VEa2hYTDFXWU1pLW83bnZtaU5oV2ZsME4xejhGdWlLSjdsd3Uyc1lmNnlIa3V3dmhKb1BiUk5nT2hIZG9xZENSMUstTGlQbU9VNTRGLVJpMXBTRlYyemt1MG84Sng4NUZ4ZlMyc2FweVhuVldrYlZINlNGUVhNSzVZS3hZM0ZoYldzeTZyWXlkZFAtRnZ2aFc1Q2FZM3c2QTJIc0NRSWJSdlg2bVBlaXZ2aFRmR053cm5aOEVrMWoxVi0wcWpoS3BvMENLaURQSzJhMndrU2ZWcEtHcTJJUXVkS2ZqWmw0NnVfTE9sbE1Pb1ktQnAyQ2RweWhPVjR2eFhmZm1GNmFJQ0lqX21JU0RUOXA3SjlKSS14UW1QMEJGRWNzY2ZJNXB5dnVoY0VxYjdqdWRSQm93cWMwNTBZUjR4aV9EcFd0RTZnempvMDlVQ3JxQU1TQVlaLXFfZGZVZFA2ZWtsb0o1VVNWakR5eFAzTl9hRnQtRGIyT1RlVHdCb3p5YXFlSzRicFo0LXRoZl9nZ1JIcTR1V0l3VDBtY2U0enc2Q1pHbVhVTnpuQWRtdlJKbkRYMjh0ZVlLeTF5d0gx?oc=5",
+      "source": "المتداول العربي",
+      "direction": "neutral",
+      "ts": "2026-08-25T15:25:29+00:00",
+      "amman": "18:25"
+    },
+    {
+      "title": "وول ستريت تنتعش مع تعافي أسهم التكنولوجيا قبيل بيانات التضخم",
+      "url": "https://news.google.com/rss/articles/CBMirwVBVV95cUxOempnbE1EQndFb090NmlTYjRtcEtJdENOaW9PNFB1YnFEYVY5OFRSTExqdFhzRjJGQUowV1J0Ynd0VERZMjA4Zm9PbGE3ZkZ1V3hvSVNGaS1HQXRMV01tZmNjX3doQUxJZ1FWeEZhckdWSVlNS1ZOa28yOVMycWVFYUJ1U240NGoxeTMxRml4N2kyVmZnazFpTFg0ZTN5YmJlWUZrNC1UZTdvRmMxU3BtdEdQLVYwR1d0S2t0LUtMT1RWYlpYczloQkcweTlaaFp3aFB3cVVCcHRuWjh4b1ZNUzNaTEZySS1UOVNBeEJlaGQ1OXFCN3RMNWdrLWJseWRKa1dDWENxbGt2bk1qV0ZWd3ltRF9vQ09EVjB3MWNfcFhWRUgzcnQ4TGxrRUduNVRpRWgxWWFCNzNmSXRtSWRFSnNfaTNFNmNwOW80UnR4MGFzck9SbGVkU0syYUprT0Rub1VsX3oxSXFKbUR2cG8taFBXSGhYX3VtdkJ0Rm1yVE9IZFRXdmQ0akN4aHZub2RTLXhKWGdsZ1pkc3phYnJ4UWUxS2ZxTXpfOEFDY1V3QU1JNjBaM1dyVUhsTUM1ZmtkblRRX3AyNUVEOGYtNlByUnBiZ2h4Y1l1aWpkQTJEVnBnVFJmM0ZlT29KUFp1bWRXdllJekViNlFocy1IZVJ2R0hiUDR3RFBFU08wUktfdkVYQ1lNZ056MUxrZGxKaVNJSEc1ekVsUnItZlFTY09mdGlSakFwVHM3NGN6MFlLMVBWVWZYMXRVMHFLMGJMdGNWb0pOUlBvY0NQS1JrWVJuWF95SXpFM0ppcjNiNDVicF9WWV9XQ3hSdW5ndUVXX0xkZHVMaXRZMG0taUlhUnZCdkFxMkNPU3Itb2RjODM4LXlaOFRFZk9teEYxeVJzSWM?oc=5",
+      "source": "FxNewsToday.ae",
+      "direction": "neutral",
+      "ts": "2026-08-25T15:24:39+00:00",
+      "amman": "18:24"
+    },
+    {
+      "title": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-rebound-oversold-bounce-151418970.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-25T15:14:18+00:00",
+      "amman": "18:14"
+    },
+    {
+      "title": "BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-helps-pull-more-bitcoin-151338436.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T15:13:38+00:00",
+      "amman": "18:13"
+    },
+    {
+      "title": "Crypto Mining Stocks Rally as Bitcoin Hovers Around $80K: MARA Jumps 7%, TeraWulf and IREN Climb 5%",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-mining-stocks-rally-bitcoin-151010611.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-25T15:10:10+00:00",
+      "amman": "18:10"
+    },
     {
       "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
       "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
@@ -11,6 +75,30 @@
       "direction": "up",
       "ts": "2026-08-25T15:10:00+00:00",
       "amman": "18:10"
+    },
+    {
+      "title": "ParaZero Secures First DefendAir Order From U.S. Federal Agency",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/parazero-secures-first-defendair-order-150859699.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T15:08:59+00:00",
+      "amman": "18:08"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Holds Support Amid Surprise Economic Data; Nvidia Reverses Higher (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-25T15:06:59+00:00",
+      "amman": "18:06"
+    },
+    {
+      "title": "US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says",
+      "url": "https://finance.yahoo.com/economy/policy/articles/us-rates-rise-soon-absent-150621599.html",
+      "source": "Yahoo Finance",
+      "direction": "neutral",
+      "ts": "2026-08-25T15:06:21+00:00",
+      "amman": "18:06"
     },
     {
       "title": "مؤشرات الأسهم الأمريكية تستهل تعاملاتها على ارتفاع",
@@ -21,68 +109,20 @@
       "amman": "17:55"
     },
     {
-      "title": "Tracy Stockard named chief marketing officer of Blaze Pizza",
-      "url": "https://finance.yahoo.com/media-advertising/articles/tracy-stockard-named-chief-marketing-144241589.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T14:42:41+00:00",
-      "amman": "17:42"
-    },
-    {
-      "title": "Kalshi's Nvidia Compute Markets Hit $4.4M: Is AI Compute the 'New Oil'?",
-      "url": "https://finance.yahoo.com/markets/commodities/articles/kalshis-nvidia-compute-markets-hit-144129858.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T14:41:29+00:00",
-      "amman": "17:41"
-    },
-    {
-      "title": "Berkshire Hathaway Bought $10 Billion of Alphabet Straight From the Company, Bypassing the Open Market",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/berkshire-hathaway-bought-10-billion-143500518.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T14:35:00+00:00",
-      "amman": "17:35"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Charges Higher As Treasury Yields Fall; Nvidia, Micron, Sandisk Rally (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T14:16:42+00:00",
-      "amman": "17:16"
-    },
-    {
-      "title": "Stick with value stocks until everyone starts talking about them — they’re still under the radar, this Wall Street firm says",
-      "url": "https://www.marketwatch.com/story/stick-with-value-stocks-until-everyone-is-talking-about-them-and-they-are-still-under-the-radar-this-wall-street-firm-says-598183de?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-25T13:59:00+00:00",
-      "amman": "16:59"
-    },
-    {
-      "title": "Airbnb And Expedia Stocks Are Riding High. Here's Why.",
-      "url": "https://www.investors.com/news/technology/expedia-stock-airbnb-stock-rally-travel-booking/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T13:56:28+00:00",
-      "amman": "16:56"
-    },
-    {
-      "title": "Investors rotate into tech stocks as inflation concerns ease: AlphaCheck",
-      "url": "https://finance.yahoo.com/markets/article/investors-rotate-into-tech-stocks-as-inflation-concerns-ease-alphacheck-135258775.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T13:52:58+00:00",
-      "amman": "16:52"
-    },
-    {
       "title": "«ثلاثية» تنعش«وول ستريت» تراجع السندات -هبوط النفط- صعود«الرقائق»",
       "url": "https://news.google.com/rss/articles/CBMiowVBVV95cUxPTWVZSjhLR05xZUZYOHdldC1GS3F0bWFNaHVkV1B0N1JQOFJMUDlpVzdfMnBTN2RqcHUtN3NDdFdFTGowUy1famlEbnRHV1dTTERBQ0hycnFaU2JPQncycFU1NzlPcUhvdm0wc1c5d1Zwd3Y3M1VNeGVwNVhHUWF3N3pQLUQ0QmVUY19NVGtYWDE0bGdaZXFrdkhOODlDd1N0M3hFWHRsWWV0dzhzaExQZHZWb3JVcHk5bXRFZzdlOEhjdkR4YlNYVWpJNmJvZW9QbUZ6X3J5dWNlNTQ1R2lab29yTzFoZzNTTmZHeExHblZPcVJLcTY3VUUtaUEwb3oweEM0RU5RQnUwVWVqSUluSHphRGJBdVJPWUJtaUxMRmJkdTdLUjdJUFlaODlVbVZjc3Z5NkVqa3VEWGZNM2lrd0xhZVhvbWlOU0lvaE5ucC1qUGE4bVl0WXl5aXRNSG9DZHhGY1g0ekFxQmMybDVfOHZMOVJlbGJxZ19MWWFKM1MxQVUyRTNRZGd1bVM1dkp6ZkptVFlpYnhGcG4wcEh1LTV0Qk5fNjlSeWpNc0FRM19aak5BQ3VOYnpyRWdDb2ZHcUhIREctY21MS0JSYVIxUjBwMTFqYnJJZ19ZWjFPVHRCQkxDQl9pbG1sUzFiXzIweFhtQzZFUlA4TVpzdG1BVTNMbG9qa0NYVFpVV3pWVjNIQWtNNGVuMERDWFRtaFVhTENGN2IyS0ZkMW9FNUFNQ3pnMi1JdFMzVDBBZTdyclJZWDhiYWJsMzBCNDNOSXZoNGtvcWxWc084VUhCeERSTm83VlZJZE1Bdkc0akdPMDE4V1JlTGtoMkh3ODNKY1o5cXZPaEVqeGtKUXRXU1VIX1ZKd1lNRVJsYmllYVpYbW8yams?oc=5",
       "source": "صحيفة الخليج",
       "direction": "down",
       "ts": "2026-08-25T13:52:41+00:00",
       "amman": "16:52"
+    },
+    {
+      "title": "الذهب يتخلى عن ذروة 15 أسبوعاً بسبب عمليات جني الأرباح",
+      "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPdXZjaVY0dGM0cUhGcXVjZnBPbmpnWW9kMUd5bTFzZTdpenVlOFRyRWZfREdqeU5xRWlNMlI1U0lBN20yNFNHbmhMdm1FTy02S1FNOHl0NnVPNG5DRFJvX3FMSDJSbmlCeWhxUlV4SHUyN2o3eGV3Y2ZtZXZmVkZ4b3FsUEM0TDNCWmZoMmxRMXFOWjJPMHFrR1VCNkl2Ym16T2l2NHZDbEYxSGk2bkhiQkVlZjFVbWFOdkYwRF82UXZXWHVYbThYS0VTYUtIcVJDYVVsZFVYYUJhTFczX3pwelBELUlOdUJ6WnMza1RldkkyNXFoU0FhbWJqRmtuLUN3Y3d3SHJoLTR0ekVGdTZSSmRsT1Q3RERVMEVKUVRpbnY1eXRWRUNuenZ0bXdHWE5CYVpnVzVLOG9rX01Jd21RU09aU2JNR19CQW9CdC1QT0JQcS1rQ1NMUEsyZlUydnVaMFAwVGhUOVFzR1RSRzY0Y3doMEVPZzlvbzFvRGFHMHhCT2JoSlZ0ekVJdzRabDl0X04wU191b3VSN201VENNOHJwcGNzaFJidkdFaHlaY1l2eFJidVJFT0xBS2sxZXp5cTdYaVcxX2JmSVQ3Vnc?oc=5",
+      "source": "FxNewsToday.ae",
+      "direction": "neutral",
+      "ts": "2026-08-25T10:09:44+00:00",
+      "amman": "13:09"
     },
     {
       "title": "ارتفاع العقود الآجلة لمؤشر داو جونز مع ارتداد أسهم التكنولوجيا قبل صدور تقرير أرباح شركة Nvidia المرتقب",
@@ -93,12 +133,28 @@
       "amman": "11:57"
     },
     {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq gain as oil, Treasury yields fall",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-080527092.html",
+      "title": "Stock market today: Dow, S&P 500, Nasdaq hold steady as US-Canada trade tensions heat up",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-august-25-dow-sp-500-nasdaq-tariffs-oil-080527092.html",
       "source": "Yahoo Finance",
-      "direction": "down",
+      "direction": "neutral",
       "ts": "2026-08-25T08:05:27+00:00",
       "amman": "11:05"
+    },
+    {
+      "title": "أسعار الذهب في مصر.. ارتفاع بوتيرة أبطأ والشعبة تكشف مفاجأة للمواطنين",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNUDNjbzR1MzBzSjJXN1AzZkNhX1pSU2Y4alA2Y2Nsb1dleUVrLU1PVnlEeTFWVndETTRYN3U1REhJbUlUM25lV203eDNxZVZUeTJnRTUtMk44YzVoMHcwMTZzbzlkLWUyWnp5VHcxcWowemQwUjJ5bEI2Ni10U2VBVjRmaVp6RWRLQzhHZ24yUzVWWW4yVG1sdjQzdFE1N1c1SVZXVWhNeVlzX1hid0RNRVVFdkhTeG93ZGFiRFJ3RGc5bmlrWVkydy1MREFXR0ljbWxoUUtsR2dWUEJmOWtpYmFNTkNZaG02Nzdtc0VHQ1VzQ0k5SUVlRHRWVFhrTWpEd3FHUmFxUHMwWldSU3hoM2lnTEMxeHhIVncwODBwZzRpTDdIbXBfbVhlYVNWUl90cFhKYjNxWjRfVFRkZDE0?oc=5",
+      "source": "جريدة عالم النجوم",
+      "direction": "up",
+      "ts": "2026-08-25T07:33:48+00:00",
+      "amman": "10:33"
+    },
+    {
+      "title": "الذهب يوسع مكاسبه إلى أعلى مستوى فى 15 أسبوع وسط طلب قوي",
+      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOTnpmLW1mTWhuY0N4cWhnYzc3dnBIVUxnVFJUVy1HOVlJZkxxWjM0TlVQWWVqRXdxdFJVdkJHLUdWWjBEaWtSYkN4cFpqZlRfZVdYSkhfdTVEeklidm94UTVFVC1jaUxEa0NLQ3BHSHlUQUFGaUtYeXdvenIxWmFLZFVfZFdVRGw5T3VJNi1lc244c2FmSnIwekxTU3ZDSlk0dGx1TTZsRG9pSzFvWTZ0WDV3NWtWeXRSaS1sMGNPOFZNUHRmQmlIRVN4Tm1YamNndEs1STlaYVUtQWtDcGRFVU1QT0xoeURZTlJRZXp6dGdSbnduLU9OM2ZXXzFEMmlOejduWGhCdjRVOWFiS3JITjVpcWtaTnFmQVFkWC00SjY4dnhhX09zUWlZOW8wclotRDFXNlRuTnRwYlpCaVV6Z0c3SUtaaXBpS3FRSEE0dFl5V2JBbFM2bGt6MVpXcE9zTzRkWkV0Q2d2VDVoc0hBZkV0ckFQWUFJTGp5M2U2SzNfeVJ3TUE2N3hFTS13OXdsLVQ0UFc2azVDNUZ4dVBSLXFuUVZ2SVd0bmRUbU01Sk9sXy1tdS04c0dHem9WTHE1R1lySlJycC1wWTN2TDFsUA?oc=5",
+      "source": "FxNewsToday.ae",
+      "direction": "up",
+      "ts": "2026-08-25T07:29:41+00:00",
+      "amman": "10:29"
     },
     {
       "title": "أسعار الذهب اليوم، 25 أغسطس: وصل سعر الذهب في بورصة SJC إلى 150 مليون دونغ فيتنامي، فإلى أي مدى سيرتفع عالميًا؟",
@@ -125,14 +181,6 @@
       "amman": "06:14"
     },
     {
-      "title": "الفيدرالي يثبت الفائدة في أول اجتماع له بقيادة وارش",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEQzJWSks1Q2ZIdklSYXdGU1YxSmZsdnF6YUpPNEpWTGxic0hpZG9JQllGYVBzSXRFV21WNFMzOE8yTTkyNVhhUjZncUFQV21leGRXM2d4Q0lzOFA5OGMxMU43Z2phQTBwSmc?oc=5",
-      "source": "ارقام",
-      "direction": "neutral",
-      "ts": "2026-08-25T02:57:01+00:00",
-      "amman": "05:57"
-    },
-    {
       "title": "أداء متباين للأسهم الأميركية.. داو جونز يرتفع 140 نقطة وناسداك يتراجع 200 نقطة",
       "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxQMFFpQVBsU1VMSll0RktKeGZjNFJxYVVqOE55aTliWVVRTXQ5WnU4eEU1ZDhSRGYyckx4N2h2Q2pZTXRkR3hpNU1EM1ZqcEh2MHpHbzZ2MmNNN3YxMGljU1Rzc2pVZFozMGpRejlzLWt5d2RWbzZHTTJsbTZ1VUxzVk9pekFwQkZ1WDVVSGIza0NhSVpMSFIwS2dBTGY4Tk5Lc0xGQWhlVnNRNHFiSUdHdW8xWmRlU0RZVTNZTlI1Z3U3UWw1Y0U4UGNINDN4aEhvdWM0dEJLbFFKQXdiUEdTYzhNYlBaQjVUbC1nU01idnpReXU3ZjFWaC1NNHRucDdyLTlwU1hSQ0tiX2xCR0hKUGRqNDNsdWI2UGJHcm5rZFg5WWV1NzJwRkJ4SEp1amVEMXVmeGN2LWU1SmRXMnctaVFwekc1aGllbTJMd0d4ZmlLODFhX0d5X0V3Vlc0VnB4eHVpTWVOYWpWM0EyeW9BVUNSZU9rMl9kMFNoeS1oel9KZkVPM3JuYzdKRTQ2RHJCU3hGd3Zpc0V0UGh4b1hVUWZBT2JBRDZqdVFJSldUdmJEbkxkRmlseEgtek5fYnFNNVh0TGlucGliLTBlU3BPU0hLS2pqZW1SQk1INFR5d2lfcXdTUmY1Y3lvb050LUotUWdxOWU3ZExWMkw0T0ducmYzSldtRXlsbVdBNU1LWVp6aHRkdmJjX3VEd1pfT2dndm9WYXR2RGJGTTFrWVVScWgzZGpMYi14YVZRY3Z4cXpBYllKWjhseDBQeW1nMXVjcXktTTJvbEVtbFBNd0lRWms4U1pkeFJhYmFrbVBaYWxHd1RZSlVRMGljc1ZieUVLano2VnVSUkc?oc=5",
       "source": "مجلة البوصلة الاقتصادية",
@@ -147,14 +195,6 @@
       "direction": "neutral",
       "ts": "2026-08-24T19:13:00+00:00",
       "amman": "22:13"
-    },
-    {
-      "title": "محللون لـ أرقام: تثبيت الفائدة الأقرب في أول اجتماع بقيادة وارش.. والتضخم يُبقي التشديد مطروحاً",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VcEU1QXVlRU41UlM1b2dEZExJZWlSc3pKOEhVMEFBVWxmNHM1cXJMM1JDaU9DYnhEVTBnTk9SdzFpSXc0VUM2LUtLU1QxWlNmd0pLdERnYU1FMnJtczgzQzF4d1doUnZhcXc?oc=5",
-      "source": "ارقام",
-      "direction": "neutral",
-      "ts": "2026-08-24T18:19:14+00:00",
-      "amman": "21:19"
     },
     {
       "title": "«وول ستريت» تتباين مع تراجع أسهم «الرقائق»",
@@ -203,14 +243,6 @@
       "direction": "down",
       "ts": "2026-08-24T16:07:37+00:00",
       "amman": "19:07"
-    },
-    {
-      "title": "انخفاض وول ستريت مع تصاعد التوترات بشأن إيران في أسبوع حاسم للأسواق",
-      "url": "https://news.google.com/rss/articles/CBMi2gVBVV95cUxQWnVJYXEyT2s2SlVvVF9POVJ3bXpfQjNMLVc3VV9fWUF5cHgtNGg1OEZJRHNranB0Wk1OQkJUVjBDUGJpdGFWM2tnZW1YaDhIMG5SOVp6SG9mdDdBUXJMM3ozSWRnTHhEQVA0ekJLZmpYSThBYm1Oa0xEWktabHVsNmxuck1JNFJ1Sjg2UmJjenhNV2k2UVgyN1FQbDE0NE9YYnA3SE9IVFRxUDVUamc4MEhjalRLY1dyTTVpV29xQjFNeWxyNFlsRmRtNHRKMS1YS0lFc3pPRVZoOXlqY1kwbm5ETGRDTEdJR3ZIOWpxcG5hdktvbktGbUNsaXd2dldmdE82dFYwMWY3Y1dWeDRUdkFnQ2NINnozeW1KelFCNjZIWDdSNXhpSU5MRzBoRzhpeFp2SVJoelFCbFRnZjNDTGFxUjlvcWluVXBwQzJZdWFsdGNkN1kxbWRWRXNCR1dkaW5rc3J4U1hoX1Vudmw5QmQxRWtFdVJYZGFTTEptMDE3T1BYWkpFSV9MNHN6QlBONk0tWTFzTWM5c1VadFJWQzRKdlJuYkZxMW1vTURoOGZkVFFRSTYxcE1SbS1DZllEMVp2a0RhX05WcW9kbFRTVW92NHZ6SEdmZUhnbDM2STJ6UTNIV203RXZJUXpvS2EweVVuR1JlXzNCQWZaOWF3T1dqcWJCajQ3V0hTR045aWxoZUVTWnZaYU5fZnM0aWpwMU5JNDd3WGNjX3VqUWJycGdjanlLUXpQQzBVWXZLdjREcDFwV1lwT1ZEbW1NREZ2M3BHUkhVdUZHbGdIRy1wVjdpS0JZZXdMUW14T0VudkJGdklZU1JGV2d1NXlCYkpTckd2VDBsMnpIMUdZMmhvek1CWF91d2NVTWJucG0wMU5NLWppa0ZrdnhlVlY3ZzNtLXR3ZDRHRXJYSGNnb3Fja013MzVPWDEwdGdjU3RNbElWN3ZXSGJlZFpB?oc=5",
-      "source": "FxNewsToday.ae",
-      "direction": "down",
-      "ts": "2026-08-24T15:27:53+00:00",
-      "amman": "18:27"
     }
   ]
 }

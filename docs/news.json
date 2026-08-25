@@ -1,16 +1,32 @@
 {
-  "updated_amman": "2026-08-25 23:39",
-  "count": 26,
+  "updated_amman": "2026-08-25 23:59",
+  "count": 27,
   "up": 5,
   "down": 5,
   "items": [
+    {
+      "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
+      "url": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-08-25T20:56:00+00:00",
+      "amman": "23:56"
+    },
+    {
+      "title": "ارتفاع أسعار الأصول سبب التضخم وليس انخفاض الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpbWdqang1ZWloOVBCSXQtQ1ZpN3g3QVpJazBOelZoU2NoajlqVXJQdUw1UnhhNHp4eGZibVREazZWWWJ5bTE4MDdKUDR0c1lDSXZWZnFhMmZxQQ?oc=5",
+      "source": "البيان",
+      "direction": "neutral",
+      "ts": "2026-08-25T20:36:00+00:00",
+      "amman": "23:36"
+    },
     {
       "title": "الداو جونز يغلق على ارتفاع للجلسة الثالثة على التوالي مع تراجع عوائد السندات الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMiwgVBVV95cUxQM0FFSnRpSmFtaEI4dWZGcGNYMkc0SFlUZ29PT1o1MFN0TnVTQzVMMjFvN3V0YWdreGVvVThBZW4tZnYyWFJOZGtZRjZxd1hSR29waWlzMnQ5a3pJN3VxSHNTRG53dXF0ODJTTkhwOE5xRnJLSFBaUU1CQi00OXZMUmhpb3BoVzFXTVpURFlLbFNva0ZLMUNmSVR3UEhvdk9TMmdkbTJrNXMwSmJVNWJXR2d3MVI3QnpPM05WUU1CaW9lVnkxakNsZ0hjU082cnJEbUFWWnFXSWlzWG51Y1hQX3FQand0UnRxZGNLbG9kdjRjREszMFV4YTdYVnFqaWtqR25HM3ZweTdZZndIUUhRaGVwRFk3c2JCOGpwVGhpVm5aUUFTV0ZZMU82dVRuV3U3cEl6TmxBSzNuMElkY1RKVllpLTk3UWs2MS1HcWZZYjZocGNuS1ZrbkxvTjlDWkpWeW00cS0zNVptQ0VZUmtjdURhdEMwai03QmVJQm1pME1qSEhScG9VNzh0UmMwTmw1WmZmOWg4d19WVm9peWpUR0o1SkJMLXRNLVY2N0JIb21JZ0JwTUIzZjkyV0R6a1hnVk9IVVNyZUltMWtuWHNQX0xMZ09FUDNRcE1CejBhSTV3aE5IQTVvTnZEX0FPNEptckppblVkcDV4M3RKbDBxLXpBeXA3WnpaWlFrbE9DNUFnb1QtZXNuSnRTeWZTcVFZd05SN3dUbHRHQ2x5TXM0VFoyWmZDcEVRaERwNWhISzlXTDBJWVJqU1hnMG9KclAwTlZIRnZENUdibzVnYzZyVFVyWlgxVlNjenphZWFyWlJZZ3VxWU1PdTU2Szdsa2Q1RUdzVWlQcjVBSWlVWHpsTDlQS0tUTjFUQkFMUGJ5N01vV1ptdi1ONjkxbU1XeFhOY2toeGZPQ3VFOExzSjdIVDFR?oc=5",
       "source": "المتداول العربي",
       "direction": "neutral",
-      "ts": "2026-08-25T20:26:55+00:00",
-      "amman": "23:26"
+      "ts": "2026-08-25T20:27:42+00:00",
+      "amman": "23:27"
     },
     {
       "title": "الذهب يستقر بعد تسجيل أعلى مستوى في أكثر من 3 أشهر قبيل بيانات التضخم الأمريكية",
@@ -77,14 +93,6 @@
       "amman": "21:00"
     },
     {
-      "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
-      "url": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-25T17:32:00+00:00",
-      "amman": "20:32"
-    },
-    {
       "title": "مؤشر «ستاندرد آند بورز 500» يرتفع بشكل طفيف الثلاثاء مع انخفاض عوائد سندات الخزانة",
       "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQTFVZdjhiakdac29VNEcyaXBFTEdGeE9UZXVmbzcwdmVLaVBTcW85TU92MmtRNDB3QmhIXzNqY3lUQ0VwUnZST2VnM1ZtSkxWbXZIOUs3NUgwSDlBNVBVaTY5YmhaWk5xbVdMdkx1MGpZcVNiYTBmSHpId2djQWZwemxpMG91UkpWdTdTOVlPaFhnbFdkVzg2dE5GQmVtZXI1M3VXSFBHeUw4UmpSWmJQek9id2wzUTdoS3BpX1ptZGRZOHZYbktOaktpM3NMQlFtZFlPZ0RBQzFIeTFPLXd4LXVLWXJtcjhJeUlCSE05TUVsaUVpa0NzdmlPajN6Q1dlWDRJVUhHSXQzUWZoZVhGclI1QUROSHpRUEMyV3MxbWtaN2VUX01ZNWhCenMyMU5oSGYwQTNFamZBZw?oc=5",
       "source": "جريدة المال",
@@ -131,14 +139,6 @@
       "direction": "up",
       "ts": "2026-08-25T14:55:37+00:00",
       "amman": "17:55"
-    },
-    {
-      "title": "لماذا قد يدفع «سلام محتمل» مع إيران نحو رفع أسعار الفائدة الأميركية؟",
-      "url": "https://news.google.com/rss/articles/CBMiyARBVV95cUxOMlc2TTJicHU2SzQ2WFZCVFhxLU1XVXhPX0x2SktHc3RTb3lGTmY0eWpQSUFxU0VUY0tIZkpEaGhFY0tSelBNdmxubl94SWtxbHFLb1RIY0RmQzhDT1VaQmpQSTNHY0VrY3NNVHo2V0kzZ1MwUG9RaDE0Y0FKLXJlZG1yVWliU2xiZkd2MGw2bzBqZHlqN2JQRHJXd0lYTHg3RHJoeGUySURpdlc1dmQ4bFZsUUhqZGVPXzBBMXdnbEVIN0tmT0NVajlPVnhZRW12NDhKX2RDWktKZkNnOUVaVmU3blMxalhpSkYwUzFmSFFNNi1WVnR5eDBmVkNjcFRWVkQ2ODFzX3k4MDdxbThUWmc3bnNfa29wOXJ4VXdzajVlbW9LYXJ2OUFhOUhwTWcwQnBJV1NSaW9DeGk4c0l4Wm9PVXhPbl9DdW5TQkdiZjVXU1NpM3E4U2dUd0dNSWY1X2NSZWkzVXY4aDl4X0w0RzRBX2FOUnQ1RHNrN2ZJRXM5bkRvekNwT3Y4S2ZJdllad1gzZzBmcTRpbEFQa3FNVFVHaHd4OHZuRVVlVkJPelpGZmswS0EzU2dhXzMzeEtkMl83VXhhanBqZjY5UnNLdER6eDNHemJIWTdWYW9obU5BWXFGcG5wRXByRlk0YVNPSjJSRWNWUHVlcnlsRUNiRE5tTDFmcnJ5MTd5OGR1bmQ3dU0wZGtHUzA0MWxXSjRMU0gxQTRCWW9GR2NjQ3lOUEw4dWtYM2dCb2dxVHhHNFBkaEQtQXJhYw?oc=5",
-      "source": "الشرق الأوسط",
-      "direction": "neutral",
-      "ts": "2026-08-25T14:21:18+00:00",
-      "amman": "17:21"
     },
     {
       "title": "«ثلاثية» تنعش«وول ستريت» تراجع السندات -هبوط النفط- صعود«الرقائق»",
@@ -211,6 +211,14 @@
       "direction": "up",
       "ts": "2026-08-25T03:14:07+00:00",
       "amman": "06:14"
+    },
+    {
+      "title": "الفيدرالي يثبت الفائدة في أول اجتماع له بقيادة وارش",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEQzJWSks1Q2ZIdklSYXdGU1YxSmZsdnF6YUpPNEpWTGxic0hpZG9JQllGYVBzSXRFV21WNFMzOE8yTTkyNVhhUjZncUFQV21leGRXM2d4Q0lzOFA5OGMxMU43Z2phQTBwSmc?oc=5",
+      "source": "ارقام",
+      "direction": "neutral",
+      "ts": "2026-08-25T02:57:01+00:00",
+      "amman": "05:57"
     }
   ]
 }

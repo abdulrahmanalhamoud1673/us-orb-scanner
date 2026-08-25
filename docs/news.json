@@ -1,24 +1,56 @@
 {
-  "updated_amman": "2026-08-25 18:59",
-  "count": 30,
-  "up": 12,
-  "down": 5,
+  "updated_amman": "2026-08-25 19:37",
+  "count": 27,
+  "up": 11,
+  "down": 4,
   "items": [
     {
-      "title": "Scotiabank posts record quarter as capital markets surge lifts profit past estimates",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-posts-record-quarter-capital-153900936.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-25T15:39:00+00:00",
-      "amman": "18:39"
+      "title": "تعافي اسهم التكنولوجيا في وول ستريت بانتظار نتائج انفيديا وبيانات التضخم",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90dFkyb0E3dElzWEJCT2RkdU1GT0wyRTBCSDMwOWlSVWt0Sy1GSjBHOWFSX1ROeUh3NFRyVzNSdUxOR3VwR2NIeHNnQQ?oc=5",
+      "source": "الوقائع الإخبارية",
+      "direction": "neutral",
+      "ts": "2026-08-25T16:34:00+00:00",
+      "amman": "19:34"
     },
     {
-      "title": "Morgan Stanley sends clear signal on stock market, oil prices",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-sends-clear-signal-153300835.html",
+      "title": "Executive Sells $1.4 Million Worth of Travel Stock, Following 54% Rally",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/executive-sells-1-4-million-161901495.html",
       "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T15:33:00+00:00",
-      "amman": "18:33"
+      "direction": "up",
+      "ts": "2026-08-25T16:19:01+00:00",
+      "amman": "19:19"
+    },
+    {
+      "title": "Crypto Stocks Rally While Bitcoin Trades Near $80K: CleanSpark Jumps 7%, BitMine Climbs 4%",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-rally-while-bitcoin-161623425.html",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-25T16:16:23+00:00",
+      "amman": "19:16"
+    },
+    {
+      "title": "تعافي أسهم التكنولوجيا.. بورصة وول ستريت تستهل تعاملاتها على ارتفاع",
+      "url": "https://news.google.com/rss/articles/CBMiugVBVV95cUxNU1VtUGpaTnhBcU12Unpla1VHNGU1VjJwLXVPWmg1RzIxX080dUw0WmFib1RnZWwtZUZJYXJ1WEp2b2FKQ0xyb19kQUFBa0paaEZneDZiTzM2ald0VF83NkhKaVAwR28zWkNJSHBqMkx1LXYwbEc4YTFOemw0czBkREJtZHFHZUZtLWdZaEpaMlVtOUREZVAwcW9NV1JUU0pGUUROdkNheWZCN29hWHV4cThidS1tNnlFYkdVRUlEcFpVUTh2T2tGZng1SnNzZmRwNEJHQXFXSE1zZWVTRTJwcEVZYUVzcU5mYUs5V0tCMDU3Z0xoc1JfWUw2NlNJajlFZjdJckFhVGxieHFrbER1MnNoTS0tVUxPN2xqcFRUVGFBZkI2WlNBSmlwMzFzcjJHVHBQdklaY3ZwZWk2R3JUYTZVSHBoeFBfUW9zS0tqbnBuaTRLa1ZzMHNYdlNIVWs4SUNZcWlFZUZlci1HRzVGY1RzYlk0T1RnYU1tZERobEktd2RDM3BQUHowMVlVZWZDaFlxakQ1QUkwY2R0U1ZIX0Q5OUNSMUxaZ2ZqbktCQ3NBeHhMMHQ3bF9XQ3J3UlF3VnpRS0tUQ0UyLXp3SjVCV05MSzBfb2NYXzRXbFVSa0ZvQVBLSS1jS2lhX0pib2hIbHJfbWl4X2s1cHBQWkZCZlh6dGRxOU9tbVBtM2F4SXNieXZBcnh3NnNrLWQ5R3BLdlNXM09hZXlxNUpvT2RNQ1BSakpSNUFfMkx3WTNtVGVaUFp1NVhkMXhMLU9KYWotbTh5QVltdWpqZTdIRjFSX0NUb0I0SEYzQXVPX21GRWdZMDg4TE5Wc1R0NXhJZThZRXBNVVZGTVd3eGNHRzluVGpjLVNpaEdxQV96cGMwS2R4V1kyYlJJVDEwdVJMYkpQWjJvNUhzRTF0Z9IBU0FVX3lxTE9wYVVyUHI5MVpEYXMxRzNEcTBHOTZWQVdmeWxDWXhETWtBck5UcENMMVFOWkhHWTFaUkpYTUxoSUdEVUxjVU5xekVwUDZubG9sRVhz?oc=5",
+      "source": "alyaum",
+      "direction": "up",
+      "ts": "2026-08-25T16:14:00+00:00",
+      "amman": "19:14"
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Leads Charge Amid Canada Tariff News; Bloom Energy Extends Gains (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
+      "source": "Yahoo Finance",
+      "direction": "up",
+      "ts": "2026-08-25T16:04:39+00:00",
+      "amman": "19:04"
+    },
+    {
+      "title": "These growth stocks are still cheap, despite the S&P 500 being near a record high price-to-sales valuation",
+      "url": "https://www.marketwatch.com/story/these-growth-stocks-are-still-cheap-despite-the-s-p-500-being-near-a-record-high-price-to-sales-valuation-03602260?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-08-25T16:04:00+00:00",
+      "amman": "19:04"
     },
     {
       "title": "Bitwise Launches Automated Portfolios for Tokenized U.S. Stocks",
@@ -45,52 +77,12 @@
       "amman": "18:24"
     },
     {
-      "title": "Nuclear Stocks Rebound on an Oversold Bounce: Uranium Energy Jumps 6%, NuScale Power and Oklo Climb 5%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nuclear-stocks-rebound-oversold-bounce-151418970.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-25T15:14:18+00:00",
-      "amman": "18:14"
-    },
-    {
-      "title": "BlackRock Helps Pull More Bitcoin Wealth Deeper Into Wall Street",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/blackrock-helps-pull-more-bitcoin-151338436.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T15:13:38+00:00",
-      "amman": "18:13"
-    },
-    {
-      "title": "Crypto Mining Stocks Rally as Bitcoin Hovers Around $80K: MARA Jumps 7%, TeraWulf and IREN Climb 5%",
-      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-mining-stocks-rally-bitcoin-151010611.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-25T15:10:10+00:00",
-      "amman": "18:10"
-    },
-    {
       "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
       "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "direction": "up",
       "ts": "2026-08-25T15:10:00+00:00",
       "amman": "18:10"
-    },
-    {
-      "title": "ParaZero Secures First DefendAir Order From U.S. Federal Agency",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/parazero-secures-first-defendair-order-150859699.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-08-25T15:08:59+00:00",
-      "amman": "18:08"
-    },
-    {
-      "title": "Stock Market Today: Nasdaq Holds Support Amid Surprise Economic Data; Nvidia Reverses Higher (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-sp500-treasury-yields-nvidia-micron-sandisk/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-08-25T15:06:59+00:00",
-      "amman": "18:06"
     },
     {
       "title": "US rates need to rise soon absent evidence of ongoing drop in inflation, Fed's Collins says",
@@ -117,14 +109,6 @@
       "amman": "16:52"
     },
     {
-      "title": "الذهب يتخلى عن ذروة 15 أسبوعاً بسبب عمليات جني الأرباح",
-      "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxPdXZjaVY0dGM0cUhGcXVjZnBPbmpnWW9kMUd5bTFzZTdpenVlOFRyRWZfREdqeU5xRWlNMlI1U0lBN20yNFNHbmhMdm1FTy02S1FNOHl0NnVPNG5DRFJvX3FMSDJSbmlCeWhxUlV4SHUyN2o3eGV3Y2ZtZXZmVkZ4b3FsUEM0TDNCWmZoMmxRMXFOWjJPMHFrR1VCNkl2Ym16T2l2NHZDbEYxSGk2bkhiQkVlZjFVbWFOdkYwRF82UXZXWHVYbThYS0VTYUtIcVJDYVVsZFVYYUJhTFczX3pwelBELUlOdUJ6WnMza1RldkkyNXFoU0FhbWJqRmtuLUN3Y3d3SHJoLTR0ekVGdTZSSmRsT1Q3RERVMEVKUVRpbnY1eXRWRUNuenZ0bXdHWE5CYVpnVzVLOG9rX01Jd21RU09aU2JNR19CQW9CdC1QT0JQcS1rQ1NMUEsyZlUydnVaMFAwVGhUOVFzR1RSRzY0Y3doMEVPZzlvbzFvRGFHMHhCT2JoSlZ0ekVJdzRabDl0X04wU191b3VSN201VENNOHJwcGNzaFJidkdFaHlaY1l2eFJidVJFT0xBS2sxZXp5cTdYaVcxX2JmSVQ3Vnc?oc=5",
-      "source": "FxNewsToday.ae",
-      "direction": "neutral",
-      "ts": "2026-08-25T10:09:44+00:00",
-      "amman": "13:09"
-    },
-    {
       "title": "ارتفاع العقود الآجلة لمؤشر داو جونز مع ارتداد أسهم التكنولوجيا قبل صدور تقرير أرباح شركة Nvidia المرتقب",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWW1xNTNRTWhWeWFPTUNEUGUxRWdUeEhLS0FZR0lGQTlaUXVXb0pXemplUkRqcGRvLU1EZDlUbUlwSEJ2MDhWemhyejg0ck43QmlpWExCNnlfVzRna0U5SnJ3RklPSFhFeEQ2dmVLX0kxNUNoODVzXzRRWXBUNzA4TkxaMHM0RE9LVS14WVU0YzNtMDRYNnhjOEZ6NmFqTVNLbmpvSVM2Rkp1Nlhxc29RRWZhYVhpdmvSAbwBQVVfeXFMT1dzamd3TndqaFR2azQ0V3ZtaHg3X3ZBQ2RJOG5nc2xIdHJ5cjZic2tHWFZlMU5TMHpaNUkxQzROaVdCMHR2U2hJNUN1V3NMOWstYTJ4dkYwdml6YzVVTDM4dzJZMFk5dlhOLVBXZWx4bUYwb3lhR0tOWEM2czlGejdUVFp0N01zUGdfcmFBS1RrYUlTeUlyVGE2S3hKdnNZMG1MVDIzMXYySHVaRndqQUVBSkhiYkV3MlowMFo?oc=5",
       "source": "FXStreet",
@@ -139,22 +123,6 @@
       "direction": "neutral",
       "ts": "2026-08-25T08:05:27+00:00",
       "amman": "11:05"
-    },
-    {
-      "title": "أسعار الذهب في مصر.. ارتفاع بوتيرة أبطأ والشعبة تكشف مفاجأة للمواطنين",
-      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxNUDNjbzR1MzBzSjJXN1AzZkNhX1pSU2Y4alA2Y2Nsb1dleUVrLU1PVnlEeTFWVndETTRYN3U1REhJbUlUM25lV203eDNxZVZUeTJnRTUtMk44YzVoMHcwMTZzbzlkLWUyWnp5VHcxcWowemQwUjJ5bEI2Ni10U2VBVjRmaVp6RWRLQzhHZ24yUzVWWW4yVG1sdjQzdFE1N1c1SVZXVWhNeVlzX1hid0RNRVVFdkhTeG93ZGFiRFJ3RGc5bmlrWVkydy1MREFXR0ljbWxoUUtsR2dWUEJmOWtpYmFNTkNZaG02Nzdtc0VHQ1VzQ0k5SUVlRHRWVFhrTWpEd3FHUmFxUHMwWldSU3hoM2lnTEMxeHhIVncwODBwZzRpTDdIbXBfbVhlYVNWUl90cFhKYjNxWjRfVFRkZDE0?oc=5",
-      "source": "جريدة عالم النجوم",
-      "direction": "up",
-      "ts": "2026-08-25T07:33:48+00:00",
-      "amman": "10:33"
-    },
-    {
-      "title": "الذهب يوسع مكاسبه إلى أعلى مستوى فى 15 أسبوع وسط طلب قوي",
-      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxOTnpmLW1mTWhuY0N4cWhnYzc3dnBIVUxnVFJUVy1HOVlJZkxxWjM0TlVQWWVqRXdxdFJVdkJHLUdWWjBEaWtSYkN4cFpqZlRfZVdYSkhfdTVEeklidm94UTVFVC1jaUxEa0NLQ3BHSHlUQUFGaUtYeXdvenIxWmFLZFVfZFdVRGw5T3VJNi1lc244c2FmSnIwekxTU3ZDSlk0dGx1TTZsRG9pSzFvWTZ0WDV3NWtWeXRSaS1sMGNPOFZNUHRmQmlIRVN4Tm1YamNndEs1STlaYVUtQWtDcGRFVU1QT0xoeURZTlJRZXp6dGdSbnduLU9OM2ZXXzFEMmlOejduWGhCdjRVOWFiS3JITjVpcWtaTnFmQVFkWC00SjY4dnhhX09zUWlZOW8wclotRDFXNlRuTnRwYlpCaVV6Z0c3SUtaaXBpS3FRSEE0dFl5V2JBbFM2bGt6MVpXcE9zTzRkWkV0Q2d2VDVoc0hBZkV0ckFQWUFJTGp5M2U2SzNfeVJ3TUE2N3hFTS13OXdsLVQ0UFc2azVDNUZ4dVBSLXFuUVZ2SVd0bmRUbU01Sk9sXy1tdS04c0dHem9WTHE1R1lySlJycC1wWTN2TDFsUA?oc=5",
-      "source": "FxNewsToday.ae",
-      "direction": "up",
-      "ts": "2026-08-25T07:29:41+00:00",
-      "amman": "10:29"
     },
     {
       "title": "أسعار الذهب اليوم، 25 أغسطس: وصل سعر الذهب في بورصة SJC إلى 150 مليون دونغ فيتنامي، فإلى أي مدى سيرتفع عالميًا؟",
@@ -181,6 +149,14 @@
       "amman": "06:14"
     },
     {
+      "title": "الفيدرالي يثبت الفائدة في أول اجتماع له بقيادة وارش",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBEQzJWSks1Q2ZIdklSYXdGU1YxSmZsdnF6YUpPNEpWTGxic0hpZG9JQllGYVBzSXRFV21WNFMzOE8yTTkyNVhhUjZncUFQV21leGRXM2d4Q0lzOFA5OGMxMU43Z2phQTBwSmc?oc=5",
+      "source": "ارقام",
+      "direction": "neutral",
+      "ts": "2026-08-25T02:57:01+00:00",
+      "amman": "05:57"
+    },
+    {
       "title": "أداء متباين للأسهم الأميركية.. داو جونز يرتفع 140 نقطة وناسداك يتراجع 200 نقطة",
       "url": "https://news.google.com/rss/articles/CBMiiAVBVV95cUxQMFFpQVBsU1VMSll0RktKeGZjNFJxYVVqOE55aTliWVVRTXQ5WnU4eEU1ZDhSRGYyckx4N2h2Q2pZTXRkR3hpNU1EM1ZqcEh2MHpHbzZ2MmNNN3YxMGljU1Rzc2pVZFozMGpRejlzLWt5d2RWbzZHTTJsbTZ1VUxzVk9pekFwQkZ1WDVVSGIza0NhSVpMSFIwS2dBTGY4Tk5Lc0xGQWhlVnNRNHFiSUdHdW8xWmRlU0RZVTNZTlI1Z3U3UWw1Y0U4UGNINDN4aEhvdWM0dEJLbFFKQXdiUEdTYzhNYlBaQjVUbC1nU01idnpReXU3ZjFWaC1NNHRucDdyLTlwU1hSQ0tiX2xCR0hKUGRqNDNsdWI2UGJHcm5rZFg5WWV1NzJwRkJ4SEp1amVEMXVmeGN2LWU1SmRXMnctaVFwekc1aGllbTJMd0d4ZmlLODFhX0d5X0V3Vlc0VnB4eHVpTWVOYWpWM0EyeW9BVUNSZU9rMl9kMFNoeS1oel9KZkVPM3JuYzdKRTQ2RHJCU3hGd3Zpc0V0UGh4b1hVUWZBT2JBRDZqdVFJSldUdmJEbkxkRmlseEgtek5fYnFNNVh0TGlucGliLTBlU3BPU0hLS2pqZW1SQk1INFR5d2lfcXdTUmY1Y3lvb050LUotUWdxOWU3ZExWMkw0T0ducmYzSldtRXlsbVdBNU1LWVp6aHRkdmJjX3VEd1pfT2dndm9WYXR2RGJGTTFrWVVScWgzZGpMYi14YVZRY3Z4cXpBYllKWjhseDBQeW1nMXVjcXktTTJvbEVtbFBNd0lRWms4U1pkeFJhYmFrbVBaYWxHd1RZSlVRMGljc1ZieUVLano2VnVSUkc?oc=5",
       "source": "مجلة البوصلة الاقتصادية",
@@ -195,6 +171,14 @@
       "direction": "neutral",
       "ts": "2026-08-24T19:13:00+00:00",
       "amman": "22:13"
+    },
+    {
+      "title": "محللون لـ أرقام: تثبيت الفائدة الأقرب في أول اجتماع بقيادة وارش.. والتضخم يُبقي التشديد مطروحاً",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VcEU1QXVlRU41UlM1b2dEZExJZWlSc3pKOEhVMEFBVWxmNHM1cXJMM1JDaU9DYnhEVTBnTk9SdzFpSXc0VUM2LUtLU1QxWlNmd0pLdERnYU1FMnJtczgzQzF4d1doUnZhcXc?oc=5",
+      "source": "ارقام",
+      "direction": "neutral",
+      "ts": "2026-08-24T18:19:14+00:00",
+      "amman": "21:19"
     },
     {
       "title": "«وول ستريت» تتباين مع تراجع أسهم «الرقائق»",
@@ -235,14 +219,6 @@
       "direction": "up",
       "ts": "2026-08-24T16:44:39+00:00",
       "amman": "19:44"
-    },
-    {
-      "title": "مؤشرات الأسهم الأمريكية تستهل تعاملاتها على انخفاض",
-      "url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxOdGNxSlg5c3hLRTNmZzVPRXpuenBDT1RZV2QxQnl4S0pRRUNtRXZMQWl6RWR5WEIyajQwWHZKcTJSMlpkYnp3a1JocjJ5c2tWZGxYdU5SLUw5eEtPaXlWT1h5d3ZGNU5NTXhvNWd6d3hZU0NLZDM0ekkxY0l0RXUwZlhwLVMzRWJKSE1MZ2dsR2c4Vkt4VXYwYTl5MXJsZFZyLVl6cG1lMlhRSW9rbHVrbllob2o0R2VmaHBHTExuRFcyVm9KY0RRN3R1SFl5V0FaOU5DRTNLT3JNR2ZnRFRFU2ppdWRsNG04V1diSHJjWndrSmVJa24yMzdiZ201LWU4Y0dfcHpYMjJndVRMR1JDaF9FNVhUbTVGb2VqMHFSaVVQaHJtZy14c3JFNWJaaHllRmF1OUo3dmJJNVdxU2FveTBIV19oNEVPRWt5Q1lQSm02MTNnZ3hrUlNkNFpLcXFsakFURHBsNmoyR0JLTzV4bjIxUzA0TmdJYjdFQldFNldCMERLSEg0YVp0Q2x2RmJrT25xVkxRckpkWGs5TUVValM2d21aS0FSaWhQcUZha3ZIQmVuREtBUk1JOXhFZDNWSmhCeG1qZw?oc=5",
-      "source": "Qatar news agency",
-      "direction": "down",
-      "ts": "2026-08-24T16:07:37+00:00",
-      "amman": "19:07"
     }
   ]
 }

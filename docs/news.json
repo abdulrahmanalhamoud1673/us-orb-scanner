@@ -1,9 +1,25 @@
 {
-  "updated_amman": "2026-08-25 23:59",
-  "count": 27,
-  "up": 5,
+  "updated_amman": "2026-08-26 00:28",
+  "count": 26,
+  "up": 6,
   "down": 5,
   "items": [
+    {
+      "title": "Why Meta’s stock could see a 50% rally, thanks to an overlooked AI wild card",
+      "url": "https://www.marketwatch.com/story/why-metas-stock-could-see-a-50-rally-thanks-to-an-overlooked-ai-wild-card-28cea54b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-08-25T21:01:00+00:00",
+      "amman": "00:01"
+    },
+    {
+      "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
+      "url": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-08-25T20:59:00+00:00",
+      "amman": "23:59"
+    },
     {
       "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
       "url": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
@@ -45,36 +61,12 @@
       "amman": "22:53"
     },
     {
-      "title": "U.S.-Canada trade war threatens to worsen inflation for both economies. Neither can afford it.",
-      "url": "https://www.marketwatch.com/story/u-s-canada-trade-war-threatens-to-worsen-inflation-for-both-economies-neither-can-afford-it-bd797506?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-25T19:24:00+00:00",
-      "amman": "22:24"
-    },
-    {
       "title": "«انقسام داخل الفيدرالي».. 4 مجالس تضغط لرفع الفائدة",
       "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxNUThJR21TdE1TSzRyWmNkcy1JSGpnRVRUNVNUS0c4ZDB2SnFsd0VSdHNJNExnZGtMM1M5TWlGdHJNemxSbTdJTVZyQTdubTI1ejhja3RXMDZkUV9YWUpHd1RLd0dneFJnZFBBUE9fNS13XzdPR1lvd1c3aWJjNFRkMktNY0Q1Q0VVRkxKNHhOSlBia1YzT3kwV29SakFZYi1acEw1RkpTMU0yNk9JZTNCaGtIb0dvTFBVNUpERU9zREc3M0lRV0g2T2xRMEJhRExFQi1JejhZWGdJVGtOZVRUcmthekZoU1MzcEV1LVNyN0N5dlhIaThzZnNGRTNCVHNYMmQtTmtnQWlaT1NxQlpIeU5XVTM1MDRfU1Bmc045eVhBNEtIalpmLXZEdWw0cS1qWUotVC02UGoxVzZpQmRIQ3hncWNHSzN3N1loMzg3a2Y0dGY5aE1yQ2VfRnJ2TjQ3OTZ3Qnd2aE5yeUprRDVsZlhaLWM2TWhZd2hIMk1FeDhLUkhOZkI1aUMxWGdKckJhcDlaZF9GY3pHbUFnaEI5VzJzSFlLRHZv?oc=5",
       "source": "CNN الاقتصادية",
       "direction": "down",
       "ts": "2026-08-25T19:10:47+00:00",
       "amman": "22:10"
-    },
-    {
-      "title": "This chart shows exactly why investors should worry about rising yields — even if they don’t own any bonds",
-      "url": "https://www.marketwatch.com/story/this-chart-shows-exactly-why-investors-should-worry-about-rising-yields-even-if-they-dont-own-any-bonds-075b93c0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-08-25T18:58:00+00:00",
-      "amman": "21:58"
-    },
-    {
-      "title": "Why AMD can beat rivals Intel and Nvidia in the market for data-center CPUs",
-      "url": "https://www.marketwatch.com/story/why-amd-can-beat-rivals-intel-and-nvidia-in-the-market-for-data-center-cpus-e49a53f1?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "up",
-      "ts": "2026-08-25T18:29:00+00:00",
-      "amman": "21:29"
     },
     {
       "title": "\"الرقائق\" تدعم مؤشرات \"وول ستريت\".. والأخضر يغطي شاشات بورصات أوروبا",

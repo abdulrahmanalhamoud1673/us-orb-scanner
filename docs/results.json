@@ -1,6 +1,6 @@
 {
-  "updated_ny": "2026-08-26 16:31:10",
-  "updated_amman": "2026-08-26 23:31:10",
+  "updated_ny": "2026-08-26 19:59:08",
+  "updated_amman": "2026-08-27 02:59:08",
   "session_date": "2026-08-26",
   "requested": 91,
   "scanned": 90,
@@ -13,7 +13,6 @@
     "BMNR",
     "BSX",
     "CDE",
-    "DNN",
     "GRAB",
     "HL",
     "INTC",
@@ -25,14 +24,15 @@
     "NVDA",
     "ONDS",
     "PATH",
-    "PFE",
     "PLUG",
     "SMCI",
     "SMR",
     "SNAP",
     "SOFI",
+    "SOUN",
     "SPCX",
-    "WBS"
+    "WBS",
+    "WMT"
   ],
   "errors": [],
   "opportunities": [
@@ -2466,47 +2466,6 @@
       "active": false
     },
     {
-      "ticker": "DNN",
-      "session_date": "2026-08-26",
-      "state": -1,
-      "price": 3.62,
-      "open_high": 3.77,
-      "open_low": 3.71,
-      "open_range": 0.06,
-      "vwap": 3.64,
-      "ema200": 3.63,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -3.21,
-      "volume": 57553175,
-      "targets": [
-        3.89,
-        4.01,
-        4.13,
-        4.25,
-        4.37
-      ],
-      "targets_hit": 0,
-      "next_target": 3.89,
-      "next_target_pct": 7.46,
-      "last_signal_time": "10:00",
-      "bars_since_signal": 71,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 3.8
-        },
-        {
-          "kind": "Sell",
-          "time": "10:00",
-          "price": 3.79
-        }
-      ],
-      "active": true
-    },
-    {
       "ticker": "F",
       "session_date": "2026-08-26",
       "state": 0,
@@ -3931,7 +3890,7 @@
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
-      "active": true
+      "active": false
     },
     {
       "ticker": "PINS",
@@ -4555,6 +4514,47 @@
       "active": true
     },
     {
+      "ticker": "SOUN",
+      "session_date": "2026-08-26",
+      "state": -1,
+      "price": 7.01,
+      "open_high": 7.09,
+      "open_low": 6.95,
+      "open_range": 0.14,
+      "vwap": 7.0,
+      "ema200": 7.02,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": 0.65,
+      "volume": 27471294,
+      "targets": [
+        7.36,
+        7.63,
+        7.9,
+        8.17,
+        8.44
+      ],
+      "targets_hit": 0,
+      "next_target": 7.36,
+      "next_target_pct": 5.0,
+      "last_signal_time": "09:50",
+      "bars_since_signal": 73,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "09:35",
+          "price": 7.18
+        },
+        {
+          "kind": "Sell",
+          "time": "09:50",
+          "price": 7.16
+        }
+      ],
+      "active": true
+    },
+    {
       "ticker": "SPCX",
       "session_date": "2026-08-26",
       "state": 1,
@@ -4878,7 +4878,7 @@
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
-      "active": false
+      "active": true
     },
     {
       "ticker": "XOM",

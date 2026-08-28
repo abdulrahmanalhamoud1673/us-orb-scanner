@@ -190,8 +190,9 @@ function draw(){
         <div class="lvl verge">🔸 باقي <b>${(r._gap).toFixed(2)}%</b> ليخترق الشراء فوق <b>${money(r.open_high)}</b></div>
       </div>`;
     }
-    const bars=r.targets.map((t,i)=>`<i class="${px>=t?"on":""}"></i>`).join("");
-    const nt=r.targets.find(t=>px<t);
+    // الأهداف من مقياس "أعلى ما وصل" (targets_hit) لا من السعر الحالي — فلا تتراجع
+    const bars=r.targets.map((t,i)=>`<i class="${i<r.targets_hit?"on":""}"></i>`).join("");
+    const nt=r.targets_hit<r.targets.length ? r.targets[r.targets_hit] : null;
     return `<div class="card">
       <div class="top">
         <span class="tkr">${r.ticker}</span>
@@ -207,7 +208,7 @@ function draw(){
   list.forEach(r=>{
     els[r.ticker]={p:document.getElementById("p-"+r.ticker),c:document.getElementById("c-"+r.ticker),
                    pr:document.getElementById("pr-"+r.ticker),nx:document.getElementById("nx-"+r.ticker),
-                   targets:r.targets,last:live[r.ticker]?.price ?? r.price};
+                   targets:r.targets,hw:r.targets_hit,last:live[r.ticker]?.price ?? r.price};
   });
 }
 
@@ -255,10 +256,12 @@ function paint(id,q){
       clearTimeout(timers[id]); timers[id]=setTimeout(()=>e.p.classList.remove("up","down"),600); }
   }
   if(e.c && q.chg!==undefined){ e.c.textContent=pct(q.chg); e.c.className="day "+(q.chg>=0?"u":"d"); }
-  // الأهداف تتحدّث مع السعر الحي حتى تبقى الأرقام دقيقة
+  // الأهداف مقياس "أعلى ما وصل": تزيد فقط لو حقّق السعر الحي هدفاً جديداً، ولا تتراجع
   if(e.pr && e.targets){
-    [].forEach.call(e.pr.children,(el,i)=>el.className=q.price>=e.targets[i]?"on":"");
-    if(e.nx){ const nt=e.targets.find(t=>q.price<t);
+    const liveHits=e.targets.filter(t=>q.price>=t).length;
+    e.hw=Math.max(e.hw||0, liveHits);
+    [].forEach.call(e.pr.children,(el,i)=>el.className=i<e.hw?"on":"");
+    if(e.nx){ const nt=e.hw<e.targets.length ? e.targets[e.hw] : null;
       e.nx.innerHTML = nt?`الهدف القادم: <b>${money(nt)}</b>`:"✅ تجاوز كل الأهداف"; }
   }
 }

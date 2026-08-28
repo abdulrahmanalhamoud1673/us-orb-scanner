@@ -171,7 +171,11 @@ def analyze(
 
     price = float(closes[-1])
     session_open = float(open_bar["Open"])
-    hit = sum(1 for t in targets if price >= t)
+    # الهدف المحقق = علامة "أعلى ما وصل" (high-water): يُحسب من أعلى سعر وصله
+    # السهم في الجلسة، لا من السعر الحالي — فالهدف المُلامَس يبقى محققاً ولا يتراجع
+    # إذا رجع السعر للخلف. (مقياس عرض فقط — لا يمسّ منطق الإشارات.)
+    session_high = float(highs.max())
+    hit = sum(1 for t in targets if session_high >= t)
     next_target = targets[hit] if hit < len(targets) else None
 
     bars_since = None

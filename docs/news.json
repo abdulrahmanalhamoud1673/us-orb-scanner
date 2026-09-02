@@ -1,40 +1,56 @@
 {
-  "updated_amman": "2026-09-02 19:58",
-  "count": 26,
-  "up": 3,
-  "down": 8,
+  "updated_amman": "2026-09-02 22:37",
+  "count": 21,
+  "up": 2,
+  "down": 7,
   "items": [
     {
-      "title": "Snowflake Drops 4% Before Its Earnings Report, Datadog Falls 6%: Is the Software Selloff the Real Story?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/snowflake-drops-4-earnings-report-164111992.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-09-02T16:41:11+00:00",
-      "amman": "19:41"
-    },
-    {
-      "title": "IBD Stock Of The Day, TG Therapeutics, Eyes Breakout After Topping Early Buy Point",
-      "url": "https://www.investors.com/research/ibd-stock-of-the-day/tg-therapeutics-stock-briumvi-early-buy-point/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
+      "title": "Rising yields aren’t scaring off investors. Why money is still pouring into bond funds.",
+      "url": "https://www.marketwatch.com/story/rising-yields-arent-scaring-off-investors-why-money-is-still-pouring-into-bond-funds-a23e9e7c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "direction": "neutral",
-      "ts": "2026-09-02T16:21:03+00:00",
-      "amman": "19:21"
+      "ts": "2026-09-02T19:22:00+00:00",
+      "amman": "22:22"
     },
     {
-      "title": "Fed’s Williams ‘is opening options’ to interest-rate hikes. Why that could be ‘a bad trade.’",
+      "title": "Here’s another way rising bond yields could take a bite out of Americans’ wallets",
+      "url": "https://www.marketwatch.com/story/heres-another-way-rising-bond-yields-could-take-a-bite-out-of-americans-wallets-b15a720c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-09-02T19:15:00+00:00",
+      "amman": "22:15"
+    },
+    {
+      "title": "أسعار الذهب في مصر تقفز 65 جنيهًا مساء.. عيار 21 يسجل 6270 جنيهًا",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQRG5TWEJkUmI2MXVLb1JVdlRKUHNHS1dZakFKc0Q2dUw2UlFQS2wwdEtCWFducE96cWpKdkd2ZU5TZkg0akUxUFd6d2s2bUlfeGRCVTVrcmlhZEd4Um9EZEU5LXlXUGx4Q2tpdUhGT0VyajFsc25qUkR1TWFTaUJDMXNCM0w3UmlSQ29TMkxTWWRtNmxpcFBJaTN1d3dzQnY3dFFLZ0hGNUZ5VDZfeE5mZ3E1QmIzb2FNUS1sNW9tZTlpd2tJY1hHWW9SbjJPWUJiYVdReXBqVXJ4YVJRMmxDVV9rVzBlMjRiNUtxd0JydGJHUlBtTC1mMEgxQVR0WUJDRUNBdUpUTXFsd19QM2YwaXF3cmgyN0RN?oc=5",
+      "source": "جريدة المال",
+      "direction": "neutral",
+      "ts": "2026-09-02T18:44:10+00:00",
+      "amman": "21:44"
+    },
+    {
+      "title": "Wall Street is nervous about a Fed rate hike, which looks more likely after a top official’s remarks",
       "url": "https://www.marketwatch.com/story/feds-williams-is-opening-options-to-interest-rate-hikes-why-that-could-be-a-bad-trade-4ba6b32f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "direction": "down",
-      "ts": "2026-09-02T15:38:00+00:00",
-      "amman": "18:38"
+      "ts": "2026-09-02T17:44:00+00:00",
+      "amman": "20:44"
     },
     {
-      "title": "What Makes Robinhood Markets (HOOD) as an Attractive Bet?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/makes-robinhood-markets-hood-attractive-153017756.html",
-      "source": "Yahoo Finance",
+      "title": "الذهب يرتفع 1% مع تراجع الدولار وعوائد السندات الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1acmFRS1Y0blM1cHk2VDlFMTVpdm1HQThnc3ZHUnpLbTdfUU1DWmdqNF8zaUpTaGptTkhuYjZFWTlFOG1TZVR2UmJ3YkxfTUxBa3FCNFZKSnFUMmRLWFBkcHJfdGFjZGUwMEFTc0FR0gFzQVVfeXFMTWJMc3JDeDZjZDFyZTAtWDFqYmo0d1VXbTdRWDAwU3piZlZzR0EyZ0FzcXIyVmswTzZlcFNEQUtWUmpUb1h0cGlOVU4weWN4Nm9kQ0dpSDFFMEo1R1psSzJpN3RXQ2hBQzVHMGZyUzc1eW1RZw?oc=5",
+      "source": "البيان",
       "direction": "neutral",
-      "ts": "2026-09-02T15:30:17+00:00",
-      "amman": "18:30"
+      "ts": "2026-09-02T16:57:00+00:00",
+      "amman": "19:57"
+    },
+    {
+      "title": "اليورو يتراجع وتحوطات من هبوط أكبر وسط قوة الدولار",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOWUdYenk0d2ZXWFI3ZGRsTjdVX24xSnF6Z2lGaWtrTEhIc0F0UWh5N3kxQm1KSGY2S0E1UkI3cHhKX0xReEpVaGtoSkRwRWxmZzhzd0pWOUN4T2tlbU10QXFnNjAwMzI2VlJPYUhrNzBvblpfaDl6MkhIYmNNQjhYUFY0enIteVFERGZyRHJ6WkxIUFJONVpKQ2FtMDBuMTNwNndtVjA3S0V3OVhscWtVbTdsYVZMRDlaR3VYNjBOdGhPc0JBbmZrdWlWekdnUmFoWk5VT1k5WXp2OUZlRW93U3MxakpMSlY1RGlhRFMwZlNlbGxiN3BNZFFOY3Nrb0VqcDhRUTRrSWYyTVJGWFA1ZC1Fb0VIeHpqbVBCLTBTZXE3amRsTElCNG9fQ0NraGd1ZlB0ZldUV0g4OXFTOHItSC1VNFM5QVpRRy1GbjBHdw?oc=5",
+      "source": "boursa.info",
+      "direction": "down",
+      "ts": "2026-09-02T16:19:14+00:00",
+      "amman": "19:19"
     },
     {
       "title": "تستمر أسعار الذهب اليوم، 3 سبتمبر 2026، في اتجاهها الهبوطي؛ ويواصل المستثمرون البيع؛ ولا يزال أمام الاحتياطي الفيدرالي \"عمل يتعين القيام به\"؛ ويضعف الزخم قصير المدى.",
@@ -45,52 +61,12 @@
       "amman": "18:26"
     },
     {
-      "title": "Stock Market Today: Dow, Nasdaq Up On Jobs Data; Dell Loses Huge Early Gain (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobs-data-ai-stock-credo-earnings/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-09-02T15:07:43+00:00",
-      "amman": "18:07"
-    },
-    {
-      "title": "Lam Research Corporation (LRCX) is Exploring Growth Opportunities in the Semiconductor Equipment Market",
-      "url": "https://finance.yahoo.com/technology/articles/lam-research-corporation-lrcx-exploring-150706060.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-09-02T15:07:06+00:00",
-      "amman": "18:07"
-    },
-    {
       "title": "Private payrolls rose by 38,000 in August, less than expected, ADP reports",
       "url": "https://www.cnbc.com/2026/09/02/private-payrolls-rose-by-38000-in-august-fewer-than-expected-adp-reports.html",
       "source": "CNBC",
       "direction": "neutral",
       "ts": "2026-09-02T14:30:10+00:00",
       "amman": "17:30"
-    },
-    {
-      "title": "ارتفاع النفط وعوائد الخزانة يضغطان على وول ستريت وسط توترات إيران",
-      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOLWRJcWl6RzJ4a1EzWklCeGkwWkNvOTN3dWxoWHBId09FY2JZdGtBRXBmTG1JdXRlT0lCeFlwdkVpbUlxa1VLQ2w0QWdWb3VQaW9obS1jM0ZfYjdoNXlxUVFlelNaOEoxekYwLVpVUUJSdFphOEVxTm94UU5WM252bVYtWTh3NHY3dkFuRjRTLVhvMFBkR1JmNXIyLUJrZWZHU3VYbjU0Y3U1aGp2QU5MOTREVDlvZmYwSkNXV2lVU0JyV0wyVS1VZGZkMnExRk9mYVk0OXRQSzgwb1FmTzI4QU5US29aQkhIV0RGX1FyUDJ4WUktZ3Z6eFlFbkp6QlJFal9zYU9EUGhWVE9QOUtoa3JLeGtzYmJhSnpWa3JYRm44cUxxQ1B2RWFjaXBCVW42RjdqX2xDcVQ1MVY4TDExNlZXY2c1bHVWWFRldXFBT3d2c0NFRGZtVzVCWVQyR1VBNndCT3FhRFE1UXVSX1E?oc=5",
-      "source": "جريدة المال",
-      "direction": "up",
-      "ts": "2026-09-02T12:17:24+00:00",
-      "amman": "15:17"
-    },
-    {
-      "title": "«وارش» يضع الأسواق أمام رفع الفائدة مع تصاعد ضغوط التضخم والدين الأمريكي",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOX014bW53MzRCcVF4YXczdXNIMHFBWDZkUDhLYnFkdzd0c0IwRGlyRHdtbjB4SlRCNVJDS0pMMzhsaGdUTUZ1dGwtMzV3VW56bjlwNm9oQlE1STQ3Mkg5clhBblZ1VHBrM1d4MEtoMEFZdHlIMUFzc1RLWjJpNkY2QkI0bk9aWHF4ckRldko5c0lGcFI5TjQxMENHMzFWeldoRE55OWRUbG56am1MWDF3TFhzWU1jZnllbFdUbkI0MHcySy1mNXduYi1OWk1TLXJncTBKRW53NWx5NklGLW5mSDhTa2haTTBJVUZrVERSN1pZTWt2TVNXR3YycnhPOWtGT0xRTnQ2eVpDWko3WkVoUFpWQ1VkTW15UjlqRVh1RTRmd2VfMjRENURoYzA3RmROU2gyaF9QaUs4MVJUaFJuS3FvWnVBUjZwenROdnBn?oc=5",
-      "source": "جريدة المال",
-      "direction": "down",
-      "ts": "2026-09-02T12:12:24+00:00",
-      "amman": "15:12"
-    },
-    {
-      "title": "سبتمبر يضع وارش أمام اختبار الاستقلالية... والفائدة في مواجهة ترمب والانتخابات",
-      "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxQUGhYODBGb25WSER1M2VlZE1OcVlvLVVXSndjWTE5aEozMlRPTnNHcURMOTI1T0FvRWZucnFIc25PWkUtMnNTUVRpbmJJc2tialRPcVF4bUJId19URW5fZGg0ZmRzX0Z1NFVoTkJaQkdPWTlYak44OEJnUFowZlJaR1g2YlJYcDZKa29HNllac2tZWHAwbE53Ym0xMlhDd1JXRHdKaU50Zk5VSUR4LU01QlphZW9wazB0UFhfOW84SE51UHF6LUtIZEtOSGYtNmdhUXU3QnZRaVRzaEtDYVl3eDZDYlV0dU55ZXFhd1RYSjkxdlZiWXR2UTZ0NGNxYkdSSVFYbHdBcEEwcjU1LUc0WWJDd0pWQzJlSU9PQjdoQjN4dDRHcDhIcHpwSUFKSXVRMUI3MUZlMzByWkozTHR1V1c5ZkRPRDYtMkNLejc2UkJQM2N6QnpGeS1xOWllaS0wRzlVbzNZSVM4TDFJbkZDYnEzUkNiZ3NyMEJYd3VCZnR2QXZhR0dTWUhaSGZMU1dhV0RUVmtnMUwzZHZ6X0RPVS14bEVqRHh4ZHZEaFZzVzNrTHJEcS0yQ2pHQXg2ZktmYlFiWTJGUVlQVnQtX2pFRGVLdks2MFktYU50VUdBNXBnUVJiaVZlZEpkNGRnR1UwaWNHOFJPQlRIUWlySHQ4NWxSMFh2QkxmdVBMckt6LXhpNnIyQ2h4VnV0bnRBYTV3Mnh0bzgtRWdrRWdwRldVbzBwZ21ITV9QOU43elBtT2I5cTAtVEpEd1NfaUpWcmtRbVRUb0ZJc3lpOC1WLU5hSEVheE9mLVZsYXphQW1qMThDNUxPUEZac0hQdS13M1gxSElEY1lZNDVZVkpkTXNRS2Z3OXJhY2s?oc=5",
-      "source": "الشرق الأوسط",
-      "direction": "neutral",
-      "ts": "2026-09-02T11:31:52+00:00",
-      "amman": "14:31"
     },
     {
       "title": "يرتفع مؤشر الدولار الأمريكي إلى قرب 99.85 قبيل بيانات التوظيف الأمريكية ADP",
@@ -125,12 +101,12 @@
       "amman": "10:48"
     },
     {
-      "title": "الذهب يهبط لأدنى مستوى منذ 7 أغسطس وسط مخاوف رفع أسعار الفائدة",
-      "url": "https://news.google.com/rss/articles/CBMi_gRBVV95cUxQOU94SU1jQVlBalpacEg4bVdnZ1Y1eWZGbUVFVy1KVElUZ0RadHE2ZTBjLXBQYkZxZzBfd3J4cm9BMzlpN1lZY1V1RzUta0JUR3dmVUF3dmt1MnZhUHJ1b1gybVBKTGNsT3J3WDRfS2ZadVYwUnNTbGRDVGlGQkFuYktOVHJ4SW9ob2VXcmNiZWRzMTNRYVhCa1p4TjVCWWtxNnhsYkV5eUxZNnJVbjdvNG9CaDR5d19QYkFReElCdENUSGlGZm9SdTVQcGJXNDQySmVsOGJmWUJSeE9leWdydVpHSkZfMjJ6RTlEMTdwSXFQTnhza3F3Nl9KQ2QydWxlZ3phUWNGS3RtMjhEbm5uRHYwTkw3SFNhNkxPZUl0RXNRa3pJRDNsUXhtQTJtejJWWmROalBMTlBzSW1FaHQ1cjRHMHZZMVhJekpmTDRjZnNGak8zc005Yko5cXRpVkZ3ekF4cmJ3ckd4Umc2ZUNSV3FyWjl4MWZIckxPdFJvQ1VNc1V1NGp6NnlIWDY2aUllWGhWSlJiaEt3YWF1SGpBVk5zZVp3MnoyQko2RFAtZDhwTWgxNFc0N2ViTGRHVnd2MGE1eXBwelF1TFFhRnJnX3BpZnNNWXJTZDZzZTlFM2ZDWUp0MGtCZDBwZm1wOFhpa0ZYWEY0YVVGZlc1MEx2cGNwcEZtTEZGVFdibUp4aFpqMktWWHNKSG9VbnNVRE5NVHM0SEhlZEt0SUR2Z1NMTERmX093clRCczFKZm9BRVFlTVZBVndRaGFrNEVkV1E3RUtMTURmQU9nSlhQdEdtbWNIQXlWeV9zVTlrOG1KZEJqazRYV1dxTFh3S3Vfd9IBU0FVX3lxTE55R1NYWi1ZUXFYeTRRQXpZSXlXb1UxZVRoRENkMFFJY0dxZEI2andGYkQxNjVvQlZWd1R3cGRvcFQtVExOTFlxMHFTMUhLYlhmYkhR?oc=5",
-      "source": "صحيفة اليوم السعودية",
+      "title": "الذهب يتراجع مع تصاعد التوترات الأمريكية الإيرانية وارتفاع توقعات رفع الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMivgJBVV95cUxQNHYxaUpkVDM5bTVjSWJCZm1nU2RFM0xuSE5wSHN4R280TDV6ZnFnOFhfLUJjS2RwVkRyTXo5alR0Wm90dEJkT1pXaEhjN2h6dDZNOE9FejE2RU9uRGwxMWxLeV9kaTl2WkxlcGxlNjFYOXJrdzVndHRlOWJHWkNtRF82RlV3elFWMlJpWjR6Ynh1YWt2RVhUZFctdENIeHYtelZDbEh5WDVMRV9oQnJKSzBPWG1NeVR6Q2h1Yy00YjRDWU85S1hLVUlyRWZDVTJQTjE1OVZiYmdWcDM2a01Sck52cWVFaE1oVXVpbElNSVRyV3B6ZHo2LTA5MmppTElva0hIWGdERGlpZkFqWjl4NFZYZnAzT1RIbjR5TW42aEZYNkN0MGJBWXJYOXlqbWpaZ2hPR3FSMlVtRG9FUnc?oc=5",
+      "source": "قناة النيل للأخبار",
       "direction": "down",
-      "ts": "2026-09-02T07:18:00+00:00",
-      "amman": "10:18"
+      "ts": "2026-09-02T06:40:56+00:00",
+      "amman": "09:40"
     },
     {
       "title": "الدولار الأمريكي: تضخم أغسطس عامل رئيسي في قرار بنك الاحتياطي الفيدرالي في سبتمبر - كومرتس بنك",
@@ -139,14 +115,6 @@
       "direction": "neutral",
       "ts": "2026-09-02T06:30:43+00:00",
       "amman": "09:30"
-    },
-    {
-      "title": "وول ستريت تستقبل سبتمبر بخسائر قوية مع قفزة النفط والعوائد.. والأنظار على الوظائف بواسطة Arincen",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IWHdvcUJ2LVktMHdTN1JTLWJDcm93SXhyY3VFbElkQUs5ZXp2YmRWU0R5WW52OGItZ0I5aHpDamJXUy1CcXdhdzRoc2t3ZXdPb2lhU1Z4NWRsR0pMX3Z6Um83aEJqM1FEM1F6anJyT3A?oc=5",
-      "source": "Investing.com",
-      "direction": "neutral",
-      "ts": "2026-09-02T06:12:00+00:00",
-      "amman": "09:12"
     },
     {
       "title": "الذهب يهبط لأدنى مستوى في 3 أسابيع مع تصاعد مخاوف الفائدة",
@@ -163,14 +131,6 @@
       "direction": "neutral",
       "ts": "2026-09-02T05:22:49+00:00",
       "amman": "08:22"
-    },
-    {
-      "title": "التصعيد يعيد تسعير الدولار.. هل تتبخر الرهانات على ضعفه؟",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9URHd2djB2RWVIMkYtMjYzeDFlbWVnTmowS0MtSGc2Q0xLbWVxVHQ0dXhNeVlHWHR6dHZhNEJlendLdXRZbjQ5bl9leXBMckJPeXJYdg?oc=5",
-      "source": "إرم بزنس",
-      "direction": "neutral",
-      "ts": "2026-09-02T03:59:44+00:00",
-      "amman": "06:59"
     },
     {
       "title": "جنون السندات العالمية: ارتفاعات حادّة للعوائد تصعد بكلفة الاقتراض",

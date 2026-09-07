@@ -1,6 +1,6 @@
 {
-  "updated_ny": "2026-09-07 14:04:37",
-  "updated_amman": "2026-09-07 21:04:37",
+  "updated_ny": "2026-09-07 17:26:59",
+  "updated_amman": "2026-09-08 00:26:59",
   "session_date": "2026-09-04",
   "requested": 89,
   "scanned": 89,
@@ -287,43 +287,33 @@
       "session_date": "2026-09-04",
       "state": 1,
       "price": 87.73,
-      "open_high": 86.28,
+      "open_high": 86.9,
       "open_low": 85.68,
-      "open_range": 0.6,
-      "vwap": 87.16,
+      "open_range": 1.22,
+      "vwap": 87.17,
       "ema200": 86.73,
       "above_ema200": true,
       "entry_price": 87.13,
       "change_pct": 0.69,
-      "day_change_pct": 1.68,
+      "day_change_pct": 1.53,
       "volume": 3568626,
       "targets": [
-        87.47,
-        88.66,
-        89.85,
-        91.04,
-        92.23
+        89.33,
+        91.76,
+        94.19,
+        96.62,
+        99.05
       ],
-      "targets_hit": 1,
-      "next_target": 88.66,
-      "next_target_pct": 1.06,
+      "targets_hit": 0,
+      "next_target": 89.33,
+      "next_target_pct": 1.82,
       "last_signal_time": "14:15",
       "bars_since_signal": 20,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:35",
-          "price": 86.56
-        },
-        {
-          "kind": "Sell",
-          "time": "10:05",
-          "price": 86.59
-        },
-        {
-          "kind": "Buy",
-          "time": "10:25",
-          "price": 87.08
+          "time": "09:45",
+          "price": 87.0
         },
         {
           "kind": "Sell",
@@ -873,7 +863,7 @@
       "above_ema200": false,
       "entry_price": 21.55,
       "change_pct": -1.44,
-      "day_change_pct": -1.12,
+      "day_change_pct": 0.88,
       "volume": 30948266,
       "targets": [
         22.73,
@@ -909,7 +899,7 @@
       "above_ema200": true,
       "entry_price": 42.59,
       "change_pct": 1.63,
-      "day_change_pct": 3.55,
+      "day_change_pct": 4.43,
       "volume": 8452919,
       "targets": [
         44.38,
@@ -1502,7 +1492,7 @@
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 1.34,
+      "day_change_pct": 0.57,
       "volume": 56063199,
       "targets": [
         2.83,
@@ -1893,7 +1883,7 @@
       "above_ema200": false,
       "entry_price": 21.55,
       "change_pct": -1.44,
-      "day_change_pct": -1.12,
+      "day_change_pct": 0.88,
       "volume": 30948266,
       "targets": [
         22.73,
@@ -2382,43 +2372,33 @@
       "session_date": "2026-09-04",
       "state": 1,
       "price": 87.73,
-      "open_high": 86.28,
+      "open_high": 86.9,
       "open_low": 85.68,
-      "open_range": 0.6,
-      "vwap": 87.16,
+      "open_range": 1.22,
+      "vwap": 87.17,
       "ema200": 86.73,
       "above_ema200": true,
       "entry_price": 87.13,
       "change_pct": 0.69,
-      "day_change_pct": 1.68,
+      "day_change_pct": 1.53,
       "volume": 3568626,
       "targets": [
-        87.47,
-        88.66,
-        89.85,
-        91.04,
-        92.23
+        89.33,
+        91.76,
+        94.19,
+        96.62,
+        99.05
       ],
-      "targets_hit": 1,
-      "next_target": 88.66,
-      "next_target_pct": 1.06,
+      "targets_hit": 0,
+      "next_target": 89.33,
+      "next_target_pct": 1.82,
       "last_signal_time": "14:15",
       "bars_since_signal": 20,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:35",
-          "price": 86.56
-        },
-        {
-          "kind": "Sell",
-          "time": "10:05",
-          "price": 86.59
-        },
-        {
-          "kind": "Buy",
-          "time": "10:25",
-          "price": 87.08
+          "time": "09:45",
+          "price": 87.0
         },
         {
           "kind": "Sell",
@@ -3869,7 +3849,7 @@
       "above_ema200": true,
       "entry_price": 42.59,
       "change_pct": 1.63,
-      "day_change_pct": 3.55,
+      "day_change_pct": 4.43,
       "volume": 8452919,
       "targets": [
         44.38,
@@ -4262,8 +4242,8 @@
       "state": 0,
       "price": 770.24,
       "open_high": 772.83,
-      "open_low": 771.88,
-      "open_range": 0.95,
+      "open_low": 771.89,
+      "open_range": 0.94,
       "vwap": 770.51,
       "ema200": 769.56,
       "above_ema200": true,
@@ -4272,14 +4252,14 @@
       "day_change_pct": -0.23,
       "volume": 28204051,
       "targets": [
-        774.73,
-        776.63,
-        778.53,
-        780.43,
-        782.33
+        774.71,
+        776.59,
+        778.47,
+        780.35,
+        782.23
       ],
       "targets_hit": 0,
-      "next_target": 774.73,
+      "next_target": 774.71,
       "next_target_pct": 0.58,
       "last_signal_time": null,
       "bars_since_signal": null,

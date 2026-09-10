@@ -1,48 +1,88 @@
 {
-  "updated_amman": "2026-09-10 19:53",
-  "count": 45,
-  "up": 11,
-  "down": 11,
+  "updated_amman": "2026-09-10 22:19",
+  "count": 44,
+  "up": 10,
+  "down": 15,
   "items": [
     {
-      "title": "Skyworks Solutions Surges 10%, Qorvo Climbs 6% While Chip Stocks Fall: Is the Merger Finally Clearing?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/skyworks-solutions-surges-10-qorvo-164726893.html",
-      "source": "Yahoo Finance",
-      "direction": "up",
-      "ts": "2026-09-10T16:47:26+00:00",
-      "amman": "19:47"
-    },
-    {
-      "title": "Rare Earth Stocks Tumble on U.S.-China Thaw Hopes: USA Rare Earth Sinks 4%, MP Materials Drops 5%, Critical Metals Slips",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/rare-earth-stocks-tumble-u-164104081.html",
-      "source": "Yahoo Finance",
+      "title": "الأسهم الأمريكية تتراجع مع ارتفاع النفط وتزايد رهانات رفع الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxPUlBJY3FJam1MNEpnQ3JoM0w2cm8yRThqRC1Wbm1NbWVyQjVTRjB4TFF1bXN4V0UyanRtbUtCY01rZjd1Z0duYWNCeFNkYjAzQ09vM1E1OUhYMDEzQjJZaEt0VmwzVEdRQlJQMzRLU0NpSE5vYXV2NDRSUV9xRS1CYlJzOGlHSVpCcFNTalE3XzdNcWdGR3MxY2EwVUJNVk9OU2JFbm1QWVloMzJzTnpPaERuTnFxOC1uNlR3TTBoZ1lmNU00TWZpMXpDRW0xZTViOGRFdTg4ck5xdm12aW12eTJHQ0VxeXRvRzZ1UUlLVXpuNW9VbEwwVzZuVlN3eWpKcnJWaEtobFdpN0ViX0hYWUlQSnRsUUYxU3Z4NjdTa2VFSHgxRVgyUEUwYVctS1FRdWx5WnpUR1dNdWx3QlpqaXdIUFZNLWVvVWZ5amQ5NTFuQUhGdUlrdFlOdmwtZHJrNVNRbVpjbFNjQkFKQ250ZW1heFZXanVPOUN6RFFIMDlzWFByNTVOQzl6VUliQkI5X2loamtrQXI1cUI1RWNSQXpiZUZRUUtRSXlRYkE0eFMtdmUyNWVUcmZiRW5YNEVQYTQ5bXgzYkhnd0c0X1dCTWxaSFc4ZTBBUVh0ekcxYjhtM3BBWFBwSHVNbmVOa3RKVENUTVV0TkhSN18yRFp1OHhNSnVkZGdVMVB4RkZOOF9vUGo0WEFBT28yQ3E0Zw?oc=5",
+      "source": "معلومات مباشر",
       "direction": "down",
-      "ts": "2026-09-10T16:41:04+00:00",
-      "amman": "19:41"
+      "ts": "2026-09-10T19:04:12+00:00",
+      "amman": "22:04"
     },
     {
-      "title": "Want to Make a Fortune From the AI Power Boom? Buy These 2 Industrial Stocks",
-      "url": "https://finance.yahoo.com/technology/ai/articles/want-fortune-ai-power-boom-163500791.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-09-10T16:35:00+00:00",
-      "amman": "19:35"
+      "title": "رهانات رفع الفائدة تكتسب زخماً جديداً قبل اجتماع الفيدرالي الأمريكي",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE5sN0ZzV2NLRGRjdk9BcE9oZFlqZ085MGx2djJRRmUyTThiTElaeTBQYkM3N1dQNnBhX1BhdA?oc=5",
+      "source": "24.ae",
+      "direction": "down",
+      "ts": "2026-09-10T18:56:45+00:00",
+      "amman": "21:56"
     },
     {
-      "title": "Treasury yields surge toward the danger zone for stocks, as inflation pressures heat up",
+      "title": "Treasury yields surge after poor 30-year auction and new buyback operation fail to calm market",
       "url": "https://www.marketwatch.com/story/treasury-yields-surge-toward-the-danger-zone-for-stocks-as-inflation-pressures-heat-up-fe0f9aa6?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "direction": "up",
-      "ts": "2026-09-10T16:20:00+00:00",
-      "amman": "19:20"
+      "ts": "2026-09-10T18:37:00+00:00",
+      "amman": "21:37"
     },
     {
-      "title": "Stock Market Today: Dow Slides As Oil Hits $100; Nvidia Drops Amid News Of Palantir Partnership (Live Coverage)",
-      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-inflation-data-nvidia-chipmaker-tsmc/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
+      "title": "بيانات أسعار المنتجين تضغط على «وول ستريت».. وأسهم أوروبا تتحول للتراجع",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBzRWcxam56a2prWkNiMkdGcFdmejFNVDUyQkVacHM0R0FGckVpUW15RjB6T2QxR3dQM1RqbzNyWVdkeWRvS3VhaTI5YUk1OERtWld3cjZMcVpZV242bFc1N0dSa2F5SzdJbG8zSzkyY0RBMlnSAXNBVV95cUxQc0VnMWpuemtqa1pDYjJHRnBXZnoxTVQ1MkJFWnBzNEdBRnJFaVFteUYwek9kMUd3UDNUam8zcllXZHlkb0t1YWkyOWFJNThEbVpXd3I2THFaWVduNmxXNTdHUmtheUs3SWxvM0s5MmNEQTJZ?oc=5",
+      "source": "البيان",
       "direction": "down",
-      "ts": "2026-09-10T16:18:15+00:00",
-      "amman": "19:18"
+      "ts": "2026-09-10T18:04:20+00:00",
+      "amman": "21:04"
+    },
+    {
+      "title": "احتمالات رفع الفائدة من الفيدرالي ترتفع إلى 70% بعد أسعار منتجين مرتفعة",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2tFM0FhamJEYWk4d2JRSkp4cC1IQkg0bGFVQjg5azV2MmtsUHowQ2FjTzhVakYxbUVaRTNZMnhib3k5dXpOeDVzNHo1MEVSbTlRQjRBemQ2RDBkNnJCdjNlQzNqcmVhRWIxRjAteC1ybU1YS2I2NndTNUVwQmhOYjFRdk1jU1A1cTdzbmQ1c0s2QQ?oc=5",
+      "source": "IndexBox",
+      "direction": "down",
+      "ts": "2026-09-10T18:00:46+00:00",
+      "amman": "21:00"
+    },
+    {
+      "title": "سعر الذهب ينخفض مع تزايد رهانات رفع \"الفيدرالي\" الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcm84X3RGamJXdHRxVXBJYnNRb3RVdHplN0JyNEdfWmh6UjZuNlhwaWRoYlVuRU1FQjZtaWV1bkthZWh1RWdwVmFBR0FScWdnVlE3Y2ZESVRreXlFOVZBM2l5dXlTQVRUZXI4YjQ1cGNPam5aX0FlNUc1dE9jMUlLV2lSNmVRbmVjb2lfYXhQWmd1N05mc0VCWDF5SXlGYjczeTBXRmdpUS1zM0xYaENFWDdJUTZHNU1FbVdCSk13U0dKRzhqQTExckd4QXllV1hwYUl4Z1Q1eGJiam1Yd29uSHdzOXZWY2dBZWJQaGl2WXBRblZUSHlwNXlVVEc2ZkNHU050djdIa2V2UQ?oc=5",
+      "source": "asharqbusiness.com",
+      "direction": "neutral",
+      "ts": "2026-09-10T17:58:09+00:00",
+      "amman": "20:58"
+    },
+    {
+      "title": "تحول مفاجئ في الأسواق.. الفيدرالي الأمريكي في طريقه لرفع الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9pWHh3SlVNSUU5aUVnR0lVTUdkd1hlXzVHVF9iS3hQeDFVMzl4THRydFRkdGVJSVhwSVBPdFBPbkl3ZURv?oc=5",
+      "source": "بانكير",
+      "direction": "down",
+      "ts": "2026-09-10T17:53:45+00:00",
+      "amman": "20:53"
+    },
+    {
+      "title": "Investors should be eating up these 9 restaurant stocks, analysts say",
+      "url": "https://www.marketwatch.com/story/investors-should-be-eating-up-these-9-restaurant-stocks-analysts-say-b308b238?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-09-10T17:35:00+00:00",
+      "amman": "20:35"
+    },
+    {
+      "title": "كيف سيتأثر سعر الذهب بمصر بعد رفع «المركزي الأوروبي» الفائدة؟ عيار 21 يخسر 45 جنيهًا",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNVXdqNGd1OGVNbHZqaXgzWGNwLU13OWNnMVI5RFczZkFJOTVoVE9PZno0YzVkODJPYjRDal9TYTZnWm9QYUJSTmlGVWRNWXdEeWczX2pRdjNPNlY5MXlVaGw1UzVsd2Zja24tSjlWU0JxcmNITGl0bG4ycDJqV1AzR09pM0Y0TUFpNm8tME1lSlg4QmkyY0NELTI4Q0VCU0xKM0pZaE9maEd3NG9qQjl1cG01MkctNjNiUFY5SldCYlJVcmlZUVF3WVdRNWNyMnI4SU1ldGdOZTk2NUE1bGxKMjBNSDcwekxUaWktZFYwOW1KOEVxQXNiMU1TaUtia2lRU3RXelE2Y2lJWlk5T25tMEx0RUpQMzZxRWh1clZ2RFI1ZE9lSnc?oc=5",
+      "source": "جريدة المال",
+      "direction": "neutral",
+      "ts": "2026-09-10T17:08:29+00:00",
+      "amman": "20:08"
+    },
+    {
+      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+      "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+      "source": "CNBC",
+      "direction": "down",
+      "ts": "2026-09-10T16:55:17+00:00",
+      "amman": "19:55"
     },
     {
       "title": "احتمالات رفع الاحتياطي الفيدرالي لأسعار الفائدة الأسبوع المقبل تزداد بشكل كبير",
@@ -53,30 +93,6 @@
       "amman": "19:03"
     },
     {
-      "title": "I just got a $10K bonus and wondered if I should put it in bonds, but the news paints a varied picture on yields",
-      "url": "https://finance.yahoo.com/markets/options/articles/just-got-10k-bonus-wondered-160000960.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-09-10T16:00:00+00:00",
-      "amman": "19:00"
-    },
-    {
-      "title": "Renewable-energy mandates are actually bad for consumers. They’re not great for solar stocks, either.",
-      "url": "https://www.marketwatch.com/story/renewable-energy-mandates-are-actually-bad-for-consumers-theyre-not-great-for-solar-stocks-either-bdfa13bb?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-09-10T15:34:00+00:00",
-      "amman": "18:34"
-    },
-    {
-      "title": "Nasdaq Pours Millions Into Crypto Platform Partnership For Tokenized Trading",
-      "url": "https://www.investors.com/news/nasdaq-pours-millions-into-crypto-platform-partnership-for-tokenized-trading/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-09-10T15:33:01+00:00",
-      "amman": "18:33"
-    },
-    {
       "title": "يتراجع سعر الذهب والفضة بشكل لا يمكن السيطرة عليه.",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4TGJLZXZPT3kycDNvNm1oOXJmdmV2XzJSeFhPNnJncml3WDMyUkVPeUplOWJYMVh6QnpWTm4tM1Jfbi1OZVRZWE9ZTUlZOThHeE9oREp1eXpYa3JyVThDYndBbk1uQll0VV9MNnR2VQ?oc=5",
       "source": "Vietnam.vn",
@@ -85,28 +101,12 @@
       "amman": "18:26"
     },
     {
-      "title": "Now’s your chance to make money during the best bond market for yields in decades — if you get over Treasury jitters",
-      "url": "https://www.marketwatch.com/story/nows-your-chance-to-make-money-during-the-best-bond-market-for-yields-in-decades-if-you-get-over-treasury-jitters-4209f805?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-09-10T15:25:00+00:00",
-      "amman": "18:25"
-    },
-    {
-      "title": "Meta is winning over Wall Street with its new Muse AI agent",
-      "url": "https://www.marketwatch.com/story/meta-is-winning-over-wall-street-with-its-new-muse-ai-agent-0700ca87?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-09-10T15:23:00+00:00",
-      "amman": "18:23"
-    },
-    {
-      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
-      "url": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
-      "source": "CNBC",
+      "title": "والر عضو «الاحتياطي الفيدرالي»: تراجع «علاوة الأمان» على سندات الخزانة قد يرفع سعر الفائدة المحايد",
+      "url": "https://news.google.com/rss/articles/CBMimgVBVV95cUxOLUpwakpueHB5OXJqUW85RlhTcTNHTE1pcXNSUl9LQ1lxb2VJZkNBNmNSUmZSeEtPWURGRzlZX2JRa1lfcHI1R2xzRDQ2Smo4a0I4YTJPbFdfcTRaSHZLS1hXZW5UQXg4V2xwZEhYTW9CRXhlanVhS19ncVppLWJBU3BJWW96YkIwNFZUandsTUl6TUdwN2J6Vmptb3l3Q2hRMHpLZzZBYnhhYnVFUk9sU28wVnFyNHJCNUdHYTVndV9ac3c4eks0aUtaTlNNZDgtYTBrZmJHdEZobXlxeDhkRkJSZVQwaG1FQlhLaWczN1dlV21tRjJLUG1HTFJrTUNYM0tsWWowVjFqTFJDV3g5ZGQ4V2M4d1g3bUwtRWlHa2p3TEtKZzd5bjZPQVRFRmJSbmVUdndhZVZOODFMX2VlRzI1YWtpYnkwOE91UWV2Z1hpR1RKOHlSN0lXY2M0dml0bXlnVXZ5YnZBeHRwUlMwNENRM1FMd25WcVZ1Rnl2Uzd2M1lYVHdsaFBNdFlOMmlOVmlSajl4ZmRxQ1BBUWJjT2dGeGYxVWJTaU9Qd0FiN3NxWmlhLWpZQ2ZXYVR6SWNjckZ2eGtIWU5NWEROLVJSTnNwSTlxSkxzS2RZZm84MWJEN0IyTEkyMVI1enZmaFRfZ1lrTHpmdEVHa05SZGMtQkxNUjdaYlRoakNzZHdYUS00c0JkVDlWeEVFajVTSW9mMDlLaGVrMUktNmhZX0xvZjI2OUNkYWdSbklTNEdiOU9FTlBRaGdkWTlmdTJ2N0wtRkJlbU9vZW4zMXlud0pfRkVrYUZ5WHB0cnZfRTBsUlliZTVVMGdyX2dieWQyLUw4LXVEUjdSQmNpM3VVZ2RiOGMtTUp3RGVxcEE?oc=5",
+      "source": "الشرق الأوسط",
       "direction": "down",
-      "ts": "2026-09-10T14:51:36+00:00",
-      "amman": "17:51"
+      "ts": "2026-09-10T15:16:20+00:00",
+      "amman": "18:16"
     },
     {
       "title": "أسعار الذهب اليوم في دول الخليج.. هبوط جماعي - الطاقة",
@@ -119,7 +119,7 @@
     {
       "title": "قبل اجتماع الفيدرالي.. «المركزى الأوروبي» يرفع أسعار الفائدة إلى 2.5% مع ارتفاع التضخم فى منطقة اليورو",
       "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wR3JwWmZQVzhBOXo3SHFkSHdjbkJzMnc2ck1UOWlCem5YSFpyUFBfNnJJMUFyTFJfc2R0dGh4ZzF3M1dYQzNTLV81bmNJOENtN3hGOTl3cVE1TnZ3Z0lJ?oc=5",
-      "source": "almasryalyoum.com",
+      "source": "المصري اليوم",
       "direction": "neutral",
       "ts": "2026-09-10T14:17:00+00:00",
       "amman": "17:17"
@@ -141,17 +141,9 @@
       "amman": "16:53"
     },
     {
-      "title": "سعر الذهب يتذبذب قرب 4400 دولار قبيل بيانات التضخم الأميركية",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQcm84X3RGamJXdHRxVXBJYnNRb3RVdHplN0JyNEdfWmh6UjZuNlhwaWRoYlVuRU1FQjZtaWV1bkthZWh1RWdwVmFBR0FScWdnVlE3Y2ZESVRreXlFOVZBM2l5dXlTQVRUZXI4YjQ1cGNPam5aX0FlNUc1dE9jMUlLV2lSNmVRbmVjb2lfYXhQWmd1N05mc0VCWDF5SXlGYjczeTBXRmdpUS1zM0xYaENFWDdJUTZHNU1FbVdCSk13U0dKRzhqQTExckd4QXllV1hwYUl4Z1Q1eGJiam1Yd29uSHdzOXZWY2dBZWJQaGl2WXBRblZUSHlwNXlVVEc2ZkNHU050djdIa2V2UQ?oc=5",
-      "source": "asharqbusiness.com",
-      "direction": "neutral",
-      "ts": "2026-09-10T13:34:57+00:00",
-      "amman": "16:34"
-    },
-    {
       "title": "من الصعود إلى التراجع.. لماذا تتذبذب أسعار الذهب وما العوامل المؤثرة في تحركاته؟",
       "url": "https://news.google.com/rss/articles/CBMikAVBVV95cUxQQ0U1NnZLTHprRzFVNGNGQ1k2NmNsb2tmSUpiN2tGcXBkQVN0dllad0JJbkR6ZzNOMGlHWmdiVElpV051ekVlS3dOSjJxZThvSFVIWlBHNzN1UjVkUHA3c2RpaG9rb0IwSzZEYWxQVWZkVmk4eGRlWDVXci0zZEVPOUNvVk5RNGx1d0tVMHUtZmt5OTZsTGVWNUlvMXc2VHo0cDk3SkFpMUV1YWJtLVJZbDVfbE5pVTdxb3h6Xy1rcmNsOGdBaldWRjlLQ2ZzMnBpdkpYMjdJV2JMMFZyc3FETm1scVg1cEFJQl9DX0x6aE5yajRaVWxFWVR6MUtsejkya3licXplcnRUTmxRcDNjTWNyLW1wTU5VY3VpeHpic01KRlNjTE13OE42TnI5NDVYUjVSZUlETTFaYVljZmRXQ0FtTEhsOW8wVmx3czRyM0tHS2xSUndGaUpXNTBoNk1RS0gzVHlVZUF5TVNmSmRhLUlEWlZEa3ZfSnZPU2pTR2tXMGpEVVhJSWJNTHRCN25QY3oyREZQNWlYZTI1RllPYXptTjZwMktDWWl5Vk45bFFpUFZMazJzN0ZOMDgyaXZEdW9HeXAxelpVeWNDSVJvMUJhTFljVGo5WERHTGNKMk9ybFFzWDh1ZUZOODJ3V0lyT3U5LVBfU2NNNVVwSF9HQnJYeFNrQ1hjaVc0V0c0dV9jSGNHanl2NlN0Z3M1LUc2ZGltV09SdDdnUlRIY2I1SnloczFmekxRa1BFTjRvRWhna0VFdnExSG4tV19uQzZhbFlRVmplN3RIMEdKUk5KNEh2V0cybmdaZXdxbzU5QWh6ZnU0RkJ0OTFZa2JLUWpoVU92TEowcmN5RmFHLTVmONIBlgVBVV95cUxOMFJ0NGZLMk9wQ1VhU181UU9aSnVSOHp1NFktSUZfd2FMMVVJZ1lzeEVDYkNSY3VXbGx5eWNHZGRJS3prOUVDVXV0M3k2eDR6WW01N1NsLV80OWludmtsT2dOODBEVk9WMjJ1QnpqV3BkS3pDeGd0THR4NGxvSU5JSWlDNUlsSlF3eUo0S0puX0JXM2tiS0I5MS1mNjJGeGJlVWM2Z1V0UGZGTlJSSnpZMHo0aFA1YXh0SkkzakQxMnpEbE5jajc0S3hkNFFZdTRDelFBZXBmZkt0QTNlYXE3NVBkcGJ6N2RYa3BhY2hpMGI1UDZFdDJEY1FIdlkySDhpaHdLQXlZa0ZlaWE1OGtNMTlDaW03UzRRZVpjQU9BOWw3QkN1amsxLWk5anF0RmpKOGtQYk5KV2NpSTV3bW95eFVMUE9oczk3WDBLVkdkRG1pa0ItdzFTRmhlNHcxZUx1MmRhcS1qeHpLa2s5dERvVFRRZndJUzg0U0dhNGNRZGo1UlBpMHFqYWFQQWxfbm9GTjg4WVdEYzExR2hqNjd2YTlzWVRvTHFweE83Mm9nSEo2eFFNYnNpcEQ5VE9xS2FnaU11MkswTU9ON1dBeU4zWGdTRktENjh0dWF4YloyUVhETHBuVjJXY05ndFhrMkpFTk9hOGVmNkxfSG9zUVVYeDhSYUFoWm90YktiODlQWHZpWGNZX2NyRFVJS3kxNmZUWnZUekdVQmFweHdBUW5URGtLang2azdVRDdNUkp1VVFYZE9IaEg5enFSOVRqbHdhZUV0aXZfUUtHOFhNYUxEY05yZlVjSUplMi0tVE5ZaHNHQzRsZzEyc0k0bmlUaEtJV3dCdWtYdTE3eDZrSHVQRXlkTElaQQ?oc=5",
-      "source": "masrawy.com",
+      "source": "Masrawy",
       "direction": "neutral",
       "ts": "2026-09-10T13:34:03+00:00",
       "amman": "16:34"
@@ -179,22 +171,6 @@
       "direction": "up",
       "ts": "2026-09-10T11:40:00+00:00",
       "amman": "14:40"
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Thursday, September 10, 2026: Crypto prices slide back with inflation data on tap",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-thursday-september-10-2026-crypto-prices-slide-back-with-inflation-data-on-tap-113018195.html",
-      "source": "Yahoo Finance",
-      "direction": "down",
-      "ts": "2026-09-10T11:30:18+00:00",
-      "amman": "14:30"
-    },
-    {
-      "title": "Silver price today, Thursday, September 10, 2026: Silver prices back off ahead of inflation data",
-      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-price-today-thursday-september-10-2026-silver-prices-back-off-ahead-of-inflation-data-110719718.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-09-10T11:07:19+00:00",
-      "amman": "14:07"
     },
     {
       "title": "استطلاع: الفيدرالي الأمريكي أمام قرار حاسم بشأن الفائدة وسط تغير توقعات الأسواق",
@@ -229,12 +205,12 @@
       "amman": "13:19"
     },
     {
-      "title": "Mortgage rates just crossed 7%: Mortgage and refinance interest rates today, Thursday, September 10, 2026",
-      "url": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rates-just-crossed-7-mortgage-and-refinance-interest-rates-today-thursday-september-10-2026-100000969.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-09-10T10:00:00+00:00",
-      "amman": "13:00"
+      "title": "أسعار الذهب ترتفع وسط تراجع الدولار وترقب بيانات التضخم الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DSy1GdkJya2V0cnN3cFlUaDZFNWZET0VQc1hVaU1ETUY1a3daNmM0TVlhMVBsM3FNTEU2d1c1Q2VJbm8wVUxzZDRLa19pQWtJQnhOMUY1MVZlZEE?oc=5",
+      "source": "جريدة البورصة",
+      "direction": "down",
+      "ts": "2026-09-10T09:15:23+00:00",
+      "amman": "12:15"
     },
     {
       "title": "سعر الذهب يرتفع 15 جنيها اليوم الخميس 10 سبتمبر 2026",
@@ -243,14 +219,6 @@
       "direction": "up",
       "ts": "2026-09-10T09:10:00+00:00",
       "amman": "12:10"
-    },
-    {
-      "title": "Stock market today: Dow, S&P 500, Nasdaq extend losses as bond yields jump, oil holds above $100",
-      "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-september-10-dow-sp-500-nasdaq-083717303.html",
-      "source": "Yahoo Finance",
-      "direction": "neutral",
-      "ts": "2026-09-10T08:37:17+00:00",
-      "amman": "11:37"
     },
     {
       "title": "أسعار الذهب في مصر اليوم.. عيار 21 يرتفع 10 جنيهات - الطاقة",
@@ -277,28 +245,20 @@
       "amman": "11:00"
     },
     {
+      "title": "الذهب يستقر فوق 4400 دولار مع تردد المتداولين قبيل صدور بيانات التضخم الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR25LeUVCeVE5TFJGOUVZUkJWeFJJdTNYYXhxLTVBTzB4VVRTRVNUbzhPQUtVdmZCVXZaTVRBQmp2U04yVUI4Y3hXbGNYblV2Wlo1cDJKX0UwdnY5VHVaSUlySTNIRHlxVjVKc0pSdi14U3oxdHZnSk5taHFJazZxM3pRdFM1eHJiNVN3XzQ4OGo?oc=5",
+      "source": "Mitrade",
+      "direction": "neutral",
+      "ts": "2026-09-10T07:54:00+00:00",
+      "amman": "10:54"
+    },
+    {
       "title": "صعود النفط يربك الأسواق ويقود الأسهم والسندات للهبوط",
       "url": "https://news.google.com/rss/articles/CBMizwRBVV95cUxQV2t2aEF4SEVPcll6dmpPanJkTjJ3ZVVETjVrQXg5Z3NhSUw4dGdlUzBIQ0twbzY0THRrWmNfY2htRWtPYkpOZWg1cm81dDBlUmNOdHpTcTNOSzZOYm1WN3AtSDdLQVM5dHA3SU1lN2RKQTlIWmlIZXhzdTZFaFFFMUo4czNnY1dlMlV0UWxIQ2szNnNTcGxJcU1ZVk9iT2NPUTRJb2FXWFF6Q1Vmb0NVckI0N0pmWXVqUWFORXZuRU5TcXEteWNtUWcxVDFVZTY3SjJEOU44RE1RUnk2X0ZySmlXSXdCbEVpMXZWZDh3b21FWjFabC1QZlJfVzJ5WWVNWUtoVUg5eGNmczMxVWVvZzRtUHJub0ZoRGFPM1ZQel9wWmxIZXpteGdJUDNVZmN1dnBoblNlcGFxS0xVYkUzYzRIZGxMRU9mRmJSZ1BaZFJMZnZsQUlqV2U5UERzZGZDOWd2WFVERlUweFNWMUVpY1BmV0lYYlhPSUJieXZwTkVNaUlrZ2FNM1FScFRhOFRsMm1RT3ZUUlNjM04tU3BxMEZyalU4RVhhRHV3TVFzY1ZvYnVxNWphRDVJc2VlWmRvc25TWGJ1RXdjaC1aZkh2MjV5c0VyRUlrS21QTjJZV0hnNTZjWHc3bWtTVjhsc0RWYWdGQW5sMTB1VlBIWWlwektEaHRKS3RodHdZdVRfaEdnWnhhR05FSGw0Q1luWmdqT3BSWXVMajhsNjZqVHpzYzR3MkVEN0FwVTg4dG11WFN3YlUwTjUxR0R1R2pUUkk?oc=5",
       "source": "اندبندنت عربية",
       "direction": "neutral",
       "ts": "2026-09-10T07:47:10+00:00",
       "amman": "10:47"
-    },
-    {
-      "title": "الذهب يرتفع بدعم من تراجع الدولار وسط ترقب بيانات التضخم الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxPWDNQaTdaX2NKZ3lYZ0NPdVJpRDdzeEo0U3lZZGNxQnQ0c3A3YUl2TjI1THFfN1JUcEF3YTR4MUJVQ1Z0SFlHdFlHUjlZVThWUTQzVXVWbHZLS3VGc3hpbVhSdG45R2JlYWJhM1NuTmJaM0NhSTNnVjhBRk5nZ2R4NndhRUI5RDI3S29kYWE1dWtfUkwtSHgzU2owN19Xd0RTd3lHdnhxZmV1dzhqbXk3X3pVY1dzb0QyN2VyNDVXZmg0aDVBMHRFdUg5ZV9KY0REVmxZaEtJeDROS3BVOFRGemdWaEl0SjVRYkU0UVRyMFA5OVZWQnRGdlpaR05JTXFXTHlreDBIMFZRYU9mOHotRlNyX0hzWkVPQmZ2dU1PSTl0UGFuakI1MFJQZW9jSWE5Q09rVWNNb05nR0JXWTY5QQ?oc=5",
-      "source": "قناة النيل للأخبار",
-      "direction": "neutral",
-      "ts": "2026-09-10T07:10:08+00:00",
-      "amman": "10:10"
-    },
-    {
-      "title": "أسعار الذهب في الإمارات الخميس 10 سبتمبر 2026.. آخر تحديث",
-      "url": "https://news.google.com/rss/articles/CBMiuANBVV95cUxOcUxSSVR1WTNfdFZoRDZ1bUdQakxlaTFBYnFOQ3E2MVlQRnVjZmVUVmFyWlBvdURhUzRuYW0tYnJ1NTEyX1NzdE1CNHBNVTYyUU4tcWF1MlZEaXJPemhOZ2x2aVZ0UmpSTDk4UnoxNVJDck5WZ09TRlVpSWM4c2hWNDMxQkR5dDRxamdRTFZaYXRZZDc1LWZQV0NWcVV6MU5Yd1labEF2TTEtMUFod19TVk5SZkZ4blNhRGg1VDJtMFE0U2xWbU9OYXRoTXl0OFdjMFRZYnQydUJpbmxBRXZmdkZ2WGxpZzE0MmJQRGtRVUJ6QVJiX2tkWk1rVG8zNEhubUkycFRUR2wxZHFRSGs2RE1rWnBYLWdDSmozUWx0TXBPYVM1NS1EaVJEM0wxenlHblN0R3c2STFtRGY4cl81OEpqdkhuYmU2LVhEcVRVMlVJV1NJa1NIVXRBODd3M3pmNU9ab1BrNHlSOUZWYmJyeEQ3dmFXLXNxeDhyUUFPRUVOWVB2RnhtZ1Y3MnJlcVRlLUFZZ1ROTzdZOVJIVUlqNDFReDJfT3VLQW94V3hhekJSZ2RBakJZQg?oc=5",
-      "source": "CNN الاقتصادية",
-      "direction": "neutral",
-      "ts": "2026-09-10T06:39:27+00:00",
-      "amman": "09:39"
     },
     {
       "title": "أسعار الذهب في مصر الخميس.. عيار 21 يسجّل 6310 جنيهات",
@@ -363,6 +323,38 @@
       "direction": "neutral",
       "ts": "2026-09-10T02:22:25+00:00",
       "amman": "05:22"
+    },
+    {
+      "title": "يو أو بي: لن يقوم الاحتياطي الفيدرالي بتعديل أسعار الفائدة لما تبقى من هذا العام.",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOV1ZZQy0yNUxTeGhLdmFTbHJ6eUVvTldIcEZfeU52TTQtWlZHUWVKWVU2VEJEVkVlVW5oX2RBR3pyRUNZQ1dTb1J4djIzQVhIaUg0aC1oQmxKVHNlc1dzM194SlBMZzR5UXBmaXl0enF3TWNoV3NMaFlaTEM2WU5FYl9iUDIzYzBmY1lFLV9faENuQkZuZVBzc0dYNEVKSmM?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-09-10T02:05:23+00:00",
+      "amman": "05:05"
+    },
+    {
+      "title": "عقود الأسهم الأمريكية متباينة مع اقتراب بيانات التضخم الرئيسية",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11Z1hoM2RvR3NYTXlqNEJaSWRna3d5dXRnZDVMbU9xRWlXS1JLX2VoMFl4ZWZZR0xZQ28zZzdNaVRKckNYV1NURGVFYVJPSnVNRlFtZThmOG9veGVhU3JzYklJYlJFZW9ORVhtdHQ2aVA?oc=5",
+      "source": "Investing.com",
+      "direction": "neutral",
+      "ts": "2026-09-10T00:50:00+00:00",
+      "amman": "03:50"
+    },
+    {
+      "title": "وول ستريت في حالة اضطراب، وأسعار النفط تتجاوز 100 دولار.",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VbmVRc0VPdHlYcWdWQXNnUE9Oaklub05kakhfQ0xyVG5Rc2ZUb2EyUWpvVWNhNUdkak5OU0J6N25Wek5LNW5Va0NxSGpnWjVLOVBtVEdoeUx2M2RKUTZwUnV0Q2FneENPczNLOWdscw?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-09-10T00:29:50+00:00",
+      "amman": "03:29"
+    },
+    {
+      "title": "تراجع الأسهم الأمريكية مع قفزة النفط فوق 100 دولار.. والتضخم يضغط على وول ستريت",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0tWHF6LVJvSU9VVE9sazhIc3J2cllFUVJLc1c2TUt4MWxfeFVaVmVLWVB3ZFI4QXdTeUl2R0ZMdWRfSzhLS0E5VElNSEQ3NmVtVDM4VEUxTWVwMHFK?oc=5",
+      "source": "الوطن",
+      "direction": "neutral",
+      "ts": "2026-09-09T22:17:17+00:00",
+      "amman": "01:17"
     }
   ]
 }

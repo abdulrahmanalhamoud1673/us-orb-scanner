@@ -1,6 +1,6 @@
 {
-  "updated_ny": "2026-09-15 16:21:19",
-  "updated_amman": "2026-09-15 23:21:19",
+  "updated_ny": "2026-09-15 18:57:14",
+  "updated_amman": "2026-09-16 01:57:14",
   "session_date": "2026-09-15",
   "requested": 91,
   "scanned": 91,
@@ -9,6 +9,7 @@
   "sell_count": 15,
   "active_today": [
     "AAL",
+    "AMZN",
     "BAC",
     "BMNR",
     "CDE",
@@ -19,7 +20,6 @@
     "INTC",
     "KVUE",
     "MARA",
-    "NIO",
     "NOK",
     "NU",
     "NVDA",
@@ -1158,7 +1158,7 @@
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
-      "active": false
+      "active": true
     },
     {
       "ticker": "ARM",
@@ -2733,7 +2733,7 @@
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
-      "active": true
+      "active": false
     },
     {
       "ticker": "NKE",

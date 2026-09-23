@@ -1,17 +1,18 @@
 {
-  "updated_ny": "2026-09-23 16:40:31",
-  "updated_amman": "2026-09-23 23:40:31",
+  "updated_ny": "2026-09-23 19:07:53",
+  "updated_amman": "2026-09-24 02:07:53",
   "session_date": "2026-09-23",
-  "requested": 92,
-  "scanned": 92,
+  "requested": 93,
+  "scanned": 93,
   "waiting": 0,
   "buy_count": 22,
-  "sell_count": 24,
+  "sell_count": 25,
   "active_today": [
     "AAL",
     "AMZN",
     "AUR",
     "CDE",
+    "CMCSA",
     "GRAB",
     "HL",
     "INTC",
@@ -28,7 +29,6 @@
     "RKT",
     "SMCI",
     "SMR",
-    "SNAP",
     "SOFI",
     "SPCX",
     "T",
@@ -1384,6 +1384,57 @@
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "CMCSA",
+      "session_date": "2026-09-23",
+      "state": -1,
+      "price": 22.56,
+      "open_high": 22.42,
+      "open_low": 22.27,
+      "open_range": 0.15,
+      "vwap": 22.61,
+      "ema200": 22.71,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": 0.83,
+      "volume": 23670287,
+      "targets": [
+        22.72,
+        23.02,
+        23.32,
+        23.62,
+        23.92
+      ],
+      "targets_hit": 1,
+      "next_target": 23.02,
+      "next_target_pct": 2.06,
+      "last_signal_time": "15:50",
+      "bars_since_signal": 1,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "10:15",
+          "price": 22.54
+        },
+        {
+          "kind": "Sell",
+          "time": "15:35",
+          "price": 22.61
+        },
+        {
+          "kind": "Buy",
+          "time": "15:45",
+          "price": 22.67
+        },
+        {
+          "kind": "Sell",
+          "time": "15:50",
+          "price": 22.6
+        }
+      ],
       "active": true
     },
     {
@@ -3795,7 +3846,7 @@
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
-      "active": true
+      "active": false
     },
     {
       "ticker": "SOFI",

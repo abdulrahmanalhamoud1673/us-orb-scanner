@@ -1,16 +1,88 @@
 {
-  "updated_amman": "2026-10-02 21:11",
+  "updated_amman": "2026-10-03 01:10",
   "count": 45,
-  "up": 8,
-  "down": 14,
+  "up": 9,
+  "down": 13,
   "items": [
     {
-      "title": "How much higher can bond yields rise — and what does it mean for stocks?",
-      "url": "https://www.marketwatch.com/story/how-much-higher-can-bond-yields-rise-and-what-does-it-mean-for-stocks-12883d6c?mod=mw_rss_topstories",
+      "title": "Falling wages, soaring energy prices and inflation: It’s beginning to look a lot like the 1970s",
+      "url": "https://www.marketwatch.com/story/falling-wages-soaring-energy-prices-and-inflation-its-beginning-to-look-a-lot-like-the-1970s-d645cbca?mod=mw_rss_topstories",
       "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-10-02T21:54:00+00:00",
+      "amman": "00:54"
+    },
+    {
+      "title": "29 ألف وظيفة فقط.. بيانات العمل تضغط على قرار الفيدرالي بشأن الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9HdkVHWUNxaDJZbGkxeEN3YmUtLU04Vk8yTjJhNXpEeXJZREpQSnpJVExzU2h2UHYxY3VacUpRMkExMVk?oc=5",
+      "source": "youlyou.com",
+      "direction": "neutral",
+      "ts": "2026-10-02T21:19:40+00:00",
+      "amman": "00:19"
+    },
+    {
+      "title": "مؤشرات الأسهم الأمريكية تغلق على ارتفاع",
+      "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOTmxmTVAxQ3djczgwR2RPVVB4VW5xUUNkSlMwTnd0dDBWMWxIdUFoTWJPWXE1LUFyT2x4OEhudHJIZ3FNalRLVzJ4dWlWZnZFS3Vib2dTNWdiOS1kYXhBMFk0ODdPRjYwYWtHS2ZlQWx5ZXFNdW9FRW9lOS1HOVJoeDNPdFhqeUJIR0VBMklvOVZvY0N1SGhWVXdOZGF1djdUcnYtbzlRazNTZTVBbF92OFBfMVhGU3RKcjlPQzcxSnhQSE45dnRnRjM2NWQ2TnVKbkxRWFNxT1M2dXBYZWUyZTVBOVhkNmI0S0hfQ1ZJcktseEFXYWRiT0xVeGI1dkwyOFYyLXlzY0FlZWs3czEwampDeU1OTG1Od2U0NlJ0RVkxTUtzRjNkcXFZeVZPQWRCdDg0cUNkMWtqeDQyZ1dTaV94ZUhSbkJscThPaXRla29JMGl0MDBBOWRLMGdYb0UzRFdqOWhXS3dSU1k?oc=5",
+      "source": "جريدة الشرق",
       "direction": "up",
-      "ts": "2026-10-02T17:48:00+00:00",
-      "amman": "20:48"
+      "ts": "2026-10-02T21:18:47+00:00",
+      "amman": "00:18"
+    },
+    {
+      "title": "توقعات بتأجيل المركزي الأمريكي رفع الفائدة إلى ديسمبر بدلا من أكتوبر",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QRnBYQTByZkNDN2lsSDJubnBIcjFDNS04Z19IWENNWDByNUV5V0xvVm5tQ0hZTUJMbVNOZDh5ZDNNNVFucG1PZ1N5LWxwQWV2NWxjQWpwUzJQOTQya3EwOVhHcVZUWVlnZWJUNnJUT3pKdzdyTmVxcXpOSzZ3aVE?oc=5",
+      "source": "Reuters",
+      "direction": "down",
+      "ts": "2026-10-02T21:00:09+00:00",
+      "amman": "00:00"
+    },
+    {
+      "title": "الأسهم الأوروبية ترتفع عند التسوية وتسجل تراجعاً أسبوعياً بعد بيانات التضخم",
+      "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPX3BLaVVaaDhtWFR5SEo1OENBeUV0dnhYOEQ2YmN1U0hPV1ZabWNUQVFOTTBpSUlFZ2Y1TWtxNEROc2xaSklaT0JrQ2tBVDJzTG1SNUFaMnJuWGxPdVVwZUtNaUJIQVlPZEVDS1VQaUpnM2UtMXQzWnBVV3FMQjJjVUJBek5NMVNiSFIySnRzby11MkdUcW95ZnRZTG9TR1JpYWZiTlVQNXdpVzZodUk0U2JIbFRVUHRWX0wzb0ZTN1pkUkZNZ3l6MUU3NGZYY2J3eXEtMkkybldlUm9RSHYwRWo2VXdPYk9QbnZLUENPYnRkUF9WUUdzNUdxZDJHQ3hxX2ZDRjhfM0wtLWt4RHF2WWtQSWRPa2k0WE9UbUZDUUIwcGI3SVV5ejVHQllQRzR0R003Mkt6TGhJVXNiWnh0Q1g3a0JuTnNUTDB1TEdfTnVKSGtCV3FR?oc=5",
+      "source": "أموال الغد",
+      "direction": "down",
+      "ts": "2026-10-02T19:04:24+00:00",
+      "amman": "22:04"
+    },
+    {
+      "title": "أسعار الذهب ترتفع 7 دولارات وتتجه نحو خسارة أسبوعية ثانية",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNcTJhVDlabEY3RmVpbUVUNVAtSlVRUGZpdWdTQjRETldvZ3RLYkVtRTM1VXV5LThiQUFNVWhUYjhPcGVEelA3enNvU2VnRmVhOTlaNG1fcHlhNjVmWDM5LW1IZEdlN1p0VUhRT1NXMndJdmxWaEY2MWVtVThvemZ5V1lqNXRySlZqWHF2b0VmTEJNdVRmNDZMNEozV0tFT3AwMXktd0xRUzlPUWdKRFFOdHlaYkVjZGpNZW8wSjkza0VvZTVVV1U3N2VfcXE3bFBOWXdlcEJTMlV2NDZOQU4tTHp3OENaczBFQ2Q5bVE4TnV4bTBpQ2JKVEgyTk1lLXdIWnYzLUI1VzRnSXNTX0lWYUt3NjhtTnB4UVB2WWpUdjRUN2JDZ2JBRS01RlZrM0lKUDRQYzBXS2RDVGcyUDRQYThUME05ZlB0Q0UwbU4yRzc?oc=5",
+      "source": "attaqa.net",
+      "direction": "neutral",
+      "ts": "2026-10-02T18:56:13+00:00",
+      "amman": "21:56"
+    },
+    {
+      "title": "الأسهم الأمريكية تصعد الجمعة بدعم من تقرير وظائف ضعيف",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNdFpaei1CaGo5VWFGX0lKNkQwMk8zdHgybEZaSGszdTRXbHUzVFFHS2ZMdXdxbHlDSDEwQmpYVEhUbGlrZGxPb1JHb0IydHZ6dWNUdFZ0OElIaHNidTlFVlVDeS1mMjNWNkVZbDlqbGZpRTNBazhaaUpSNWg5LVBHZE11eDJLTGlpNlB5R2pibzdUM0ZoYzlTN2hxR0hleWx3V2lNQXl6VG5YSkFzaGQ2eVk4NHd1WFpRZmQ1MzZHbWQ5WVdGZ2Z2NW5qQWNscC04UkgxZ1pOVFBMNml3NktlRE1mRkFJNmlseUxLZDlNVEFUWVdGbW9KNjdOWEs4d1FCcnJ5UkVmQ3B1RFN5RFN1blVzMm45VkNZVUJuNEVxOXhESURfQjZ1NTFEanExQUVwODJOVDVYc2FWX3gxN2I2T2FGeHdUZkxCTmEtT0t6RTV6YW81ZUJZb3ZnNGwyUFhIU24yQ2RYMW5QWGYyLXc?oc=5",
+      "source": "جريدة المال",
+      "direction": "up",
+      "ts": "2026-10-02T18:47:38+00:00",
+      "amman": "21:47"
+    },
+    {
+      "title": "تقلص رهانات رفع الفائدة الأمريكية ينعش «وول ستريت» والأسهم الأوروبية",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9DTGd4XzJRQXlWSUxTcDRVa1lFQ0liMzIzbkpyYTZPbE5OeHpwSXc1c0RLYl9xbldsZmtrZVhBbWJieXBwbWVGcHNrY1d6RVE5SkQ1b19YczRKYnMtZlJBRS1oMW9IWGlWUFNmcGk0R3NfaUXSAXNBVV95cUxPQ0xneF8yUUF5VklMU3A0VWtZRUNJYjMyM25KcmE2T2xOTnh6cEl3NXNES2JfcW5XbGZra2VYQW1iYnlwcG1lRnBza2NXekVROUpENW9fWHM0SmJzLWZSQUUtaDFvSFhpVlBTZnBpNEdzX2lF?oc=5",
+      "source": "البيان",
+      "direction": "down",
+      "ts": "2026-10-02T18:30:18+00:00",
+      "amman": "21:30"
+    },
+    {
+      "title": "الأسهم والسندات تصعد مع تقلص توقعات رفع الفائدة بعد تقرير الوظائف",
+      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdDVYNThEVXNUZWMwc28yX1ZQTkp2eVQxSDYwY2hMMmEyTXVSZk93YmlzLW1MX0hzNGxXaTZrb2I2a3pocVdHSlVWQ0JTS0RKZ0dCQUwyODItNXBsMk0yYm9wbDBhbW9fT0F3ZTJ3dno4RW4yako4UFNIQWRwaWRNal9ESVRTMnhGaVo4N0NlSkh4YkxUSUkxYUM3dWRJVUl6Sm5mV1ZJa2hPa3k2QWRFWjZYcVhfOU11Q0Rqc0RveE45NDhHdFZIeDkyb3BmTkZlSHZnOW85REJwUnp6YWhJTnlFekhaaWFzZ3VBcWdkRHpFREJ4djc3azVpTGNGTHdRb2FNa3NsY3pqLVoxTXVyQjhVZnJhWnQyTW03S19NV0Fjd0owTWRraw?oc=5",
+      "source": "الشرق بلومبرغ",
+      "direction": "neutral",
+      "ts": "2026-10-02T18:25:47+00:00",
+      "amman": "21:25"
+    },
+    {
+      "title": "فيلان: لا مزيد من رفع أسعار الفائدة بعد تقرير الوظائف الضعيف وتراجع التضخم",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOWs0ZlJmSVRxX0FFZ2xrOGxzdDk3LVBTemhfc0JuLWxHRGlKOU0yMjZMMlZzSWQ0VXdSdGlSUVBOWXhnV1h6UHNTUmpkZUpiYTZUbGJoRjBmOVR5VklmSkhBN0JBWkRsMktua2xfdkM1aG9xYV9zemdYbHZVQ09TdlJGM2ZuakdYT2tiVGE4dmhjZTNHRmZYYldRQ2Zrd29HNmhEWg?oc=5",
+      "source": "IndexBox",
+      "direction": "neutral",
+      "ts": "2026-10-02T18:10:35+00:00",
+      "amman": "21:10"
     },
     {
       "title": "Men are losing ground in the labor market. Here's why",
@@ -23,10 +95,18 @@
     {
       "title": "ما الذي تتوقعه الأسواق بشأن الفائدة الأمريكية في أكتوبر بعد تقرير الوظائف الضعيف؟",
       "url": "https://news.google.com/rss/articles/CBMi7AVBVV95cUxPcXRnR1pOSmlCcWk5VC1DOVRaQUtOckFjakpTY0hhUkFzTXBmN2dmeERrMzBrbmp6WW5DNlRiMUdsaDI4dXZqeFp4V0xYYWMxcUEwY2NfdGxpRU13ZHVwSnhKYnpuRmdRMlJLR0gwdXJOclhqVU5maDNuWUR4U2NFZTJyMk1tLWthY0Y5eDllRVJqTWxzbURBN0xFb0ZoYVNDbVoxRmVMUXhDeDg2V1JDc2hKXy1nN2JaVlZndlRhbmFaUTRldkNyR1BrZXI3VlA4WDZLR0ZYZ1doc0N0WXp0bzhPcVQtX3ZiRDhWRUFBSEFkRFBhTDc4d01xSjdQZ1RRM0ZCRXFBTzZhZmtsdjhpQ01UY3dpZGNXRGo2QkRWSkx1YUpkc2EwR3RvTlJ1MldFdkQ2RlJ6akxZbWdROHBhM0dZaHl1b3BSWkJIUHZIb1RkcUxsc096WnE5R2NRbmlVbXNMQ05QU1VNQ3RZRUEzSEVSUXQ4cU9yRWdDYlM5OWlxRUE0LXItemFsRFFrN2Z5MFBjbFJsQkJoU2NfaHNaRlFlYk14SDgydDFTdVFtZF9KS0Z1bjBnRE5idDNpa0VzM3k0QV9rRzdzSHVQNUttZ29ZWXJabEpMQ0tVVlVPNHhLR012T0NXSkpqQ0NFN285a2tIWFV0YXdtcEdueU9hM2VhcElhaEVqdGdzNi1Va2Nxcy1YZzdhUGdFNEVxVVZ0bzBrSVZhdy0wZ0hUdkZBMU5TbElXVkRCZ0c4ZmVPQVA3TnVIUHlXamY2eWRTdWVoWFk3TTFXYWVjbUpfY2diSHc2SFprNE9TYVR2dHhVM3JIMXQyYmYyWFlQTU8zWmVBUmJuNGl0UVhkU2lZaTVLeDJ2Y2FaODhTaDNEMmhrcmxYejF4MzFpVXpMUEdudTBfUjhBRE5McHYwd2VKVlhYLWVGM1hoQWlIWllkSHFOczd2emxOcXRLT2dqMlVpS3dBZWVoQUZ4MXdIVFp2?oc=5",
-      "source": "fxnewstoday.ae",
+      "source": "FxNewsToday.ae",
       "direction": "neutral",
       "ts": "2026-10-02T17:20:11+00:00",
       "amman": "20:20"
+    },
+    {
+      "title": "تنحسر الضغوط على الذهب مع تراجع احتمالات رفع أسعار الفائدة من جانب الاحتياطي الفيدرالي. التوقُّعات اعتبارًا من 2 أكتوبر 2026",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNS09LS0ZLYUt2VHZjU2JzNjFFdGxuUEdrMl85X3R4SXhSMDFoRXN1aFBITFBzdzNfS2ZiUGVCZ05QLU9Pa19ZdTVSRWtyclpUd21tOVJ1OUM0d2poZDdaRUxCYkxCX29WVV9rMUQ0Tlo3VlZiU1dDRHFlaVBqTm5vbWo5enVyOW5YdHhuSXhoanVOWHZLUThLb0ZRZldRNXp5LS03YzN6Y3JBTWRtaVV5ckJhRUthU3dUSTRRc0Y5Tm5OcXV4dFFDRFlnWlNneE5WQzJrOEZmOTRHRG10Yy1ET3RSYy10bnVzZTRPWmwtZW1Rdm9YQzJiX3kzdmVXR2V3S0xsY1NpZjRhR3ZiQjFmWDk4X1cxelU?oc=5",
+      "source": "LiteFinance",
+      "direction": "down",
+      "ts": "2026-10-02T16:56:32+00:00",
+      "amman": "19:56"
     },
     {
       "title": "تبدد مخاوف رفع الفائدة.. سوق العمل الأمريكي يتعثر في سبتمبر",
@@ -53,9 +133,17 @@
       "amman": "18:23"
     },
     {
+      "title": "صقور الفيدرالي في مواجهة البيت الأبيض.. من يحسم معركة الفائدة في أكتوبر؟",
+      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxNOE5zSmJ3dWdWZXVHTWlsY29VYzZ1eGFoWWE1V1JnWXRPeW9PMDhMaDBTT1hDTXBjanBfM2xBT3JrbHZ3Vmx1R0h3Qk1fbWk2dlkwaHlMdzZMeUF4M2dQSGxPWFp2RlM2LXBxcUJlTFNTUTc0OEhTQ1pqZUVzcjNhdW1iSHJTVnlzVjVuRG5hS21JbGozYXRlVkp5T2FxVzU1dFppOEgtM0lJaVV6WFlSYkxUWWNWeWZhdXZCQVROcDBBaW1RbDgxc1owZ2xHTkp5cGRPYkNzMDg3M1JSQ3BKZ01BWmRKMWZkbnlwNGR6WEM2ek9oOUl6OUZKelRCRHo1RU5YWDlxbmRrRU9nb3dMQk5IS2V3X3lvYUFDWlVzbFE3a1FCNmNUdzZ4ZzRlRkhiT1QzSnlfOXFONGNhcU83clhzVm43WXRmbWU4MUlFLUdIUXB3NFRxVGNZbjhFVFpVQTBoeWt1U1NvMjJwWkRwTDJZWmZUejZkaWRVZThURXFsay1qWW9KWjlDMEpZbGs5VGIwWHJwdzZrbUVHdWphRGVheGpOd0x3U1lYSDQyXzQ1aWNQaXVNTGc0bVV3YkZwNzRROTk4V2h5Vjd0cjRHZUhuTXRUTG01RGY1ZUtFWk94YjJiQ3c?oc=5",
+      "source": "العربي الجديد",
+      "direction": "neutral",
+      "ts": "2026-10-02T15:20:25+00:00",
+      "amman": "18:20"
+    },
+    {
       "title": "بعد تقرير الوظائف الضعيف.. هاسيت يكشف مؤشرات إيجابية في الاقتصاد الأمريكي",
       "url": "https://news.google.com/rss/articles/CBMi1wRBVV95cUxOS210WUxOQXQ5UTNHeVRnSEd1akw3aktKdjhkNXBTZkdYbzBVWi1BNzZ4XzZ0TlhWeHpVeUR1bUpaLWk4SENrZjNqTkVQQmxNelpCMUM2TW5WdTljdVRCU3dQYjBCZFh5NzFxQllvYWQ4aWpHWUQ3RlNCZDd6YjkzaFBrZERWcG1BWF9hSHJmX0JERUtQendYNC1EX2ROUWtLMnJ5dUE4WmROaUlfRUl1S1lnb3cwTkpraDdEX1RpbVc3S1FhbnVCaTFwREEyZ3ZVeVBuZ0JWODlXVGhYM0pLT2FEYVRjcldWYXFSTDNkeHFmMlFndlpTX0dkNjI0dFZjMzlSWC1obm9HeEtQckV2RmZxN0REQXF0SUlUTFZ4UzJpMGIxODVKZExPR2tBaklwelRwdU9lcDdSZkd3cmlId1pIaEN4azZna1p1Y2VrU0ZUaUpHTDhPUTVGZ2NXWXJCaTk5ZTBIR0p6eXR2aTB0d1A5ajFDYUp3azFlaG5kUDBVVlIzNzUzZFNydGFxM3dpaWN3SWtXc0hsblA0ejMtSHZ4MWluRE5vRjBZWTNQWlBFd2ltN1dvczYtaVNvSlFydEVpaVB6NnVHVVN0aVVCMGl2UFhOUFVmVWtXSkpYQkN6S0JfYlMtT1BQTkdYTl9EYjl3NHpvdGNtVEsxQTdNNElObzEwdlk4anhDNTRfS2htRjh3SlozRzczWE5WRzVnRnd0UXdsNnVSMy0xUmtqT1dwQ29wUERTX3Myb25sZDlHc3hWVE5QRHdPaWU0TW1XVEYyelU4bw?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "neutral",
       "ts": "2026-10-02T15:08:48+00:00",
       "amman": "18:08"
@@ -85,6 +173,14 @@
       "amman": "17:33"
     },
     {
+      "title": "عاجل: أسعار الذهب تقفز إلى 4227 دولاراً للأونصة بعد بيانات الوظائف الأميركية",
+      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOSTQyR0FGTnNaaWRjMWFEc3ZITHdZeW5PUnBuakk5RFQwXzFFOFV2aWdwMHBrbVJaRnBsem9vN2w4ck9JakV6a2E3eUFQNWJydEhBUWhNWUxnWDJhWEY1Uzk5TzFCTF9uSlhER0l0RFlFUGpkSDN3RUlqNHcyYXZIMG54SW42dEFGN0NmaVpFSXkzTnhKcTM3ODM2Snd1bGNNMTBOWmhvcmRhaTBuSzR2cF9iQTNFb1piVVo0cUFYMnIxZGdONVVpaE5KZjdXdEZEWFFlVE9vT0oxT2ZTeTJnT3lEckV5ZXhQX01WX2pDUW50M3RxZ2lTYXY5eTlydlFsVFlxWXNXRDZpLUV6enE5NDZNdWR0RU9zZGZaT0dEbkdqdjVHd0ZHREZnUk1yUXBia19aeEhpc051UThSYXlBYU96Zjh0RWdHVi1hOUhJWDZFSVdQOHViaWpQbUEwUXVkeVdaaVBiOE5iOVhfVjFWdE9tRmpvUGJ5WXF3bUwwcUZLcVVwVFBmQk1HQ0dnVEJ3YTVnUW15TGN2RnQ2bU9hMmJlbnV0aXR4NnVFSGdwT0JlZnNERk9OSUd2U2xadmFrcU81aG1xajZrTDdfWWNkWmxUVGJncEJVRGVMZ0JyMXJrQUdvMWU2bE04S1ZTcjdBMFhSM3NIRkExeWlWRG9tcWtkQ2M2akt0dDNNZVV5RGo3RlZxbUJCQ1JhT1p4VzlLVWx2OXdDelVhWkc4dktPZWViUk5LZmlPazlCTzFoTkpjYnZEWnlwYTB0ZHc3YmVT?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "neutral",
+      "ts": "2026-10-02T14:18:22+00:00",
+      "amman": "17:18"
+    },
+    {
       "title": "عوائد الخزانة الأمريكية تهوي بعد بيانات وظائف ضعيفة",
       "url": "https://news.google.com/rss/articles/CBMi8wRBVV95cUxNQ2RVOFpzLXNqVUFreWVQeDF3RTlNbFllOE5vTDExN0pweGIwSzFCYm41YUp6c2huajFjbnpjbUVuYnJxUm9UeUktWTV2dHI3Q1VJSC1HcHR1eWdkczJVS3MxT2xwTFFnQ0dKWGFfZXUzamo5WExwSHVjeEpjZVdsUFVReXRzeDVtRVZhVmUtVmE3UUN0bXZVNmNpcVhJZFRYUzNjNlJSb0kySnRmc2JNc0d3cldNak9OZTBXRUczdlh1Y0JjS3IxUE1NOHBIOHMyajdKRnVQUTRfRGpPekRjZ0ozdVJTV3FDcV9yYk9CUEozdW9aM0tEOE5ncmY5NHBKQWNYYTJaZkprbW1UNUhXYkxXOUctZ1VxVU9FQnVYZWNrRkIwWDZ6eTJwNV9reVFnNmFBUDdXai1LN3h2ZW9EUkdSNmdqbVg4cVhBUnltU1JpNnBBUFFkUVQ3M3FTUVVocUxJanNWa1ZiOW5GN0ttMG9jZjFONmQ2dFdxb1BMdGpSZHpiY1kzc3J0elpRMURVaGduMnBSalMtQlZVZzNlN3IwdGtRMFgtSjA4ck02cVFiRk1QSWxuYjJCVng3WW9xdHlDb01WTG1uaDZ2RFZ3blBUNURnSnB0MFBGTHkyNlQ0WTdJVmRNWkFmUzlkbUkycDR0UU1vMGZDLWdlWG5xZk1ZaFVFVVY0ejI2ZzZBM2lVM1lmUzh2b0ZxYnRVZWE2Nmg4RkRBR0xKTU50YU14alNFM21VRzk3QmRpdEpsTHI1OXlWNlh4S1dOd0F4OVJ6QnRPX2owTjMtWDg2Yk5ST0QxTDc4alV4ZVhqUTM4eTI3cGM?oc=5",
       "source": "صحيفة الخليج",
@@ -99,14 +195,6 @@
       "direction": "down",
       "ts": "2026-10-02T13:49:44+00:00",
       "amman": "16:49"
-    },
-    {
-      "title": "عاجل: أسعار الذهب تقفز إلى 4227 دولاراً للأونصة بعد بيانات الوظائف الأميركية",
-      "url": "https://news.google.com/rss/articles/CBMi0ARBVV95cUxOSTQyR0FGTnNaaWRjMWFEc3ZITHdZeW5PUnBuakk5RFQwXzFFOFV2aWdwMHBrbVJaRnBsem9vN2w4ck9JakV6a2E3eUFQNWJydEhBUWhNWUxnWDJhWEY1Uzk5TzFCTF9uSlhER0l0RFlFUGpkSDN3RUlqNHcyYXZIMG54SW42dEFGN0NmaVpFSXkzTnhKcTM3ODM2Snd1bGNNMTBOWmhvcmRhaTBuSzR2cF9iQTNFb1piVVo0cUFYMnIxZGdONVVpaE5KZjdXdEZEWFFlVE9vT0oxT2ZTeTJnT3lEckV5ZXhQX01WX2pDUW50M3RxZ2lTYXY5eTlydlFsVFlxWXNXRDZpLUV6enE5NDZNdWR0RU9zZGZaT0dEbkdqdjVHd0ZHREZnUk1yUXBia19aeEhpc051UThSYXlBYU96Zjh0RWdHVi1hOUhJWDZFSVdQOHViaWpQbUEwUXVkeVdaaVBiOE5iOVhfVjFWdE9tRmpvUGJ5WXF3bUwwcUZLcVVwVFBmQk1HQ0dnVEJ3YTVnUW15TGN2RnQ2bU9hMmJlbnV0aXR4NnVFSGdwT0JlZnNERk9OSUd2U2xadmFrcU81aG1xajZrTDdfWWNkWmxUVGJncEJVRGVMZ0JyMXJrQUdvMWU2bE04S1ZTcjdBMFhSM3NIRkExeWlWRG9tcWtkQ2M2akt0dDNNZVV5RGo3RlZxbUJCQ1JhT1p4VzlLVWx2OXdDelVhWkc4dktPZWViUk5LZmlPazlCTzFoTkpjYnZEWnlwYTB0ZHc3YmVT?oc=5",
-      "source": "CNN الاقتصادية",
-      "direction": "neutral",
-      "ts": "2026-10-02T13:48:22+00:00",
-      "amman": "16:48"
     },
     {
       "title": "Labor market faltered in September as jobs increased by just 29,000, unemployment rate rose to 4.2%",
@@ -159,7 +247,7 @@
     {
       "title": "مسؤولو الاحتياطي الفيدرالي يشيرون إلى إمكانية تأجيل رفع سعر الفائدة",
       "url": "https://news.google.com/rss/articles/CBMiswRBVV95cUxOeUF4dkNSaFlqZVdQOEYzYXpKd1ZlTFAydHE3Z3RuWlR5cDdUWWJfMjFlTXBxM0NqNEYyNmpOdVVXbldkRGJGVDB4SHp2V0ZfU0lTUGdsNVoxdy1wdjlXenFiX0JRLUI4WVhQUzhJYVk0dDdrclo2eUpfX0FqSkF1enFqME9aRmcyQVhKVVIzUDdvdDVhaTZHOG45c3h0X0kyZzhvd3NRdTJQdzNfcWlCM25Lbl90SVVmM1dlT3ItMW92S0VUdUhQdHBlZ3JVb3pwdVpZbERrSUM5dnF1S01UXzlZZmlfNmlaVGNfemRoY1hodUJ5RDNQNnJhVWJXbHJUbWQ3c3pENmMzbGRpQzZhSjBhdm40em1zUEN1T0w4SmVnVDNzWHNJTnkwdmpoZEJNR0RiRlplZ0t2Y3RZWTFRQk0zQ09xa3E2c05mVjdnRmNWNzQtMWkxai1WZ0ZKSDZ5T1hqWGRTWmdFaUFrV013bk5mclgwN2w5OFBBalZKaFN6MkFLaWE2bGhMNW1yRUpYWnpaZ21xbHFTbnpad1M3V0Q2ekJyRnd4aXo5OXo4ZEs0QWkzV3VZTVFqc1RVb3hrZDFzYnZiVTRUQ1dmQ2RQQ2pwbXJjanBXejRvZHNPckU3Zmd1Wm1sOGFoS3JOa1NLSm5xSjl4Sk5PM2hnRXVNSnkyb29PcFBQV19oSjNjSVI2LTBqd01DZUJhQnRfLXZNX3RsU0M5YjF0Zy1NZVJmWnNyRQ?oc=5",
-      "source": "IDNFinancials",
+      "source": "idnfinancials.com",
       "direction": "neutral",
       "ts": "2026-10-02T13:00:00+00:00",
       "amman": "16:00"
@@ -167,15 +255,15 @@
     {
       "title": "بيانات التوظيف الأمريكية تشعل الأسواق.. داو جونز وناسداك والذهب والبيتكوين ترتفع",
       "url": "https://news.google.com/rss/articles/CBMijwVBVV95cUxQZEJlYTZ4YU9OTlNDS1dMZEJWanVoUkF6eXpkNXZ4cVFNNWozOUUxUmpSVGlXVGt0VS1CanBsVkEyUmpUWjJRWElHUnJidk5ua2VUYllHcDc3YjZqRkh4WnlHUUdienRSLUZCREhTQ0p0cjBrRmlNbDc5VHhGQWZLTEU1VUFScDViZTRWeGw3SmhZTnhRV1ZYbTV1a2J5UHhVSjBYdnlCLThaNHZONGxpWnVZWGtIYkRVMlNJMGNiaE1id293ZHBqWi1YWWVzWGt6ZFVpYlBOTG1EbWdTZlFiUWw0dHZaY0dKQ2RrOG1Rc0dsSjFTbURLdi0yZ0hRMklpYTVvQ1NEUEZGRnRtck43UUlLdk45M1ZXLXlfMm1iM0Fta0M2Z0xGRlJaYnpSZWl4NXQyMXNBZUFFMnBUNC1ibGtqVElhYmpBb3VYY2JjMXB6X01RZG9RNWo3QlY0aHJtOVlIb1pONzJRU2NSRjRRRGluSC1BN05GUFQyX0hhb0swSmtvR3o4TGVOdUFQNEhfbGJmV1ZhZFItRjhJeTVGN1NNMXIxUjJsWklmbF9NZ2VYalM3M2Yxa0UzdjRuSjBXSkpCUTFrNUJuZUx5a0h3a0lSeHlsZGZWbTJrWGZiX3o1OS1TVWYtSGRPZnc2SjRodnJhbWpwdnRwRThpRU5xTW9lTmVCWGo4ZEY4VzJHRTl4TXBZVTVsckNiTUhBbENEU3p6TnoxMGpEOU9GaDdMSWFoQ2JPc3FMRnJMUlduUjdqRUhZYm82ZDdmZmJsSWQzdk9ib1JoNWdEc0ZtNXhndW9kZDRaX01IWHRoMktOSHBicEFtSkNHdkxpbEdrWS1QSjNVOTNhbFA0cVE0X2RV?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "neutral",
-      "ts": "2026-10-02T12:55:53+00:00",
-      "amman": "15:55"
+      "ts": "2026-10-02T12:59:34+00:00",
+      "amman": "15:59"
     },
     {
       "title": "لوجان: الفيدرالي بحاجة إلى رفع أسعار الفائدة 50 نقطة أساس على الأقل",
       "url": "https://news.google.com/rss/articles/CBMikARBVV95cUxQS2Y0Y1hRdVgyd3BMZmNDU0tiemg2S1JtZDV1THFrc2hJVFI5YVh1UWZvQlhiVUVsVms3SGlDdUlTYlF5R1J0MjRRZzV1S1ZNckc2LWVqbmtSWlZkZUdGSzRBLXVoZkl3emY3eDB4bTR1RGlmUHdOcy1jVERUb1JJWWl4bm1GNy1Cd3Z6SHg2eVhGV3VwR3NfWVo5Y1Y3NUx0WmZuTU5WMi1GWVJFOTBhV19qSXJGUDV2UjRTdmJTcnhaQnZRYXNOUlRpT1pJSVptUnVCQlpQbGFoZXRNSUdlc2RCUS1jNHZxNm1LNnNQd1RQaWFITmtjNmJENWhxSDZSMlhQVE45eUdsMm50ay1WcTlHdWY1eS1hOWl5VHBiSWp3OGpVYWZrOW55cHBMS0h5WGVBWU1STmN6b0hUMFJkWUJNTUZtVFFGdjFWNkFlZjYtX1NSanNiRWIxSWRsYTh0ZGYxTDRsbUFudm5maTgzclN0OFNUUGZIT21icTBMN1dYNHJOX0RvQmR4NVNveXV4T3ZxLTNWTUFZNk9iaHZOWjlVc2p0c0xGTjhFYkt1UFNxTlUzNldBeFotN0thczdPemloMUcxakI0UnpMVUFnSjFUS2VMQnc1aGcxd3lwMGYxeWpoN0V0cEVCcmdJbWdSdVVzYndyR2Y3MV81dFdlRmpkelkxalFsSEJQaHZyRmY?oc=5",
-      "source": "IDNFinancials",
+      "source": "idnfinancials.com",
       "direction": "neutral",
       "ts": "2026-10-02T12:40:00+00:00",
       "amman": "15:40"
@@ -183,7 +271,7 @@
     {
       "title": "عاجل| بيانات التوظيف الأمريكية تخالف التوقعات.. البطالة ترتفع إلى 4.2%",
       "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxQSWFKbWpvX3VHQkdVUW9aSmp3dG9ySlZZZ0VlUVV6S1dJUzZwV3pxOGRrRmZ2RFBYSzZDZWpjdEQ3NTdwcUVCWU5QTTJTM01RcDJMX1BKM3Ziem8zOWpZVWdDdDJFWmdkLTd1aEc3QlUyVFBQT1VzS2s1NVA0cVFhTG8yeGVIRXZNelY2NmFtbEhmeU02R0c4QWZIZ3VMMXJqNG9wYlJZd1NvM2hjSmxjM1V6S1dSZ3RWVTFmUE1LQ2Z6QXhFRlRjbHBZdUhGcWxBQ2xycmQ0QlA5azJadnVjQ2lVSkl0OXFQdTc4amlaS2JCdXg2azdnOXprcmV1UUVvbUd3elZLem42NTNoUHI1YVRiaFg4R1lLWmR3LUcwbUkxLTg3Y05JbXpWWllNZEEwZC1jMmxIOVdOeml4Z2s4SlJVNGlkQ2oxeEp0XzNfVmMxSTkzSms2Sy1BbUcxUS1ZNEo1UGVVLVR5S21WOFFZUzNPMDBxTmh3ZmhKaFRRb3dCX05vNWktblJudzlpd19RRHVwcXNaV014RXhxd3Z6NnlfcGtGWTR3ZGNVWksyNHFVbzhZTUFXRTVDNzlyVGx3bXNSQmFyekk1YTlEODVRZEpGbDNZLWZLWmhTdENtYWxNT3pvWTlDa0dTQk9UZk16RVFpUFlqR19MNFJxdHF6NjFVeHE2MVk4Qm9vWk5QZG0waUVjdWk0MUoyWDNiNWJO?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "neutral",
       "ts": "2026-10-02T12:35:52+00:00",
       "amman": "15:35"
@@ -191,7 +279,7 @@
     {
       "title": "مسؤولة بالفيدرالي: الفائدة الأمريكية تحتاج إلى ارتفاع 50 نقطة أساس إضافية لكبح التضخم",
       "url": "https://news.google.com/rss/articles/CBMirAVBVV95cUxNOERuZHFzQmFvX1hGUENUT3NUczlBWFVLSl9HYUhoWUM1SjlzZ3R1Q2txVWZVRC1UaVgzWkd2QWx5NzdwckVRTHRYT2pra1Q0N012VjdGb0xOY1BWUnZkUk02aXlRLUVNanR6cG9GWlk0N2NxSWVaV0RIQXBOazlCR1RETlVFcmN2OV9vM3Q5V2E1MFNOdlhmLUI1dG12Mi1sVURkTjJZcVpYQnFsbTJYWG01LTZCQVZuTU9aOW9ZalVyemlPcFJYYm1TZTJBeVZJN3BHUFBTaUVwWG1sODJkSHp6cGVaYm1nVWtMclRIMEtMWXE0OHRHNmdkOGJWYmZCMWFmM0xZWjNPSnpWeWhpUkRRTjhrRmFtV0gybVdsQ2ZleTF5QlRvOGRMa3lXMEFVb3UtTXo1MWdsa3FDbDNxVUt6ZUpaM1Q1RXFidktZVTZnMHduWFRkNmFoMkhkald3enE3ZXBmM3BxREl1UHFGZXdTTlNhSnFUaWZvM2lGS0pROThtSGZ5YlFEQzhzYS1TWHNYNm45NWk3MUx0NXhSYUJxXzlGd1lyVGJseEQzUHhOR1dHV1U2RnJtS1VSME82UEJHcWxWRjYxaEFPN3VKY2haclByVGFCTk9OM3JSbFB5VXVsWEZBVnh2RTBoOW9feTVNbWRSTmRMQ0ZVTkI5ZndBaWQ5cjVwTUVHOTFiTTg4WGlLdU5uVDlUNmVkRmdNemRpbWo1SU50U3BsMURaY3UyZ3ROMnZxaUQ5dkUtZzJlTWNpQ2hMZU4xU2JJUS1QbkZmNEUtcTdMU0dHOENzVnEzdHBBLS1PVjlFQzk2M3dPUEkyU0R0RVVaVEY0RHVmNHljQXp2MkY4U0J5ZlJkNXJ3NUlqYzI0YzNkb014cU0xRTl5ajhPOXRlMnQ?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "up",
       "ts": "2026-10-02T11:54:42+00:00",
       "amman": "14:54"
@@ -207,7 +295,7 @@
     {
       "title": "سعر الذهب اليوم يستقر قبل بيانات الوظائف الأمريكية ويتجه لخسارة أسبوعية ثانية",
       "url": "https://news.google.com/rss/articles/CBMihgVBVV95cUxOVlJrdVRGaXE5aUwzMnlfdEg5RkJrdjB2aTdpVURYT3c4SUE1SUpUR3dTdUNxVHRGMlBhOTZXNnVpSUVsQmhOc25UUUlCWEM1a2htV0UzSTZqdF9QT3d5U0hsNTlxRzdsZnpnUi05RWI5MnNqVEJuQTJ0VWZZcDJ6ZVhGQzF0eUFfaXE1TXRfVE9MU2swNDhWX0FLSnlCeU1VUkZwWnFjMlFIZWtOZm1CdHh2RHliS2JxdG9yTGlSSWJMajA4MG9sbEh3MnRRQXplVWg0eVZYbzFIUVJSM0xySHpGNWt5UEwzRFM4WU1sOUh0NEFXYkRaUnh2M3RGeXpCajdTTjZLckxGekpyTVpvakxaeERYZjAxUjdjbng0dndYT0d5cnVXSUVyektTU283em1uZjVZWk9IN1ktRTlIQXcyLURIVnJibUgxel9CSEllYlR6NVdTd3Q5c2NER2h2Q3NXSi1vMkpVckMxNnl4UW5LckRzeG5OaGtMNUQ0VTR1dDR1U2lLRWhzWS10YjQySjZwWlRuN0ZkejBGOHhsM1RCaklfdmxWZkNXS1plMU55V3ZrQmgyc0M4MVBxN3ZyYTkyRjNuS1NvcFlub1pVX2dSS0w2bzU2QUN1XzJWUG5ZdERRX2Z6cjNBZFpvT2hpOHV5TXZaR1FGYnZNWWZjZGlydjVqMXA2OVhHQTdDWTlQOFF1V1IyeXJ0OXZzU2UtSkc4V1pYRkJmeWp3Q0tRdFNrcHktN1V3YmJDek8zVzFWUzFpLXpoODQxNWk4UVJSVnZORm1EZ2JyeEROWW1WVFhvdlZDMVBFTFJZaE5ESGtxZVBIbDZ2OWF0MERqSm5oMlQyeS1n?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "neutral",
       "ts": "2026-10-02T09:43:40+00:00",
       "amman": "12:43"
@@ -215,7 +303,7 @@
     {
       "title": "\"وول ستريت\" تقترب من إشارة بيع.. هل يهدد التفاؤل المفرط صعود الأسهم؟",
       "url": "https://news.google.com/rss/articles/CBMi-ANBVV95cUxQNGNzV0R0RnF1N1RaM09hbmxoQXNWb19KT2Z0WC02cG1hQWwtcDZCNllROThoVHl2dkFMclpqbGpTcGlTOG9qWmQwUkdOSmk0OU9sbTNnUWgwRGhnSDFIRnVOWnNFdU9kR2pSZ1hwRzlTV196c0pVejRjTzhVWnNzSlF1Zm1ETjlfWGR3OExjRXV3aEN2UmFLOHJZYTRQQmdvdkdBckFNWnREV2tBNlBJTHhIZlVDY0tBVHFQbWRydDhlM0Q4M1g4aWRtbWJuZ09nc0FnaHNFRXZxc2pjdTc0UHYxSkd5MnE3bF9QRWVDSUM3Nm9Ub0Z6QWtaSWppSC1qaGRPd1l5QVBNY1NUMjFSOXJ4clRZS0ttVlBRQjRjNUZDeEhKRDRlall2Q0x5N3VuVjFOa2JDWlJuTHhiZDVPR2tCWFI2bUFqcEFwUTZ2WlpaZ19Ib1F1THVHV3U4RzNucnpyYlN3QnpjRU9yUW5TejkyMUlfdzZuUWt5c2twa293Z0xuWTlRNWwtVmVEdWd0NlFiRWFodXNQM0haUERONDhhRHJLYTloaS1TYUktUURMZjluMFE1X0hzVzVFaDNveDRwbjNuTEpvNUJmX3gxUk1yVGxMWmM3bXZyY3EwUnRFQmVacUtBbWZsbEhMWENSWU1qZTlnTlk?oc=5",
-      "source": "24.ae",
+      "source": "موقع 24",
       "direction": "up",
       "ts": "2026-10-02T08:00:00+00:00",
       "amman": "11:00"
@@ -231,7 +319,7 @@
     {
       "title": "تراجعت التوقعات برفع سعر الفائدة من قبل الاحتياطي الفيدرالي في أكتوبر بشكل حاد: ما الذي يدفع ارتفاع الدولار؟",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLU1fSXc0X2VMaURkcUlQM2JqZ0h4UWNMZUx5aDhSU195YS1pQ1hWWFpReWtQdWdxRk5GdTJNRzR2MWY2WnVNZjBfaTV0VXFDNnRiX1NWT3pvcXFkWDk4cHZLa3NsODBoQmZFOFpUUkd1QVRoMzNFMm11OVpWVXlLV1ktYXAwM1VRNnVNVVFvOHZTMmxhUXFBT1RQY2l6NFhwYXJuMHJFQk5NWGdfNnYyaVh2UllXY3QyNXc?oc=5",
-      "source": "vietnam.vn",
+      "source": "Vietnam.vn",
       "direction": "neutral",
       "ts": "2026-10-02T07:34:06+00:00",
       "amman": "10:34"
@@ -245,9 +333,9 @@
       "amman": "10:15"
     },
     {
-      "title": "أسعار الذهب ترتفع 7 دولارات وتتجه نحو خسارة أسبوعية ثانية - الطاقة",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNcTJhVDlabEY3RmVpbUVUNVAtSlVRUGZpdWdTQjRETldvZ3RLYkVtRTM1VXV5LThiQUFNVWhUYjhPcGVEelA3enNvU2VnRmVhOTlaNG1fcHlhNjVmWDM5LW1IZEdlN1p0VUhRT1NXMndJdmxWaEY2MWVtVThvemZ5V1lqNXRySlZqWHF2b0VmTEJNdVRmNDZMNEozV0tFT3AwMXktd0xRUzlPUWdKRFFOdHlaYkVjZGpNZW8wSjkza0VvZTVVV1U3N2VfcXE3bFBOWXdlcEJTMlV2NDZOQU4tTHp3OENaczBFQ2Q5bVE4TnV4bTBpQ2JKVEgyTk1lLXdIWnYzLUI1VzRnSXNTX0lWYUt3NjhtTnB4UVB2WWpUdjRUN2JDZ2JBRS01RlZrM0lKUDRQYzBXS2RDVGcyUDRQYThUME05ZlB0Q0UwbU4yRzc?oc=5",
-      "source": "أول منصة عربية متخصصة في أخبار الطاقة",
+      "title": "أسعار الذهب ترتفع 7 دولارات وتتجه لخسارة أسبوعية ثانية",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOdmNiSXdja25mUGtBZjgzakE1X3FpYVEtaWJBWFA2Wk5MNmZvSk1tTnZjV1d1Z1lLOVc0RFMwREpsMTVkeGVpS1dVVklJRGl6TFd3WC1GYUtIdVlvOV9xNlN6enlwOXF6SGJzNG04M0E3UzU4MVJ3VWhQeXN1V2lOcTFta29kQVl3OVlkQktYVF9UalZFRnJLaEZDb0tHRFh3UEtZcldpbzNNVDdfQms2ZnpjeEJ1RzdmX2xNZEhRQUdZWHV2MlA2UHY1NVdrVjlTREo5SVMwVXpSZzVyUFZuQURFa3BtZHVadGlfbEVjZTZ4amV0S3ZEdW1Ncy1WWDFsWWstZHEwb1czbjZ6QXhaZDl0ay00cVNqdUs5RXBRN2xrSFJOTHZJa1BOU3JEMHRtVU1tU0x6MHV3OENVVVlSYUVYTVdJdkFhakV2ZERnTQ?oc=5",
+      "source": "attaqa.net",
       "direction": "neutral",
       "ts": "2026-10-02T07:11:22+00:00",
       "amman": "10:11"
@@ -255,7 +343,7 @@
     {
       "title": "الين يرتفع مع تسارع التضخم في طوكيو.. والدولار يترقب بيانات الوظائف الأمريكية",
       "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxOZWZHQ0lMeDQ0YTFCZGZTMEdwbkhvVG1zQXdlOHFadEhkNjQ1Ylh6ckZLSUZldHJZY3FjZTcxMnd6aEpzQnNxNm9JRjJXVHV4WXlvWGR0dl8tdEtCOHBfRnJfa0dYaVRxX0xLdWFwSVctOGFGNDgzR054S2NkTUpBYTgxTFZYbmVqWTJnNkVjcU80YnRlckp1bEt3Ulp0dlNHSF9KOUhrNzZQbHpjdUg2UkFacTRreW1mT091UnY4Mkl2cDFid0lZTHlSbldYS2tyamRaVEpSTmpualM3d05XZ1dabG15Skt2aHZRYzNiUDJOc0pDSS0xc2RDbVp5ME1DTzAzQjBFa0t5a25WN0JBUk1qblp2Y3lGbzIweVJqWWJzMl9vZ2hKZ0Y0VHRnQ1daZk0ta2ZDSzJzam1IZ0EzS1R4a2d0SzZsLUVudmpWVDltWld5c1pIbWpVWnYyNDdZTnFuMXVUaC1sSndRYXRtMkpqaldjcXpFbjNOSnhzUno2dC1KaEY0ZWUtQXI0dEEtXzBlOFdJT2FhcS1oVjdmQXVLNGNwUkpRbEdObHJJTzFJR3lpWUZTTGNOWUNIVGdUN1B2NE42NEZtSXlRdm13Y3phbTNnYlhpdW1EbzlLenJveUctZXNXQ1R0TTJQSTd6OU5tMkdkRkRsY09qaXhpYnJOTTV3ZFl1NHhKaGdtYVpxVFh5dG44WDVRWXEtd3RPbmI3X3lFR09FRWlFVWFxYzNTODRTU3F6bFlDSUFCSHQ4b01HWGhoN1lNeTN3VkhzWlFGZThCNnVLa1A4MlZ1bjRmZzBrck04QVNBeEJB?oc=5",
-      "source": "arabictrader.com",
+      "source": "المتداول العربي",
       "direction": "up",
       "ts": "2026-10-02T06:49:15+00:00",
       "amman": "09:49"
@@ -271,98 +359,10 @@
     {
       "title": "حصاد الأسواق: أداء قوي في وول ستريت وضعف في أوروبا وآسيا 🚩 بيانات الوظائف الأمريكية (NFP) ستختبر متانة أسواق الأسهم.",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZkZiOEhwTUJYRGsxd3huWDlrY0R0Y2JPaUpLQVhEcUxFRHNjZDd5ejJpU2d2ZGQxRzZyTzZUazRZdDZGNDNBN284VFIwUDdUWlJHRGRQTGllU2FJaS1Menh3Mkx5N2hCVzh1YUxFdUtXYmZJaUhQdmJkWW1hVmZ2THNZX0IyenFEVVlWd294YkVQNjZRX2lRb0VwQmZKYW5VSU1jV0FRcUp3OU1fUlRpTXpsaUdhZUQ2LWh1aXhnRUFKcGhVYndTZTFtejdqSEhycjdaN2RWSWE?oc=5",
-      "source": "xtb.com",
+      "source": "XTB.com",
       "direction": "neutral",
       "ts": "2026-10-02T05:48:11+00:00",
       "amman": "08:48"
-    },
-    {
-      "title": "مخاطر الائتمان وأزمة فرنسا تعززان الطلب على السندات الآمنة",
-      "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNdDVYNThEVXNUZWMwc28yX1ZQTkp2eVQxSDYwY2hMMmEyTXVSZk93YmlzLW1MX0hzNGxXaTZrb2I2a3pocVdHSlVWQ0JTS0RKZ0dCQUwyODItNXBsMk0yYm9wbDBhbW9fT0F3ZTJ3dno4RW4yako4UFNIQWRwaWRNal9ESVRTMnhGaVo4N0NlSkh4YkxUSUkxYUM3dWRJVUl6Sm5mV1ZJa2hPa3k2QWRFWjZYcVhfOU11Q0Rqc0RveE45NDhHdFZIeDkyb3BmTkZlSHZnOW85REJwUnp6YWhJTnlFekhaaWFzZ3VBcWdkRHpFREJ4djc3azVpTGNGTHdRb2FNa3NsY3pqLVoxTXVyQjhVZnJhWnQyTW03S19NV0Fjd0owTWRraw?oc=5",
-      "source": "الشرق بلومبرغ",
-      "direction": "neutral",
-      "ts": "2026-10-02T04:03:54+00:00",
-      "amman": "07:03"
-    },
-    {
-      "title": "يتراجع الدولار الأسترالي مع تلقي الدولار الأمريكي دعماً من المخاوف المستمرة بشأن التضخم",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQNnAydmpsRlF6OVpwUTh2Nnh3WmR3YVZtWTZVQUU0S3h5aFYzTDd4ZzlnQkxpM0pueE1hRy0yemtvMmxEV0J6OVlkQWFacjZEYnEtejFfZHVRLWlWRGF6UG1zNVp6NVptZWowWk1nQUVJc2htYTh1WTlWWXV2bWxDZHdVQ1VYQkJSZW9yUFV1anE0U0c3akZqZXRqeXR1bnFXdG5FeVZZXzZ5T0NvTFRxYlhjTl9oTWV3M3ItbHpLal9Dd0c5ZllJSUhtZlRudEZzWmE2RGszTW1sNGpRX2hpQ0lTUGptMmRia1E?oc=5",
-      "source": "tmgm.com",
-      "direction": "down",
-      "ts": "2026-10-02T03:45:09+00:00",
-      "amman": "06:45"
-    },
-    {
-      "title": "دالاس لوجان، رئيس الاحتياطي الفيدرالي: يجب رفع أسعار الفائدة بما لا يقل عن 50 نقطة أساس.",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeWs5YnhZLXZfaWMybUw4cDItN0pjMUVkYkpNT003dVM4QzZiV3I0UGxNd2RfaVZkekc2N0RIaWpuaEczYWpwLVBHbXB5b3pNRTNZTlV2TmV6RFU4dEVEbHpNUHlLN0ZLV2NCcmwxOGRoaGhfbzFrSmtDV205X29KUlhWa3dMSTQzekQydHNkM1BiUmNWSDVnOEozNklFQQ?oc=5",
-      "source": "vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-10-02T03:19:44+00:00",
-      "amman": "06:19"
-    },
-    {
-      "title": "الدولار الأسترالي يتراجع مع تلقي الدولار الأمريكي الدعم من مخاوف التضخم المستمر",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBKaHVqOGszUy1aM2pKUzNLZDdsaFBBWVdrdURBS0pRelRaMWp5c3F5UG9yNEswMmJlQlBEYmZNQ2FZN1l1ZDlYQzlkSDZGWDl0SFFr?oc=5",
-      "source": "شبكة تواصل الإخبارية",
-      "direction": "down",
-      "ts": "2026-10-02T03:04:07+00:00",
-      "amman": "06:04"
-    },
-    {
-      "title": "بورصة \"وول ستريت\" تغلق على ارتفاع مع تراجع عوائد سندات الخزانة الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1BQ3NqLUxSd05YVGtFcVAtWEZnUXhLYjl0OUhPd3d1ZzJEXzlHRTIxUE9uejhlbzN4NnBHV1ZuNDgtSDVoa2ZZ?oc=5",
-      "source": "وكالة الأنباء السورية – سانا",
-      "direction": "neutral",
-      "ts": "2026-10-02T03:01:17+00:00",
-      "amman": "06:01"
-    },
-    {
-      "title": "أسعار الذهب اليوم، 2 أكتوبر: انتعش الذهب قليلاً وسط ضغوط من الدولار الأمريكي وعوائد السندات الأمريكية.",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdXRMWGtMTjNQVHJjWUJGdEVCaE53VWNYSlJ5QTQ0QnBQSWl1YWNFS2hzbUFGQlBLZ1BBd3lTbXVOcWtCR3pvOVpZTElleVljU3MxV3BPTVNScDVJS2hTTkszUGl5YVo4Ujd5bzBDQk91MjhCN3o1Vk94cnMtRlBIRHhMVE41QlY5eG9zS2RyXzZWZw?oc=5",
-      "source": "vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-10-02T02:41:45+00:00",
-      "amman": "05:41"
-    },
-    {
-      "title": "وول ستريت تتعافى من خسائر بداية الجلسة وتغلق على ارتفاع",
-      "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxQdXlXU0tEcVdxUW1BcE8yUkYzdHFrWldlMDVxbzVlRmxNQjlQVEhjQ0hEM2Frell2VElDbnh6X2lIWTBDamllLWI1Sm9seHBSbkdWdW1EbjF3Z2dmbm1RRWsxSEhzNXJtbHZyOVJrRnJ0aTRmYTRmYUp2TmxJQkdEWWViT0xVZUFxUDgxNG5GYXhmWVRoNm9zeG4zS08zRHVLTDVxTV83cGdXdWdHUDUzdW1uRjIybGtUakVjaEktTWd3QURoR2NyZjZDUDJrNzJUeTJZVVphcGIyczRpZnphaHIxYXRFdWwxY2lLSmR4RDh3OVIyNXZyX0U2TDREaV9jSVQ4SDRKY3FkNlNYYUQ1d1EwZk5MMmdjYVl1WUZvekxlUlhuc2ppeFpHbWtyRWhtbFRlQVZyblA1MzY2TUhTWkVJVVJWVmxRX3JSSHE2YTNoa1A4enZ1TEVzcXRBTWRiQ0R3R0FLaEhWcmtVSlBiUm5SZnBja0U4aDBJTGNXcDdNWXVOalFFX3A5UWxtWnFSZFBUNTlvb3dVeFBnWThBSVlndlFJZlZRWmZ0c2stWWpMWDlOQU9oQkNJN1RGSXhQOWtYUVR2SlpaQ1JZWHc?oc=5",
-      "source": "مبتدا",
-      "direction": "neutral",
-      "ts": "2026-10-02T02:15:11+00:00",
-      "amman": "05:15"
-    },
-    {
-      "title": "عوائد السندات تهدأ، وول ستريت تتعافى.",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2c0lxWUtFa3l4cUQzQzBTNVNKLWtmSEswV0R5M3BvRHJKN2ZlbkdyRm93MjhMZWpCbUU4Y1E0ellPcFNnVGFfdTRXdGhEaURhTGl1R210aDVnNTNneFBIc3p1SEViN0FKaE9OUlRQWF8wUVIwczFTdWxHbjI?oc=5",
-      "source": "vietnam.vn",
-      "direction": "neutral",
-      "ts": "2026-10-02T01:35:41+00:00",
-      "amman": "04:35"
-    },
-    {
-      "title": "انخفاض قيمة الدولار الكندي مع تراجع أسعار النفط، وارتفاع قوة الدولار الأمريكي",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjd3cwN1E0bmFacUJ0YmJjdjhQQUVFcUpVNTFWTVdJSlVrQ0JNa2NPaGZvYnBmUW1RRDZaV0Q4XzZDaVhIaEhuWnI0MUE5NmxIOTM4?oc=5",
-      "source": "شبكة تواصل الإخبارية",
-      "direction": "down",
-      "ts": "2026-10-02T01:24:58+00:00",
-      "amman": "04:24"
-    },
-    {
-      "title": "ارتفعت أسعار الذهب مع انخفاض احتمالية قيام الاحتياطي الفيدرالي برفع أسعار الفائدة نتيجة لبيانات التضخم الأمريكية.",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcDdZRm9YcVRVSkVPcVN6WXgxb1AxN0JMVU9lRUxndmU2eGpMRjNYbl9FVHAxNVdXOEtiUW45V3BJajVDOUpFeDlPdUxySHI4MzNPSGpSTk1XcGVyNlpsNGhyaVhiNUJRbzA1NTRubzM2aGVwdXd3QmVzSThoRUpiMjVaMWMtR0FLYjZnUWgyUGltRDJZd0UzcXNWSWJlTnZOWkY1QzhR?oc=5",
-      "source": "vietnam.vn",
-      "direction": "down",
-      "ts": "2026-10-02T01:16:21+00:00",
-      "amman": "04:16"
-    },
-    {
-      "title": "أسعار الذهب اليوم، 2 أكتوبر: ارتفاع طفيف مع انخفاض التضخم في الولايات المتحدة وتراجع التوقعات برفع سعر الفائدة من قبل الاحتياطي الفيدرالي.",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXQ3ZkFGTWpxWmhycHF2UFRfZ0NtOURSeGZaUTNIMVhoQ0hEcEFKSnBRNTRyVUQ4dXh0eWE0QmVNM2VGb1h5NEpQSkdpejRmVm5aeFBXaE9neUNnUzVHQnIySVRRdnJQMmUya003VzFTTUZaajBpNlFYWkduNDNYamM0U0JOYUc2c2Z2U0hIUHBUWDBkdTBvN2N3a29vRVYtcElZb2N4TF9Ba3Z1M2R5V21xRQ?oc=5",
-      "source": "vietnam.vn",
-      "direction": "down",
-      "ts": "2026-10-02T00:38:33+00:00",
-      "amman": "03:38"
     }
   ]
 }

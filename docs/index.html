@@ -157,11 +157,20 @@ function draw(){
   fresh.className="fresh"+(ago>12?" old":"");
   document.getElementById("sess").textContent="جلسة "+(d.session_date||"—");
 
-  // تحذير جلسة قديمة
+  // جلسة قديمة: لا نعرض أي أرقام مضللة إطلاقاً — نخفي البطاقات ونوضّح السبب.
+  // (خلط مستويات جلسة قديمة مع السعر الحي يُنتج أرقاماً غلط مثل "أهداف محققة".)
   const stale=d.session_date && d.session_date!==todayNY();
-  const warn=document.getElementById("warn");
-  warn.className="warn"+(stale?" show":"");
-  if(stale) warn.innerHTML=`⚠️ هذه أرقام جلسة <b>${d.session_date}</b> وليست اليوم. شغّل <b>start.bat</b> على جهازك ليتحدّث.`;
+  document.getElementById("warn").className="warn";
+  if(stale){
+    document.getElementById("count").innerHTML="";
+    document.getElementById("cards").innerHTML=
+      `<div class="empty"><span>⚠️</span>
+        <b style="color:var(--amber);font-size:17px">البيانات من جلسة قديمة (${d.session_date})</b><br>
+        مش من جلسة اليوم — فالمستويات والأهداف هنا <b>غير صحيحة لليوم</b>.<br><br>
+        لتحديثها لجلسة اليوم: شغّل <b>start.bat</b> على جهازك،<br>أو اطلب مني «حدّث».</div>`;
+    for(const k in els) delete els[k];
+    return;
+  }
 
   const vn=vergeList().length;
   document.getElementById("count").innerHTML = filter==="buy"

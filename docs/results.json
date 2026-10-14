@@ -1,14 +1,15 @@
 {
-  "updated_ny": "2026-10-14 16:58:41",
-  "updated_amman": "2026-10-14 23:58:41",
+  "updated_ny": "2026-10-14 19:40:39",
+  "updated_amman": "2026-10-15 02:40:39",
   "session_date": "2026-10-14",
-  "requested": 94,
-  "scanned": 94,
+  "requested": 93,
+  "scanned": 93,
   "waiting": 0,
   "buy_count": 33,
   "sell_count": 11,
   "active_today": [
     "AAL",
+    "AAPL",
     "BAC",
     "BBD",
     "CIFR",
@@ -27,7 +28,6 @@
     "RIG",
     "RKT",
     "SKYD",
-    "SMR",
     "SNAP",
     "SOFI",
     "SPCX",
@@ -588,7 +588,7 @@
           "price": 346.61
         }
       ],
-      "active": false
+      "active": true
     },
     {
       "ticker": "DIS",
@@ -1360,7 +1360,7 @@
           "price": 346.61
         }
       ],
-      "active": false
+      "active": true
     },
     {
       "ticker": "ABBV",
@@ -4032,36 +4032,6 @@
       "bars_since_signal": null,
       "signals": [],
       "active": false
-    },
-    {
-      "ticker": "SMR",
-      "session_date": "2026-10-14",
-      "state": 0,
-      "price": 5.84,
-      "open_high": 6.32,
-      "open_low": 6.23,
-      "open_range": 0.09,
-      "vwap": 5.98,
-      "ema200": 6.28,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -6.48,
-      "volume": 60355520,
-      "targets": [
-        6.51,
-        6.7,
-        6.88,
-        7.07,
-        7.26
-      ],
-      "targets_hit": 0,
-      "next_target": 6.51,
-      "next_target_pct": 11.34,
-      "last_signal_time": null,
-      "bars_since_signal": null,
-      "signals": [],
-      "active": true
     },
     {
       "ticker": "SNAP",

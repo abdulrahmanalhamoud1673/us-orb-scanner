@@ -1,16 +1,56 @@
 {
-  "updated_amman": "2026-10-16 20:09",
+  "updated_amman": "2026-10-16 22:55",
   "count": 45,
   "up": 7,
   "down": 16,
   "items": [
     {
-      "title": "Here’s how the Fed should reveal its outlook for the economy",
-      "url": "https://www.marketwatch.com/story/heres-how-the-fed-should-reveal-its-outlook-for-the-economy-79629f25?mod=mw_rss_topstories",
+      "title": "Your Social Security check will rise an average of $75 a month — will it be able to keep up with inflation?",
+      "url": "https://www.marketwatch.com/story/social-securitys-cola-will-be-3-6-in-2027-as-inflation-persists-f7c9dff2?mod=mw_rss_topstories",
       "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-10-16T19:45:00+00:00",
+      "amman": "22:45"
+    },
+    {
+      "title": "Did this year’s COLA beat inflation? Here’s how spending by American seniors stacks up so far in 2026.",
+      "url": "https://www.marketwatch.com/story/did-this-years-cola-beat-inflation-heres-how-spending-by-american-seniors-stacks-up-so-far-in-2026-917c400c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-10-16T19:45:00+00:00",
+      "amman": "22:45"
+    },
+    {
+      "title": "AI investors have woken up to the bond market’s warning signs",
+      "url": "https://www.marketwatch.com/story/ai-investors-have-woken-up-to-the-bond-markets-warning-signs-6f604c61?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "down",
+      "ts": "2026-10-16T18:52:00+00:00",
+      "amman": "21:52"
+    },
+    {
+      "title": "بسبب الذكاء الاصطناعي.. مؤشر \"ناسداك\" يتجه نحو أسوأ أداء أسبوعي منذ يونيو",
+      "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOVFBOV3ZHOVBTQlBvTEtSc0FCQlVtUElLTUFVLVlYU29BclBtQlRkRzQzNFRGd0Nlc0k5NUQ4YmJoNUctU1haM2F1d216UTJaTHZ2S2NVUEdKT3JKUERrd090V0xENHVUOTU1MFpaY3lROEpab1NDcDFKaGxORmhiYVRaZXJnXzhxTFRsUnM2SC1rS01ydUFDSUxDZ3hXcThNeC16UjBCaTNUNDlsYWZGa2R5WkZ4bkhKbHRlQzE1QjIzb3RiMGU5YjY4TnBNNHBETGc3YjlVaG9tR1BJSjlrLUpUc0FCcjdDS3ZqZ3FDWmI2YkpQYTVueHM4SGhLdXl4WHJ3ZFBhNjdXVXltazY3QXpXQTRnTUE4b2FyQTgwTGstY0JzSkpIUlBJSWVhNmIxRVE3MmlBc3NJaHJQcGk3UnJETTdzeldJVi1FMVRaWVZIc0p3N2RXOGlFRC1ldXZtZ0FTc0hJamRSRDBpWnc?oc=5",
+      "source": "جريدة المال",
       "direction": "neutral",
-      "ts": "2026-10-16T17:07:00+00:00",
-      "amman": "20:07"
+      "ts": "2026-10-16T18:48:09+00:00",
+      "amman": "21:48"
+    },
+    {
+      "title": "«الذكاء الاصطناعي» يعصف بالأسهم الأمريكية.. والأوروبية تواصل التألق",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWNVBMYUtGcEJEMUNTV0dIbjk4SE9OU2hER0ZndTRNUXp4azFGSHNvZTF6ZGFna2FzMGFUTWF6UDcxMUZjeDlHTVhab1MxTmVUTXoyeV9iWG9nNzRkWWF2aExOdE5udXdSenNuNGV30gFzQVVfeXFMTWtEQ29DSlBPWEhLNE9UUXJTRkJmeWhzWVAxakw3eFBwMHZrZnk5YzNxUnZEb0xEWGlod1FGNHJoZU9haDNIeF9hU29rRV91aTlWN1BLZXEyeVdnTTdiWndyWUZVeFVZWGlIYUkzdDBfaVpWRQ?oc=5",
+      "source": "البيان",
+      "direction": "neutral",
+      "ts": "2026-10-16T18:31:00+00:00",
+      "amman": "21:31"
+    },
+    {
+      "title": "Analysis: Why a $2 trillion deficit and 5% Treasury yields are becoming America's biggest economic challenge",
+      "url": "https://www.cnbc.com/2026/10/15/treasury-yields-deficit-national-debt-ai.html",
+      "source": "CNBC",
+      "direction": "neutral",
+      "ts": "2026-10-16T18:04:20+00:00",
+      "amman": "21:04"
     },
     {
       "title": "التضخم الأمريكي أمام جبهة جديدة.. ارتفاع أسعار الواردات يعقد حسابات الفيدرالي",
@@ -43,14 +83,6 @@
       "direction": "up",
       "ts": "2026-10-16T16:27:31+00:00",
       "amman": "19:27"
-    },
-    {
-      "title": "Many of 2026’s hottest stocks have seen dramatic comedowns this week",
-      "url": "https://www.marketwatch.com/story/many-of-2026s-hottest-stocks-have-seen-dramatic-comedowns-this-week-e5ae5d06?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "neutral",
-      "ts": "2026-10-16T16:09:00+00:00",
-      "amman": "19:09"
     },
     {
       "title": "تراجع أسعار الدولار وسط غموض بشأن توجهات السياسة النقدية الأمريكية",
@@ -93,6 +125,14 @@
       "amman": "18:11"
     },
     {
+      "title": "«الفيدرالي» يتجه لرفع الفائدة للمرة الأولى منذ 3 سنوات رغم مطالب ترمب",
+      "url": "https://news.google.com/rss/articles/CBMiygRBVV95cUxNaDAxc19IN1U0WGNVQXl5S0xBRGI0OU94MC1wVWNUY1dTQTN1OUE3eC1HNGJvaURHT3BUUThvMmhTQlo0LTdUZHZEdHpqSmFodGgxRU9HNWs1NGg3bjJtYktNMVNldHoxdGkzaEhVb1ZRRTRqeVlUanFpdEstZmdHWVFUTUZUR0ZlcDJhdzVjdXlKa25ta2lWZUlsZVV5dFB0VTlfVFMyVkF5NGhnM0M4dzhacTVZWGxHbDJmZDZtckthQV80UkdMUTBzekxEOGt2emZRTDZQUlNpN0gtRjl2bGxwUXhBMkNDSVl1YzJjbGFGNE9weW5NUzlqcTlJWjlORkJJLWxBY0RiY3BoSU1IU3ZPckdzUW1CVFdack1TZEdWYi1oZ1g2WkVqYUI0d1FCRDU0TGZPVEpNX0FGdmJydE55OE9CSjRrZXZFbUhPQUk2REtpbDRiRXg1U2tXVUtaMzMzNE9pWGRFVzFjU1V3akljSWhaYThmbEc3UkRNeHRLVUpZcHYxc2dVdjZqQUhwYV9OSHptTzNRdjBFdkxnUTY3WG13ZjZYcVhKTGdxVzJYOFBXOHdhVXlrcFZ1S0p1ZWpmcU1XWTFkRW5yTTlGX1ZtRTRPU1NDZGdnTll6NVZ1SUdHbTZfRzQyRy16bFFHOGE4U21GeFZrd0ZKRHJqWnpueEpnODJpREw5SWg4LWplZU5BLThRZ3ppNXRrRUVTSUYyRnRjSmphX04wSjlYSWllQUFWd1B5UGxOMm5tX3pEY0hNSzA3aVh3?oc=5",
+      "source": "الشرق الأوسط",
+      "direction": "down",
+      "ts": "2026-10-16T14:58:15+00:00",
+      "amman": "17:58"
+    },
+    {
       "title": "«مرصد الذهب»: وارش يتجنب حسم مسار الفائدة.. وترقب قرار الفيدرالي نهاية أكتوبر",
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxOY0JJRUpaZTAyTHpFUnpnQTFUYm1GaWpxQzA2cHRBSVNkN0lsTkNrZU5UNVBnNC1QMXlDVmlPTnA1WE5XZHo5TEJKT2RrejZCLW1fMzd6TTZZdjBvZThKNEVzWGt6RHM0RFFfMEVqck91REJaR0tndlRHQi11LTltLUJlZkVtYVpGR2VXYmpPR0otbGhiMGc4TGRscGxFcm5ENFRVQ2l2cHc4aHY1WHJjdGo1bnpLdVh1a016eDZockw0a0RScVlRWWRqbTFxUi1EQ3lNY1BXVkh4SkZOUHpzMnRsdXY5VzBzNWN0aGNpTlRpc2g3VjBBYXNVWTdocmxac3UyQmI1eVJDNGthM3NZS2VUTzNOWC04Q0NmSXRWWDE1WXNfSERwdm5sV20xd3VhZkNhWlVJdmo3X2pIZ0dNb1JkWGVMSy1DSmhXU1AzbnlCNTRweGdRaDhIRGhhYjdjZzByWlVyTW9aQQ?oc=5",
       "source": "بوابة أخبار اليوم الإلكترونية",
@@ -115,14 +155,6 @@
       "direction": "down",
       "ts": "2026-10-16T14:30:07+00:00",
       "amman": "17:30"
-    },
-    {
-      "title": "The stock market has already crashed: Why a Wall Street veteran says Nike is the ultimate turnaround trade.",
-      "url": "https://www.marketwatch.com/story/the-stock-market-has-already-crashed-why-a-wall-street-veteran-says-nike-is-the-ultimate-turnaround-trade-f4429eb3?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "down",
-      "ts": "2026-10-16T14:28:00+00:00",
-      "amman": "17:28"
     },
     {
       "title": "أسهم التكنولوجيا تبقي «وول ستريت» تحت الضغط",
@@ -149,28 +181,20 @@
       "amman": "16:00"
     },
     {
+      "title": "الدولار يتجه لأول خسارة أسبوعية منذ شهر مع ضعف رهانات رفع الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxNSDEwTFpGTVlqSDRuSUtUbEo1d2lHS1ViZ2tlVG12XzM2NDRXT3NfYjhIMV9fdjIwZUtBWFZ0X1lKd2x6eDVKc3VaWmFqLXVWLVRwR3kwdExvMHF6NHlsc2RvcDFoNEJNUlFpZVlHM09xTWJ3djQxTnptRHJlWG43WHNpbm94b1pLVlUxaVZTNlhOU0ZHd0tZd05vbWdtemFTTXdiTF85TXoxMHNNc2JzTEhnbnhGTEhHMDRJaUJyZWNVWUJCYXdKQkFZUS1QWjhZT01XVnVzdDV3dm5NOEVYUS1XLWJJR3JmanVHX05nYzJuaExXX3lnRXlVVWZkU3Z2RmkxdkhrYzBMUDhFR0RUSnI0WFVldHR6SVV2eUl5RW10azU0R2JaY3dDM3hOZkJ1TDRVbzduZzFJeXY4S2ZRb2pwMGhOak96LWhHUGdRNWxaWUpTc01xUU1mZGRZTWtjUjM2SGV6aUMtQXpBQzE5TDVMTlRwekxBeW9kTlJLM3JsdnFxU2lQUGZkZk9xQkhtdEtUR2l6dmMzeENfTFZoVWNsemZkLVVRLXpQbmw2MFVWS1lXSGZ4NnF5Ti11M2tKbzA4T3dPQ2g5bWMzaXU1dm5vcFJVVEVZNURGSUhXZVVCdFlJSkZHRDdsb1lTUWNDajgyQ181aUZvOUZrbnJVdkFyYXlvcHBVMEVWNU5QVXJDVDRENm1wbXZpWlAyZw?oc=5",
+      "source": "المتداول العربي",
+      "direction": "down",
+      "ts": "2026-10-16T12:58:52+00:00",
+      "amman": "15:58"
+    },
+    {
       "title": "محافظ الفيدرالي الأمريكي يرفض الإفصاح عن اتجاهات أسعار الفائدة",
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rRHlSV3dwNFBaR2twVzNyUV9TRHJPSk01SWIwMDJkaHh0V2c0Ylhwc3lXcXlzQmVZQUhBWVlTVzBOWGVaTVNWd0VTOHA1b3VFUEFfUEx3?oc=5",
       "source": "بوابة الأهرام",
       "direction": "neutral",
       "ts": "2026-10-16T12:58:00+00:00",
       "amman": "15:58"
-    },
-    {
-      "title": "الأسهم العالمية ترتفع مع انحسار موجة بيع الرقائق وتراجع توقعات رفع الفائدة",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNRWdoUlM2UUV3VGZWWTNQOTRHdllBRkx3X1BnelQyQk93c0U3MU9kZ0FFNWswMFdWNXNXWUlDVTRHejBhLW4xZzlSU1dUN2dXZHQzeDVqaFRVbll4cFh0cmxjQVVTaThkeE9UalVwTDhfRWN5bEg4azhjWlRlX01SMjg4WUhMMWh1ZGtNdnRtWXpEbzBuSjBXYWNYX2NzMmc2M2dBOUJ0TjREeWZDaFdBRy1Ya050X1lhU1diR2YyaHRKaXBaTlZhV29VX2hKbFpEVEVsZ0xwdVNuNkdkVFQwTW96UXkwWXFETF9nc253ellTdUVSamU2cUJhdFVoMTM5SnlxX0xlNUNWQjZkUWx2VllubXd6dGg1RXUxRVl2YTdjUm82dUQ3czBB?oc=5",
-      "source": "الشرق بلومبرغ",
-      "direction": "down",
-      "ts": "2026-10-16T12:56:58+00:00",
-      "amman": "15:56"
-    },
-    {
-      "title": "الدولار يتجه لأول خسارة أسبوعية منذ شهر مع ضعف رهانات رفع الفائدة",
-      "url": "https://news.google.com/rss/articles/CBMingRBVV95cUxNSDEwTFpGTVlqSDRuSUtUbEo1d2lHS1ViZ2tlVG12XzM2NDRXT3NfYjhIMV9fdjIwZUtBWFZ0X1lKd2x6eDVKc3VaWmFqLXVWLVRwR3kwdExvMHF6NHlsc2RvcDFoNEJNUlFpZVlHM09xTWJ3djQxTnptRHJlWG43WHNpbm94b1pLVlUxaVZTNlhOU0ZHd0tZd05vbWdtemFTTXdiTF85TXoxMHNNc2JzTEhnbnhGTEhHMDRJaUJyZWNVWUJCYXdKQkFZUS1QWjhZT01XVnVzdDV3dm5NOEVYUS1XLWJJR3JmanVHX05nYzJuaExXX3lnRXlVVWZkU3Z2RmkxdkhrYzBMUDhFR0RUSnI0WFVldHR6SVV2eUl5RW10azU0R2JaY3dDM3hOZkJ1TDRVbzduZzFJeXY4S2ZRb2pwMGhOak96LWhHUGdRNWxaWUpTc01xUU1mZGRZTWtjUjM2SGV6aUMtQXpBQzE5TDVMTlRwekxBeW9kTlJLM3JsdnFxU2lQUGZkZk9xQkhtdEtUR2l6dmMzeENfTFZoVWNsemZkLVVRLXpQbmw2MFVWS1lXSGZ4NnF5Ti11M2tKbzA4T3dPQ2g5bWMzaXU1dm5vcFJVVEVZNURGSUhXZVVCdFlJSkZHRDdsb1lTUWNDajgyQ181aUZvOUZrbnJVdkFyYXlvcHBVMEVWNU5QVXJDVDRENm1wbXZpWlAyZw?oc=5",
-      "source": "المتداول العربي",
-      "direction": "down",
-      "ts": "2026-10-16T12:54:52+00:00",
-      "amman": "15:54"
     },
     {
       "title": "ارتفاع الأسهم العالمية مع تراجع رهانات رفع أسعار الفائدة",
@@ -301,19 +325,19 @@
       "amman": "10:05"
     },
     {
-      "title": "الاحتياطي الفيدرالي والتضخم.. كيفن وارش يتجنب التلميح لقرار الفائدة المقبل",
-      "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxPdTM2VTdYQmxRcVpnb2NIMFpMSDc4Wm8wTEYwWGVxWEtwaVA2MVNrX1lGdDk5dHRBZXJzVWw4c05XUFhrT1o4UzMyclpDWU9KZnRHMk1zYWt3ZnNSWEY4bmtqMUlubno5XzF6UnFlbV9obUlXY2pOMWM0ZUpZSFFLZk42M1lmRy1hRUpfQWZlSnNWN0xwMVJsWG1xWEtHNldfZFFWYlFZODY3UFdTUVVWUGtCVEY2VzVzaTdpb19BRElEbmV3eFhmYWt2M2ZyR2pXb1I1LXNwQW85TWZBaHBCQlEyUHUzMFJQallCNE5fQnljT2VycG0wSG5vbmEwM1F4NUNGMTRNSmEwUjBBWk1TN2Z2UVE0Y2Nzd2NvQzVESUUtUkF6WVIwdnBTU3VRanJVblFQR0NLaG81TlNQMDBadUdOUTdfMUpkNHZxOHRzQUNZUnV4WlZmNzlVYXRzend4OXRzX1R1aGpERldXR2RUZlp0S3k2SkVPeWZ0Y3dUeEpaQXAyRDE5emljNDdnX2FmZm1PWVpiQlViakZBLXlQQ0tieWtmMzJwS2Y4S1ppTTlyeHhyZlJYVkk3S3R2OVhlLTJxY05IZk1CVnFXLVR1VEFjeHZHc1VUakp6MTFPRmpLUGtmeWNWRGRXS0wxOWJHa2dhbGczMlFZbG5HLTFIODc5NlF2dDRZelBuLTAzZ2tpWHJNM0lYWERkVkFMSkxnQ3NKelVic05KdDRTeFRGNzN6SERsTVpET1hlc1lLMFJKc01kV01UQTl3dGVTQ2tTb0RpMFpKWFBDTmNKdGRwVnptaG1TcWtXZFlmRVJn?oc=5",
-      "source": "المتداول العربي",
-      "direction": "neutral",
-      "ts": "2026-10-16T06:39:08+00:00",
-      "amman": "09:39"
-    },
-    {
       "title": "وارش يتجنب حسم مسار الفائدة والأسواق تعزز رهانات التثبيت",
       "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOaHJrZi1nWW5NNVhiSGRNNmhTc0pOdEU4cWI5NDdUbFl0OHZGaDVSQUp3RmpIREROTWlXLWVXclZWcTI2cFB0XzRmN2UtWWI5OEc0UGJxam1CeE9SN09COE1CQ09BMzZCZG9ERFlsTFVKNnRQU2JCQU1kM0Z2Z3lnZFc1NS05c1d5Rm52LWFGcVRpSGZ4ZXYzNUZOREI3WXhPRnMyTmczMG9fSW0zMUJudjV5SFdOQzNMdlV2M0o1Uk5xeDRXeG5HcWpBeElLMTZpUVJoVjRSejZIXzlKMUU0TWpJa3lfWHRmdkJSZ2ZSVVlzSzV1SmdqRFlyV19TUTFZN2Y0YVZhVGlDZW5pTTZudThPRE16RjNwU0haNlcwaE1oQTlpcVhVQ2hGNU9zWUVsS0VxYXMyaE05TmYxckhQX25kSHJNVVQwcjRFWjNQZFIycGZVX1htX21UUmlWU1o0UDREcUJSSUU0U1JHUmNUQjJtYUp5TndRMEVNeWF0bWtOYS01SjJoM0ptOFdRMlhiLVV0ay1WbnE5ZHJRUDB5Qk5mMHZLRTZaNVpYb01YZG14Nm1EOHBUWkhTRFA?oc=5",
       "source": "الشرق بلومبرغ",
       "direction": "neutral",
       "ts": "2026-10-16T06:38:19+00:00",
+      "amman": "09:38"
+    },
+    {
+      "title": "الاحتياطي الفيدرالي والتضخم.. كيفن وارش يتجنب التلميح لقرار الفائدة المقبل",
+      "url": "https://news.google.com/rss/articles/CBMi7gRBVV95cUxPdTM2VTdYQmxRcVpnb2NIMFpMSDc4Wm8wTEYwWGVxWEtwaVA2MVNrX1lGdDk5dHRBZXJzVWw4c05XUFhrT1o4UzMyclpDWU9KZnRHMk1zYWt3ZnNSWEY4bmtqMUlubno5XzF6UnFlbV9obUlXY2pOMWM0ZUpZSFFLZk42M1lmRy1hRUpfQWZlSnNWN0xwMVJsWG1xWEtHNldfZFFWYlFZODY3UFdTUVVWUGtCVEY2VzVzaTdpb19BRElEbmV3eFhmYWt2M2ZyR2pXb1I1LXNwQW85TWZBaHBCQlEyUHUzMFJQallCNE5fQnljT2VycG0wSG5vbmEwM1F4NUNGMTRNSmEwUjBBWk1TN2Z2UVE0Y2Nzd2NvQzVESUUtUkF6WVIwdnBTU3VRanJVblFQR0NLaG81TlNQMDBadUdOUTdfMUpkNHZxOHRzQUNZUnV4WlZmNzlVYXRzend4OXRzX1R1aGpERldXR2RUZlp0S3k2SkVPeWZ0Y3dUeEpaQXAyRDE5emljNDdnX2FmZm1PWVpiQlViakZBLXlQQ0tieWtmMzJwS2Y4S1ppTTlyeHhyZlJYVkk3S3R2OVhlLTJxY05IZk1CVnFXLVR1VEFjeHZHc1VUakp6MTFPRmpLUGtmeWNWRGRXS0wxOWJHa2dhbGczMlFZbG5HLTFIODc5NlF2dDRZelBuLTAzZ2tpWHJNM0lYWERkVkFMSkxnQ3NKelVic05KdDRTeFRGNzN6SERsTVpET1hlc1lLMFJKc01kV01UQTl3dGVTQ2tTb0RpMFpKWFBDTmNKdGRwVnptaG1TcWtXZFlmRVJn?oc=5",
+      "source": "المتداول العربي",
+      "direction": "neutral",
+      "ts": "2026-10-16T06:38:02+00:00",
       "amman": "09:38"
     },
     {
@@ -333,36 +357,12 @@
       "amman": "08:49"
     },
     {
-      "title": "بورصة وول ستريت.. الأسهم الأمريكية تغلق على ارتفاع",
-      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxPdnB2b3lIbkpMN0g4MHRwYVduSFNQcGlsWUVlOWJpaFNfelZlZkVQTDBwcnZaZGttNThfWkFxdFZnOTBnWUx5eVZZejFVTnozUTdMR3RmM0F5LXlSSlpaTUtMdU1fdkNyRXRqMUUwZUNMZ1VsRnRCZEdpVVVyM3BzNWVDWUpMdEVRUE5NLVdYZGJ6ZHU4X25BaS1od2llUEthMG9CVkVHZHZYLXFkQ3JKYWx2TDNyUzRhNmxDSW81VUV1Q2pUQ3hmYTBwb19qVEhFS0UwTVZGdmdCYlF1Z2NLdXl2TGtsSUw0Q3N2dHFZUDhrUXVwWTJCV1JaenhlVFVQWDBzcjdURUFsdFVyLXppalkwSU1zUXMtU1dEMzNKRjByVnhXN3VFX096MXJXMjlmQkt1SVJSV0h3RWxrTVRKdHl6MS1BSmNQSlJQaUFiUTdrdjlfNlFTRTNicGJNR1BadENWTWVEZ0kteGM4TGZwaGR6S0NTRHIwNU1KTlgya3ZPNl83Z2xncWlrTHZnYmVTQzZqd2x6MGljTDRFa1B6OGV0SGI0Vm9wa2ZLVGpFWDVwTkZZSGFoYzlHZk9ycC1wN1VZbXJnNC1janU3dFVSaTI1VHJ6eWY2U05yamRVclVzOTRkcDVXajZaOHBEZ0VWbGdKZ08wbWVxcFJuTXlDN29kZGEtNE9uWG5OcVB2OVlCZmJGWTFtVjk5UnB4Z2Y1djI2R1RSUFFpVEdXNjRIdkZHUVQ2OEVaZmZaNEd4QdIBU0FVX3lxTE5pRGNha19ZWE9mWngwTGNxVWJ6VnI3Sk9OY0dGQ1FZU29CRDRFdU5NYjlOclFRY2hEQUhlVlhWbnVma3lQdGlNQVZ5Z0UwTmpFcGRn?oc=5",
-      "source": "alyaum",
-      "direction": "up",
-      "ts": "2026-10-16T05:00:00+00:00",
-      "amman": "08:00"
-    },
-    {
-      "title": "أسعار الذهب تترقب بحذر إشارات رئيس مجلس الاحتياطي الفيدرالي بشأن أسعار الفائدة.",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbXVZMldYRVVaWUF5SnBPS1RDMnEwSEdMOVQ3MkRHcGtWZkM1LVNBS2pwd0MtZTZZTWtIZ1RyN3dSbTV2STA3c05CQXhpUVpwTnJ1R21pMWR6SDhHQ0VzRnExUk9JSTVFQmVIY0c0ZDJhY2ZqMjdQZ0R5SzZLWHh4Z1VHTEQ5Yzg?oc=5",
-      "source": "Vietnam.vn",
+      "title": "أسعار الذهب تضعف 0.6٪، والأسواق تترقب إشارات أسعار الفائدة من بنك الاحتياطي الفيدرالي",
+      "url": "https://news.google.com/rss/articles/CBMiiwVBVV95cUxQZ2NiOWlyeHpLcmE4WWtTVmxNcEpjcktPa2lwbHdfRkpwZ1owZXk4UVBnWm9pb0xuam1scE1DUzRwUTVLcnMyY0thcHFvWmR5OW96MEthZ0hRYXI5eE4xdzJhT25mZGl1QW9xdWRVVVpjUkRpaGo2ZWtiV2VqeGx6RGlxRk5TMWVJOXZUZl9qRU9fbnZrMV9Ra1hSUENnZjlhMGZkQ3dxSktQQjlHTnFnMlQwV2hSY2M4X3lVYzl0aWhoRG1SWHB2X3dPdEpTY3dhZlFrenNkY09YZFczWFJxZ3dvbFJUeVgtU1B0c21MZFE3eFRRR2FpUm9iUnlkMl8xVGd6cWgtbGtEMmFtaTIycGNyYXNoUldLQUswNjVjc2JhNl91ck5sdWNKWXp2VnB4STU5NVdTUDBNNmlMdTBocnZTMzFDLXN2bGJkNk1iWTJtNnM5LVUzSHFfbjJHc1VTcnpPWUtfQ3pBekJib2pNSnVsazZXQ2xIYTJRa2dudVhEdE5NWXBGeFZvTmthbFNCa0xubjFraS1GWXVfT3pFTm5jWUh0SHdlbG9UeGZoTnVPZ0xseHhrOFl3b0M3SXAyZlBQdVRGLTAza0FNczVGbTFmRGJtWTVZcXU4MEsyWDkyUVp5SXVNMS1tVTBNaGZxNXYwdG5oU0hiN2wyOVVNVnhvbTJ0T01WODJMSUtDMEhWSE1pZHdNeHZDR3EtU25Oa2E0ajdadkNhYm9UUEVUTXVVdzFlbE1NeHJCbjU2WFdYRmpJbmx4Q1JoSl94RXVINkJmaHctUHFuVklXUnBUNXZJR2lqcVNFRERTY2N3WG02WTBGeE05a0pYQW03YVVGTW1xdFptdVhucUk?oc=5",
+      "source": "IDNFinancials",
       "direction": "neutral",
-      "ts": "2026-10-16T04:43:07+00:00",
-      "amman": "07:43"
-    },
-    {
-      "title": "قبل اجتماع أكتوبر.. رئيس الفيدرالي الأميركي يرفض إعطاء إشارات حول أسعار الفائدة",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14UFNVLW1TZ2J5X2gtbzh1RVRyTU51LUhLd2VLRFlZMEMzVzYtZ2ZBZzFrWXNIdjlBSEg2LUxJT1FFQjdLblQ3bHhjN3NlTWhoTEZV?oc=5",
-      "source": "شبكة تواصل الإخبارية",
-      "direction": "neutral",
-      "ts": "2026-10-16T04:14:36+00:00",
-      "amman": "07:14"
-    },
-    {
-      "title": "مؤشرات الأسهم الأمريكية تغلق على ارتفاع بدعم من أسهم الرعاية الصحية والاستهلاك",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBjNndhd25rTVR2LUpxZjkwZDRwenZBX1JkSldTR1l5dG9Xb3pjdFhMWXB0b00zZHpnMkJVQlJDdW5KcEkzMW1N?oc=5",
-      "source": "سانا",
-      "direction": "up",
-      "ts": "2026-10-16T03:11:43+00:00",
-      "amman": "06:11"
+      "ts": "2026-10-16T05:40:00+00:00",
+      "amman": "08:40"
     }
   ]
 }

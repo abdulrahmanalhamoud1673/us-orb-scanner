@@ -1,9 +1,73 @@
 {
-  "updated_amman": "2026-10-19 21:58",
-  "count": 33,
+  "updated_amman": "2026-10-20 01:48",
+  "count": 36,
   "up": 8,
   "down": 14,
   "items": [
+    {
+      "title": "Credit markets have entered uncharted territory as the riskiest junk bonds send a warning to investors",
+      "url": "https://www.marketwatch.com/story/credit-markets-have-entered-uncharted-territory-as-the-riskiest-junk-bonds-send-a-warning-to-investors-816a05d5?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "down",
+      "ts": "2026-10-19T21:36:00+00:00",
+      "amman": "00:36"
+    },
+    {
+      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
+      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "up",
+      "ts": "2026-10-19T21:15:00+00:00",
+      "amman": "00:15"
+    },
+    {
+      "title": "Micron and other chip stocks spring back to life after bruising selloff",
+      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "down",
+      "ts": "2026-10-19T21:06:00+00:00",
+      "amman": "00:06"
+    },
+    {
+      "title": "Why the midterm elections are likely to become a strong tailwind for the stock market",
+      "url": "https://www.marketwatch.com/story/why-the-midterm-elections-are-likely-to-become-a-strong-tailwind-for-the-stock-market-3edfca6c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-10-19T21:00:00+00:00",
+      "amman": "00:00"
+    },
+    {
+      "title": "الذهب يتراجع تحت ضغط صعود الدولار وارتفاع عوائد السندات",
+      "url": "https://news.google.com/rss/articles/CBMi6gNBVV95cUxNQXZlNWwxY05RRzllMGtlbzE5Y19rU09tQlUzYldUN3ZuYzVxQnNZdHBRQ3FJY2Q5QmU3d3EtOGlZRFhpX2RlMkRUbDhZYVZzV1luaTM3ZjY1R2xiRTQyMmhlMXo0N1QtZ1hDYmFnZXN6VS1RSmJ6U010MkgydjlYQXp5dW43aG52NVBYd3pkOUgyVHVZVTR0dVV6ZEpIXzhrclM5Nnl0MWVzMHNnUDBtLXRQX0RmZDZJMk9KNDhVVUZWMER6Xzl2NWl1alVRdS0zRnd1ZUF1dTg4dzJQenBrSUJGeG84RnpMWXRreWlZcnk1Z3JhR2VLYUl1UEx0Qk95Vy1fQl8zVEZCbjlaVDZqNThPVUtxUGxySW9HS2laNTcwWDR5SXY1R3pfNF8zc2N1emNmVlBOS256RFB3UGxNOFQxOGJ0a2YxQTBVcFpSZG5XN3djd21CSXZNS1g2X2ZnVE5qRF9STXBxdTBHc3Y0Um9IcTFxbXJhRHF5Rl9SRnNNcDg4ZHIzWU1rTVhKNTUwMmxtbWJ0VktZUG1PbTRiWFZYcEFIdHZFUmhOQ1pkN21XbjN3dUdyWnlaRGEtZjhsTnQ2LXJVNWxhaFJnQ2JPMVpmckQwSDZZNUhBcGd4M09HNFZjZGlLdmJB?oc=5",
+      "source": "المتداول العربي",
+      "direction": "up",
+      "ts": "2026-10-19T20:28:32+00:00",
+      "amman": "23:28"
+    },
+    {
+      "title": "الذهب يتراجع مع صعود الدولار وارتفاع عوائد سندات الخزانة الأميركية",
+      "url": "https://news.google.com/rss/articles/CBMiuARBVV95cUxPaWJDazhneDdPZ1VWVTdBUTNrc1FldTkzS3BPY2NpZmhtNHgtNGhYREV0eEpaemVsMmhtOERBLWRTX2tyc0JIOFJ2QzRnd1E2ajFKLS1qaUhuUk1PLXFsUFFmTWE4ay1ydU5IdzU2SXo3bE1PaEJnOTB2M0gwdm5EUzUwbXFOcnBrWlBtdUlwU3QtLTRmbWI3NWpFdGRzekxCNWRWYnd2NWhVRkZDTVNzT0dzaXFiYnZTeTBoNFBESjg2WWZjbHFLYlZrLWU2OUZCLWI4M19IVm5RY1BOS3BMb3RVc3Y1amc4NXNyMW9nQVdvTXpfQm1RdUJRcU9DaWFZaTdYbWkwOVNaOXFiVUZjMWFzMEkyQVM0cThjUVdZNHZBOUY3aWhrdE52emVmUmZtSm5KVVl3LXhpbjJVZjZWRUNoRFdhODAxc3ZMTlF3blc0MTZyQWVWNUVzOUY5N1lYSmtPUDY2NGdVQUhHQ3Y5cmVYSXl4ZjFaMmVGYVRFRzJudGVHZjF0NXBTbGxyaEVyMUdnZnc5R0NkdEZTNEM4RkRDQ0Z2dlRHaFVaT1NPTnAwcG5JSTFXX3E0S1FmOHdfWnp4eldIYThqdkhLbkU3ZDBQUmpDaGVsZE04dml4SFRuSXFGS1UzYmRKUmZRMUc4OG1VYUM4NHJmZDFXMHhpbFhJZkMtMUxkdktCUDg1X2E4RVQ0UFhQaWZWaGdZdUFOd2ZWbm54Tk43dGNuMnZROFdyeFFKX3NS?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "up",
+      "ts": "2026-10-19T20:04:33+00:00",
+      "amman": "23:04"
+    },
+    {
+      "title": "الذهب يتراجع بشكل طفيف تحت ضغط قوة الدولار وارتفاع عوائد سندات الخزانة الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMilwVBVV95cUxPUEppSHhiUFJmb0pOQVg5dWozSkVEUHBwQzM5NXZ5RkxvQm1mcTE2TlcxUDQzaWpxdWZoN1JJNGpnanVXQThGY2pQcXRPUkk2blBIWlRkYW5ZOEl2Rmticm5LOGhCREk1US1iNFhyZ0lHMTEtT1hDcmhnZ2dCa2FDS1BuVGl6bVBtdHIzOXhGYlZHMk5lcG82eXFvVUtUWTVOMzVGZFgwS1BPeVNkNmNDN1lsbWRIOTNHMV9yRFBBMHMzd2tEV3BCLUhnakNXWXNWbW9JYkFWVHBUWi01N0Frd0ZmekxXUmpFQUxIRHVwc2NOYWZneHdQRkQwRkF3aGRhTHFhNFR4SWxfNnhtSjRRRWg0SDhmVnh4anU5WEluakdFSlRleWVQV1V6YTdnRE1mNGo0c2JhakxIV0w1Wk90MERSWDFRSnJBQVF3MGhfNWYxUGRuWnNZM0pLMFhZU3kydnZRM3hWLUdJY3ExVnVLMzNIdFlrb0RzVDRJTDZMQXBkZEVWd2xuT1B1WUU1Qzh5bHVpQmhlVjNib0hvN1B4SjJZM01fd3EzYmdVUG01SHNuNWZPb2szMkRsV2txVkd0YnZpTUpjeS1CVXRrTnl6R0t5a0J2blN4VDU5Nm1vZTZOQ3o5SUh4VWJwZ3dwejBYazdzNEpuM3I1eHJlQzZLaXVlbjIyaUVqRFNCQndmWHJpTlEzZ3dSQkdVRnNrdEowcFhTd202M2txdzJLb0g1U2NxNFZKQUpQOTFxRk02M1hDU1pxb2J4Zl9wSnBtZ2R4NFczMklrRDl5N04tWUhDTlpPSmcxOVZyR3Q4UVgtUE9BZTJrTllzd193ZlhtU0Q5NzB2SEpTS3RZRzE4dENRanROZWwxZGc?oc=5",
+      "source": "FxNewsToday.ae",
+      "direction": "neutral",
+      "ts": "2026-10-19T19:29:45+00:00",
+      "amman": "22:29"
+    },
+    {
+      "title": "الذكاء الاصطناعي ينعش \"وول ستريت\".. وأعمال الشغب تعصف بمؤشرات أوروبا",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CUnFxTDdjWElRVFd3RGdHVXoyeXVwZW5CNnZWY0pJQzJOaFBoV1ZyRW8yYklNcjhPdEdEOUpOai15SXNfNTBnV0ota0p4aHJZaFJjTXJrUHlqQWVPRTZHd01MSnAtZEYtNnFhWDdBc3BHQWPSAXNBVV95cUxNQlJxcUw3Y1hJUVRXd0RnR1V6Mnl1cGVuQjZ2VmNKSUMyTmhQaFdWckVvMmJJTXI4T3RHRDlKTmoteUlzXzUwZ1dKLWtKeGhyWWhSY01ya1B5akFlT0U2R3dNTEpwLWRGLTZxYVg3QXNwR0Fj?oc=5",
+      "source": "البيان",
+      "direction": "neutral",
+      "ts": "2026-10-19T18:44:05+00:00",
+      "amman": "21:44"
+    },
     {
       "title": "عوائد السندات الأمريكية ترتفع وسط مخاوف التضخم وترقب قرار الفيدرالي",
       "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxOcUZZOG4yQ0ZMYktVTDhxOVFfVEtLLWhfMlBYQTRxNUc1NUtKQkVCVHNma0l5MUtIREI4bllvLW9lT1pzejNfNVJrVXdRM3pfTk9ua21rRGVrd0M1Q3pjM05DTlZKRWc4UlBEeUhuVGdrQmlkVEJCTUNaRl9PX2tiaUI3R0RoSjJlTS00X3lnUU5lSFFFWFhxUE1PZ3NCVkxDcTJ6eEp4dEthaTExbEFUUzAzUUFJWkN2TW5LQklONmdFOWVXckZWUDlZbWxqRDAyc1VQdTBkYy1naUoxZ2pDVXB1VzNodU9jSFFSS1JCTHVLdERwMHcyQ3lJMGdTWEZhc19ybk9ER3B6Z3BwTjBmOFVoTXZGU3QwU2k3ZERUVVNqLVJIOTRLWFc0N19lc0VMYjZkeDJDNkcxMEtaeUYyLS1oLXNncUVOQnhaeHY5RlVBZzJuNkVGTUxJTVJWMGItRExvSWhKR3h5U0RZaGJxbVhwdGlFUEtJTFEtMTRPajNLTVNYU1dRX3BoS0lPOWZDaVM1czctV2RNYnZwN202SDk3LUtnRG1BRGdoY040V0tIZzRzWFVxa3hEaWNMWW5BSEZlbVlfOEpPLS1XQ21wSmVGeG5nRndUUnBYNmh1c3FYeXpmZ3o2OFZvcTRIcWpBaGx2OHczUkI5N3VZQkMxMWkzTHFXZnVzRVdSU2N6MWt2V1o4ZVQ0U0d1dHVNUUh4bHpPalN5Z3JHU0ZHekE?oc=5",
@@ -19,14 +83,6 @@
       "direction": "neutral",
       "ts": "2026-10-19T17:50:03+00:00",
       "amman": "20:50"
-    },
-    {
-      "title": "One of this year’s most important relationships in global financial markets is falling apart",
-      "url": "https://www.marketwatch.com/story/one-of-this-years-most-important-relationships-in-global-financial-markets-is-falling-apart-2cf58121?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "down",
-      "ts": "2026-10-19T17:43:00+00:00",
-      "amman": "20:43"
     },
     {
       "title": "عوائد سندات الخزانة الأمريكية تصعد الاثنين في ظل تقييم المستثمرين لمشهد التضخم",
@@ -53,14 +109,6 @@
       "amman": "20:06"
     },
     {
-      "title": "Micron and other chip stocks spring back to life after bruising selloff",
-      "url": "https://www.marketwatch.com/story/micron-and-other-chip-stocks-spring-back-to-life-after-bruising-selloff-16486541?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "down",
-      "ts": "2026-10-19T16:59:00+00:00",
-      "amman": "19:59"
-    },
-    {
       "title": "ارتفاع ناسداك وستاندرد آند بورز مع انتعاش أسهم الذكاء الاصطناعي في وول ستريت",
       "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1QZFBCY3dvdUxtNkxuYnJabXhvZWgzdjJkUWZGdTYtTFh0X2pHWlFUb1dQZFh4Q0l5SWl0LTJPVDJaYkE?oc=5",
       "source": "www.youlyou.com",
@@ -77,12 +125,12 @@
       "amman": "18:32"
     },
     {
-      "title": "‘I’m naturally skeptical’: I receive 10 calls a day offering me $15,000 loans at 8% interest. Is this a scam?",
-      "url": "https://www.marketwatch.com/story/im-naturally-skeptical-i-receive-10-calls-a-day-offering-me-15-000-loans-at-8-interest-is-this-a-scam-825c3431?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "ارتفاع عوائد سندات الخزانة الأمريكية مع تقييم المستثمرين للتضخم في الولايات المتحدة",
+      "url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxNTkpIVzdDNEZTLVJFd29QRGo5ZDFIOUZLdE1wc1VzcGxzTzQ4eGpoMThCQ2FDY1ZSVHViSGRfaFJDYlFYRDZkdVdhLUtuOVNhREE0Y0g3bVlaN1lJelhSOGNYN1JMdkswTzhvM1lmUk1LUTlxd2JmblhiODhiNE9SemJray1vcWYwSk1LLW5ELTV3MnU0YVhUZ240aVlQVGotcVNIazJfU3lxal9YdVVkRW1uYWY1MGdmQlF5bTNKVnBKYU1lbElNNFp5aWRpVDVtSjJVc1FWbVcxb21xZ3ItblcwWlVxNkgwU3V3YUNSZW55MzNSYnNQQTJwckIzRGlYYnkyMmNjdUdXdWRlUnRSZ3NZNW1YUmRiNWs4cWxFcU9uY3AzUDQydXNCX2xjcFdlRnpkQ204UXlhcGtyS2RyalhMWW9xeF9qWWxCcGtmeFdWU21OYWdDUDlfTTZaYVFDS0puaG90V1VLRUFFbDF3TUIyNzZyazlpd1VqekVGQjZXVTNjd2UtOGE4NU5QMnhRcFZ2TWVLbjBJeXVacXgwMU1qMVZVUjUxR3hva1pOMzRmQ2laclhwaEd4UVdzNXI1NlVoX3U3dDJ4VWRYUTlfVGtRS2hkc08xTzNDZ084Z1F6WW1XdTRza2RaZVNHU2ZUVkhJWjVnaXVIR0FnREI4RmlsbFkyRGFVdHhBMVFmb0ltRVNTSEp3STBqQTlvYkhaMWt3ZTdvYzBZaGdlWjFGcDVNWElRc2VIbF96dFpiTjh0RUdSYm5KNlp3Unl6aWhHSFFuOVNnZVZzeDFRVmgwcmpPWkNGNV9SUnJWbXQ3Si1YYVhuYWhiQjhNWGhlcS1RMHBTR1QyOUhnNUJQM1dxbW1SZDlGNnl2OUxWTkRDM3c4TE0tMFhTRXZLU0RadWlr?oc=5",
+      "source": "المتداول العربي",
       "direction": "up",
-      "ts": "2026-10-19T15:30:00+00:00",
-      "amman": "18:30"
+      "ts": "2026-10-19T15:13:08+00:00",
+      "amman": "18:13"
     },
     {
       "title": "الأسهم الأمريكية ترتفع بدعم من أسهم الذكاء الاصطناعي وترقب نتائج الشركات",
@@ -91,14 +139,6 @@
       "direction": "neutral",
       "ts": "2026-10-19T15:06:15+00:00",
       "amman": "18:06"
-    },
-    {
-      "title": "ارتفاع عوائد سندات الخزانة الأمريكية مع تقييم المستثمرين للتضخم في الولايات المتحدة",
-      "url": "https://news.google.com/rss/articles/CBMisAVBVV95cUxNTkpIVzdDNEZTLVJFd29QRGo5ZDFIOUZLdE1wc1VzcGxzTzQ4eGpoMThCQ2FDY1ZSVHViSGRfaFJDYlFYRDZkdVdhLUtuOVNhREE0Y0g3bVlaN1lJelhSOGNYN1JMdkswTzhvM1lmUk1LUTlxd2JmblhiODhiNE9SemJray1vcWYwSk1LLW5ELTV3MnU0YVhUZ240aVlQVGotcVNIazJfU3lxal9YdVVkRW1uYWY1MGdmQlF5bTNKVnBKYU1lbElNNFp5aWRpVDVtSjJVc1FWbVcxb21xZ3ItblcwWlVxNkgwU3V3YUNSZW55MzNSYnNQQTJwckIzRGlYYnkyMmNjdUdXdWRlUnRSZ3NZNW1YUmRiNWs4cWxFcU9uY3AzUDQydXNCX2xjcFdlRnpkQ204UXlhcGtyS2RyalhMWW9xeF9qWWxCcGtmeFdWU21OYWdDUDlfTTZaYVFDS0puaG90V1VLRUFFbDF3TUIyNzZyazlpd1VqekVGQjZXVTNjd2UtOGE4NU5QMnhRcFZ2TWVLbjBJeXVacXgwMU1qMVZVUjUxR3hva1pOMzRmQ2laclhwaEd4UVdzNXI1NlVoX3U3dDJ4VWRYUTlfVGtRS2hkc08xTzNDZ084Z1F6WW1XdTRza2RaZVNHU2ZUVkhJWjVnaXVIR0FnREI4RmlsbFkyRGFVdHhBMVFmb0ltRVNTSEp3STBqQTlvYkhaMWt3ZTdvYzBZaGdlWjFGcDVNWElRc2VIbF96dFpiTjh0RUdSYm5KNlp3Unl6aWhHSFFuOVNnZVZzeDFRVmgwcmpPWkNGNV9SUnJWbXQ3Si1YYVhuYWhiQjhNWGhlcS1RMHBTR1QyOUhnNUJQM1dxbW1SZDlGNnl2OUxWTkRDM3c4TE0tMFhTRXZLU0RadWlr?oc=5",
-      "source": "المتداول العربي",
-      "direction": "up",
-      "ts": "2026-10-19T15:03:45+00:00",
-      "amman": "18:03"
     },
     {
       "title": "\"بنك أوف أميركا\" يتمسك بتوقع رفع الفائدة الأمريكية في أكتوبر",
@@ -197,14 +237,6 @@
       "amman": "11:23"
     },
     {
-      "title": "ارتفاع أسعار الذهب والفضة مع استقرار الدولار",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNYUg0bEJmWmRGN3Y1X1R2YW50ZlI4Smcta2QwQXZmTW1mc2xVTjVsMEJDQ05Rb2podEJrRzVvbWVmQk15MGlGdXNTNFliVFBKZmVyN2dRTi1IWDQ?oc=5",
-      "source": "جريدة البورصة",
-      "direction": "up",
-      "ts": "2026-10-19T08:09:11+00:00",
-      "amman": "11:09"
-    },
-    {
       "title": "الذهب يرتفع مع انخفاض النفط والأنظار على توقعات أسعار الفائدة",
       "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBadmlTdkxvMkU0Ni1OMUI3ZTdCUGZnaFZvZG91Z3JLdlVqR3pGajFIQndVMk1IU3RHQ2dtTWdjNlQzWGUtbEE?oc=5",
       "source": "المصدر",
@@ -259,14 +291,6 @@
       "direction": "down",
       "ts": "2026-10-19T01:09:57+00:00",
       "amman": "04:09"
-    },
-    {
-      "title": "هل ينفد زخم المستهلك الأمريكي ويهدد مكاسب «وول ستريت»؟",
-      "url": "https://news.google.com/rss/articles/CBMi7ARBVV95cUxQWVpReC1paDRMdGY3Q3NiN3pxektvdjNuQnctTWM3WUJFREdrUXc1SW04bmlzWFJJUlZmM3hUYkVCeHRyaWJFaWNFUWJWTERoQW9aQkkwTVNmWTBxWjFHWE5raGVkUXFHSEhJNEFKdS1KNkhJampFWGdyeXkxVzNmTnhjcm1LWWNPdnV2azA1bGQ3Q2NBSWwzazhIT1FleHJscU5sV3JoaTdpOFRRRE5yaDc5dlhvbUVqNXAydEFnRllYb29XU0N5ZDVPVXVySkd5S2R0elF0X05YUmhZY2JoYl9TRVZ6RXBNdG1hM1FxZnhBaS1CX3Nrc1FGUlJhMElVcFZXMmFDUEVlQWRRSlZwQUtRZm5GeXctUjdNcXdaYVZ5OU1Qb2tRVlptakMtbXFxdlBGNDNabGd6WHZzSjZoNDJnejJKZ2dBRGtrSlQtU3BhOVh1OUFGeHkxcllEWnBEVnktb2trU3BhekNkWDVSeXBLcXNIN0sxX3duLTB1QW5BODBCZFZWQkVMYVJDYXpuMFBtN1JzbmdfM3NVM3Y3NVlvTnhJQmo5Um5XbFMyWFZtTk1OdUNRdWlpSlJoTGgtT3BjX0h1NU9IaDB3SkluX05XcVJBSG04NmtiSUJRLXhVakQwaTVMTXFwQVBaZzRZcnJYbWNVcXc5ZE56dkU3d1hFcEtaWUptemphM1BnOEJRRkVOMmowdFJKWnlBUDZaYldSc0hDMTAwQ0t2dnB3QUdkNnoxd0NwWGRzYTZUbkpTNnVGRmMzUkgzVzNwRGZGODZIOG9oUWhla21SMERxZkxTckViYUZXLTlrdQ?oc=5",
-      "source": "صحيفة الخليج",
-      "direction": "up",
-      "ts": "2026-10-18T19:44:32+00:00",
-      "amman": "22:44"
     }
   ]
 }

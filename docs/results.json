@@ -1,11 +1,11 @@
 {
-  "updated_ny": "2026-10-23 16:37:45",
-  "updated_amman": "2026-10-23 23:37:45",
+  "updated_ny": "2026-10-23 19:27:16",
+  "updated_amman": "2026-10-24 02:27:16",
   "session_date": "2026-10-23",
-  "requested": 93,
-  "scanned": 93,
+  "requested": 94,
+  "scanned": 94,
   "waiting": 0,
-  "buy_count": 31,
+  "buy_count": 32,
   "sell_count": 26,
   "active_today": [
     "AAL",
@@ -15,6 +15,7 @@
     "CDE",
     "CRWV",
     "F",
+    "GRAB",
     "INFY",
     "INTC",
     "IREN",
@@ -30,7 +31,6 @@
     "SPCX",
     "STLA",
     "T",
-    "TSLA",
     "VZ",
     "WULF"
   ],
@@ -295,6 +295,42 @@
         }
       ],
       "active": false
+    },
+    {
+      "ticker": "GRAB",
+      "session_date": "2026-10-23",
+      "state": 1,
+      "price": 2.8,
+      "open_high": 2.84,
+      "open_low": 2.81,
+      "open_range": 0.03,
+      "vwap": 2.82,
+      "ema200": 2.84,
+      "above_ema200": false,
+      "entry_price": 2.85,
+      "change_pct": -1.76,
+      "day_change_pct": -1.24,
+      "volume": 30793731,
+      "targets": [
+        2.9,
+        2.96,
+        3.02,
+        3.08,
+        3.14
+      ],
+      "targets_hit": 0,
+      "next_target": 2.9,
+      "next_target_pct": 3.76,
+      "last_signal_time": "13:50",
+      "bars_since_signal": 25,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "13:50",
+          "price": 2.85
+        }
+      ],
+      "active": true
     },
     {
       "ticker": "BBD",
@@ -2535,6 +2571,42 @@
       "active": false
     },
     {
+      "ticker": "GRAB",
+      "session_date": "2026-10-23",
+      "state": 1,
+      "price": 2.8,
+      "open_high": 2.84,
+      "open_low": 2.81,
+      "open_range": 0.03,
+      "vwap": 2.82,
+      "ema200": 2.84,
+      "above_ema200": false,
+      "entry_price": 2.85,
+      "change_pct": -1.76,
+      "day_change_pct": -1.24,
+      "volume": 30793731,
+      "targets": [
+        2.9,
+        2.96,
+        3.02,
+        3.08,
+        3.14
+      ],
+      "targets_hit": 0,
+      "next_target": 2.9,
+      "next_target_pct": 3.76,
+      "last_signal_time": "13:50",
+      "bars_since_signal": 25,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "13:50",
+          "price": 2.85
+        }
+      ],
+      "active": true
+    },
+    {
       "ticker": "GS",
       "session_date": "2026-10-23",
       "state": -1,
@@ -4665,7 +4737,7 @@
           "price": 372.86
         }
       ],
-      "active": true
+      "active": false
     },
     {
       "ticker": "UBER",

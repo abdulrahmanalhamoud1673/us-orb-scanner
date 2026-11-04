@@ -1,9 +1,105 @@
 {
-  "updated_amman": "2026-11-03 22:56",
-  "count": 22,
+  "updated_amman": "2026-11-04 03:18",
+  "count": 32,
   "up": 2,
-  "down": 5,
+  "down": 9,
   "items": [
+    {
+      "title": "الرقائق تصعد بـ«ناسداك».. و«أبل» تعرقل «داو جونز»",
+      "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPd2ZTaHRpTThnd2w0akRnTjVhZVNxalA4djhFeWhmRld6cjkzM0lJSzFiRWRMbzhkVERhaVVkM1VRMTViVUtRb2NfMlMwaWhKMkowdDFlM0pVZjE4MEppTjN5THVEY2xwbi1DWTB5ZVVSQTk2UGdsYjRaLXJYcWE3ZjY2MjFaRS1helE0TFNSb0M0dG5ock0zaVBCdkR0ekppZ2NGT0VZY1pSWFc0Z2E4T0gtMzZZOUUtOVROOVZFYWJiMmV1TE5VN1pvY2kyLTM0amlETHNxMmtlR3hTUTBVUHZhNGwzTEF2UUM1c0pMQzFPakJ4eWxabmNRM1lINkpMdDF6RWM1MHg5MW4yUzkwY0tlVXBQU2xjdnFFN3FMNTBWZWlELXlibFhPcm5ESTZrUkFKMFRuRGhVdGRnSC1kcXJMVE1kcWk4RjV5NkczNnR4cWdPak9vc2QyXzQ0WS04OUFLS3llcHVRTkl1Z04tUWZ4YkxUY21iaUxnTVhtQWtYVDVVU1VvZFNWNDFCdktKQ3owVmlUV2Y2S0VvVHV4NEZpV2Jqdzh6SHZ3MDZBM3Bnd0ZKZ3dHSEtDOXdDZnhMRUpCSjBLY0I1b2N2YWRzaWlrbHhySGZKcXBvV1Q1U3ZpNVFPS2NTNFBHZ3AtRmZEb183QzlQRkFWSUlHME5lT0hRUDVUUWhsMi1YT0xKVklfU19CUTFDSHBDTkpHRnE1VGc?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "up",
+      "ts": "2026-11-03T22:52:30+00:00",
+      "amman": "01:52"
+    },
+    {
+      "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
+      "url": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "down",
+      "ts": "2026-11-03T22:45:00+00:00",
+      "amman": "01:45"
+    },
+    {
+      "title": "تباين أداء وول ستريت في يوم الانتخابات الأمريكية وهبوط الأسهم الأوروبية",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBUTlR1MjAzT2k3em5ESTYwQTNESVpET0lEQ3lyMENSWFF2SFVtel9mNC1JdW5kNTlSSms2T09WRTZlYlY2T2xtLWtielRqelZxNGs0?oc=5",
+      "source": "شبكة تواصل الإخبارية",
+      "direction": "down",
+      "ts": "2026-11-03T22:33:56+00:00",
+      "amman": "01:33"
+    },
+    {
+      "title": "AI’s control over the bond market is growing — even rivaling war and elections",
+      "url": "https://www.marketwatch.com/story/ais-control-over-the-bond-market-is-growing-even-rivaling-war-and-elections-5d727b35?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-11-03T22:06:00+00:00",
+      "amman": "01:06"
+    },
+    {
+      "title": "S&P 500 is looking over the edge of a technical cliff — what happens if it falls off?",
+      "url": "https://www.marketwatch.com/story/s-p-500-is-looking-over-the-edge-of-a-technical-cliff-what-happens-if-it-falls-off-be97ebd9?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "down",
+      "ts": "2026-11-03T21:30:00+00:00",
+      "amman": "00:30"
+    },
+    {
+      "title": "إغلاق وول ستريت يوم الانتخابات: ناسداك +0.83% وداو -0.38%.. والذهب 3,921 وبرنت 104",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqLWFfM2tqSkJsNHp6TUN6d2NJZGM0UFVFRkN2dHJtZXZJYjBDYi1oUDdNaUZ0WTBrQlZIWHFUX211NmtuM3dWeTltaWZ4c3htRjhZNmE4cEs2WnE1LVZzTUl4RmlZTDZUTnN3bWkzYm4?oc=5",
+      "source": "Investing.com",
+      "direction": "neutral",
+      "ts": "2026-11-03T21:08:00+00:00",
+      "amman": "00:08"
+    },
+    {
+      "title": "أسهم الرقائق تقود مكاسب وول ستريت.. وناسداك يرتفع بأكثر من 1%",
+      "url": "https://news.google.com/rss/articles/CBMi6wNBVV95cUxNNmV0bHVMUWZuUTU5VHN5YWdBTFBldGVWOWVMdzVsdkkwTUJETkNWendiR2Z4eWRQLTNRWGRPclFoR3VKNWp5Q1FpUksxV05TQ05vRkVSMThHV2V1dVUzMWIxbWRoRWpxTzAzNXFuTERaOEUwcFAwSXVVVEJleExxVDlKanJVeDE3aE5INkxCMVZKQXhZZVdOTXFaVkRSdFZHMlpKWmRxTTBUVHRTY3J6RmVnUkVka2lXUFozMzgyUkMxUkphRGhNOUJfd1JSSDFKd1FUWXNJcGtlb09HVkdTQ3F3aXdEVkFqTGJ5SDR3X2NBbGlEMGZWSDhLZDFleTc2ekJRSlRDSXhsVDM3amt0T0RsQ0V0WWtoMF9jYnVlNUMtM2VweTdXS2Q5MEdpOGFkNXVVV3FrWDRXbGtyalFCZTQxa3NqZDNwUFpjeE5icHh0eUZVN2hLemxLdXZIU0kwSHk3R3hoVzNic3VaX1RtNDdFSkItdTBINXQ0cXdpcGRlM3FvbkYweFF6QThibElmYXlfVnlUSDFib1hzbTI3ZzZBUmpGb2dGT1dIQk5ibWhPbFBPRHdwMlQ5bXYxMnpySVJ6LWQzQTNPZFpQOVVLbUxuaHRxQW5QOXRZTFJJVm45eWJ3SDY0ZHpmVQ?oc=5",
+      "source": "CNN الاقتصادية",
+      "direction": "up",
+      "ts": "2026-11-03T20:55:25+00:00",
+      "amman": "23:55"
+    },
+    {
+      "title": "انخفاض مؤشر داو جونز الصناعي بسبب توقعات هامش أبل",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3hFY29tNmVub19tUmR5b01fdkE1MGhoWGVpRzd1czVDYl9NLUEtOHdpanVLU1Jpdl9pM3ZwNnBsUHRhRXBFamZRcVVwUUEtN2ZVUDE4VzY3bmVZLXFvbHRwNkZhNFZKWVFBVEpEMVhoSnZVczFRQnlsZVlLdW9oRHpNc1czV1kyYXZoeFN3SEFfQdIBkgFBVV95cUxOd3hFY29tNmVub19tUmR5b01fdkE1MGhoWGVpRzd1czVDYl9NLUEtOHdpanVLU1Jpdl9pM3ZwNnBsUHRhRXBFamZRcVVwUUEtN2ZVUDE4VzY3bmVZLXFvbHRwNkZhNFZKWVFBVEpEMVhoSnZVczFRQnlsZVlLdW9oRHpNc1czV1kyYXZoeFN3SEFfQQ?oc=5",
+      "source": "FXStreet",
+      "direction": "down",
+      "ts": "2026-11-03T20:47:23+00:00",
+      "amman": "23:47"
+    },
+    {
+      "title": "دليلك لفهم أسباب تحرك أسعار الذهب عالميًا: من الفائدة والدولار إلى مشتريات البنوك المركزية",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5JdDZhWFI3S0F3M1ZmOFhOYnZuMkItdGdMREw1dGpOSThCZjY3eDI1S1hDUUNfeUNOVnhINkRJZXhZZmFoVlVYUTJlc3VjMWtHR2VWMQ?oc=5",
+      "source": "المصري لايت",
+      "direction": "neutral",
+      "ts": "2026-11-03T20:04:08+00:00",
+      "amman": "23:04"
+    },
+    {
+      "title": "أسعار الذهب تستقر في مصر بعد تثبيت الفيدرالي الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1qX0ppaEE5aWU5dzd1NjBQN2ZoQ1dVTTJLeHB4WnhFci1TZ2VPXy1CTlYwRVVhSGxfSjNlTTR2XzNpcG9fbS1SRllFQQ?oc=5",
+      "source": "ekhbary24.com",
+      "direction": "neutral",
+      "ts": "2026-11-03T19:59:45+00:00",
+      "amman": "22:59"
+    },
+    {
+      "title": "An overlooked energy source could solve AI’s power crunch — and these 2 stocks are prime plays",
+      "url": "https://www.marketwatch.com/story/an-overlooked-energy-source-could-solve-ais-power-crunch-and-these-2-stocks-are-prime-plays-bc5d988a?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "direction": "neutral",
+      "ts": "2026-11-03T19:57:00+00:00",
+      "amman": "22:57"
+    },
+    {
+      "title": "وول ستريت تهبط أكثر من 2% بفعل مخاوف من تباطؤ اقتصادي عالمي",
+      "url": "https://news.google.com/rss/articles/CBMitwZBVV95cUxQcnI5cWRwVDhMOGNmRmItXzI2TTAtV1otMGNfeFFGblNTRlMxU2l4ZEltS1p2ZmltdXlHclhRUkJrSHdiT0czVkUzNVJ0ZmdmTlp4TmlJaVpfZHFQbUp5S0xVRjdGZFB0cXAzNGFsNkVodnI1QkF4TmI1MWRod25PNVdVRDJxWUVZN1JrVnk4MkwzLWdsNGRQOTVZbVNwc0RtRld1U0pzZlN3aHJPSXFYaU1kOFpHT2t6aUdydGN4SnlPSzhVeC16Zk44Vk1HZnpHa2VyTTIyZmVDMTduN2ExV2pFT191cnd1ZHlfSktqRUxLMnFqNFFQOE1IQTd6WHN4VFp3OW9vc3M0M2VQTTRjYndhQUQxRkxHTy12RjEzd1Rzb19pUGpyQXljWmx4S0twc0xOeDZjWExJSkxPaWlJeTgycGFsNHhuQURZWnJzT2tVRTNTN01aU20xZVl1UFJHTmlPLVU1S1E1WFNub2NlVkVReG1ybmo1OGcyTHdyckJBcmthV01fZWpiV1JTU09HOE1VMzktN1BXMGVzSm1EZWhfczhwTGduVmI0bUZJTFZVM2FwS1lnaDdmcHBKVXByYmZ1ejMyODlpSFRIb2pzazdXek9OekxRblNZVWJKTVVMa2N5cnNKYVFTSzdXaVpBREhZanVNQXlrWVBtcUJ1aC03TGh3NExidHhfMDViV21jZmNaMllDNGp1WFBxNG1vZ3dlQzdEUnBWZk1hLXBWWjk0LUxJWllnTklSSXVEWXlKaDJCS1UzUmstTXBfN0Q3VDM0ZTk1UUIzVjRzSWxsRmR2SDQzMkpEQW5zUVY1eFp4UURtLUdITWtiMnBjdEZUMkRsXzlaS1FwTHZoR1ZjcXUyYXNLNmhTemxuR0JnTk1EVVlQTUFLdTdVS0czVkEyc2ZOdEZUcGtlWnlTQUltbDBQLTlRWWdjQklGS2Q0SUtlOFQydDRaeU1kNEkxSzZPTTFLRFRUQUJBRmtUN3pMekI3Y1FhZTFoemxudVl5dmFMdmNCdnNZZ3BZUTV5VWVVSFN0cjVLVmsySkJVa3pLV01GWkpkWHl2bnVNNUtMWGRLVVVDcjRz?oc=5",
+      "source": "www.alghad.tv",
+      "direction": "down",
+      "ts": "2026-11-03T19:53:30+00:00",
+      "amman": "22:53"
+    },
     {
       "title": "Job openings posted big September gain in positive sign for labor market ahead of payrolls report",
       "url": "https://www.cnbc.com/2026/11/03/job-openings-posted-big-september-gain-in-positive-sign-for-labor-market-ahead-of-payrolls-report.html",
@@ -13,12 +109,20 @@
       "amman": "22:15"
     },
     {
-      "title": "مؤشر ناسداك ينتعش الثلاثاء بقيادة شركات تصنيع الرقائق",
-      "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxNVWtCV0VFMVQ0WndZZHlXeUpDcFFzWDhvczR6QlhxUTJweVZZcTk4Z3h2cGRUY0JEMWdhMUIxWXZFZGt2MFNEUlR3VjlSd3AxUkpoNkRBX3d5M1liOHM4Q2ZLUUtWY2hTOG5zMGtkUE56azZJWGZjUTRxaVFueWhMSTdEa2xsWHhqeGVlUUdTMnhMLWJEVEp3S0w1eFlMNzdzM3p5MmZsSDY2WVdCSldzU3Z6ZlpLMG96NGxBN29EYTBrVnlVTmpGSEU3aWxNc1JwSFAwZ1M2QjlQRDBLbk1CM19LMWpUbnRTRjF0LTVLUmRRZ0JZSXh2dDZaQlRZWXU2SW9PMk94VkppalRzWmd5aHVLVndfaVdJSmNqQ1ZuTUs0THlBc0dRNzMtYXZ2S1VZVDI0Ulo1YmVZSFlaUXN6TjhvZEg4VXlTMHF6Ym05VzIwTTYya0ZuSXZxbXZTWGp3Q0pDNFY5X1FzV1N3SkI1Tnd1a1VCS3BrOUxjUkkya0FudG5NR1E?oc=5",
-      "source": "جريدة المال",
+      "title": "توقعات الأسواق للأسبوع المقبل: الفيدرالي والبنك الاوروبي وبنك انجلترا",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPS3FvVGk1MWhwU2R6Zmp6bnVWUXR4YzRSUWVYQS1uelZ4S3dnTGFWaThUS0FKdTRXTHQ1aWUySjlmS1BIbG9UMkFxM2p4bFBjX1dheVI2NWYyQWJEYjRmV3I2bHJyWDhXUGo4RllhT3lRb2RwR0pDdlV0UHZoLWcwOXBtLTZxb1BPT3pmSl9fMkVTcS1XRFhZWUhXMzdUbWk4U2hVaw?oc=5",
+      "source": "equiti.com",
       "direction": "neutral",
-      "ts": "2026-11-03T18:13:21+00:00",
-      "amman": "21:13"
+      "ts": "2026-11-03T18:41:20+00:00",
+      "amman": "21:41"
+    },
+    {
+      "title": "أداء متباين في «وول ستريت».. وتراجع جماعي في أوروبا بضغط المخاوف الجيوسياسية",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBwVTNEeHV5MFFRR0huWGNaaFJ4ZmFjSVZXSW40bW9Oak5uMEFXODlNQ09kU3B6a3ozSHdlcDF2aVFQNFQzanYybjY3Rm04b3c?oc=5",
+      "source": "البيان",
+      "direction": "down",
+      "ts": "2026-11-03T18:28:00+00:00",
+      "amman": "21:28"
     },
     {
       "title": "«المركزي» الأسترالي يرفع أسعار الفائدة إلى أعلى مستوياتها في 18 عاماً",
@@ -29,36 +133,12 @@
       "amman": "20:04"
     },
     {
-      "title": "U.S. jobs market perks up, but it’s still not a great time to get hired",
-      "url": "https://www.marketwatch.com/story/u-s-jobs-market-perks-up-but-its-still-not-a-great-time-to-get-hired-bc39f44f?mod=mw_rss_topstories",
-      "source": "MarketWatch",
+      "title": "رغم الارتفاع العالمي.. هبوط أسعار الذهب الآن في مصر",
+      "url": "https://news.google.com/rss/articles/CBMisgNBVV95cUxQaUFpVnFMMW1kWFFScU9wX09vME1KRV9FdW5tMlRfUDhNZHZFbE40c1lYVmxuRE5YWEd5RnNIMUNKdnM3QVh5ZUs3TGFnd3ZqOE5TQS1kdl9GUDNjY1E2anlqOU15VXhSa0NKQzdSTEJYMXhVT3RCdWFTZ3M3VWlYQXhkTjk2WnNXYWhyVVhVUmJTODFLYm1QR0pCQ1htaGV4UXByTjZFcWFsV2g3eE15UVc5VnJoOFRrVFRSUG5iRkx3ZUdIbW8wVGo2ay1YT1VPZTZnYnptZmJxc2JaUFItUGVTVUJQdEpQN29WVjdvVldsVGYzY2YzR1dQRUl6S1JpcXMwX1JsUG01Q2dYRWl4S1UwRjVucDBsQ2lwaEtvWnFBbGROQWJXNGpJS2puSHJBb0JNSHdnb3Y2UE1YelR5RGNvYmxONzYyOURJdlVySGhKSVBMWHdXUmhlVGRnSnExRDUyVHNKSDdULTM3d3FfYmdJZ2MxU1FSTlA0Z1B0MV8zdjdfZ2dCOGt6V3pOMVhvb25zd3dXd290cTc1WlZwM1VxbmotSFd6azN6LVZ2cVNVdw?oc=5",
+      "source": "الجريدة العقارية",
       "direction": "neutral",
-      "ts": "2026-11-03T16:56:00+00:00",
-      "amman": "19:56"
-    },
-    {
-      "title": "Shopify’s stock slides after earnings. This is what’s worrying Wall Street.",
-      "url": "https://www.marketwatch.com/story/shopifys-stock-slides-after-earnings-this-is-whats-worrying-wall-street-e2e8d52b?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "direction": "down",
-      "ts": "2026-11-03T16:31:00+00:00",
-      "amman": "19:31"
-    },
-    {
-      "title": "الرقائق تصعد بـ«ناسداك».. و«أبل» تعرقل «داو جونز»",
-      "url": "https://news.google.com/rss/articles/CBMiogRBVV95cUxPd2ZTaHRpTThnd2w0akRnTjVhZVNxalA4djhFeWhmRld6cjkzM0lJSzFiRWRMbzhkVERhaVVkM1VRMTViVUtRb2NfMlMwaWhKMkowdDFlM0pVZjE4MEppTjN5THVEY2xwbi1DWTB5ZVVSQTk2UGdsYjRaLXJYcWE3ZjY2MjFaRS1helE0TFNSb0M0dG5ock0zaVBCdkR0ekppZ2NGT0VZY1pSWFc0Z2E4T0gtMzZZOUUtOVROOVZFYWJiMmV1TE5VN1pvY2kyLTM0amlETHNxMmtlR3hTUTBVUHZhNGwzTEF2UUM1c0pMQzFPakJ4eWxabmNRM1lINkpMdDF6RWM1MHg5MW4yUzkwY0tlVXBQU2xjdnFFN3FMNTBWZWlELXlibFhPcm5ESTZrUkFKMFRuRGhVdGRnSC1kcXJMVE1kcWk4RjV5NkczNnR4cWdPak9vc2QyXzQ0WS04OUFLS3llcHVRTkl1Z04tUWZ4YkxUY21iaUxnTVhtQWtYVDVVU1VvZFNWNDFCdktKQ3owVmlUV2Y2S0VvVHV4NEZpV2Jqdzh6SHZ3MDZBM3Bnd0ZKZ3dHSEtDOXdDZnhMRUpCSjBLY0I1b2N2YWRzaWlrbHhySGZKcXBvV1Q1U3ZpNVFPS2NTNFBHZ3AtRmZEb183QzlQRkFWSUlHME5lT0hRUDVUUWhsMi1YT0xKVklfU19CUTFDSHBDTkpHRnE1VGc?oc=5",
-      "source": "صحيفة الخليج",
-      "direction": "up",
-      "ts": "2026-11-03T15:34:02+00:00",
-      "amman": "18:34"
-    },
-    {
-      "title": "«الفيدرالي» يرفع الفائدة لأول مرة منذ 2023 في اختبار صعب بين وارش وترمب",
-      "url": "https://news.google.com/rss/articles/CBMivwRBVV95cUxQVl9uRU5kT1o5a3JiaktYN2t3M1B5RUpLR0VJb05RUEZiNUVPQ1Nsd0J3enR6YVFYbUZ4ckJYRk9DakdIQURJd1hYU1dRajRJWVhYUmF6R0FYVEFfT24tZnJEWWlTNU5hM3VrTjJ4VU9DTlZaLXEyb1lGNDlMdGNiTWFqbEhIMEFVVW5oLS1xY3JxOWxYaEFERGZKZ3haUzVSZ1pOUDVtYXJna1VBYUswNTVwTlF2S3lJWWN6QWFEVjhMdDNkVzYtcW5jcHpVZF85NktuNm9GOTYtN1BaZGZPOE1nYUxZQlpPRWx5RkF5S3E3S2M0dWZOQXVwbVZqVnJhRTlIeVAxTVY0aVBLUllVdHhXTnd5Tk1aUldRdlFlci0tVFlxZzV4OFVlYXI1X2tuTXBlN1ZlMWQ1ZUt3RjJsTjUxM3A5VFVOUnJoaUc4aDZxRm84MEtTaFdCYWpmOGU4X2hieWZYdjd1UXZXeWdnZnltMXBfb1ZOYXlzXzlITHR6bi1RVzlUV2k4LVpkb3ltZGowVmNRNmJsdDNFVTNvMzBNTnYzQnhqMmkteGxnTzhXQl9uTkxmcXg5cEt2N2x1VzFnbE9Uc1pHdWVoekowYllLRGpyNzlKVS1yUjJMN2VaZ1QwT21CdjlmV0cwRUxXaV9iaTd2X2JOT1Yybkxib1BQSndXdXJ3clhLcmJtOUF1QWFQQUgxM2c1TWNwNEJnQms0bkIwcVROUDJ5V3RzSlFPT3AwU1F4YkxVNzg1NA?oc=5",
-      "source": "الشرق الأوسط",
-      "direction": "down",
-      "ts": "2026-11-03T13:03:06+00:00",
-      "amman": "16:03"
+      "ts": "2026-11-03T15:52:42+00:00",
+      "amman": "18:52"
     },
     {
       "title": "«دويتشه بنك» يتوقع رفع بنك إنجلترا سعر الفائدة الخميس لكبح التضخم",
@@ -69,6 +149,14 @@
       "amman": "15:47"
     },
     {
+      "title": "مؤشرات تحذر من استمرار تراجع أسهم التكنولوجيا في وول ستريت",
+      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxQRzFpQlVkdVUxdDZPS2N2a0J5NWRZNlJWNmJxU1BUcnpGX2kzVVAwWDVnWTlpOWl5aFBmMkpCQzh6Rl9XODZaeURCSXB4VXoyZmRHa08zR0FBVXhCYkF5WkRhdmtVSXdkRmFfamo1M01ieUJJMGdsQUVsYzZia0NDcmhhVmFjN0pvWUd4VnFRQjVwU0lYODlncUdxbmZZdjFfakNfX1loWFA0M1ZfbDlreWZCLVRlVGUzRFFPTUNEWjhJemI3cVhiSnljODJSUWxOTHVnWU14aEREVG9lRWYtSGtIa3Y5Nm52cGNhM04xd3ZzZ3BCQlpWRlBkcnA5Z1hYaXlRZTdtUUZuSjNGTkNLbzV3QnRlVEoyV3U1ZFg5cnVtalBtTWVTdy11QU1LZU1pc0U5SElUXzU4WWstYnBXUV9ZMGVmb1NjVkNydVlubUZsR0tIdDdoQzgtdVhZSlBZZ2FDamVYOS1jSFVtVlZlb2pfZUIxQWhSekRKUGVMeHp2TEVkOFU5V0xnVmFJYWIxdl9ub2piRUdHYXpUaHFySno1dEdUNFBZVXFtc3FtSlFOcUZVOFA4MnNOOVp0YnR3LVR1LUJJWDBHd3Z5SC1CTlVjV1JCcmpaTG10bUg1cm5kUFZyTTdWZmY1UmxDYVJvTjFWN2w4N2JJZk41?oc=5",
+      "source": "المتداول العربي",
+      "direction": "down",
+      "ts": "2026-11-03T11:33:48+00:00",
+      "amman": "14:33"
+    },
+    {
       "title": "\"النينيو\" تهدد بزيادة التضخم الأمريكي في 2027 وتضيف تحديًا جديدًا أمام الفيدرالي",
       "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tZk5hSWIxZjBKUVU1em5nc091bF9tb3R4MWRqQ3B4R2lMZkZabGd6bEZGWmJJRXItOEI5NklLTF9DanJZaVNNbGp4bkFxcGZpQnc?oc=5",
       "source": "بوابة دار الهلال",
@@ -77,12 +165,20 @@
       "amman": "12:53"
     },
     {
-      "title": "ظاهرة النينو قد تدفع التضخم الأمريكي للارتفاع في عام 2027",
-      "url": "https://news.google.com/rss/articles/CBMiyANBVV95cUxPWENpRTZ4MDlPYWMzcE1GNnJSUy1QVm9oZ3VZMUQzR0lMSGphbnpXbm9tY2dzMkNPNksyZXBuZmxIdzk5eXlYLXVWUHVVMmlKZkk3WFRWUzl0eG1fUGZVQVR1ZUtFamlkck1WMFNlX0U5bF92ME5JYkducENxanBYd01zZHlNdUJMTlloaHhDbmFZdlZiYUhOeUc1VjJxMWktYmtTNmVwRFVrRE9hY2RaWkdvczAtY2R5UzlQN0pTYVJKelhBRnNudmxFRGQ4YVk4eEo3RGp6bG10X0prQk5ndDF5MnVOUlpzM2c1QkhEX19vbVBWWWNVSG9TQ1BQblZGbUN4UG9McHdhNjBabUpQLU0wekJvd0F3Zmd5QlRlY3JOVWdkS2xGcENqTmszc2hKNHhYd3ppaFV5QndubUNLcFJNQ21JajQxU2JEejFIOTZlUzI2d09FVFRWRy16el9TTThWc2hqckJKNHFmRXdtaGc4STRSczYyeDk0c3VVU3pjWjRaamQ2OHZJc09ZSHVMY19Mc2pCMHNxZkRKTTF5SXZHSG8xVDRKZDEwSjJjcF9SWng2QmNXQmhHbzI2RV9EalRVdUMxWGs?oc=5",
-      "source": "IDNFinancials",
-      "direction": "up",
-      "ts": "2026-11-03T09:00:00+00:00",
-      "amman": "12:00"
+      "title": "توقعات GBP/USD: قرار بنك إنجلترا وبيانات الوظائف الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWRDNXpMVEJmSGVvYXc1X2VPRXhhcWQ3WGNsTW9pUkJSdVR0ajdzSU5zTWtfUnQydFFGSlZpTUF5emJMdjRYOGh0QUplRk9KNmd2eHhUTU1ocXMwRXNmS2ZxQVRwQzZYRWJrYkdCdk5uODF3dVd4Z29CeHYtd3UxZjA5ZWo0UzIwNllxRGFUMVVDYVBaVFcybA?oc=5",
+      "source": "www.equiti.com",
+      "direction": "neutral",
+      "ts": "2026-11-03T09:24:58+00:00",
+      "amman": "12:24"
+    },
+    {
+      "title": "انخفاض العقود الآجلة لمؤشر داو جونز قبل انتخابات التجديد النصفي الأمريكية",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcGFsb052cmowbHFBZHdWeWVuR0RIVml2WElvZmZEZVZVUDJMMHdUcWxfdWtnRWh5eWlDMVhRelpEUzlVMUpTMlN0anNyajZYSFhqbkptWk05dG1CX3paTmdfdVZ4ZEg2ZTRUaUQ0eUR4NmM1clRENnkyTC1YREtIS185RXNZMnRwTzBHV2dqSndneVVEWldUZXNvVjlQRjcyM21xenVjb0NZR03SAasBQVVfeXFMUHBhbG9OdnJqMGxxQWR3VnllbkdESFZpdlhJb2ZmRGVWVVAyTDB3VHFsX3VrZ0VoeXlpQzFYUXpaRFM5VTFKUzJTdGpzcmo2WEhYam5KbVpNOXRtQl96Wk5nX3VWeGRINmU0VGlENHlEeDZjNXJURDZ5MkwtWERLSEtfOUVzWTJ0cE8wR1dnakp3Z3lVRFpXVGVzb1Y5UEY3MjNtcXp1Y29DWUdN?oc=5",
+      "source": "FXStreet",
+      "direction": "down",
+      "ts": "2026-11-03T08:40:08+00:00",
+      "amman": "11:40"
     },
     {
       "title": "المركزى الأسترالى يرفع أسعار الفائدة لأعلى مستوى فى 18 عاما",
@@ -93,12 +189,12 @@
       "amman": "11:01"
     },
     {
-      "title": "أبل تربك وول ستريت.. وانتخابات الكونغرس تعكّر مزاج المتداولين",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jSU9QR3BKZGg1OHlfeTJoMWZna2t0YzU0aWphdzJzUi1NQzhyWW5RTHFjcHRmaUZwMlAzSTdOOWJtZkhPNmJkNm1pZ2tDOUdGNHE0?oc=5",
-      "source": "شبكة تواصل الإخبارية",
+      "title": "الفرنك السويسري يكتسب زخماً قبيل صدور بيانات التضخم",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTnRYTlNBMmFHeDdBVUU1TDVDSGlraGdBU1R2MUE5V05ETEFCVEp0X3lreS1FZV8yWndYYlhJM3BxR3EwcU54MGNVUHJUM2RNOTJrYnFNVHo2WGNlMmlBc182VEVvTTVrbVVicFN3LVJkSERLUGROYVFlbDVib2QyaENpY2F1TjNtY0RoMEo2YWJXWHM1UWxNZzJkRXdsdkZxTFlQRVdpQUlNRW4wWlJGSEJTUTloelU?oc=5",
+      "source": "www.tmgm.com",
       "direction": "neutral",
-      "ts": "2026-11-03T05:17:17+00:00",
-      "amman": "08:17"
+      "ts": "2026-11-03T06:45:50+00:00",
+      "amman": "09:45"
     },
     {
       "title": "سيناريو ما بعد العاصفة.. هل يضرب زلزال الانتخابات وول ستريت؟",
@@ -117,6 +213,14 @@
       "amman": "06:46"
     },
     {
+      "title": "ارتفعت أسعار الذهب العالمية، متجاوزة حاجز 3950 دولارًا للأونصة.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeHRHVlp5ZlFJUU1fNmNxdjhtVWxfQ2lGZElsbW1nUUhXQ1k1cmctVHZBeGVEZ1M1aDZEUVY5TlZobkRUOUR3NnU1N0dzVXZ5YkxsS1ppV0s1NDVsWlBwU1NmOTFKTTlwVG5ZU1A2VzRFdG81cFE0ZC1MYmNxMnl4dEJyV25OXzBRdWc?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-11-03T02:11:10+00:00",
+      "amman": "05:11"
+    },
+    {
       "title": "تباين مؤشرات وول ستريت وسط ترقب نتائج أبل وانتخابات أمريكا",
       "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxQbkpVdzNHWlB0aVJWSlZTQ291UDU0a3NyWVo3WVlDeVJmWVF6clJFTTB5UlFQakVWMG11ckp6UkdkRDVTcGx0MWRUbjR3Z1dfbFdxVTY4NTAtR0RzRXpRRnJQVlV5V0pCVHQ4ZThnTWZoTVNYZGJEc0tuOG5ZSVdMd2FPNmRodnBPWkFGR0NEWm9ybXNPbEp0RnRza1NSb1NCeVpjaGExc0JjQmYxVnI5all6RHR4bHg2NU9VN2Z5anBjbkE4SWRqVVB6Qmdoamc3WjdUeFpWOUh3RUZsaGxibFZ4dFhMb0J5aWhHcEtsX3ZVeXNseTZnT3l5d3JndGJrclpwZG91QUY1czBzVkNMLURXVUM4QTFWY0FQTVBBSFgtVV93M19YMmlycmlYVENWVG9LNE9NZjQ2aGxya3JPR1VZTmd0WTZ5M01BMnVMaEZqczlCOHQzemdzd25jZWotZWcweUpLTENNWnJIbnF0bE9NVGhnZzdQRmtmUllPMWJvZjdoamNNQ0JRNFFVUGdTLVZaRFBrRFJ1Ykg2bFpHUXgxaGVSbE00QldRUVBpQ0NSZE9oOURGZUVEYjhBN0daTHlqMWlYdWpMT0FCeUx6V0ZiSU1XSU5vN0pLOFhKUlVGZFFOM2c?oc=5",
       "source": "مبتدا",
@@ -133,6 +237,14 @@
       "amman": "03:55"
     },
     {
+      "title": "ارتفعت أسعار الذهب العالمية بأكثر من 2% بعد أن سجلت أدنى مستوى لها في عام واحد.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOLXp3X3lidEZUMG82NEtlYWhHbUZHSVdKV3BaeEM0WlZBczhodUNDOWI0SUlNNk9abkxVN1JOMnJmZ3BUb2lBUHhGOERBUVp0X0xZN21rd2xnLXFXdEFGVUVrVVd6MXpISFpOUU96c1gySWJpRVU3dFRBQTh4NWZjSWVTLWN5UQ?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-11-03T00:55:16+00:00",
+      "amman": "03:55"
+    },
+    {
       "title": "تراجعت أسهم وول ستريت قبيل انتخابات التجديد النصفي للكونغرس الأمريكي.",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdmRVUmZuNlNzM1RBVlZheVFDNkREY0pkUXo2QkhNRTZjYTJNa092QzJtajNPQ0thVnZuMWpLTjhOaGRQeXpBeEZ6eDExUWFUcmh4VnU0WVQ1cXFjRHlSeGp2NVZrdnV3NzUybFFMdGdHRW5wb0xOU2RiZjFHY2QwS1FIdw?oc=5",
       "source": "Vietnam.vn",
@@ -142,43 +254,11 @@
     },
     {
       "title": "موقف داو جونز.. مؤشرات الأسهم الأمريكية تغلق على تباين",
-      "url": "https://news.google.com/rss/articles/CBMi2ARBVV95cUxPVVNfTkhQRFJ0b3hHV1FhVFpBd3BMTVFEdXNGX0xCMG9iT1NScnV5V1NCX0hiVXFqSDl1WmdLUGtpQ2pQejMzZjJMRlVKWE0yT2hMYUJWVlJYTC1lMWVfSTN3VTVhRnpTVlVwU3daVTA0VWR1NFoyZ25VNlFUV2tvUVA3UC16bk44ZUJGazNXZHE1ODU0ZnJKQzlUQkJEdFlJR24yMTFKVlV6dTRnR2E3cnJJWUhqbXIxaWtidTBpMHE5bnlLSTVZN0h0aWRNa3JfNWI3RDlrOU5EclVaVUt4VWxzRUVkX0xkVk05cVpUSHB0N05vV2NTRlZSLXZ2UUViLU9oa040bkQ4ZXRSXzdyczQ5LVowcURUMDBVSzlyeW5YOXVSR1pPQkNyZDdadnQ0d005N0UyQVJDZ0VJNFlnUkFBa2wtTmQ2dTM5Q0ZUTU40VmJpRWFSRWZNcGVYZlBlM2dUbXhzcFNuYmtpTDV1WG9Qc2QyVkhIN3N4cUlFS210YzBmZlRQSUVBUjRaZW5UWjk2TDdnTnJWQXpLN2NzbmxJSHFUMzF5cWpZcjI2cDg4dkhXY2JxLXFYeTB2VjFDZEhlc2owbmxPYUF2WmZxdHBGV3NUX2l5eFFpS2lMLUszYXkwXzd5OGNMVHdTcElERzl2MXA0LXhQa2pubTQ1YllZczg4d2Z5a2M1VkJHVkNySDhUejZ6OTdrZ2puclliUWlsSzVxd1NoUFphYWNlb2tDWlJ4RkNZeWxIbExVMmpoMnZ3MjZDdDJmU2hMWXJhRUpsbE9vQWfSAVNBVV95cUxObXBOdXlYMWtiNS1GR2QtQjhzRVd4MTlKQk43LVZkUTI3ZEJHNFFSeE56aWUxUDhYSi1ZdUsyU3ZIVmlRS1ZxeUFVbnQtbzE2ZU8ydw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tcE51eVgxa2I1LUZHZC1COHNFV3gxOUpCTjctVmRRMjdkQkc0UVJ4TnppZTFQOFhKLVl1SzJTdkhWaVFLVnF5QVVudC1vMTZlTzJ30gFTQVVfeXFMTm1wTnV5WDFrYjUtRkdkLUI4c0VXeDE5SkJONy1WZFEyN2RCRzRRUnhOemllMVA4WEotWXVLMlN2SFZpUUtWcXlBVW50LW8xNmVPMnc?oc=5",
       "source": "alyaum",
       "direction": "neutral",
       "ts": "2026-11-03T00:35:00+00:00",
       "amman": "03:35"
-    },
-    {
-      "title": "بورصة نيويورك: تراجع أسهم التكنولوجيا رغم هبوط أسعار النفط.. ومؤشر ناسداك ينخفض بنسبة 1.07%",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YLVhBemxvamdyTnBoQjVaMnBVa082SlNJVUFCQVFYbnVXTXRTay1neU5JVHMxWFFZcGlTZmp6VFZWSl9SaW92dUZnU08tcUhoNXJtcElYcFNmdWVVZi1ZNA?oc=5",
-      "source": "재경일보",
-      "direction": "down",
-      "ts": "2026-11-02T23:20:00+00:00",
-      "amman": "02:20"
-    },
-    {
-      "title": "تراجع ناسداك وستاندرد آند بورز رغم هبوط النفط.. وداو جونز يرتفع 310 نقاط",
-      "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxObzNVaFNwTi1aZkUyU19kdTNkTE1lbm10cEFMdnpCbjJ4VzQtSjBZLVdwaVVtdW02Nm9xZ0xBRDRiNEk2LUplV1IySmd6UlItNmw2eGdZSi1PU2J5NzB3RUM2WUx4WUQzRTktYjhiMTNwSHdKWG44M0c1Ylh6LW1ENm93aFFFdVFZMGFVbW0tdlNLVDkzT3o3TEYtUWJzU29XWVB4cXByNklxWWc5YXJXOE1mbzNSQVFZWkFKNXdYTjc2aXlzOEV6QS1pM1c4SGRfODZnUXNtTVFTU08zd3Y5YUd4eXRJSGNJNm12T1BTRzhWVW9IS1FtcXRYdW81eXBDYk8yazNoSlpoZXR3bFJ0Z2hqMzZOR3JvQVkxdXgtd3BqVmNwdDVwU2JWcUNzbG4ycTRiU1BlalMycDhkVnlnaGYtV181Rlg4eE9JWjFYdG80NXRGdndDTXNPb3NjeDJzRmxNSlZtZGVJekxrVWc3clUzOHlSZktrQlJpd3BKU2VvR2xSNVdBX1JIN3kydHE1VkFfTDg1OEhFTmwzeHVpUERLQml1R3BGcVlKYmpWQk1XUUNHNzVTZ3FJOVUwWUlKdzAzdzNQZ3I2T3dHaEg4UzB0YlRUV0ZybUsyMW1NOWFGT1JzSkJQX1hSdUlBS3k0T18yOFF3TXo2MERHN2t6T3o4ZWMwemo0RXUtOXUwcmlRN05MTEw2ZEwyaVJOM29DRTFQbm81dVBKMmM?oc=5",
-      "source": "الجريدة العقارية",
-      "direction": "down",
-      "ts": "2026-11-02T21:26:20+00:00",
-      "amman": "00:26"
-    },
-    {
-      "title": "وول ستريت على تباين.. داو جونز يرتفع 0.5% وناسداك 100 يتراجع 1%",
-      "url": "https://news.google.com/rss/articles/CBMiwwNBVV95cUxNb3AxLUZ2bm1MWV9DR3NrUzktbHZYcElLaDVzS1RVc1lFclRLbWI4TEllZ1FKMmgwcHFFb0lVTjN5eGxsOUx5TGVOMGJDeEIxRjBLQWd5Y0dTb1lRNUgtYThXSjZVUklfd3I4MzUyRHZya09DbXFMMDl5cUpoV0FJZFVlWjlLM3dQUDliNy1zTXV0Q2NreTBZMDc2X3ROcEcyS0xDMGE1bHhpOEx1Um9tdlZIT0pBODFkUlhreVJUeVl0T3ZGMUliWEowYXNQVVRfVnZibFR3OFcxN1FmX1BtZVRFWDdtcW9wTlNoMGowLVpSTEhGeVhDZEZQc25zYk5NZ2NHU1pKNXRnMWMtd3NfWGVPZVQ2eXlWUjZiV2dreUxiR2h2Y1UwYmZMamd5UkpVdHl4ZE4xZEtCdjJZZElMTENKN1F1bEpDMEtta0pTODI5VlphSHEyTlVtcFRKMUFPbjZhYzB1M1RxYkhiSm5TODRzZ25PblpSczJxUmFMS3FGd2ptYl9ld3Roek45RFFUUzlLczVNMG1Pa0xZSXhZcE1nODJSNG90ejN5aC05NF9BMzlXODhaeFZxczBHZFdNNFpV?oc=5",
-      "source": "CNN الاقتصادية",
-      "direction": "neutral",
-      "ts": "2026-11-02T21:18:47+00:00",
-      "amman": "00:18"
-    },
-    {
-      "title": "مؤشرات الأسهم في الولايات المتحدة تباينت عند نهاية جلسة اليوم؛ مؤشر داو جونز الصناعي صعد نحو 0.60%",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80bFR4cmlGMjdxbDdOTlNmQnlKdmRjNnFSbHpHUm5RVXVhQ212bVBKSTY5d3NmbEttd3FGMlk4SVVPaDVQVXU4c2UxLURiRG1YOTJsQVNDd2NfbXZSZ3dtQ2JPU1V0MVBHbkhnS05iWTQ?oc=5",
-      "source": "Investing.com",
-      "direction": "neutral",
-      "ts": "2026-11-02T20:30:00+00:00",
-      "amman": "23:30"
     }
   ]
 }

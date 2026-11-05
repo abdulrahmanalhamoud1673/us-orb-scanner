@@ -1,3247 +1,690 @@
 {
-  "updated_ny": "2026-11-04 19:54:06",
-  "updated_amman": "2026-11-05 03:54:06",
-  "session_date": "2026-11-04",
-  "requested": 91,
-  "scanned": 90,
+  "updated_ny": "2026-11-05 15:27:27",
+  "updated_amman": "2026-11-05 23:27:27",
+  "session_date": "2026-11-05",
+  "requested": 89,
+  "scanned": 88,
   "waiting": 1,
-  "buy_count": 36,
-  "sell_count": 37,
+  "buy_count": 6,
+  "sell_count": 11,
   "active_today": [
     "AAL",
     "AAPL",
+    "AMD",
     "AMZN",
+    "APLD",
     "BBD",
     "CIFR",
     "CRWV",
-    "F",
     "GRAB",
     "INTC",
     "IREN",
     "KVUE",
+    "MRVL",
+    "MU",
     "NOK",
     "NU",
     "NVDA",
     "ONDS",
-    "ORCL",
-    "PLUG",
     "RIG",
-    "RIOT",
-    "RKT",
     "SMCI",
+    "SNAP",
     "SOFI",
     "SPCX",
-    "STLA",
+    "TSLA",
     "WULF"
   ],
   "errors": [],
   "opportunities": [
     {
-      "ticker": "GME",
-      "session_date": "2026-11-04",
+      "ticker": "RIOT",
+      "session_date": "2026-11-05",
       "state": 1,
-      "price": 25.13,
-      "open_high": 24.49,
-      "open_low": 24.24,
-      "open_range": 0.25,
-      "vwap": 25.11,
-      "ema200": 24.7,
+      "price": 15.23,
+      "open_high": 15.07,
+      "open_low": 14.45,
+      "open_range": 0.62,
+      "vwap": 14.34,
+      "ema200": 14.46,
       "above_ema200": true,
-      "entry_price": 25.17,
-      "change_pct": -0.16,
-      "day_change_pct": 2.78,
-      "volume": 10766909,
+      "entry_price": 15.14,
+      "change_pct": 0.58,
+      "day_change_pct": 2.07,
+      "volume": 40690886,
       "targets": [
-        24.99,
-        25.49,
-        25.99,
-        26.49,
-        26.99
+        16.31,
+        17.55,
+        18.79,
+        20.03,
+        21.27
       ],
-      "targets_hit": 1,
-      "next_target": 25.49,
-      "next_target_pct": 1.43,
-      "last_signal_time": "15:50",
-      "bars_since_signal": 1,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 24.51
-        },
-        {
-          "kind": "Sell",
-          "time": "15:00",
-          "price": 25.06
-        },
-        {
-          "kind": "Buy",
-          "time": "15:50",
-          "price": 25.17
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "QCOM",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 173.73,
-      "open_high": 167.9,
-      "open_low": 165.11,
-      "open_range": 2.79,
-      "vwap": 168.16,
-      "ema200": 166.72,
-      "above_ema200": true,
-      "entry_price": 170.99,
-      "change_pct": 1.61,
-      "day_change_pct": 4.26,
-      "volume": 16319224,
-      "targets": [
-        173.48,
-        179.06,
-        184.64,
-        190.22,
-        195.8
-      ],
-      "targets_hit": 1,
-      "next_target": 179.06,
-      "next_target_pct": 3.07,
-      "last_signal_time": "15:45",
-      "bars_since_signal": 2,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 169.64
-        },
-        {
-          "kind": "Sell",
-          "time": "10:40",
-          "price": 168.26
-        },
-        {
-          "kind": "Buy",
-          "time": "12:25",
-          "price": 170.32
-        },
-        {
-          "kind": "Sell",
-          "time": "13:35",
-          "price": 167.67
-        },
-        {
-          "kind": "Buy",
-          "time": "15:45",
-          "price": 170.99
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "GM",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 92.41,
-      "open_high": 90.72,
-      "open_low": 89.3,
-      "open_range": 1.42,
-      "vwap": 92.36,
-      "ema200": 90.54,
-      "above_ema200": true,
-      "entry_price": 92.58,
-      "change_pct": -0.19,
-      "day_change_pct": 3.19,
-      "volume": 6614672,
-      "targets": [
-        93.56,
-        96.4,
-        99.24,
-        102.08,
-        104.92
-      ],
-      "targets_hit": 1,
-      "next_target": 96.4,
-      "next_target_pct": 4.32,
-      "last_signal_time": "15:30",
-      "bars_since_signal": 5,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 91.27
-        },
-        {
-          "kind": "Sell",
-          "time": "14:15",
-          "price": 92.29
-        },
-        {
-          "kind": "Buy",
-          "time": "15:30",
-          "price": 92.58
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "CVNA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 77.56,
-      "open_high": 74.71,
-      "open_low": 72.9,
-      "open_range": 1.81,
-      "vwap": 76.94,
-      "ema200": 74.41,
-      "above_ema200": true,
-      "entry_price": 77.32,
-      "change_pct": 0.32,
-      "day_change_pct": 5.9,
-      "volume": 19065403,
-      "targets": [
-        78.33,
-        81.95,
-        85.57,
-        89.19,
-        92.81
-      ],
-      "targets_hit": 1,
-      "next_target": 81.95,
-      "next_target_pct": 5.66,
-      "last_signal_time": "15:15",
+      "targets_hit": 0,
+      "next_target": 16.31,
+      "next_target_pct": 7.11,
+      "last_signal_time": "14:40",
       "bars_since_signal": 8,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:35",
-          "price": 74.92
-        },
-        {
-          "kind": "Sell",
-          "time": "15:10",
-          "price": 76.71
-        },
-        {
-          "kind": "Buy",
-          "time": "15:15",
-          "price": 77.32
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "MRNA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 258.31,
-      "open_high": 237.35,
-      "open_low": 230.21,
-      "open_range": 7.14,
-      "vwap": 247.94,
-      "ema200": 237.91,
-      "above_ema200": true,
-      "entry_price": 248.92,
-      "change_pct": 3.77,
-      "day_change_pct": 9.69,
-      "volume": 13070415,
-      "targets": [
-        251.63,
-        265.91,
-        280.19,
-        294.47,
-        308.75
-      ],
-      "targets_hit": 1,
-      "next_target": 265.91,
-      "next_target_pct": 2.94,
-      "last_signal_time": "15:05",
-      "bars_since_signal": 10,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 246.7
-        },
-        {
-          "kind": "Sell",
-          "time": "10:00",
-          "price": 244.38
-        },
-        {
-          "kind": "Buy",
-          "time": "11:10",
-          "price": 250.43
-        },
-        {
-          "kind": "Sell",
-          "time": "13:35",
-          "price": 244.63
-        },
-        {
-          "kind": "Buy",
-          "time": "15:05",
-          "price": 248.92
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "SBUX",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 109.68,
-      "open_high": 107.16,
-      "open_low": 105.88,
-      "open_range": 1.28,
-      "vwap": 108.55,
-      "ema200": 106.53,
-      "above_ema200": true,
-      "entry_price": 108.56,
-      "change_pct": 1.03,
-      "day_change_pct": 3.16,
-      "volume": 8402683,
-      "targets": [
-        109.72,
-        112.28,
-        114.84,
-        117.4,
-        119.96
-      ],
-      "targets_hit": 1,
-      "next_target": 112.28,
-      "next_target_pct": 2.37,
-      "last_signal_time": "14:45",
-      "bars_since_signal": 14,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:45",
-          "price": 107.25
-        },
-        {
-          "kind": "Sell",
-          "time": "13:45",
-          "price": 108.24
-        },
-        {
-          "kind": "Buy",
-          "time": "14:45",
-          "price": 108.56
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "MA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 672.69,
-      "open_high": 664.9,
-      "open_low": 655.0,
-      "open_range": 9.9,
-      "vwap": 669.35,
-      "ema200": 659.55,
-      "above_ema200": true,
-      "entry_price": 670.82,
-      "change_pct": 0.28,
-      "day_change_pct": 2.53,
-      "volume": 7165956,
-      "targets": [
-        684.71,
-        704.51,
-        724.32,
-        744.12,
-        763.92
-      ],
-      "targets_hit": 0,
-      "next_target": 684.71,
-      "next_target_pct": 1.79,
-      "last_signal_time": "14:20",
-      "bars_since_signal": 19,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:40",
-          "price": 666.27
-        },
-        {
-          "kind": "Sell",
-          "time": "12:10",
-          "price": 668.93
-        },
-        {
-          "kind": "Buy",
-          "time": "14:20",
-          "price": 670.82
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "RBLX",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 49.31,
-      "open_high": 47.39,
-      "open_low": 46.1,
-      "open_range": 1.29,
-      "vwap": 48.58,
-      "ema200": 47.03,
-      "above_ema200": true,
-      "entry_price": 48.31,
-      "change_pct": 2.08,
-      "day_change_pct": 6.97,
-      "volume": 20345160,
-      "targets": [
-        49.96,
-        52.54,
-        55.12,
-        57.69,
-        60.27
-      ],
-      "targets_hit": 0,
-      "next_target": 49.96,
-      "next_target_pct": 1.32,
-      "last_signal_time": "14:00",
-      "bars_since_signal": 23,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 47.51
-        },
-        {
-          "kind": "Sell",
-          "time": "10:50",
-          "price": 47.8
-        },
-        {
-          "kind": "Buy",
-          "time": "11:40",
-          "price": 48.24
-        },
-        {
-          "kind": "Sell",
-          "time": "13:10",
-          "price": 48.15
-        },
-        {
-          "kind": "Buy",
-          "time": "13:15",
-          "price": 48.24
-        },
-        {
-          "kind": "Sell",
-          "time": "13:20",
-          "price": 48.13
-        },
-        {
-          "kind": "Buy",
-          "time": "14:00",
-          "price": 48.31
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "MSFT",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 556.03,
-      "open_high": 548.0,
-      "open_low": 542.34,
-      "open_range": 5.66,
-      "vwap": 553.78,
-      "ema200": 539.12,
-      "above_ema200": true,
-      "entry_price": 554.52,
-      "change_pct": 0.27,
-      "day_change_pct": 2.24,
-      "volume": 53288211,
-      "targets": [
-        559.32,
-        570.64,
-        581.95,
-        593.27,
-        604.59
-      ],
-      "targets_hit": 0,
-      "next_target": 559.32,
-      "next_target_pct": 0.59,
-      "last_signal_time": "13:05",
-      "bars_since_signal": 34,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 551.42
-        },
-        {
-          "kind": "Sell",
-          "time": "10:55",
-          "price": 551.82
-        },
-        {
-          "kind": "Buy",
-          "time": "11:35",
-          "price": 555.77
-        },
-        {
-          "kind": "Sell",
-          "time": "12:55",
-          "price": 552.74
-        },
-        {
-          "kind": "Buy",
-          "time": "13:05",
-          "price": 554.52
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "RIOT",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 15.39,
-      "open_high": 15.87,
-      "open_low": 15.4,
-      "open_range": 0.47,
-      "vwap": 15.67,
-      "ema200": 14.53,
-      "above_ema200": true,
-      "entry_price": 16.13,
-      "change_pct": -4.59,
-      "day_change_pct": -1.41,
-      "volume": 80620469,
-      "targets": [
-        16.81,
-        17.75,
-        18.69,
-        19.63,
-        20.57
-      ],
-      "targets_hit": 0,
-      "next_target": 16.81,
-      "next_target_pct": 9.23,
-      "last_signal_time": "12:25",
-      "bars_since_signal": 42,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 16.03
-        },
-        {
-          "kind": "Sell",
-          "time": "09:45",
-          "price": 15.5
-        },
-        {
-          "kind": "Buy",
-          "time": "10:00",
-          "price": 16.08
-        },
-        {
-          "kind": "Sell",
-          "time": "10:40",
-          "price": 15.63
-        },
-        {
-          "kind": "Buy",
-          "time": "12:25",
-          "price": 16.13
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "JNJ",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 276.33,
-      "open_high": 273.12,
-      "open_low": 270.82,
-      "open_range": 2.3,
-      "vwap": 272.65,
-      "ema200": 272.2,
-      "above_ema200": true,
-      "entry_price": 273.6,
-      "change_pct": 1.0,
-      "day_change_pct": 1.44,
-      "volume": 12530712,
-      "targets": [
-        277.72,
-        282.32,
-        286.92,
-        291.52,
-        296.12
-      ],
-      "targets_hit": 0,
-      "next_target": 277.72,
-      "next_target_pct": 0.5,
-      "last_signal_time": "12:05",
-      "bars_since_signal": 46,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "12:05",
-          "price": 273.6
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "MS",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 193.99,
-      "open_high": 190.8,
-      "open_low": 189.78,
-      "open_range": 1.02,
-      "vwap": 191.99,
-      "ema200": 189.52,
-      "above_ema200": true,
-      "entry_price": 192.33,
-      "change_pct": 0.86,
-      "day_change_pct": 2.09,
-      "volume": 5689139,
-      "targets": [
-        192.84,
-        194.88,
-        196.92,
-        198.96,
-        201.0
-      ],
-      "targets_hit": 1,
-      "next_target": 194.88,
-      "next_target_pct": 0.46,
-      "last_signal_time": "12:05",
-      "bars_since_signal": 46,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 191.28
-        },
-        {
-          "kind": "Sell",
-          "time": "09:45",
-          "price": 190.9
-        },
-        {
-          "kind": "Buy",
-          "time": "12:05",
-          "price": 192.33
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "BBD",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 2.58,
-      "open_high": 2.56,
-      "open_low": 2.53,
-      "open_range": 0.03,
-      "vwap": 2.55,
-      "ema200": 2.54,
-      "above_ema200": true,
-      "entry_price": 2.57,
-      "change_pct": 0.58,
-      "day_change_pct": 1.57,
-      "volume": 77415515,
-      "targets": [
-        2.62,
-        2.68,
-        2.74,
-        2.8,
-        2.86
-      ],
-      "targets_hit": 0,
-      "next_target": 2.62,
-      "next_target_pct": 1.55,
-      "last_signal_time": "11:50",
-      "bars_since_signal": 49,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:50",
-          "price": 2.57
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "SPY",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 766.73,
-      "open_high": 764.35,
-      "open_low": 762.65,
-      "open_range": 1.7,
-      "vwap": 766.29,
-      "ema200": 762.67,
-      "above_ema200": true,
-      "entry_price": 768.63,
-      "change_pct": -0.25,
-      "day_change_pct": 0.49,
-      "volume": 109173177,
-      "targets": [
-        767.75,
-        771.15,
-        774.55,
-        777.95,
-        781.35
-      ],
-      "targets_hit": 3,
-      "next_target": 777.95,
-      "next_target_pct": 1.46,
-      "last_signal_time": "11:50",
-      "bars_since_signal": 49,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 765.93
-        },
-        {
-          "kind": "Sell",
-          "time": "10:40",
-          "price": 766.31
-        },
-        {
-          "kind": "Buy",
-          "time": "11:50",
-          "price": 768.63
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "GS",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 928.2,
-      "open_high": 921.0,
-      "open_low": 915.0,
-      "open_range": 6.0,
-      "vwap": 922.73,
-      "ema200": 914.48,
-      "above_ema200": true,
-      "entry_price": 924.77,
-      "change_pct": 0.37,
-      "day_change_pct": 0.86,
-      "volume": 2177518,
-      "targets": [
-        933.0,
-        945.0,
-        957.0,
-        969.0,
-        981.0
-      ],
-      "targets_hit": 1,
-      "next_target": 945.0,
-      "next_target_pct": 1.81,
-      "last_signal_time": "11:45",
-      "bars_since_signal": 50,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 924.23
-        },
-        {
-          "kind": "Sell",
-          "time": "09:50",
-          "price": 917.49
-        },
-        {
-          "kind": "Buy",
-          "time": "11:45",
-          "price": 924.77
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "AAL",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 13.63,
-      "open_high": 13.64,
-      "open_low": 13.36,
-      "open_range": 0.28,
-      "vwap": 13.59,
-      "ema200": 13.28,
-      "above_ema200": true,
-      "entry_price": 13.72,
-      "change_pct": -0.66,
-      "day_change_pct": 1.41,
-      "volume": 70313538,
-      "targets": [
-        14.19,
-        14.74,
-        15.29,
-        15.84,
-        16.39
-      ],
-      "targets_hit": 0,
-      "next_target": 14.19,
-      "next_target_pct": 4.11,
-      "last_signal_time": "11:45",
-      "bars_since_signal": 50,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:45",
-          "price": 13.72
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "GE",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 329.5,
-      "open_high": 329.87,
-      "open_low": 325.01,
-      "open_range": 4.86,
-      "vwap": 328.33,
-      "ema200": 323.1,
-      "above_ema200": true,
-      "entry_price": 332.46,
-      "change_pct": -0.89,
-      "day_change_pct": 0.02,
-      "volume": 5556616,
-      "targets": [
-        339.59,
-        349.31,
-        359.03,
-        368.75,
-        378.47
-      ],
-      "targets_hit": 0,
-      "next_target": 339.59,
-      "next_target_pct": 3.06,
-      "last_signal_time": "11:45",
-      "bars_since_signal": 50,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:45",
-          "price": 332.46
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "F",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 12.67,
-      "open_high": 12.75,
-      "open_low": 12.59,
-      "open_range": 0.16,
-      "vwap": 12.7,
-      "ema200": 12.55,
-      "above_ema200": true,
-      "entry_price": 12.77,
-      "change_pct": -0.78,
-      "day_change_pct": 0.6,
-      "volume": 51995299,
-      "targets": [
-        13.07,
-        13.39,
-        13.71,
-        14.03,
-        14.35
-      ],
-      "targets_hit": 0,
-      "next_target": 13.07,
-      "next_target_pct": 3.16,
-      "last_signal_time": "11:40",
-      "bars_since_signal": 51,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:40",
-          "price": 12.77
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "DAL",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 89.25,
-      "open_high": 87.17,
-      "open_low": 85.61,
-      "open_range": 1.56,
-      "vwap": 87.92,
-      "ema200": 85.6,
-      "above_ema200": true,
-      "entry_price": 88.19,
-      "change_pct": 1.2,
-      "day_change_pct": 4.25,
-      "volume": 9860691,
-      "targets": [
-        90.29,
-        93.41,
-        96.53,
-        99.65,
-        102.77
-      ],
-      "targets_hit": 0,
-      "next_target": 90.29,
-      "next_target_pct": 1.17,
-      "last_signal_time": "11:35",
-      "bars_since_signal": 52,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:35",
-          "price": 88.19
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "BAC",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 51.62,
-      "open_high": 51.32,
-      "open_low": 50.78,
-      "open_range": 0.54,
-      "vwap": 51.38,
-      "ema200": 50.69,
-      "above_ema200": true,
-      "entry_price": 51.38,
-      "change_pct": 0.47,
-      "day_change_pct": 1.23,
-      "volume": 63347936,
-      "targets": [
-        52.4,
-        53.48,
-        54.56,
-        55.64,
-        56.72
-      ],
-      "targets_hit": 0,
-      "next_target": 52.4,
-      "next_target_pct": 1.5,
-      "last_signal_time": "10:50",
-      "bars_since_signal": 61,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:50",
-          "price": 51.38
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "JPM",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 352.19,
-      "open_high": 346.0,
-      "open_low": 342.21,
-      "open_range": 3.79,
-      "vwap": 349.17,
-      "ema200": 345.05,
-      "above_ema200": true,
-      "entry_price": 347.65,
-      "change_pct": 1.31,
-      "day_change_pct": 1.79,
-      "volume": 7469735,
-      "targets": [
-        353.58,
-        361.16,
-        368.74,
-        376.32,
-        383.9
-      ],
-      "targets_hit": 0,
-      "next_target": 353.58,
-      "next_target_pct": 0.39,
-      "last_signal_time": "10:40",
-      "bars_since_signal": 63,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 347.02
-        },
-        {
-          "kind": "Sell",
-          "time": "09:55",
-          "price": 344.37
-        },
-        {
-          "kind": "Buy",
-          "time": "10:40",
-          "price": 347.65
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "V",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 436.66,
-      "open_high": 429.59,
-      "open_low": 423.28,
-      "open_range": 6.31,
-      "vwap": 432.02,
-      "ema200": 427.18,
-      "above_ema200": true,
-      "entry_price": 431.08,
-      "change_pct": 1.29,
-      "day_change_pct": 2.16,
-      "volume": 7197448,
-      "targets": [
-        442.21,
-        454.83,
-        467.46,
-        480.08,
-        492.7
-      ],
-      "targets_hit": 0,
-      "next_target": 442.21,
-      "next_target_pct": 1.27,
-      "last_signal_time": "10:40",
-      "bars_since_signal": 63,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:40",
-          "price": 431.08
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "SCHW",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 93.37,
-      "open_high": 91.33,
-      "open_low": 90.65,
-      "open_range": 0.68,
-      "vwap": 92.63,
-      "ema200": 91.04,
-      "above_ema200": true,
-      "entry_price": 91.6,
-      "change_pct": 1.94,
-      "day_change_pct": 2.6,
-      "volume": 8830869,
-      "targets": [
-        92.69,
-        94.05,
-        95.41,
-        96.77,
-        98.13
-      ],
-      "targets_hit": 1,
-      "next_target": 94.05,
-      "next_target_pct": 0.73,
-      "last_signal_time": "10:15",
-      "bars_since_signal": 68,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:15",
-          "price": 91.6
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "MARA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 6.88,
-      "open_high": 7.0,
-      "open_low": 6.77,
-      "open_range": 0.23,
-      "vwap": 6.86,
-      "ema200": 6.87,
-      "above_ema200": true,
-      "entry_price": 7.02,
-      "change_pct": -2.07,
-      "day_change_pct": 1.52,
-      "volume": 44565993,
-      "targets": [
-        7.46,
-        7.92,
-        8.38,
-        8.84,
-        9.3
-      ],
-      "targets_hit": 0,
-      "next_target": 7.46,
-      "next_target_pct": 8.51,
-      "last_signal_time": "10:15",
-      "bars_since_signal": 68,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:15",
-          "price": 7.02
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "MCD",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 280.35,
-      "open_high": 273.69,
-      "open_low": 267.8,
-      "open_range": 5.89,
-      "vwap": 276.88,
-      "ema200": 270.66,
-      "above_ema200": true,
-      "entry_price": 274.66,
-      "change_pct": 2.07,
-      "day_change_pct": 4.46,
-      "volume": 10458193,
-      "targets": [
-        285.47,
-        297.25,
-        309.03,
-        320.81,
-        332.59
-      ],
-      "targets_hit": 0,
-      "next_target": 285.47,
-      "next_target_pct": 1.83,
-      "last_signal_time": "09:50",
-      "bars_since_signal": 73,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 274.39
-        },
-        {
-          "kind": "Sell",
-          "time": "09:40",
-          "price": 272.42
-        },
-        {
-          "kind": "Buy",
-          "time": "09:50",
-          "price": 274.66
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "UNH",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 409.37,
-      "open_high": 397.09,
-      "open_low": 392.5,
-      "open_range": 4.59,
-      "vwap": 404.23,
-      "ema200": 405.89,
-      "above_ema200": true,
-      "entry_price": 400.26,
-      "change_pct": 2.28,
-      "day_change_pct": 3.22,
-      "volume": 8061154,
-      "targets": [
-        406.27,
-        415.45,
-        424.63,
-        433.81,
-        442.99
-      ],
-      "targets_hit": 2,
-      "next_target": 424.63,
-      "next_target_pct": 3.73,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 400.26
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "COIN",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 151.58,
-      "open_high": 146.88,
-      "open_low": 141.88,
-      "open_range": 5.0,
-      "vwap": 150.03,
-      "ema200": 148.62,
-      "above_ema200": true,
-      "entry_price": 148.41,
-      "change_pct": 2.14,
-      "day_change_pct": 6.76,
-      "volume": 8144184,
-      "targets": [
-        156.88,
-        166.89,
-        176.89,
-        186.9,
-        196.9
-      ],
-      "targets_hit": 0,
-      "next_target": 156.88,
-      "next_target_pct": 3.5,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 148.41
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "DIA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 533.04,
-      "open_high": 528.96,
-      "open_low": 527.03,
-      "open_range": 1.93,
-      "vwap": 530.67,
-      "ema200": 525.88,
-      "above_ema200": true,
-      "entry_price": 529.56,
-      "change_pct": 0.66,
-      "day_change_pct": 0.99,
-      "volume": 6221302,
-      "targets": [
-        532.82,
-        536.68,
-        540.54,
-        544.4,
-        548.26
-      ],
-      "targets_hit": 1,
-      "next_target": 536.68,
-      "next_target_pct": 0.68,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 529.56
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "RIVN",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 14.06,
-      "open_high": 14.23,
-      "open_low": 13.63,
-      "open_range": 0.6,
-      "vwap": 14.05,
-      "ema200": 13.54,
-      "above_ema200": true,
-      "entry_price": 14.27,
-      "change_pct": -1.51,
-      "day_change_pct": 2.7,
-      "volume": 37659186,
-      "targets": [
-        15.43,
-        16.63,
-        17.83,
-        19.03,
-        20.23
-      ],
-      "targets_hit": 0,
-      "next_target": 15.43,
-      "next_target_pct": 9.74,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 14.27
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "NVDA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 200.29,
-      "open_high": 204.81,
-      "open_low": 200.94,
-      "open_range": 3.87,
-      "vwap": 202.89,
-      "ema200": 205.06,
-      "above_ema200": false,
-      "entry_price": 206.37,
-      "change_pct": -2.95,
-      "day_change_pct": -1.62,
-      "volume": 826944863,
-      "targets": [
-        212.55,
-        220.29,
-        228.03,
-        235.77,
-        243.51
-      ],
-      "targets_hit": 0,
-      "next_target": 212.55,
-      "next_target_pct": 6.12,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 206.37
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "CRWV",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 48.39,
-      "open_high": 51.5,
-      "open_low": 50.3,
-      "open_range": 1.2,
-      "vwap": 49.46,
-      "ema200": 51.04,
-      "above_ema200": false,
-      "entry_price": 52.08,
-      "change_pct": -7.09,
-      "day_change_pct": -3.89,
-      "volume": 56128045,
-      "targets": [
-        53.9,
-        56.3,
-        58.7,
-        61.1,
-        63.5
-      ],
-      "targets_hit": 0,
-      "next_target": 53.9,
-      "next_target_pct": 11.39,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 52.08
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "ARM",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 192.34,
-      "open_high": 204.85,
-      "open_low": 199.59,
-      "open_range": 5.26,
-      "vwap": 194.91,
-      "ema200": 199.08,
-      "above_ema200": false,
-      "entry_price": 207.45,
-      "change_pct": -7.28,
-      "day_change_pct": -4.95,
-      "volume": 7036936,
-      "targets": [
-        215.38,
-        225.91,
-        236.44,
-        246.97,
-        257.5
-      ],
-      "targets_hit": 0,
-      "next_target": 215.38,
-      "next_target_pct": 11.98,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 207.45
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "NFLX",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 66.39,
-      "open_high": 64.89,
-      "open_low": 64.02,
-      "open_range": 0.87,
-      "vwap": 66.03,
-      "ema200": 64.5,
-      "above_ema200": true,
-      "entry_price": 64.99,
-      "change_pct": 2.17,
-      "day_change_pct": 2.83,
-      "volume": 40207359,
-      "targets": [
-        66.62,
-        68.35,
-        70.08,
-        71.81,
-        73.54
-      ],
-      "targets_hit": 1,
-      "next_target": 68.35,
-      "next_target_pct": 2.94,
-      "last_signal_time": "09:35",
-      "bars_since_signal": 76,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 64.99
+          "time": "14:40",
+          "price": 15.14
         }
       ],
       "active": false
     },
     {
       "ticker": "GRAB",
-      "session_date": "2026-11-04",
+      "session_date": "2026-11-05",
       "state": 1,
-      "price": 3.36,
-      "open_high": 3.28,
-      "open_low": 3.2,
+      "price": 3.47,
+      "open_high": 3.42,
+      "open_low": 3.34,
       "open_range": 0.08,
-      "vwap": 3.33,
-      "ema200": 3.19,
+      "vwap": 3.38,
+      "ema200": 3.29,
       "above_ema200": true,
-      "entry_price": 3.3,
-      "change_pct": 1.82,
-      "day_change_pct": 4.52,
-      "volume": 87025716,
+      "entry_price": 3.44,
+      "change_pct": 1.02,
+      "day_change_pct": 3.73,
+      "volume": 97902255,
       "targets": [
-        3.44,
-        3.6,
-        3.76,
-        3.92,
-        4.08
+        3.58,
+        3.74,
+        3.9,
+        4.06,
+        4.22
       ],
       "targets_hit": 0,
-      "next_target": 3.44,
-      "next_target_pct": 2.53,
-      "last_signal_time": "09:35",
-      "bars_since_signal": 76,
+      "next_target": 3.58,
+      "next_target_pct": 3.02,
+      "last_signal_time": "13:30",
+      "bars_since_signal": 22,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:35",
-          "price": 3.3
+          "time": "13:30",
+          "price": 3.44
         }
       ],
       "active": true
-    },
-    {
-      "ticker": "ABBV",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 294.88,
-      "open_high": 294.19,
-      "open_low": 287.36,
-      "open_range": 6.83,
-      "vwap": 289.87,
-      "ema200": 289.78,
-      "above_ema200": true,
-      "entry_price": 294.88,
-      "change_pct": 0.0,
-      "day_change_pct": 1.21,
-      "volume": 9325375,
-      "targets": [
-        307.84,
-        321.49,
-        335.14,
-        348.79,
-        362.44
-      ],
-      "targets_hit": 0,
-      "next_target": 307.84,
-      "next_target_pct": 4.4,
-      "last_signal_time": "15:55",
-      "bars_since_signal": 0,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "15:55",
-          "price": 294.88
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "RKT",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 15.0,
-      "open_high": 14.74,
-      "open_low": 14.3,
-      "open_range": 0.44,
-      "vwap": 14.93,
-      "ema200": 14.25,
-      "above_ema200": true,
-      "entry_price": 15.0,
-      "change_pct": 0.0,
-      "day_change_pct": 4.9,
-      "volume": 85067281,
-      "targets": [
-        15.63,
-        16.52,
-        17.41,
-        18.3,
-        19.19
-      ],
-      "targets_hit": 0,
-      "next_target": 15.63,
-      "next_target_pct": 4.23,
-      "last_signal_time": "15:55",
-      "bars_since_signal": 0,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 14.77
-        },
-        {
-          "kind": "Sell",
-          "time": "10:20",
-          "price": 14.68
-        },
-        {
-          "kind": "Buy",
-          "time": "10:55",
-          "price": 14.84
-        },
-        {
-          "kind": "Sell",
-          "time": "14:15",
-          "price": 14.92
-        },
-        {
-          "kind": "Buy",
-          "time": "14:25",
-          "price": 14.94
-        },
-        {
-          "kind": "Sell",
-          "time": "14:40",
-          "price": 14.93
-        },
-        {
-          "kind": "Buy",
-          "time": "15:55",
-          "price": 15.0
-        }
-      ],
-      "active": true
-    }
-  ],
-  "all": [
-    {
-      "ticker": "AAL",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 13.63,
-      "open_high": 13.64,
-      "open_low": 13.36,
-      "open_range": 0.28,
-      "vwap": 13.59,
-      "ema200": 13.28,
-      "above_ema200": true,
-      "entry_price": 13.72,
-      "change_pct": -0.66,
-      "day_change_pct": 1.41,
-      "volume": 70313538,
-      "targets": [
-        14.19,
-        14.74,
-        15.29,
-        15.84,
-        16.39
-      ],
-      "targets_hit": 0,
-      "next_target": 14.19,
-      "next_target_pct": 4.11,
-      "last_signal_time": "11:45",
-      "bars_since_signal": 50,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:45",
-          "price": 13.72
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "AAPL",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 349.61,
-      "open_high": 347.0,
-      "open_low": 340.99,
-      "open_range": 6.01,
-      "vwap": 352.06,
-      "ema200": 345.22,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 2.35,
-      "volume": 163255989,
-      "targets": [
-        359.02,
-        371.04,
-        383.06,
-        395.08,
-        407.1
-      ],
-      "targets_hit": 0,
-      "next_target": 359.02,
-      "next_target_pct": 2.69,
-      "last_signal_time": "14:55",
-      "bars_since_signal": 12,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 348.42
-        },
-        {
-          "kind": "Sell",
-          "time": "11:20",
-          "price": 351.76
-        },
-        {
-          "kind": "Buy",
-          "time": "11:40",
-          "price": 352.79
-        },
-        {
-          "kind": "Sell",
-          "time": "14:55",
-          "price": 352.07
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "ABBV",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 294.88,
-      "open_high": 294.19,
-      "open_low": 287.36,
-      "open_range": 6.83,
-      "vwap": 289.87,
-      "ema200": 289.78,
-      "above_ema200": true,
-      "entry_price": 294.88,
-      "change_pct": 0.0,
-      "day_change_pct": 1.21,
-      "volume": 9325375,
-      "targets": [
-        307.84,
-        321.49,
-        335.14,
-        348.79,
-        362.44
-      ],
-      "targets_hit": 0,
-      "next_target": 307.84,
-      "next_target_pct": 4.4,
-      "last_signal_time": "15:55",
-      "bars_since_signal": 0,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "15:55",
-          "price": 294.88
-        }
-      ],
-      "active": false
     },
     {
       "ticker": "ADBE",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 248.48,
-      "open_high": 252.27,
-      "open_low": 246.14,
-      "open_range": 6.13,
-      "vwap": 251.0,
-      "ema200": 249.62,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 0.69,
-      "volume": 3660164,
-      "targets": [
-        264.53,
-        276.79,
-        289.05,
-        301.31,
-        313.57
-      ],
-      "targets_hit": 0,
-      "next_target": 264.53,
-      "next_target_pct": 6.46,
-      "last_signal_time": "11:20",
-      "bars_since_signal": 55,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:55",
-          "price": 252.7
-        },
-        {
-          "kind": "Sell",
-          "time": "11:20",
-          "price": 251.94
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "AFRM",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 75.61,
-      "open_high": 75.52,
-      "open_low": 71.97,
-      "open_range": 3.55,
-      "vwap": 76.27,
-      "ema200": 75.21,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 5.06,
-      "volume": 5974204,
-      "targets": [
-        82.62,
-        89.72,
-        96.82,
-        103.92,
-        111.02
-      ],
-      "targets_hit": 0,
-      "next_target": 82.62,
-      "next_target_pct": 9.27,
-      "last_signal_time": "14:45",
-      "bars_since_signal": 14,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 75.55
-        },
-        {
-          "kind": "Sell",
-          "time": "14:45",
-          "price": 76.34
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "AMD",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 488.85,
-      "open_high": 493.98,
-      "open_low": 476.5,
-      "open_range": 17.48,
-      "vwap": 486.51,
-      "ema200": 490.76,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 0.7,
-      "volume": 93046332,
-      "targets": [
-        528.94,
-        563.9,
-        598.86,
-        633.82,
-        668.78
-      ],
-      "targets_hit": 0,
-      "next_target": 528.94,
-      "next_target_pct": 8.2,
-      "last_signal_time": "10:20",
-      "bars_since_signal": 67,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 498.96
-        },
-        {
-          "kind": "Sell",
-          "time": "10:20",
-          "price": 490.5
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "AMZN",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 266.14,
-      "open_high": 269.97,
-      "open_low": 263.85,
-      "open_range": 6.12,
-      "vwap": 268.49,
-      "ema200": 258.93,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 0.51,
-      "volume": 103110352,
-      "targets": [
-        282.21,
-        294.45,
-        306.69,
-        318.93,
-        331.17
-      ],
-      "targets_hit": 0,
-      "next_target": 282.21,
-      "next_target_pct": 6.04,
-      "last_signal_time": "10:15",
-      "bars_since_signal": 68,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:55",
-          "price": 270.37
-        },
-        {
-          "kind": "Sell",
-          "time": "10:15",
-          "price": 268.95
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "ARM",
-      "session_date": "2026-11-04",
+      "session_date": "2026-11-05",
       "state": 1,
-      "price": 192.34,
-      "open_high": 204.85,
-      "open_low": 199.59,
-      "open_range": 5.26,
-      "vwap": 194.91,
-      "ema200": 199.08,
+      "price": 244.01,
+      "open_high": 251.32,
+      "open_low": 247.66,
+      "open_range": 3.66,
+      "vwap": 247.22,
+      "ema200": 248.06,
       "above_ema200": false,
-      "entry_price": 207.45,
-      "change_pct": -7.28,
-      "day_change_pct": -4.95,
-      "volume": 7036936,
+      "entry_price": 251.69,
+      "change_pct": -3.05,
+      "day_change_pct": -2.91,
+      "volume": 3631237,
       "targets": [
-        215.38,
-        225.91,
-        236.44,
-        246.97,
-        257.5
+        258.63,
+        265.94,
+        273.25,
+        280.56,
+        287.87
       ],
       "targets_hit": 0,
-      "next_target": 215.38,
-      "next_target_pct": 11.98,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
+      "next_target": 258.63,
+      "next_target_pct": 5.99,
+      "last_signal_time": "10:55",
+      "bars_since_signal": 53,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:40",
-          "price": 207.45
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "AVGO",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 325.7,
-      "open_high": 330.66,
-      "open_low": 326.03,
-      "open_range": 4.63,
-      "vwap": 327.47,
-      "ema200": 329.16,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -0.44,
-      "volume": 17791237,
-      "targets": [
-        339.92,
-        349.18,
-        358.44,
-        367.7,
-        376.96
-      ],
-      "targets_hit": 0,
-      "next_target": 339.92,
-      "next_target_pct": 4.37,
-      "last_signal_time": "10:20",
-      "bars_since_signal": 67,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 332.86
-        },
-        {
-          "kind": "Sell",
-          "time": "10:20",
-          "price": 328.68
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "BA",
-      "session_date": "2026-11-04",
-      "state": 0,
-      "price": 176.94,
-      "open_high": 179.07,
-      "open_low": 176.03,
-      "open_range": 3.03,
-      "vwap": 177.09,
-      "ema200": 175.72,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -0.03,
-      "volume": 17875960,
-      "targets": [
-        185.13,
-        191.2,
-        197.26,
-        203.33,
-        209.4
-      ],
-      "targets_hit": 0,
-      "next_target": 185.13,
-      "next_target_pct": 4.63,
-      "last_signal_time": null,
-      "bars_since_signal": null,
-      "signals": [],
-      "active": false
-    },
-    {
-      "ticker": "BAC",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 51.62,
-      "open_high": 51.32,
-      "open_low": 50.78,
-      "open_range": 0.54,
-      "vwap": 51.38,
-      "ema200": 50.69,
-      "above_ema200": true,
-      "entry_price": 51.38,
-      "change_pct": 0.47,
-      "day_change_pct": 1.23,
-      "volume": 63347936,
-      "targets": [
-        52.4,
-        53.48,
-        54.56,
-        55.64,
-        56.72
-      ],
-      "targets_hit": 0,
-      "next_target": 52.4,
-      "next_target_pct": 1.5,
-      "last_signal_time": "10:50",
-      "bars_since_signal": 61,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:50",
-          "price": 51.38
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "BBD",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 2.58,
-      "open_high": 2.56,
-      "open_low": 2.53,
-      "open_range": 0.03,
-      "vwap": 2.55,
-      "ema200": 2.54,
-      "above_ema200": true,
-      "entry_price": 2.57,
-      "change_pct": 0.58,
-      "day_change_pct": 1.57,
-      "volume": 77415515,
-      "targets": [
-        2.62,
-        2.68,
-        2.74,
-        2.8,
-        2.86
-      ],
-      "targets_hit": 0,
-      "next_target": 2.62,
-      "next_target_pct": 1.55,
-      "last_signal_time": "11:50",
-      "bars_since_signal": 49,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:50",
-          "price": 2.57
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "C",
-      "session_date": "2026-11-04",
-      "state": 0,
-      "price": 124.75,
-      "open_high": 127.12,
-      "open_low": 125.0,
-      "open_range": 2.12,
-      "vwap": 124.86,
-      "ema200": 123.8,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -0.96,
-      "volume": 13324799,
-      "targets": [
-        131.36,
-        135.6,
-        139.84,
-        144.08,
-        148.32
-      ],
-      "targets_hit": 0,
-      "next_target": 131.36,
-      "next_target_pct": 5.3,
-      "last_signal_time": null,
-      "bars_since_signal": null,
-      "signals": [],
-      "active": false
-    },
-    {
-      "ticker": "CAT",
-      "session_date": "2026-11-04",
-      "state": 0,
-      "price": 591.28,
-      "open_high": 609.45,
-      "open_low": 595.17,
-      "open_range": 14.28,
-      "vwap": 587.72,
-      "ema200": 604.57,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -2.98,
-      "volume": 10548942,
-      "targets": [
-        638.01,
-        666.57,
-        695.13,
-        723.69,
-        752.25
-      ],
-      "targets_hit": 0,
-      "next_target": 638.01,
-      "next_target_pct": 7.9,
-      "last_signal_time": null,
-      "bars_since_signal": null,
-      "signals": [],
-      "active": false
-    },
-    {
-      "ticker": "CIFR",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 6.51,
-      "open_high": 7.21,
-      "open_low": 6.9,
-      "open_range": 0.31,
-      "vwap": 6.62,
-      "ema200": 7.0,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -6.0,
-      "volume": 98971696,
-      "targets": [
-        7.83,
-        8.45,
-        9.07,
-        9.69,
-        10.31
-      ],
-      "targets_hit": 0,
-      "next_target": 7.83,
-      "next_target_pct": 20.37,
-      "last_signal_time": "09:45",
-      "bars_since_signal": 74,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 7.25
-        },
-        {
-          "kind": "Sell",
-          "time": "09:45",
-          "price": 6.89
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "COIN",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 151.58,
-      "open_high": 146.88,
-      "open_low": 141.88,
-      "open_range": 5.0,
-      "vwap": 150.03,
-      "ema200": 148.62,
-      "above_ema200": true,
-      "entry_price": 148.41,
-      "change_pct": 2.14,
-      "day_change_pct": 6.76,
-      "volume": 8144184,
-      "targets": [
-        156.88,
-        166.89,
-        176.89,
-        186.9,
-        196.9
-      ],
-      "targets_hit": 0,
-      "next_target": 156.88,
-      "next_target_pct": 3.5,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 148.41
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "COST",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 1046.58,
-      "open_high": 1037.6,
-      "open_low": 1029.47,
-      "open_range": 8.13,
-      "vwap": 1048.71,
-      "ema200": 1036.59,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 0.94,
-      "volume": 3182570,
-      "targets": [
-        1053.86,
-        1070.12,
-        1086.38,
-        1102.64,
-        1118.9
-      ],
-      "targets_hit": 0,
-      "next_target": 1053.86,
-      "next_target_pct": 0.7,
-      "last_signal_time": "15:55",
-      "bars_since_signal": 0,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:45",
-          "price": 1038.15
-        },
-        {
-          "kind": "Sell",
-          "time": "15:55",
-          "price": 1046.58
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "CRM",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 227.21,
-      "open_high": 231.96,
-      "open_low": 228.0,
-      "open_range": 3.96,
-      "vwap": 227.71,
-      "ema200": 226.69,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -0.78,
-      "volume": 8884704,
-      "targets": [
-        239.88,
-        247.8,
-        255.72,
-        263.64,
-        271.56
-      ],
-      "targets_hit": 0,
-      "next_target": 239.88,
-      "next_target_pct": 5.58,
-      "last_signal_time": "10:50",
-      "bars_since_signal": 61,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:10",
-          "price": 232.74
-        },
-        {
-          "kind": "Sell",
-          "time": "10:50",
-          "price": 230.97
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "CRWV",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 48.39,
-      "open_high": 51.5,
-      "open_low": 50.3,
-      "open_range": 1.2,
-      "vwap": 49.46,
-      "ema200": 51.04,
-      "above_ema200": false,
-      "entry_price": 52.08,
-      "change_pct": -7.09,
-      "day_change_pct": -3.89,
-      "volume": 56128045,
-      "targets": [
-        53.9,
-        56.3,
-        58.7,
-        61.1,
-        63.5
-      ],
-      "targets_hit": 0,
-      "next_target": 53.9,
-      "next_target_pct": 11.39,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 52.08
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "CVNA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 77.56,
-      "open_high": 74.71,
-      "open_low": 72.9,
-      "open_range": 1.81,
-      "vwap": 76.94,
-      "ema200": 74.41,
-      "above_ema200": true,
-      "entry_price": 77.32,
-      "change_pct": 0.32,
-      "day_change_pct": 5.9,
-      "volume": 19065403,
-      "targets": [
-        78.33,
-        81.95,
-        85.57,
-        89.19,
-        92.81
-      ],
-      "targets_hit": 1,
-      "next_target": 81.95,
-      "next_target_pct": 5.66,
-      "last_signal_time": "15:15",
-      "bars_since_signal": 8,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 74.92
-        },
-        {
-          "kind": "Sell",
-          "time": "15:10",
-          "price": 76.71
-        },
-        {
-          "kind": "Buy",
-          "time": "15:15",
-          "price": 77.32
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "CVS",
-      "session_date": "2026-11-04",
-      "state": 0,
-      "price": 80.0,
-      "open_high": 85.3,
-      "open_low": 78.5,
-      "open_range": 6.8,
-      "vwap": 80.3,
-      "ema200": 84.88,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -6.21,
-      "volume": 50441839,
-      "targets": [
-        98.9,
-        112.5,
-        126.1,
-        139.7,
-        153.3
-      ],
-      "targets_hit": 0,
-      "next_target": 98.9,
-      "next_target_pct": 23.63,
-      "last_signal_time": null,
-      "bars_since_signal": null,
-      "signals": [],
-      "active": false
-    },
-    {
-      "ticker": "CVX",
-      "session_date": "2026-11-04",
-      "state": 0,
-      "price": 217.0,
-      "open_high": 223.01,
-      "open_low": 218.33,
-      "open_range": 4.68,
-      "vwap": 217.1,
-      "ema200": 222.08,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -2.5,
-      "volume": 16544851,
-      "targets": [
-        232.37,
-        241.72,
-        251.08,
-        260.44,
-        269.8
-      ],
-      "targets_hit": 0,
-      "next_target": 232.37,
-      "next_target_pct": 7.08,
-      "last_signal_time": null,
-      "bars_since_signal": null,
-      "signals": [],
-      "active": false
-    },
-    {
-      "ticker": "DAL",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 89.25,
-      "open_high": 87.17,
-      "open_low": 85.61,
-      "open_range": 1.56,
-      "vwap": 87.92,
-      "ema200": 85.6,
-      "above_ema200": true,
-      "entry_price": 88.19,
-      "change_pct": 1.2,
-      "day_change_pct": 4.25,
-      "volume": 9860691,
-      "targets": [
-        90.29,
-        93.41,
-        96.53,
-        99.65,
-        102.77
-      ],
-      "targets_hit": 0,
-      "next_target": 90.29,
-      "next_target_pct": 1.17,
-      "last_signal_time": "11:35",
-      "bars_since_signal": 52,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:35",
-          "price": 88.19
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "DIA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 533.04,
-      "open_high": 528.96,
-      "open_low": 527.03,
-      "open_range": 1.93,
-      "vwap": 530.67,
-      "ema200": 525.88,
-      "above_ema200": true,
-      "entry_price": 529.56,
-      "change_pct": 0.66,
-      "day_change_pct": 0.99,
-      "volume": 6221302,
-      "targets": [
-        532.82,
-        536.68,
-        540.54,
-        544.4,
-        548.26
-      ],
-      "targets_hit": 1,
-      "next_target": 536.68,
-      "next_target_pct": 0.68,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 529.56
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "DIS",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 118.92,
-      "open_high": 118.44,
-      "open_low": 116.3,
-      "open_range": 2.14,
-      "vwap": 119.1,
-      "ema200": 116.37,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 2.25,
-      "volume": 38127283,
-      "targets": [
-        122.72,
-        127.0,
-        131.28,
-        135.56,
-        139.84
-      ],
-      "targets_hit": 0,
-      "next_target": 122.72,
-      "next_target_pct": 3.2,
-      "last_signal_time": "15:45",
-      "bars_since_signal": 2,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 118.5
-        },
-        {
-          "kind": "Sell",
-          "time": "14:15",
-          "price": 118.72
-        },
-        {
-          "kind": "Buy",
-          "time": "15:35",
-          "price": 119.28
-        },
-        {
-          "kind": "Sell",
-          "time": "15:45",
-          "price": 119.07
+          "time": "10:55",
+          "price": 251.69
         }
       ],
       "active": false
     },
     {
       "ticker": "DKNG",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 23.17,
-      "open_high": 23.16,
-      "open_low": 22.21,
-      "open_range": 0.94,
-      "vwap": 23.35,
-      "ema200": 22.58,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 4.31,
-      "volume": 14522252,
-      "targets": [
-        25.04,
-        26.93,
-        28.81,
-        30.7,
-        32.59
-      ],
-      "targets_hit": 0,
-      "next_target": 25.04,
-      "next_target_pct": 8.08,
-      "last_signal_time": "15:10",
-      "bars_since_signal": 9,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 23.24
-        },
-        {
-          "kind": "Sell",
-          "time": "09:45",
-          "price": 23.05
-        },
-        {
-          "kind": "Buy",
-          "time": "09:55",
-          "price": 23.32
-        },
-        {
-          "kind": "Sell",
-          "time": "13:25",
-          "price": 23.39
-        },
-        {
-          "kind": "Buy",
-          "time": "14:45",
-          "price": 23.5
-        },
-        {
-          "kind": "Sell",
-          "time": "15:10",
-          "price": 23.35
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "F",
-      "session_date": "2026-11-04",
+      "session_date": "2026-11-05",
       "state": 1,
-      "price": 12.67,
-      "open_high": 12.75,
-      "open_low": 12.59,
-      "open_range": 0.16,
-      "vwap": 12.7,
-      "ema200": 12.55,
+      "price": 23.32,
+      "open_high": 23.36,
+      "open_low": 23.08,
+      "open_range": 0.28,
+      "vwap": 23.22,
+      "ema200": 22.87,
       "above_ema200": true,
-      "entry_price": 12.77,
-      "change_pct": -0.78,
+      "entry_price": 23.52,
+      "change_pct": -0.87,
       "day_change_pct": 0.6,
-      "volume": 51995299,
+      "volume": 12315461,
       "targets": [
-        13.07,
-        13.39,
-        13.71,
-        14.03,
-        14.35
+        23.91,
+        24.46,
+        25.01,
+        25.56,
+        26.11
       ],
       "targets_hit": 0,
-      "next_target": 13.07,
-      "next_target_pct": 3.16,
-      "last_signal_time": "11:40",
-      "bars_since_signal": 51,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:40",
-          "price": 12.77
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "GE",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 329.5,
-      "open_high": 329.87,
-      "open_low": 325.01,
-      "open_range": 4.86,
-      "vwap": 328.33,
-      "ema200": 323.1,
-      "above_ema200": true,
-      "entry_price": 332.46,
-      "change_pct": -0.89,
-      "day_change_pct": 0.02,
-      "volume": 5556616,
-      "targets": [
-        339.59,
-        349.31,
-        359.03,
-        368.75,
-        378.47
-      ],
-      "targets_hit": 0,
-      "next_target": 339.59,
-      "next_target_pct": 3.06,
-      "last_signal_time": "11:45",
-      "bars_since_signal": 50,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "11:45",
-          "price": 332.46
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "GM",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 92.41,
-      "open_high": 90.72,
-      "open_low": 89.3,
-      "open_range": 1.42,
-      "vwap": 92.36,
-      "ema200": 90.54,
-      "above_ema200": true,
-      "entry_price": 92.58,
-      "change_pct": -0.19,
-      "day_change_pct": 3.19,
-      "volume": 6614672,
-      "targets": [
-        93.56,
-        96.4,
-        99.24,
-        102.08,
-        104.92
-      ],
-      "targets_hit": 1,
-      "next_target": 96.4,
-      "next_target_pct": 4.32,
-      "last_signal_time": "15:30",
-      "bars_since_signal": 5,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 91.27
-        },
-        {
-          "kind": "Sell",
-          "time": "14:15",
-          "price": 92.29
-        },
-        {
-          "kind": "Buy",
-          "time": "15:30",
-          "price": 92.58
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "GME",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 25.13,
-      "open_high": 24.49,
-      "open_low": 24.24,
-      "open_range": 0.25,
-      "vwap": 25.11,
-      "ema200": 24.7,
-      "above_ema200": true,
-      "entry_price": 25.17,
-      "change_pct": -0.16,
-      "day_change_pct": 2.78,
-      "volume": 10766909,
-      "targets": [
-        24.99,
-        25.49,
-        25.99,
-        26.49,
-        26.99
-      ],
-      "targets_hit": 1,
-      "next_target": 25.49,
-      "next_target_pct": 1.43,
-      "last_signal_time": "15:50",
-      "bars_since_signal": 1,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 24.51
-        },
-        {
-          "kind": "Sell",
-          "time": "15:00",
-          "price": 25.06
-        },
-        {
-          "kind": "Buy",
-          "time": "15:50",
-          "price": 25.17
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "GOOGL",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 288.99,
-      "open_high": 289.36,
-      "open_low": 283.51,
-      "open_range": 5.85,
-      "vwap": 291.67,
-      "ema200": 286.56,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 1.93,
-      "volume": 121786096,
-      "targets": [
-        301.06,
-        312.76,
-        324.46,
-        336.16,
-        347.86
-      ],
-      "targets_hit": 0,
-      "next_target": 301.06,
-      "next_target_pct": 4.18,
-      "last_signal_time": "13:25",
-      "bars_since_signal": 30,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 290.11
-        },
-        {
-          "kind": "Sell",
-          "time": "11:20",
-          "price": 290.32
-        },
-        {
-          "kind": "Buy",
-          "time": "11:45",
-          "price": 292.13
-        },
-        {
-          "kind": "Sell",
-          "time": "12:00",
-          "price": 291.37
-        },
-        {
-          "kind": "Buy",
-          "time": "12:45",
-          "price": 292.31
-        },
-        {
-          "kind": "Sell",
-          "time": "13:25",
-          "price": 291.67
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "GRAB",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 3.36,
-      "open_high": 3.28,
-      "open_low": 3.2,
-      "open_range": 0.08,
-      "vwap": 3.33,
-      "ema200": 3.19,
-      "above_ema200": true,
-      "entry_price": 3.3,
-      "change_pct": 1.82,
-      "day_change_pct": 4.52,
-      "volume": 87025716,
-      "targets": [
-        3.44,
-        3.6,
-        3.76,
-        3.92,
-        4.08
-      ],
-      "targets_hit": 0,
-      "next_target": 3.44,
+      "next_target": 23.91,
       "next_target_pct": 2.53,
-      "last_signal_time": "09:35",
-      "bars_since_signal": 76,
+      "last_signal_time": "10:30",
+      "bars_since_signal": 58,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:35",
-          "price": 3.3
+          "time": "10:30",
+          "price": 23.52
         }
       ],
-      "active": true
+      "active": false
     },
     {
-      "ticker": "GS",
-      "session_date": "2026-11-04",
+      "ticker": "MCD",
+      "session_date": "2026-11-05",
       "state": 1,
-      "price": 928.2,
-      "open_high": 921.0,
-      "open_low": 915.0,
-      "open_range": 6.0,
-      "vwap": 922.73,
-      "ema200": 914.48,
+      "price": 277.27,
+      "open_high": 281.0,
+      "open_low": 278.12,
+      "open_range": 2.88,
+      "vwap": 278.21,
+      "ema200": 274.12,
       "above_ema200": true,
-      "entry_price": 924.77,
-      "change_pct": 0.37,
-      "day_change_pct": 0.86,
-      "volume": 2177518,
+      "entry_price": 281.32,
+      "change_pct": -1.44,
+      "day_change_pct": -1.33,
+      "volume": 7337820,
       "targets": [
-        933.0,
-        945.0,
-        957.0,
-        969.0,
-        981.0
-      ],
-      "targets_hit": 1,
-      "next_target": 945.0,
-      "next_target_pct": 1.81,
-      "last_signal_time": "11:45",
-      "bars_since_signal": 50,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 924.23
-        },
-        {
-          "kind": "Sell",
-          "time": "09:50",
-          "price": 917.49
-        },
-        {
-          "kind": "Buy",
-          "time": "11:45",
-          "price": 924.77
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "HOOD",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 87.45,
-      "open_high": 85.41,
-      "open_low": 83.46,
-      "open_range": 1.95,
-      "vwap": 87.08,
-      "ema200": 86.55,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 4.12,
-      "volume": 24926110,
-      "targets": [
-        89.32,
-        93.23,
-        97.13,
-        101.04,
-        104.94
+        286.75,
+        292.5,
+        298.25,
+        304.0,
+        309.75
       ],
       "targets_hit": 0,
-      "next_target": 89.32,
-      "next_target_pct": 2.14,
-      "last_signal_time": "15:40",
-      "bars_since_signal": 3,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 86.13
-        },
-        {
-          "kind": "Sell",
-          "time": "10:40",
-          "price": 86.57
-        },
-        {
-          "kind": "Buy",
-          "time": "11:45",
-          "price": 87.77
-        },
-        {
-          "kind": "Sell",
-          "time": "15:40",
-          "price": 87.03
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "INTC",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 58.28,
-      "open_high": 58.93,
-      "open_low": 58.3,
-      "open_range": 0.63,
-      "vwap": 58.42,
-      "ema200": 61.11,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -0.78,
-      "volume": 171645134,
-      "targets": [
-        60.19,
-        61.45,
-        62.71,
-        63.97,
-        65.23
-      ],
-      "targets_hit": 1,
-      "next_target": 61.45,
-      "next_target_pct": 5.44,
-      "last_signal_time": "09:50",
-      "bars_since_signal": 73,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 59.49
-        },
-        {
-          "kind": "Sell",
-          "time": "09:50",
-          "price": 58.88
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "IREN",
-      "session_date": "2026-11-04",
-      "state": 0,
-      "price": 21.72,
-      "open_high": 23.68,
-      "open_low": 22.9,
-      "open_range": 0.78,
-      "vwap": 22.14,
-      "ema200": 22.85,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -5.96,
-      "volume": 68009228,
-      "targets": [
-        25.24,
-        26.8,
-        28.36,
-        29.92,
-        31.48
-      ],
-      "targets_hit": 0,
-      "next_target": 25.24,
-      "next_target_pct": 16.22,
-      "last_signal_time": null,
-      "bars_since_signal": null,
-      "signals": [],
-      "active": true
-    },
-    {
-      "ticker": "IWM",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 283.98,
-      "open_high": 285.72,
-      "open_low": 284.16,
-      "open_range": 1.56,
-      "vwap": 283.76,
-      "ema200": 282.37,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -0.07,
-      "volume": 32099029,
-      "targets": [
-        288.84,
-        291.96,
-        295.08,
-        298.2,
-        301.32
-      ],
-      "targets_hit": 0,
-      "next_target": 288.84,
-      "next_target_pct": 1.71,
-      "last_signal_time": "09:45",
-      "bars_since_signal": 74,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 285.78
-        },
-        {
-          "kind": "Sell",
-          "time": "09:45",
-          "price": 284.96
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "JNJ",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 276.33,
-      "open_high": 273.12,
-      "open_low": 270.82,
-      "open_range": 2.3,
-      "vwap": 272.65,
-      "ema200": 272.2,
-      "above_ema200": true,
-      "entry_price": 273.6,
-      "change_pct": 1.0,
-      "day_change_pct": 1.44,
-      "volume": 12530712,
-      "targets": [
-        277.72,
-        282.32,
-        286.92,
-        291.52,
-        296.12
-      ],
-      "targets_hit": 0,
-      "next_target": 277.72,
-      "next_target_pct": 0.5,
-      "last_signal_time": "12:05",
-      "bars_since_signal": 46,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "12:05",
-          "price": 273.6
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "JPM",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 352.19,
-      "open_high": 346.0,
-      "open_low": 342.21,
-      "open_range": 3.79,
-      "vwap": 349.17,
-      "ema200": 345.05,
-      "above_ema200": true,
-      "entry_price": 347.65,
-      "change_pct": 1.31,
-      "day_change_pct": 1.79,
-      "volume": 7469735,
-      "targets": [
-        353.58,
-        361.16,
-        368.74,
-        376.32,
-        383.9
-      ],
-      "targets_hit": 0,
-      "next_target": 353.58,
-      "next_target_pct": 0.39,
-      "last_signal_time": "10:40",
+      "next_target": 286.75,
+      "next_target_pct": 3.42,
+      "last_signal_time": "10:05",
       "bars_since_signal": 63,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:35",
-          "price": 347.02
-        },
-        {
-          "kind": "Sell",
-          "time": "09:55",
-          "price": 344.37
-        },
-        {
-          "kind": "Buy",
-          "time": "10:40",
-          "price": 347.65
+          "time": "10:05",
+          "price": 281.32
         }
       ],
       "active": false
     },
     {
-      "ticker": "LCID",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 3.37,
-      "open_high": 3.31,
-      "open_low": 3.08,
-      "open_range": 0.23,
-      "vwap": 3.38,
-      "ema200": 3.25,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 9.42,
-      "volume": 17273645,
+      "ticker": "QCOM",
+      "session_date": "2026-11-05",
+      "state": 1,
+      "price": 159.05,
+      "open_high": 157.5,
+      "open_low": 149.09,
+      "open_range": 8.41,
+      "vwap": 154.5,
+      "ema200": 160.84,
+      "above_ema200": false,
+      "entry_price": 157.77,
+      "change_pct": 0.81,
+      "day_change_pct": 5.82,
+      "volume": 41795579,
       "targets": [
-        3.76,
-        4.22,
-        4.67,
-        5.13,
-        5.58
+        174.32,
+        191.14,
+        207.96,
+        224.78,
+        241.6
       ],
       "targets_hit": 0,
-      "next_target": 3.76,
-      "next_target_pct": 11.66,
-      "last_signal_time": "15:45",
-      "bars_since_signal": 2,
+      "next_target": 174.32,
+      "next_target_pct": 9.6,
+      "last_signal_time": "09:45",
+      "bars_since_signal": 67,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:35",
-          "price": 3.37
-        },
-        {
-          "kind": "Sell",
-          "time": "10:40",
-          "price": 3.37
-        },
+          "time": "09:45",
+          "price": 157.77
+        }
+      ],
+      "active": false
+    }
+  ],
+  "all": [
+    {
+      "ticker": "AAL",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 12.9,
+      "open_high": 13.74,
+      "open_low": 13.55,
+      "open_range": 0.19,
+      "vwap": 12.9,
+      "ema200": 13.06,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -4.87,
+      "volume": 47698315,
+      "targets": [
+        14.13,
+        14.52,
+        14.91,
+        15.3,
+        15.69
+      ],
+      "targets_hit": 0,
+      "next_target": 14.13,
+      "next_target_pct": 9.62,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "AAPL",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 345.37,
+      "open_high": 355.38,
+      "open_low": 352.07,
+      "open_range": 3.31,
+      "vwap": 345.77,
+      "ema200": 345.39,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -2.41,
+      "volume": 204380201,
+      "targets": [
+        362.0,
+        368.62,
+        375.24,
+        381.86,
+        388.48
+      ],
+      "targets_hit": 0,
+      "next_target": 362.0,
+      "next_target_pct": 4.82,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "ABBV",
+      "session_date": "2026-11-05",
+      "state": -1,
+      "price": 289.36,
+      "open_high": 298.97,
+      "open_low": 295.53,
+      "open_range": 3.44,
+      "vwap": 294.06,
+      "ema200": 292.18,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.14,
+      "volume": 8925179,
+      "targets": [
+        305.85,
+        312.73,
+        319.61,
+        326.49,
+        333.37
+      ],
+      "targets_hit": 0,
+      "next_target": 305.85,
+      "next_target_pct": 5.7,
+      "last_signal_time": "10:45",
+      "bars_since_signal": 55,
+      "signals": [
         {
           "kind": "Buy",
-          "time": "14:55",
-          "price": 3.43
+          "time": "09:45",
+          "price": 299.14
         },
         {
           "kind": "Sell",
-          "time": "15:45",
-          "price": 3.35
+          "time": "10:45",
+          "price": 299.48
         }
       ],
       "active": false
     },
     {
-      "ticker": "LLY",
-      "session_date": "2026-11-04",
-      "state": 0,
-      "price": 1418.44,
-      "open_high": 1445.96,
-      "open_low": 1429.6,
-      "open_range": 16.36,
-      "vwap": 1422.42,
-      "ema200": 1418.34,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -1.5,
-      "volume": 6186731,
+      "ticker": "ADBE",
+      "session_date": "2026-11-05",
+      "state": 1,
+      "price": 244.01,
+      "open_high": 251.32,
+      "open_low": 247.66,
+      "open_range": 3.66,
+      "vwap": 247.22,
+      "ema200": 248.06,
+      "above_ema200": false,
+      "entry_price": 251.69,
+      "change_pct": -3.05,
+      "day_change_pct": -2.91,
+      "volume": 3631237,
       "targets": [
-        1478.68,
-        1511.4,
-        1544.12,
-        1576.84,
-        1609.56
+        258.63,
+        265.94,
+        273.25,
+        280.56,
+        287.87
       ],
       "targets_hit": 0,
-      "next_target": 1478.68,
-      "next_target_pct": 4.25,
+      "next_target": 258.63,
+      "next_target_pct": 5.99,
+      "last_signal_time": "10:55",
+      "bars_since_signal": 53,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "10:55",
+          "price": 251.69
+        }
+      ],
+      "active": false
+    },
+    {
+      "ticker": "AFRM",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 69.94,
+      "open_high": 77.25,
+      "open_low": 75.42,
+      "open_range": 1.83,
+      "vwap": 70.58,
+      "ema200": 72.47,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -7.97,
+      "volume": 4730123,
+      "targets": [
+        80.92,
+        84.59,
+        88.26,
+        91.93,
+        95.6
+      ],
+      "targets_hit": 0,
+      "next_target": 80.92,
+      "next_target_pct": 15.7,
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
       "active": false
     },
     {
-      "ticker": "LMT",
-      "session_date": "2026-11-04",
+      "ticker": "AMD",
+      "session_date": "2026-11-05",
       "state": 0,
-      "price": 594.69,
-      "open_high": 617.5,
-      "open_low": 602.25,
-      "open_range": 15.25,
-      "vwap": 599.75,
-      "ema200": 617.94,
+      "price": 415.29,
+      "open_high": 451.49,
+      "open_low": 440.7,
+      "open_range": 10.79,
+      "vwap": 420.46,
+      "ema200": 452.17,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -3.25,
-      "volume": 5221381,
+      "day_change_pct": -7.66,
+      "volume": 153731650,
       "targets": [
-        648.0,
-        678.5,
-        709.0,
-        739.5,
-        770.0
+        473.06,
+        494.63,
+        516.2,
+        537.77,
+        559.34
       ],
       "targets_hit": 0,
-      "next_target": 648.0,
+      "next_target": 473.06,
+      "next_target_pct": 13.91,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "AMZN",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 259.72,
+      "open_high": 273.23,
+      "open_low": 269.05,
+      "open_range": 4.18,
+      "vwap": 259.29,
+      "ema200": 259.22,
+      "above_ema200": true,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -4.39,
+      "volume": 114483804,
+      "targets": [
+        281.59,
+        289.95,
+        298.31,
+        306.67,
+        315.03
+      ],
+      "targets_hit": 0,
+      "next_target": 281.59,
+      "next_target_pct": 8.42,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "APLD",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 14.48,
+      "open_high": 16.0,
+      "open_low": 15.56,
+      "open_range": 0.44,
+      "vwap": 14.21,
+      "ema200": 15.51,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -9.02,
+      "volume": 41770113,
+      "targets": [
+        16.88,
+        17.76,
+        18.64,
+        19.52,
+        20.4
+      ],
+      "targets_hit": 0,
+      "next_target": 16.88,
+      "next_target_pct": 16.61,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "ARM",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 168.54,
+      "open_high": 175.28,
+      "open_low": 169.14,
+      "open_range": 6.14,
+      "vwap": 170.04,
+      "ema200": 183.22,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -1.97,
+      "volume": 12210589,
+      "targets": [
+        187.56,
+        199.84,
+        212.12,
+        224.4,
+        236.68
+      ],
+      "targets_hit": 0,
+      "next_target": 187.56,
+      "next_target_pct": 11.28,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "AVGO",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 295.67,
+      "open_high": 314.0,
+      "open_low": 310.62,
+      "open_range": 3.38,
+      "vwap": 301.92,
+      "ema200": 313.77,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -5.22,
+      "volume": 35383888,
+      "targets": [
+        320.76,
+        327.52,
+        334.28,
+        341.04,
+        347.8
+      ],
+      "targets_hit": 0,
+      "next_target": 320.76,
+      "next_target_pct": 8.49,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "BA",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 172.09,
+      "open_high": 177.34,
+      "open_low": 175.75,
+      "open_range": 1.59,
+      "vwap": 171.62,
+      "ema200": 173.41,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -2.69,
+      "volume": 8379000,
+      "targets": [
+        180.51,
+        183.68,
+        186.85,
+        190.02,
+        193.19
+      ],
+      "targets_hit": 0,
+      "next_target": 180.51,
+      "next_target_pct": 4.89,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "BAC",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 50.09,
+      "open_high": 52.88,
+      "open_low": 52.56,
+      "open_range": 0.32,
+      "vwap": 50.48,
+      "ema200": 50.54,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -4.92,
+      "volume": 68574731,
+      "targets": [
+        53.52,
+        54.16,
+        54.8,
+        55.44,
+        56.08
+      ],
+      "targets_hit": 0,
+      "next_target": 53.52,
+      "next_target_pct": 6.85,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "BBD",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 2.52,
+      "open_high": 2.6,
+      "open_low": 2.57,
+      "open_range": 0.03,
+      "vwap": 2.53,
+      "ema200": 2.53,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -2.9,
+      "volume": 46450220,
+      "targets": [
+        2.66,
+        2.72,
+        2.78,
+        2.84,
+        2.9
+      ],
+      "targets_hit": 0,
+      "next_target": 2.66,
+      "next_target_pct": 5.77,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "C",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 118.49,
+      "open_high": 127.35,
+      "open_low": 126.47,
+      "open_range": 0.88,
+      "vwap": 119.91,
+      "ema200": 121.2,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -6.32,
+      "volume": 11263167,
+      "targets": [
+        129.1,
+        130.86,
+        132.61,
+        134.37,
+        136.12
+      ],
+      "targets_hit": 0,
+      "next_target": 129.1,
       "next_target_pct": 8.96,
       "last_signal_time": null,
       "bars_since_signal": null,
@@ -3249,158 +692,1073 @@
       "active": false
     },
     {
-      "ticker": "MA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 672.69,
-      "open_high": 664.9,
-      "open_low": 655.0,
-      "open_range": 9.9,
-      "vwap": 669.35,
-      "ema200": 659.55,
-      "above_ema200": true,
-      "entry_price": 670.82,
-      "change_pct": 0.28,
-      "day_change_pct": 2.53,
-      "volume": 7165956,
+      "ticker": "CAT",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 557.76,
+      "open_high": 584.16,
+      "open_low": 575.02,
+      "open_range": 9.14,
+      "vwap": 564.2,
+      "ema200": 582.65,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.19,
+      "volume": 8460892,
       "targets": [
-        684.71,
-        704.51,
-        724.32,
-        744.12,
-        763.92
+        602.45,
+        620.74,
+        639.03,
+        657.32,
+        675.61
       ],
       "targets_hit": 0,
-      "next_target": 684.71,
-      "next_target_pct": 1.79,
-      "last_signal_time": "14:20",
-      "bars_since_signal": 19,
+      "next_target": 602.45,
+      "next_target_pct": 8.01,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "CIFR",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 5.82,
+      "open_high": 6.3,
+      "open_low": 6.02,
+      "open_range": 0.28,
+      "vwap": 5.65,
+      "ema200": 6.26,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -5.86,
+      "volume": 67835962,
+      "targets": [
+        6.87,
+        7.44,
+        8.01,
+        8.58,
+        9.15
+      ],
+      "targets_hit": 0,
+      "next_target": 6.87,
+      "next_target_pct": 18.13,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "COIN",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 137.77,
+      "open_high": 151.58,
+      "open_low": 148.51,
+      "open_range": 3.07,
+      "vwap": 138.42,
+      "ema200": 142.31,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -7.54,
+      "volume": 11874335,
+      "targets": [
+        157.72,
+        163.86,
+        170.0,
+        176.14,
+        182.28
+      ],
+      "targets_hit": 0,
+      "next_target": 157.72,
+      "next_target_pct": 14.48,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "COST",
+      "session_date": "2026-11-05",
+      "state": -1,
+      "price": 1063.55,
+      "open_high": 1072.07,
+      "open_low": 1061.33,
+      "open_range": 10.74,
+      "vwap": 1071.93,
+      "ema200": 1053.14,
+      "above_ema200": true,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -0.51,
+      "volume": 3796446,
+      "targets": [
+        1093.55,
+        1115.03,
+        1136.51,
+        1157.99,
+        1179.47
+      ],
+      "targets_hit": 0,
+      "next_target": 1093.55,
+      "next_target_pct": 2.82,
+      "last_signal_time": "11:10",
+      "bars_since_signal": 50,
       "signals": [
         {
           "kind": "Buy",
-          "time": "10:40",
-          "price": 666.27
+          "time": "10:05",
+          "price": 1073.4
         },
         {
           "kind": "Sell",
-          "time": "12:10",
-          "price": 668.93
-        },
-        {
-          "kind": "Buy",
-          "time": "14:20",
-          "price": 670.82
+          "time": "11:10",
+          "price": 1071.81
         }
       ],
       "active": false
     },
     {
-      "ticker": "MARA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 6.88,
-      "open_high": 7.0,
-      "open_low": 6.77,
-      "open_range": 0.23,
-      "vwap": 6.86,
-      "ema200": 6.87,
-      "above_ema200": true,
-      "entry_price": 7.02,
-      "change_pct": -2.07,
-      "day_change_pct": 1.52,
-      "volume": 44565993,
+      "ticker": "CRM",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 220.84,
+      "open_high": 229.38,
+      "open_low": 224.58,
+      "open_range": 4.8,
+      "vwap": 222.32,
+      "ema200": 224.59,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.59,
+      "volume": 7687914,
       "targets": [
-        7.46,
-        7.92,
-        8.38,
-        8.84,
-        9.3
+        238.99,
+        248.6,
+        258.21,
+        267.82,
+        277.43
       ],
       "targets_hit": 0,
-      "next_target": 7.46,
-      "next_target_pct": 8.51,
-      "last_signal_time": "10:15",
-      "bars_since_signal": 68,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:15",
-          "price": 7.02
-        }
-      ],
+      "next_target": 238.99,
+      "next_target_pct": 8.22,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
-      "ticker": "MCD",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 280.35,
-      "open_high": 273.69,
-      "open_low": 267.8,
-      "open_range": 5.89,
-      "vwap": 276.88,
-      "ema200": 270.66,
-      "above_ema200": true,
-      "entry_price": 274.66,
-      "change_pct": 2.07,
-      "day_change_pct": 4.46,
-      "volume": 10458193,
+      "ticker": "CRWV",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 43.99,
+      "open_high": 47.29,
+      "open_low": 46.06,
+      "open_range": 1.23,
+      "vwap": 43.18,
+      "ema200": 46.8,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -5.49,
+      "volume": 93986396,
       "targets": [
-        285.47,
-        297.25,
-        309.03,
-        320.81,
-        332.59
+        49.75,
+        52.2,
+        54.66,
+        57.12,
+        59.58
       ],
       "targets_hit": 0,
-      "next_target": 285.47,
-      "next_target_pct": 1.83,
-      "last_signal_time": "09:50",
-      "bars_since_signal": 73,
+      "next_target": 49.75,
+      "next_target_pct": 13.1,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "CVNA",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 71.16,
+      "open_high": 78.17,
+      "open_low": 76.09,
+      "open_range": 2.08,
+      "vwap": 72.08,
+      "ema200": 72.98,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -8.3,
+      "volume": 11984838,
+      "targets": [
+        82.33,
+        86.49,
+        90.65,
+        94.81,
+        98.97
+      ],
+      "targets_hit": 0,
+      "next_target": 82.33,
+      "next_target_pct": 15.7,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "CVS",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 80.3,
+      "open_high": 83.39,
+      "open_low": 81.51,
+      "open_range": 1.88,
+      "vwap": 81.52,
+      "ema200": 82.88,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -1.65,
+      "volume": 13726042,
+      "targets": [
+        87.15,
+        90.91,
+        94.67,
+        98.43,
+        102.19
+      ],
+      "targets_hit": 0,
+      "next_target": 87.15,
+      "next_target_pct": 8.53,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "CVX",
+      "session_date": "2026-11-05",
+      "state": -1,
+      "price": 215.52,
+      "open_high": 220.57,
+      "open_low": 218.28,
+      "open_range": 2.29,
+      "vwap": 219.2,
+      "ema200": 220.1,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -2.04,
+      "volume": 6243066,
+      "targets": [
+        225.15,
+        229.72,
+        234.3,
+        238.88,
+        243.46
+      ],
+      "targets_hit": 0,
+      "next_target": 225.15,
+      "next_target_pct": 4.47,
+      "last_signal_time": "11:20",
+      "bars_since_signal": 48,
       "signals": [
         {
           "kind": "Buy",
           "time": "09:35",
-          "price": 274.39
+          "price": 220.81
         },
         {
           "kind": "Sell",
-          "time": "09:40",
-          "price": 272.42
+          "time": "10:10",
+          "price": 220.38
         },
         {
           "kind": "Buy",
-          "time": "09:50",
-          "price": 274.66
+          "time": "10:25",
+          "price": 221.1
+        },
+        {
+          "kind": "Sell",
+          "time": "11:20",
+          "price": 220.38
+        }
+      ],
+      "active": false
+    },
+    {
+      "ticker": "DAL",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 85.41,
+      "open_high": 89.92,
+      "open_low": 88.71,
+      "open_range": 1.21,
+      "vwap": 85.51,
+      "ema200": 85.3,
+      "above_ema200": true,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.8,
+      "volume": 5415467,
+      "targets": [
+        92.34,
+        94.76,
+        97.18,
+        99.6,
+        102.02
+      ],
+      "targets_hit": 0,
+      "next_target": 92.34,
+      "next_target_pct": 8.11,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "DIA",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 515.98,
+      "open_high": 536.6,
+      "open_low": 534.88,
+      "open_range": 1.72,
+      "vwap": 521.29,
+      "ema200": 522.52,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.73,
+      "volume": 8353895,
+      "targets": [
+        540.04,
+        543.48,
+        546.92,
+        550.36,
+        553.8
+      ],
+      "targets_hit": 0,
+      "next_target": 540.04,
+      "next_target_pct": 4.66,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "DIS",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 117.37,
+      "open_high": 120.8,
+      "open_low": 119.31,
+      "open_range": 1.49,
+      "vwap": 118.18,
+      "ema200": 117.16,
+      "above_ema200": true,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -1.65,
+      "volume": 11667431,
+      "targets": [
+        123.78,
+        126.76,
+        129.74,
+        132.72,
+        135.7
+      ],
+      "targets_hit": 0,
+      "next_target": 123.78,
+      "next_target_pct": 5.46,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "DKNG",
+      "session_date": "2026-11-05",
+      "state": 1,
+      "price": 23.32,
+      "open_high": 23.36,
+      "open_low": 23.08,
+      "open_range": 0.28,
+      "vwap": 23.22,
+      "ema200": 22.87,
+      "above_ema200": true,
+      "entry_price": 23.52,
+      "change_pct": -0.87,
+      "day_change_pct": 0.6,
+      "volume": 12315461,
+      "targets": [
+        23.91,
+        24.46,
+        25.01,
+        25.56,
+        26.11
+      ],
+      "targets_hit": 0,
+      "next_target": 23.91,
+      "next_target_pct": 2.53,
+      "last_signal_time": "10:30",
+      "bars_since_signal": 58,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "10:30",
+          "price": 23.52
+        }
+      ],
+      "active": false
+    },
+    {
+      "ticker": "F",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 12.45,
+      "open_high": 12.86,
+      "open_low": 12.78,
+      "open_range": 0.08,
+      "vwap": 12.46,
+      "ema200": 12.51,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -2.78,
+      "volume": 62047953,
+      "targets": [
+        13.02,
+        13.18,
+        13.34,
+        13.5,
+        13.66
+      ],
+      "targets_hit": 0,
+      "next_target": 13.02,
+      "next_target_pct": 4.55,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "GE",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 316.28,
+      "open_high": 333.32,
+      "open_low": 327.95,
+      "open_range": 5.37,
+      "vwap": 317.87,
+      "ema200": 319.75,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -4.09,
+      "volume": 6186915,
+      "targets": [
+        344.06,
+        354.81,
+        365.55,
+        376.3,
+        387.04
+      ],
+      "targets_hit": 0,
+      "next_target": 344.06,
+      "next_target_pct": 8.78,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "GM",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 89.21,
+      "open_high": 93.47,
+      "open_low": 92.86,
+      "open_range": 0.61,
+      "vwap": 90.08,
+      "ema200": 90.05,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -4.1,
+      "volume": 5771336,
+      "targets": [
+        94.68,
+        95.89,
+        97.1,
+        98.31,
+        99.52
+      ],
+      "targets_hit": 0,
+      "next_target": 94.68,
+      "next_target_pct": 6.13,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "GME",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 24.12,
+      "open_high": 25.4,
+      "open_low": 25.05,
+      "open_range": 0.35,
+      "vwap": 24.39,
+      "ema200": 24.52,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -4.78,
+      "volume": 12728209,
+      "targets": [
+        26.1,
+        26.8,
+        27.5,
+        28.19,
+        28.89
+      ],
+      "targets_hit": 0,
+      "next_target": 26.1,
+      "next_target_pct": 8.2,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "GOOGL",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 284.51,
+      "open_high": 295.6,
+      "open_low": 293.3,
+      "open_range": 2.3,
+      "vwap": 285.72,
+      "ema200": 285.37,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.22,
+      "volume": 93752089,
+      "targets": [
+        300.2,
+        304.8,
+        309.4,
+        314.0,
+        318.6
+      ],
+      "targets_hit": 0,
+      "next_target": 300.2,
+      "next_target_pct": 5.51,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "GRAB",
+      "session_date": "2026-11-05",
+      "state": 1,
+      "price": 3.47,
+      "open_high": 3.42,
+      "open_low": 3.34,
+      "open_range": 0.08,
+      "vwap": 3.38,
+      "ema200": 3.29,
+      "above_ema200": true,
+      "entry_price": 3.44,
+      "change_pct": 1.02,
+      "day_change_pct": 3.73,
+      "volume": 97902255,
+      "targets": [
+        3.58,
+        3.74,
+        3.9,
+        4.06,
+        4.22
+      ],
+      "targets_hit": 0,
+      "next_target": 3.58,
+      "next_target_pct": 3.02,
+      "last_signal_time": "13:30",
+      "bars_since_signal": 22,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "13:30",
+          "price": 3.44
+        }
+      ],
+      "active": true
+    },
+    {
+      "ticker": "GS",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 872.79,
+      "open_high": 934.0,
+      "open_low": 928.0,
+      "open_range": 6.0,
+      "vwap": 877.23,
+      "ema200": 891.59,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -6.39,
+      "volume": 2937935,
+      "targets": [
+        946.0,
+        958.0,
+        970.0,
+        982.0,
+        994.0
+      ],
+      "targets_hit": 0,
+      "next_target": 946.0,
+      "next_target_pct": 8.39,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "HOOD",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 78.49,
+      "open_high": 86.75,
+      "open_low": 84.82,
+      "open_range": 1.93,
+      "vwap": 78.76,
+      "ema200": 82.02,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -8.49,
+      "volume": 25469459,
+      "targets": [
+        90.62,
+        94.48,
+        98.35,
+        102.21,
+        106.08
+      ],
+      "targets_hit": 0,
+      "next_target": 90.62,
+      "next_target_pct": 15.45,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "INTC",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 53.7,
+      "open_high": 56.7,
+      "open_low": 55.24,
+      "open_range": 1.46,
+      "vwap": 54.01,
+      "ema200": 56.96,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -4.91,
+      "volume": 482800102,
+      "targets": [
+        59.62,
+        62.54,
+        65.46,
+        68.38,
+        71.3
+      ],
+      "targets_hit": 0,
+      "next_target": 59.62,
+      "next_target_pct": 11.02,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "IREN",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 18.7,
+      "open_high": 20.98,
+      "open_low": 20.11,
+      "open_range": 0.87,
+      "vwap": 18.63,
+      "ema200": 20.52,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -9.15,
+      "volume": 93657079,
+      "targets": [
+        22.72,
+        24.46,
+        26.2,
+        27.94,
+        29.68
+      ],
+      "targets_hit": 0,
+      "next_target": 22.72,
+      "next_target_pct": 21.46,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "IWM",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 271.92,
+      "open_high": 284.67,
+      "open_low": 283.59,
+      "open_range": 1.08,
+      "vwap": 273.58,
+      "ema200": 277.9,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -4.17,
+      "volume": 74983738,
+      "targets": [
+        286.82,
+        288.97,
+        291.12,
+        293.27,
+        295.42
+      ],
+      "targets_hit": 0,
+      "next_target": 286.82,
+      "next_target_pct": 5.48,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "JNJ",
+      "session_date": "2026-11-05",
+      "state": -1,
+      "price": 272.32,
+      "open_high": 279.13,
+      "open_low": 277.14,
+      "open_range": 1.99,
+      "vwap": 277.33,
+      "ema200": 274.21,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -2.36,
+      "volume": 20774545,
+      "targets": [
+        283.11,
+        287.09,
+        291.07,
+        295.05,
+        299.03
+      ],
+      "targets_hit": 0,
+      "next_target": 283.11,
+      "next_target_pct": 3.96,
+      "last_signal_time": "10:30",
+      "bars_since_signal": 58,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "09:45",
+          "price": 279.65
+        },
+        {
+          "kind": "Sell",
+          "time": "10:30",
+          "price": 279.74
+        }
+      ],
+      "active": false
+    },
+    {
+      "ticker": "JPM",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 337.31,
+      "open_high": 359.8,
+      "open_low": 357.48,
+      "open_range": 2.32,
+      "vwap": 343.13,
+      "ema200": 342.42,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -5.95,
+      "volume": 7991691,
+      "targets": [
+        364.44,
+        369.08,
+        373.72,
+        378.36,
+        383.0
+      ],
+      "targets_hit": 0,
+      "next_target": 364.44,
+      "next_target_pct": 8.04,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "LCID",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 3.06,
+      "open_high": 3.34,
+      "open_low": 3.27,
+      "open_range": 0.07,
+      "vwap": 3.06,
+      "ema200": 3.14,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -7.92,
+      "volume": 13063594,
+      "targets": [
+        3.48,
+        3.61,
+        3.75,
+        3.88,
+        4.02
+      ],
+      "targets_hit": 0,
+      "next_target": 3.48,
+      "next_target_pct": 13.71,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "LLY",
+      "session_date": "2026-11-05",
+      "state": -1,
+      "price": 1374.78,
+      "open_high": 1438.0,
+      "open_low": 1417.72,
+      "open_range": 20.28,
+      "vwap": 1417.98,
+      "ema200": 1409.12,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -4.13,
+      "volume": 4053729,
+      "targets": [
+        1478.56,
+        1519.12,
+        1559.68,
+        1600.24,
+        1640.8
+      ],
+      "targets_hit": 0,
+      "next_target": 1478.56,
+      "next_target_pct": 7.55,
+      "last_signal_time": "10:15",
+      "bars_since_signal": 61,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "09:55",
+          "price": 1443.91
+        },
+        {
+          "kind": "Sell",
+          "time": "10:15",
+          "price": 1442.23
+        }
+      ],
+      "active": false
+    },
+    {
+      "ticker": "LMT",
+      "session_date": "2026-11-05",
+      "state": -1,
+      "price": 579.34,
+      "open_high": 592.3,
+      "open_low": 584.85,
+      "open_range": 7.45,
+      "vwap": 591.38,
+      "ema200": 602.53,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -1.61,
+      "volume": 1175443,
+      "targets": [
+        607.2,
+        622.1,
+        637.0,
+        651.9,
+        666.8
+      ],
+      "targets_hit": 0,
+      "next_target": 607.2,
+      "next_target_pct": 4.81,
+      "last_signal_time": "11:25",
+      "bars_since_signal": 47,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "09:35",
+          "price": 592.48
+        },
+        {
+          "kind": "Sell",
+          "time": "11:25",
+          "price": 597.6
+        }
+      ],
+      "active": false
+    },
+    {
+      "ticker": "MA",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 656.37,
+      "open_high": 681.99,
+      "open_low": 675.64,
+      "open_range": 6.35,
+      "vwap": 665.99,
+      "ema200": 661.16,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.48,
+      "volume": 3066561,
+      "targets": [
+        694.69,
+        707.39,
+        720.09,
+        732.79,
+        745.49
+      ],
+      "targets_hit": 0,
+      "next_target": 694.69,
+      "next_target_pct": 5.84,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "MARA",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 6.09,
+      "open_high": 6.82,
+      "open_low": 6.62,
+      "open_range": 0.2,
+      "vwap": 6.09,
+      "ema200": 6.42,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -9.04,
+      "volume": 35718323,
+      "targets": [
+        7.22,
+        7.62,
+        8.02,
+        8.42,
+        8.82
+      ],
+      "targets_hit": 0,
+      "next_target": 7.22,
+      "next_target_pct": 18.65,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "MCD",
+      "session_date": "2026-11-05",
+      "state": 1,
+      "price": 277.27,
+      "open_high": 281.0,
+      "open_low": 278.12,
+      "open_range": 2.88,
+      "vwap": 278.21,
+      "ema200": 274.12,
+      "above_ema200": true,
+      "entry_price": 281.32,
+      "change_pct": -1.44,
+      "day_change_pct": -1.33,
+      "volume": 7337820,
+      "targets": [
+        286.75,
+        292.5,
+        298.25,
+        304.0,
+        309.75
+      ],
+      "targets_hit": 0,
+      "next_target": 286.75,
+      "next_target_pct": 3.42,
+      "last_signal_time": "10:05",
+      "bars_since_signal": 63,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "10:05",
+          "price": 281.32
         }
       ],
       "active": false
     },
     {
       "ticker": "META",
-      "session_date": "2026-11-04",
+      "session_date": "2026-11-05",
       "state": 0,
-      "price": 629.89,
-      "open_high": 643.09,
-      "open_low": 629.98,
-      "open_range": 13.11,
-      "vwap": 633.62,
-      "ema200": 626.02,
-      "above_ema200": true,
+      "price": 606.6,
+      "open_high": 634.99,
+      "open_low": 626.88,
+      "open_range": 8.11,
+      "vwap": 601.67,
+      "ema200": 614.65,
+      "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -1.79,
-      "volume": 27602167,
+      "day_change_pct": -4.07,
+      "volume": 51872304,
       "targets": [
-        669.31,
-        695.53,
-        721.75,
-        747.97,
-        774.19
+        651.21,
+        667.43,
+        683.65,
+        699.87,
+        716.09
       ],
       "targets_hit": 0,
-      "next_target": 669.31,
-      "next_target_pct": 6.26,
+      "next_target": 651.21,
+      "next_target_pct": 7.35,
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
@@ -3408,555 +1766,389 @@
     },
     {
       "ticker": "MRNA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 258.31,
-      "open_high": 237.35,
-      "open_low": 230.21,
-      "open_range": 7.14,
-      "vwap": 247.94,
-      "ema200": 237.91,
-      "above_ema200": true,
-      "entry_price": 248.92,
-      "change_pct": 3.77,
-      "day_change_pct": 9.69,
-      "volume": 13070415,
-      "targets": [
-        251.63,
-        265.91,
-        280.19,
-        294.47,
-        308.75
-      ],
-      "targets_hit": 1,
-      "next_target": 265.91,
-      "next_target_pct": 2.94,
-      "last_signal_time": "15:05",
-      "bars_since_signal": 10,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 246.7
-        },
-        {
-          "kind": "Sell",
-          "time": "10:00",
-          "price": 244.38
-        },
-        {
-          "kind": "Buy",
-          "time": "11:10",
-          "price": 250.43
-        },
-        {
-          "kind": "Sell",
-          "time": "13:35",
-          "price": 244.63
-        },
-        {
-          "kind": "Buy",
-          "time": "15:05",
-          "price": 248.92
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "MRVL",
-      "session_date": "2026-11-04",
+      "session_date": "2026-11-05",
       "state": 0,
-      "price": 159.91,
-      "open_high": 166.26,
-      "open_low": 160.29,
-      "open_range": 5.97,
-      "vwap": 159.3,
-      "ema200": 168.19,
-      "above_ema200": false,
+      "price": 242.51,
+      "open_high": 260.67,
+      "open_low": 252.4,
+      "open_range": 8.27,
+      "vwap": 245.66,
+      "ema200": 240.48,
+      "above_ema200": true,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -3.34,
-      "volume": 73902509,
+      "day_change_pct": -6.0,
+      "volume": 9259476,
       "targets": [
-        178.2,
-        190.14,
-        202.08,
-        214.02,
-        225.96
+        277.21,
+        293.75,
+        310.29,
+        326.83,
+        343.37
       ],
       "targets_hit": 0,
-      "next_target": 178.2,
-      "next_target_pct": 11.44,
+      "next_target": 277.21,
+      "next_target_pct": 14.31,
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
       "active": false
     },
     {
-      "ticker": "MS",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 193.99,
-      "open_high": 190.8,
-      "open_low": 189.78,
-      "open_range": 1.02,
-      "vwap": 191.99,
-      "ema200": 189.52,
-      "above_ema200": true,
-      "entry_price": 192.33,
-      "change_pct": 0.86,
-      "day_change_pct": 2.09,
-      "volume": 5689139,
+      "ticker": "MRVL",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 138.06,
+      "open_high": 152.15,
+      "open_low": 148.53,
+      "open_range": 3.62,
+      "vwap": 141.7,
+      "ema200": 153.02,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -8.81,
+      "volume": 48196554,
       "targets": [
-        192.84,
-        194.88,
-        196.92,
-        198.96,
-        201.0
+        159.39,
+        166.63,
+        173.87,
+        181.11,
+        188.35
       ],
-      "targets_hit": 1,
-      "next_target": 194.88,
-      "next_target_pct": 0.46,
-      "last_signal_time": "12:05",
-      "bars_since_signal": 46,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 191.28
-        },
-        {
-          "kind": "Sell",
-          "time": "09:45",
-          "price": 190.9
-        },
-        {
-          "kind": "Buy",
-          "time": "12:05",
-          "price": 192.33
-        }
+      "targets_hit": 0,
+      "next_target": 159.39,
+      "next_target_pct": 15.45,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "MS",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 183.24,
+      "open_high": 196.9,
+      "open_low": 195.65,
+      "open_range": 1.25,
+      "vwap": 183.87,
+      "ema200": 185.91,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -6.51,
+      "volume": 7834359,
+      "targets": [
+        199.41,
+        201.92,
+        204.43,
+        206.94,
+        209.45
       ],
+      "targets_hit": 0,
+      "next_target": 199.41,
+      "next_target_pct": 8.82,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "MSFT",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 556.03,
-      "open_high": 548.0,
-      "open_low": 542.34,
-      "open_range": 5.66,
-      "vwap": 553.78,
-      "ema200": 539.12,
-      "above_ema200": true,
-      "entry_price": 554.52,
-      "change_pct": 0.27,
-      "day_change_pct": 2.24,
-      "volume": 53288211,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 535.62,
+      "open_high": 557.62,
+      "open_low": 550.3,
+      "open_range": 7.32,
+      "vwap": 541.05,
+      "ema200": 539.29,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.62,
+      "volume": 62224783,
       "targets": [
-        559.32,
-        570.64,
-        581.95,
-        593.27,
-        604.59
+        572.26,
+        586.9,
+        601.54,
+        616.18,
+        630.82
       ],
       "targets_hit": 0,
-      "next_target": 559.32,
-      "next_target_pct": 0.59,
-      "last_signal_time": "13:05",
-      "bars_since_signal": 34,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 551.42
-        },
-        {
-          "kind": "Sell",
-          "time": "10:55",
-          "price": 551.82
-        },
-        {
-          "kind": "Buy",
-          "time": "11:35",
-          "price": 555.77
-        },
-        {
-          "kind": "Sell",
-          "time": "12:55",
-          "price": 552.74
-        },
-        {
-          "kind": "Buy",
-          "time": "13:05",
-          "price": 554.52
-        }
-      ],
+      "next_target": 572.26,
+      "next_target_pct": 6.84,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "MSTR",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 142.44,
-      "open_high": 139.8,
-      "open_low": 135.8,
-      "open_range": 4.0,
-      "vwap": 142.28,
-      "ema200": 139.87,
-      "above_ema200": true,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 129.12,
+      "open_high": 141.17,
+      "open_low": 138.36,
+      "open_range": 2.81,
+      "vwap": 130.69,
+      "ema200": 134.03,
+      "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 4.37,
-      "volume": 19755516,
+      "day_change_pct": -7.35,
+      "volume": 23755900,
       "targets": [
-        147.81,
-        155.82,
-        163.83,
-        171.84,
-        179.85
+        146.79,
+        152.41,
+        158.03,
+        163.65,
+        169.27
       ],
       "targets_hit": 0,
-      "next_target": 147.81,
-      "next_target_pct": 3.77,
-      "last_signal_time": "15:40",
-      "bars_since_signal": 3,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 140.66
-        },
-        {
-          "kind": "Sell",
-          "time": "15:40",
-          "price": 142.24
-        }
-      ],
+      "next_target": 146.79,
+      "next_target_pct": 13.68,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "MU",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 795.45,
-      "open_high": 831.0,
-      "open_low": 817.6,
-      "open_range": 13.4,
-      "vwap": 812.12,
-      "ema200": 833.66,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 678.33,
+      "open_high": 761.81,
+      "open_low": 746.45,
+      "open_range": 15.36,
+      "vwap": 691.65,
+      "ema200": 757.2,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -3.34,
-      "volume": 31542408,
+      "day_change_pct": -9.9,
+      "volume": 107359667,
       "targets": [
-        857.8,
-        884.6,
-        911.4,
-        938.2,
-        965.0
+        792.53,
+        823.25,
+        853.97,
+        884.69,
+        915.42
       ],
       "targets_hit": 0,
-      "next_target": 857.8,
-      "next_target_pct": 7.84,
-      "last_signal_time": "10:20",
-      "bars_since_signal": 67,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 831.6
-        },
-        {
-          "kind": "Sell",
-          "time": "10:20",
-          "price": 825.12
-        }
-      ],
-      "active": false
+      "next_target": 792.53,
+      "next_target_pct": 16.84,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
     },
     {
       "ticker": "NFLX",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 66.39,
-      "open_high": 64.89,
-      "open_low": 64.02,
-      "open_range": 0.87,
-      "vwap": 66.03,
-      "ema200": 64.5,
-      "above_ema200": true,
-      "entry_price": 64.99,
-      "change_pct": 2.17,
-      "day_change_pct": 2.83,
-      "volume": 40207359,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 64.78,
+      "open_high": 67.49,
+      "open_low": 66.55,
+      "open_range": 0.94,
+      "vwap": 65.68,
+      "ema200": 64.97,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.72,
+      "volume": 31936834,
       "targets": [
-        66.62,
-        68.35,
-        70.08,
-        71.81,
-        73.54
+        69.36,
+        71.24,
+        73.11,
+        74.99,
+        76.86
       ],
-      "targets_hit": 1,
-      "next_target": 68.35,
-      "next_target_pct": 2.94,
-      "last_signal_time": "09:35",
-      "bars_since_signal": 76,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 64.99
-        }
-      ],
+      "targets_hit": 0,
+      "next_target": 69.36,
+      "next_target_pct": 7.08,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "NIO",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 3.29,
-      "open_high": 3.3,
-      "open_low": 3.27,
-      "open_range": 0.03,
-      "vwap": 3.32,
-      "ema200": 3.27,
-      "above_ema200": true,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 3.18,
+      "open_high": 3.41,
+      "open_low": 3.29,
+      "open_range": 0.12,
+      "vwap": 3.17,
+      "ema200": 3.21,
+      "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 0.3,
-      "volume": 76643333,
+      "day_change_pct": -6.35,
+      "volume": 40735489,
       "targets": [
-        3.36,
-        3.42,
-        3.48,
-        3.54,
-        3.6
+        3.66,
+        3.91,
+        4.15,
+        4.4,
+        4.65
       ],
-      "targets_hit": 1,
-      "next_target": 3.42,
-      "next_target_pct": 3.95,
-      "last_signal_time": "11:10",
-      "bars_since_signal": 57,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 3.34
-        },
-        {
-          "kind": "Sell",
-          "time": "11:10",
-          "price": 3.35
-        }
-      ],
+      "targets_hit": 0,
+      "next_target": 3.66,
+      "next_target_pct": 14.97,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "NKE",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 40.49,
-      "open_high": 40.19,
-      "open_low": 39.48,
-      "open_range": 0.71,
-      "vwap": 40.43,
-      "ema200": 39.65,
-      "above_ema200": true,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 39.42,
+      "open_high": 40.88,
+      "open_low": 40.21,
+      "open_range": 0.67,
+      "vwap": 39.56,
+      "ema200": 39.61,
+      "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 2.05,
-      "volume": 31204996,
+      "day_change_pct": -2.35,
+      "volume": 69413078,
       "targets": [
-        41.61,
-        43.03,
-        44.45,
-        45.87,
-        47.29
+        42.22,
+        43.56,
+        44.9,
+        46.24,
+        47.58
       ],
       "targets_hit": 0,
-      "next_target": 41.61,
-      "next_target_pct": 2.78,
-      "last_signal_time": "14:00",
-      "bars_since_signal": 23,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:55",
-          "price": 40.21
-        },
-        {
-          "kind": "Sell",
-          "time": "13:50",
-          "price": 40.44
-        },
-        {
-          "kind": "Buy",
-          "time": "13:55",
-          "price": 40.49
-        },
-        {
-          "kind": "Sell",
-          "time": "14:00",
-          "price": 40.42
-        }
-      ],
+      "next_target": 42.22,
+      "next_target_pct": 7.09,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "NOK",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 8.25,
-      "open_high": 8.44,
-      "open_low": 8.36,
-      "open_range": 0.08,
-      "vwap": 8.31,
-      "ema200": 8.41,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 7.55,
+      "open_high": 7.92,
+      "open_low": 7.83,
+      "open_range": 0.09,
+      "vwap": 7.55,
+      "ema200": 7.95,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -2.14,
-      "volume": 58145058,
+      "day_change_pct": -4.31,
+      "volume": 146915242,
       "targets": [
-        8.6,
-        8.76,
-        8.92,
-        9.08,
-        9.24
+        8.1,
+        8.28,
+        8.46,
+        8.64,
+        8.82
       ],
       "targets_hit": 0,
-      "next_target": 8.6,
-      "next_target_pct": 4.24,
-      "last_signal_time": "10:35",
-      "bars_since_signal": 64,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 8.55
-        },
-        {
-          "kind": "Sell",
-          "time": "10:35",
-          "price": 8.43
-        }
-      ],
+      "next_target": 8.1,
+      "next_target_pct": 7.36,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": true
     },
     {
       "ticker": "NU",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 11.98,
-      "open_high": 12.03,
-      "open_low": 11.85,
-      "open_range": 0.18,
-      "vwap": 12.03,
-      "ema200": 11.87,
-      "above_ema200": true,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 11.64,
+      "open_high": 12.02,
+      "open_low": 11.94,
+      "open_range": 0.08,
+      "vwap": 11.59,
+      "ema200": 11.73,
+      "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 0.29,
-      "volume": 106528366,
+      "day_change_pct": -3.16,
+      "volume": 69348456,
       "targets": [
-        12.39,
-        12.75,
-        13.11,
-        13.47,
-        13.83
+        12.18,
+        12.34,
+        12.5,
+        12.66,
+        12.82
       ],
       "targets_hit": 0,
-      "next_target": 12.39,
-      "next_target_pct": 3.38,
-      "last_signal_time": "10:30",
-      "bars_since_signal": 65,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 12.1
-        },
-        {
-          "kind": "Sell",
-          "time": "09:50",
-          "price": 11.98
-        },
-        {
-          "kind": "Buy",
-          "time": "10:00",
-          "price": 12.13
-        },
-        {
-          "kind": "Sell",
-          "time": "10:30",
-          "price": 12.02
-        }
-      ],
+      "next_target": 12.18,
+      "next_target_pct": 4.64,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": true
     },
     {
       "ticker": "NVDA",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 200.29,
-      "open_high": 204.81,
-      "open_low": 200.94,
-      "open_range": 3.87,
-      "vwap": 202.89,
-      "ema200": 205.06,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 183.25,
+      "open_high": 196.23,
+      "open_low": 193.62,
+      "open_range": 2.61,
+      "vwap": 185.77,
+      "ema200": 194.4,
       "above_ema200": false,
-      "entry_price": 206.37,
-      "change_pct": -2.95,
-      "day_change_pct": -1.62,
-      "volume": 826944863,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -6.54,
+      "volume": 1128266484,
       "targets": [
-        212.55,
-        220.29,
-        228.03,
-        235.77,
-        243.51
+        201.44,
+        206.65,
+        211.86,
+        217.07,
+        222.28
       ],
       "targets_hit": 0,
-      "next_target": 212.55,
-      "next_target_pct": 6.12,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 206.37
-        }
-      ],
+      "next_target": 201.44,
+      "next_target_pct": 9.92,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": true
     },
     {
       "ticker": "ONDS",
-      "session_date": "2026-11-04",
+      "session_date": "2026-11-05",
       "state": 0,
-      "price": 5.28,
-      "open_high": 5.77,
-      "open_low": 5.6,
-      "open_range": 0.17,
-      "vwap": 5.43,
-      "ema200": 5.69,
+      "price": 4.6,
+      "open_high": 5.16,
+      "open_low": 5.0,
+      "open_range": 0.16,
+      "vwap": 4.67,
+      "ema200": 5.11,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -7.45,
-      "volume": 49653314,
+      "day_change_pct": -9.65,
+      "volume": 54039441,
       "targets": [
-        6.11,
-        6.45,
-        6.79,
-        7.13,
-        7.47
+        5.48,
+        5.8,
+        6.12,
+        6.44,
+        6.76
       ],
       "targets_hit": 0,
-      "next_target": 6.11,
-      "next_target_pct": 15.72,
+      "next_target": 5.48,
+      "next_target_pct": 19.16,
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
@@ -3964,497 +2156,337 @@
     },
     {
       "ticker": "ORCL",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 123.8,
-      "open_high": 126.82,
-      "open_low": 121.78,
-      "open_range": 5.04,
-      "vwap": 126.08,
-      "ema200": 126.19,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 115.44,
+      "open_high": 124.24,
+      "open_low": 120.82,
+      "open_range": 3.42,
+      "vwap": 115.25,
+      "ema200": 120.38,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 1.66,
-      "volume": 100211062,
+      "day_change_pct": -6.14,
+      "volume": 100771682,
       "targets": [
-        136.91,
-        147.0,
-        157.09,
-        167.18,
-        177.27
+        131.08,
+        137.92,
+        144.76,
+        151.6,
+        158.44
       ],
       "targets_hit": 0,
-      "next_target": 136.91,
-      "next_target_pct": 10.59,
-      "last_signal_time": "12:00",
+      "next_target": 131.08,
+      "next_target_pct": 13.54,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
+    },
+    {
+      "ticker": "OXY",
+      "session_date": "2026-11-05",
+      "state": -1,
+      "price": 56.98,
+      "open_high": 58.13,
+      "open_low": 57.56,
+      "open_range": 0.57,
+      "vwap": 57.71,
+      "ema200": 58.3,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -1.0,
+      "volume": 9496684,
+      "targets": [
+        59.27,
+        60.41,
+        61.55,
+        62.69,
+        63.83
+      ],
+      "targets_hit": 0,
+      "next_target": 59.27,
+      "next_target_pct": 4.01,
+      "last_signal_time": "11:25",
       "bars_since_signal": 47,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:35",
-          "price": 127.56
-        },
-        {
-          "kind": "Sell",
-          "time": "09:50",
-          "price": 125.4
-        },
-        {
-          "kind": "Buy",
-          "time": "10:05",
-          "price": 128.25
-        },
-        {
-          "kind": "Sell",
-          "time": "12:00",
-          "price": 126.41
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "OXY",
-      "session_date": "2026-11-04",
-      "state": 0,
-      "price": 57.33,
-      "open_high": 59.35,
-      "open_low": 58.03,
-      "open_range": 1.32,
-      "vwap": 57.43,
-      "ema200": 59.13,
-      "above_ema200": false,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -3.4,
-      "volume": 15527122,
-      "targets": [
-        61.99,
-        64.63,
-        67.27,
-        69.91,
-        72.55
-      ],
-      "targets_hit": 0,
-      "next_target": 61.99,
-      "next_target_pct": 8.13,
-      "last_signal_time": null,
-      "bars_since_signal": null,
-      "signals": [],
-      "active": false
-    },
-    {
-      "ticker": "PFE",
-      "session_date": "2026-11-04",
-      "state": 0,
-      "price": 30.79,
-      "open_high": 30.9,
-      "open_low": 30.59,
-      "open_range": 0.31,
-      "vwap": 30.55,
-      "ema200": 30.51,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 0.13,
-      "volume": 38755389,
-      "targets": [
-        31.51,
-        32.12,
-        32.73,
-        33.34,
-        33.95
-      ],
-      "targets_hit": 0,
-      "next_target": 31.51,
-      "next_target_pct": 2.34,
-      "last_signal_time": null,
-      "bars_since_signal": null,
-      "signals": [],
-      "active": false
-    },
-    {
-      "ticker": "PINS",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 21.22,
-      "open_high": 21.1,
-      "open_low": 20.42,
-      "open_range": 0.68,
-      "vwap": 21.28,
-      "ema200": 20.69,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 3.41,
-      "volume": 19364690,
-      "targets": [
-        22.46,
-        23.82,
-        25.18,
-        26.54,
-        27.9
-      ],
-      "targets_hit": 0,
-      "next_target": 22.46,
-      "next_target_pct": 5.84,
-      "last_signal_time": "15:40",
-      "bars_since_signal": 3,
-      "signals": [
-        {
-          "kind": "Buy",
           "time": "09:40",
-          "price": 21.19
+          "price": 58.15
+        },
+        {
+          "kind": "Sell",
+          "time": "10:10",
+          "price": 58.11
+        },
+        {
+          "kind": "Buy",
+          "time": "10:30",
+          "price": 58.44
         },
         {
           "kind": "Sell",
           "time": "11:25",
-          "price": 21.24
-        },
-        {
-          "kind": "Buy",
-          "time": "11:35",
-          "price": 21.34
-        },
-        {
-          "kind": "Sell",
-          "time": "12:50",
-          "price": 21.28
-        },
-        {
-          "kind": "Buy",
-          "time": "15:15",
-          "price": 21.33
-        },
-        {
-          "kind": "Sell",
-          "time": "15:40",
-          "price": 21.25
+          "price": 58.19
         }
       ],
+      "active": false
+    },
+    {
+      "ticker": "PFE",
+      "session_date": "2026-11-05",
+      "state": -1,
+      "price": 30.08,
+      "open_high": 31.17,
+      "open_low": 31.02,
+      "open_range": 0.15,
+      "vwap": 30.95,
+      "ema200": 30.55,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.23,
+      "volume": 49836987,
+      "targets": [
+        31.47,
+        31.77,
+        32.07,
+        32.37,
+        32.67
+      ],
+      "targets_hit": 0,
+      "next_target": 31.47,
+      "next_target_pct": 4.6,
+      "last_signal_time": "10:30",
+      "bars_since_signal": 58,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "09:45",
+          "price": 31.3
+        },
+        {
+          "kind": "Sell",
+          "time": "10:30",
+          "price": 31.18
+        }
+      ],
+      "active": false
+    },
+    {
+      "ticker": "PINS",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 19.61,
+      "open_high": 21.24,
+      "open_low": 20.91,
+      "open_range": 0.33,
+      "vwap": 19.94,
+      "ema200": 20.23,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -7.6,
+      "volume": 16557103,
+      "targets": [
+        21.9,
+        22.56,
+        23.22,
+        23.88,
+        24.54
+      ],
+      "targets_hit": 0,
+      "next_target": 21.9,
+      "next_target_pct": 11.69,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "PLTR",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 171.69,
-      "open_high": 170.67,
-      "open_low": 164.6,
-      "open_range": 6.07,
-      "vwap": 171.29,
-      "ema200": 175.33,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 155.35,
+      "open_high": 167.25,
+      "open_low": 161.31,
+      "open_range": 5.94,
+      "vwap": 157.15,
+      "ema200": 165.13,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 4.0,
-      "volume": 47596456,
+      "day_change_pct": -6.82,
+      "volume": 70630248,
       "targets": [
-        182.81,
-        194.95,
-        207.09,
-        219.23,
-        231.37
+        179.13,
+        191.01,
+        202.89,
+        214.77,
+        226.65
       ],
       "targets_hit": 0,
-      "next_target": 182.81,
-      "next_target_pct": 6.48,
-      "last_signal_time": "11:20",
-      "bars_since_signal": 55,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 171.87
-        },
-        {
-          "kind": "Sell",
-          "time": "11:20",
-          "price": 170.65
-        }
-      ],
+      "next_target": 179.13,
+      "next_target_pct": 15.3,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
-      "ticker": "PLUG",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 1.47,
-      "open_high": 1.58,
-      "open_low": 1.53,
-      "open_range": 0.05,
-      "vwap": 1.52,
-      "ema200": 1.44,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": -6.37,
-      "volume": 100253838,
-      "targets": [
-        1.68,
-        1.78,
-        1.88,
-        1.98,
-        2.08
-      ],
-      "targets_hit": 0,
-      "next_target": 1.68,
-      "next_target_pct": 14.29,
-      "last_signal_time": "09:45",
-      "bars_since_signal": 74,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 1.59
-        },
-        {
-          "kind": "Sell",
-          "time": "09:45",
-          "price": 1.54
-        }
-      ],
-      "active": true
-    },
-    {
       "ticker": "PYPL",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 60.16,
-      "open_high": 59.76,
-      "open_low": 58.96,
-      "open_range": 0.8,
-      "vwap": 60.37,
-      "ema200": 59.48,
-      "above_ema200": true,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 58.76,
+      "open_high": 60.77,
+      "open_low": 60.23,
+      "open_range": 0.54,
+      "vwap": 59.06,
+      "ema200": 59.16,
+      "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 1.45,
-      "volume": 10936035,
+      "day_change_pct": -2.8,
+      "volume": 7438310,
       "targets": [
-        61.36,
-        62.96,
-        64.56,
-        66.16,
-        67.76
+        61.85,
+        62.93,
+        64.01,
+        65.09,
+        66.17
       ],
       "targets_hit": 0,
-      "next_target": 61.36,
-      "next_target_pct": 1.99,
-      "last_signal_time": "14:30",
-      "bars_since_signal": 17,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 59.91
-        },
-        {
-          "kind": "Sell",
-          "time": "14:10",
-          "price": 60.36
-        },
-        {
-          "kind": "Buy",
-          "time": "14:20",
-          "price": 60.51
-        },
-        {
-          "kind": "Sell",
-          "time": "14:30",
-          "price": 60.35
-        }
-      ],
+      "next_target": 61.85,
+      "next_target_pct": 5.27,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "QCOM",
-      "session_date": "2026-11-04",
+      "session_date": "2026-11-05",
       "state": 1,
-      "price": 173.73,
-      "open_high": 167.9,
-      "open_low": 165.11,
-      "open_range": 2.79,
-      "vwap": 168.16,
-      "ema200": 166.72,
-      "above_ema200": true,
-      "entry_price": 170.99,
-      "change_pct": 1.61,
-      "day_change_pct": 4.26,
-      "volume": 16319224,
+      "price": 159.05,
+      "open_high": 157.5,
+      "open_low": 149.09,
+      "open_range": 8.41,
+      "vwap": 154.5,
+      "ema200": 160.84,
+      "above_ema200": false,
+      "entry_price": 157.77,
+      "change_pct": 0.81,
+      "day_change_pct": 5.82,
+      "volume": 41795579,
       "targets": [
-        173.48,
-        179.06,
-        184.64,
-        190.22,
-        195.8
+        174.32,
+        191.14,
+        207.96,
+        224.78,
+        241.6
       ],
-      "targets_hit": 1,
-      "next_target": 179.06,
-      "next_target_pct": 3.07,
-      "last_signal_time": "15:45",
-      "bars_since_signal": 2,
+      "targets_hit": 0,
+      "next_target": 174.32,
+      "next_target_pct": 9.6,
+      "last_signal_time": "09:45",
+      "bars_since_signal": 67,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:35",
-          "price": 169.64
-        },
-        {
-          "kind": "Sell",
-          "time": "10:40",
-          "price": 168.26
-        },
-        {
-          "kind": "Buy",
-          "time": "12:25",
-          "price": 170.32
-        },
-        {
-          "kind": "Sell",
-          "time": "13:35",
-          "price": 167.67
-        },
-        {
-          "kind": "Buy",
-          "time": "15:45",
-          "price": 170.99
+          "time": "09:45",
+          "price": 157.77
         }
       ],
       "active": false
     },
     {
       "ticker": "QQQ",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 691.82,
-      "open_high": 691.43,
-      "open_low": 687.9,
-      "open_range": 3.53,
-      "vwap": 694.75,
-      "ema200": 692.37,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 652.46,
+      "open_high": 683.64,
+      "open_low": 677.6,
+      "open_range": 6.04,
+      "vwap": 655.49,
+      "ema200": 673.17,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 0.49,
-      "volume": 684329531,
+      "day_change_pct": -4.23,
+      "volume": 1057258829,
       "targets": [
-        698.49,
-        705.55,
-        712.61,
-        719.67,
-        726.73
+        695.72,
+        707.8,
+        719.88,
+        731.96,
+        744.04
       ],
-      "targets_hit": 1,
-      "next_target": 705.55,
-      "next_target_pct": 1.98,
-      "last_signal_time": "10:30",
-      "bars_since_signal": 65,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 693.81
-        },
-        {
-          "kind": "Sell",
-          "time": "10:30",
-          "price": 696.49
-        }
-      ],
+      "targets_hit": 0,
+      "next_target": 695.72,
+      "next_target_pct": 6.63,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "RBLX",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 49.31,
-      "open_high": 47.39,
-      "open_low": 46.1,
-      "open_range": 1.29,
-      "vwap": 48.58,
-      "ema200": 47.03,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 47.53,
+      "open_high": 49.42,
+      "open_low": 48.55,
+      "open_range": 0.87,
+      "vwap": 47.21,
+      "ema200": 46.91,
       "above_ema200": true,
-      "entry_price": 48.31,
-      "change_pct": 2.08,
-      "day_change_pct": 6.97,
-      "volume": 20345160,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.38,
+      "volume": 7754283,
       "targets": [
-        49.96,
-        52.54,
-        55.12,
-        57.69,
-        60.27
+        51.16,
+        52.9,
+        54.64,
+        56.38,
+        58.11
       ],
       "targets_hit": 0,
-      "next_target": 49.96,
-      "next_target_pct": 1.32,
-      "last_signal_time": "14:00",
-      "bars_since_signal": 23,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 47.51
-        },
-        {
-          "kind": "Sell",
-          "time": "10:50",
-          "price": 47.8
-        },
-        {
-          "kind": "Buy",
-          "time": "11:40",
-          "price": 48.24
-        },
-        {
-          "kind": "Sell",
-          "time": "13:10",
-          "price": 48.15
-        },
-        {
-          "kind": "Buy",
-          "time": "13:15",
-          "price": 48.24
-        },
-        {
-          "kind": "Sell",
-          "time": "13:20",
-          "price": 48.13
-        },
-        {
-          "kind": "Buy",
-          "time": "14:00",
-          "price": 48.31
-        }
-      ],
+      "next_target": 51.16,
+      "next_target_pct": 7.65,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "RIG",
-      "session_date": "2026-11-04",
+      "session_date": "2026-11-05",
       "state": 0,
-      "price": 5.45,
-      "open_high": 5.96,
-      "open_low": 5.68,
-      "open_range": 0.28,
-      "vwap": 5.51,
-      "ema200": 5.84,
+      "price": 5.18,
+      "open_high": 5.51,
+      "open_low": 5.41,
+      "open_range": 0.11,
+      "vwap": 5.28,
+      "ema200": 5.54,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -6.91,
-      "volume": 48753180,
+      "day_change_pct": -5.91,
+      "volume": 53671680,
       "targets": [
-        6.52,
-        7.08,
-        7.64,
-        8.2,
-        8.76
+        5.72,
+        5.93,
+        6.14,
+        6.35,
+        6.56
       ],
       "targets_hit": 0,
-      "next_target": 6.52,
-      "next_target_pct": 19.52,
+      "next_target": 5.72,
+      "next_target_pct": 10.53,
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
@@ -4462,269 +2494,166 @@
     },
     {
       "ticker": "RIOT",
-      "session_date": "2026-11-04",
+      "session_date": "2026-11-05",
       "state": 1,
-      "price": 15.39,
-      "open_high": 15.87,
-      "open_low": 15.4,
-      "open_range": 0.47,
-      "vwap": 15.67,
-      "ema200": 14.53,
+      "price": 15.23,
+      "open_high": 15.07,
+      "open_low": 14.45,
+      "open_range": 0.62,
+      "vwap": 14.34,
+      "ema200": 14.46,
       "above_ema200": true,
-      "entry_price": 16.13,
-      "change_pct": -4.59,
-      "day_change_pct": -1.41,
-      "volume": 80620469,
+      "entry_price": 15.14,
+      "change_pct": 0.58,
+      "day_change_pct": 2.07,
+      "volume": 40690886,
       "targets": [
-        16.81,
-        17.75,
-        18.69,
-        19.63,
-        20.57
+        16.31,
+        17.55,
+        18.79,
+        20.03,
+        21.27
       ],
       "targets_hit": 0,
-      "next_target": 16.81,
-      "next_target_pct": 9.23,
-      "last_signal_time": "12:25",
-      "bars_since_signal": 42,
+      "next_target": 16.31,
+      "next_target_pct": 7.11,
+      "last_signal_time": "14:40",
+      "bars_since_signal": 8,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:40",
-          "price": 16.03
-        },
-        {
-          "kind": "Sell",
-          "time": "09:45",
-          "price": 15.5
-        },
-        {
-          "kind": "Buy",
-          "time": "10:00",
-          "price": 16.08
-        },
-        {
-          "kind": "Sell",
-          "time": "10:40",
-          "price": 15.63
-        },
-        {
-          "kind": "Buy",
-          "time": "12:25",
-          "price": 16.13
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "RIVN",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 14.06,
-      "open_high": 14.23,
-      "open_low": 13.63,
-      "open_range": 0.6,
-      "vwap": 14.05,
-      "ema200": 13.54,
-      "above_ema200": true,
-      "entry_price": 14.27,
-      "change_pct": -1.51,
-      "day_change_pct": 2.7,
-      "volume": 37659186,
-      "targets": [
-        15.43,
-        16.63,
-        17.83,
-        19.03,
-        20.23
-      ],
-      "targets_hit": 0,
-      "next_target": 15.43,
-      "next_target_pct": 9.74,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 14.27
+          "time": "14:40",
+          "price": 15.14
         }
       ],
       "active": false
     },
     {
-      "ticker": "RKT",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 15.0,
-      "open_high": 14.74,
-      "open_low": 14.3,
+      "ticker": "RIVN",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 13.24,
+      "open_high": 13.98,
+      "open_low": 13.54,
       "open_range": 0.44,
-      "vwap": 14.93,
-      "ema200": 14.25,
-      "above_ema200": true,
-      "entry_price": 15.0,
+      "vwap": 13.08,
+      "ema200": 13.3,
+      "above_ema200": false,
+      "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 4.9,
-      "volume": 85067281,
+      "day_change_pct": -5.23,
+      "volume": 36380795,
       "targets": [
-        15.63,
-        16.52,
-        17.41,
-        18.3,
-        19.19
+        14.86,
+        15.74,
+        16.62,
+        17.5,
+        18.38
       ],
       "targets_hit": 0,
-      "next_target": 15.63,
-      "next_target_pct": 4.23,
-      "last_signal_time": "15:55",
-      "bars_since_signal": 0,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 14.77
-        },
-        {
-          "kind": "Sell",
-          "time": "10:20",
-          "price": 14.68
-        },
-        {
-          "kind": "Buy",
-          "time": "10:55",
-          "price": 14.84
-        },
-        {
-          "kind": "Sell",
-          "time": "14:15",
-          "price": 14.92
-        },
-        {
-          "kind": "Buy",
-          "time": "14:25",
-          "price": 14.94
-        },
-        {
-          "kind": "Sell",
-          "time": "14:40",
-          "price": 14.93
-        },
-        {
-          "kind": "Buy",
-          "time": "15:55",
-          "price": 15.0
-        }
-      ],
-      "active": true
+      "next_target": 14.86,
+      "next_target_pct": 12.24,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": false
     },
     {
       "ticker": "SBUX",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 109.68,
-      "open_high": 107.16,
-      "open_low": 105.88,
-      "open_range": 1.28,
-      "vwap": 108.55,
-      "ema200": 106.53,
-      "above_ema200": true,
-      "entry_price": 108.56,
-      "change_pct": 1.03,
-      "day_change_pct": 3.16,
-      "volume": 8402683,
+      "session_date": "2026-11-05",
+      "state": -1,
+      "price": 107.08,
+      "open_high": 110.86,
+      "open_low": 109.79,
+      "open_range": 1.07,
+      "vwap": 108.47,
+      "ema200": 107.21,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -2.76,
+      "volume": 8268414,
       "targets": [
-        109.72,
-        112.28,
-        114.84,
-        117.4,
-        119.96
+        113.0,
+        115.14,
+        117.28,
+        119.42,
+        121.56
       ],
-      "targets_hit": 1,
-      "next_target": 112.28,
-      "next_target_pct": 2.37,
-      "last_signal_time": "14:45",
-      "bars_since_signal": 14,
+      "targets_hit": 0,
+      "next_target": 113.0,
+      "next_target_pct": 5.53,
+      "last_signal_time": "09:40",
+      "bars_since_signal": 68,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:45",
-          "price": 107.25
+          "time": "09:35",
+          "price": 110.97
         },
         {
           "kind": "Sell",
-          "time": "13:45",
-          "price": 108.24
-        },
-        {
-          "kind": "Buy",
-          "time": "14:45",
-          "price": 108.56
+          "time": "09:40",
+          "price": 110.58
         }
       ],
       "active": false
     },
     {
       "ticker": "SCHW",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 93.37,
-      "open_high": 91.33,
-      "open_low": 90.65,
-      "open_range": 0.68,
-      "vwap": 92.63,
-      "ema200": 91.04,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 92.68,
+      "open_high": 95.28,
+      "open_low": 94.72,
+      "open_range": 0.56,
+      "vwap": 92.55,
+      "ema200": 91.86,
       "above_ema200": true,
-      "entry_price": 91.6,
-      "change_pct": 1.94,
-      "day_change_pct": 2.6,
-      "volume": 8830869,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -2.55,
+      "volume": 14960044,
       "targets": [
-        92.69,
-        94.05,
-        95.41,
-        96.77,
-        98.13
+        96.4,
+        97.52,
+        98.65,
+        99.77,
+        100.89
       ],
-      "targets_hit": 1,
-      "next_target": 94.05,
-      "next_target_pct": 0.73,
-      "last_signal_time": "10:15",
-      "bars_since_signal": 68,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:15",
-          "price": 91.6
-        }
-      ],
+      "targets_hit": 0,
+      "next_target": 96.4,
+      "next_target_pct": 4.02,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "SLB",
-      "session_date": "2026-11-04",
+      "session_date": "2026-11-05",
       "state": 0,
-      "price": 51.56,
-      "open_high": 52.34,
-      "open_low": 51.04,
-      "open_range": 1.3,
-      "vwap": 50.48,
-      "ema200": 51.58,
+      "price": 50.46,
+      "open_high": 52.51,
+      "open_low": 51.54,
+      "open_range": 0.97,
+      "vwap": 50.7,
+      "ema200": 51.05,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -1.23,
-      "volume": 17576960,
+      "day_change_pct": -3.9,
+      "volume": 12873209,
       "targets": [
-        54.93,
-        57.52,
-        60.11,
-        62.7,
-        65.29
+        54.45,
+        56.39,
+        58.33,
+        60.27,
+        62.21
       ],
       "targets_hit": 0,
-      "next_target": 54.93,
-      "next_target_pct": 6.55,
+      "next_target": 54.45,
+      "next_target_pct": 7.91,
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
@@ -4732,576 +2661,370 @@
     },
     {
       "ticker": "SMCI",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 29.59,
-      "open_high": 32.08,
-      "open_low": 30.67,
-      "open_range": 1.41,
-      "vwap": 30.73,
-      "ema200": 31.02,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 27.33,
+      "open_high": 28.67,
+      "open_low": 28.1,
+      "open_range": 0.57,
+      "vwap": 27.18,
+      "ema200": 28.86,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -5.78,
-      "volume": 81958084,
+      "day_change_pct": -3.48,
+      "volume": 106662741,
       "targets": [
-        34.91,
-        37.74,
-        40.57,
-        43.4,
-        46.23
+        29.81,
+        30.95,
+        32.09,
+        33.23,
+        34.37
       ],
       "targets_hit": 0,
-      "next_target": 34.91,
-      "next_target_pct": 17.99,
-      "last_signal_time": "10:00",
-      "bars_since_signal": 71,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 32.37
-        },
-        {
-          "kind": "Sell",
-          "time": "10:00",
-          "price": 31.65
-        }
-      ],
+      "next_target": 29.81,
+      "next_target_pct": 9.05,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": true
     },
     {
       "ticker": "SNAP",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 5.92,
-      "open_high": 5.85,
-      "open_low": 5.69,
-      "open_range": 0.16,
-      "vwap": 5.92,
-      "ema200": 5.75,
-      "above_ema200": true,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 5.19,
+      "open_high": 5.56,
+      "open_low": 5.26,
+      "open_range": 0.3,
+      "vwap": 5.16,
+      "ema200": 5.41,
+      "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 3.32,
-      "volume": 90790259,
+      "day_change_pct": -1.89,
+      "volume": 61662851,
       "targets": [
-        6.17,
-        6.49,
-        6.81,
-        7.13,
-        7.45
+        6.16,
+        6.76,
+        7.36,
+        7.96,
+        8.56
       ],
       "targets_hit": 0,
-      "next_target": 6.17,
-      "next_target_pct": 4.22,
-      "last_signal_time": "15:55",
-      "bars_since_signal": 0,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 5.86
-        },
-        {
-          "kind": "Sell",
-          "time": "10:30",
-          "price": 5.86
-        },
-        {
-          "kind": "Buy",
-          "time": "12:25",
-          "price": 5.93
-        },
-        {
-          "kind": "Sell",
-          "time": "15:55",
-          "price": 5.92
-        }
-      ],
-      "active": false
+      "next_target": 6.16,
+      "next_target_pct": 18.69,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
     },
     {
       "ticker": "SOFI",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 17.39,
-      "open_high": 17.39,
-      "open_low": 16.97,
-      "open_range": 0.42,
-      "vwap": 17.42,
-      "ema200": 17.18,
-      "above_ema200": true,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 16.01,
+      "open_high": 17.45,
+      "open_low": 17.09,
+      "open_range": 0.36,
+      "vwap": 16.03,
+      "ema200": 16.53,
+      "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 2.17,
-      "volume": 98185389,
+      "day_change_pct": -7.16,
+      "volume": 63865112,
       "targets": [
-        18.22,
-        19.06,
-        19.9,
-        20.73,
-        21.57
+        18.16,
+        18.87,
+        19.58,
+        20.29,
+        21.0
       ],
       "targets_hit": 0,
-      "next_target": 18.22,
-      "next_target_pct": 4.8,
-      "last_signal_time": "13:50",
-      "bars_since_signal": 25,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 17.5
-        },
-        {
-          "kind": "Sell",
-          "time": "10:25",
-          "price": 17.47
-        },
-        {
-          "kind": "Buy",
-          "time": "12:55",
-          "price": 17.58
-        },
-        {
-          "kind": "Sell",
-          "time": "13:50",
-          "price": 17.42
-        }
-      ],
+      "next_target": 18.16,
+      "next_target_pct": 13.43,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": true
     },
     {
       "ticker": "SPCX",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 135.85,
-      "open_high": 135.59,
-      "open_low": 133.14,
-      "open_range": 2.45,
-      "vwap": 135.63,
-      "ema200": 137.86,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 125.79,
+      "open_high": 131.87,
+      "open_low": 129.41,
+      "open_range": 2.46,
+      "vwap": 125.35,
+      "ema200": 131.01,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 1.94,
-      "volume": 313163177,
+      "day_change_pct": -4.22,
+      "volume": 143449289,
       "targets": [
-        140.49,
-        145.39,
-        150.29,
-        155.19,
-        160.09
+        136.79,
+        141.71,
+        146.63,
+        151.55,
+        156.47
       ],
-      "targets_hit": 1,
-      "next_target": 145.39,
-      "next_target_pct": 7.02,
-      "last_signal_time": "13:00",
-      "bars_since_signal": 35,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 135.82
-        },
-        {
-          "kind": "Sell",
-          "time": "11:00",
-          "price": 135.87
-        },
-        {
-          "kind": "Buy",
-          "time": "11:50",
-          "price": 137.44
-        },
-        {
-          "kind": "Sell",
-          "time": "13:00",
-          "price": 136.61
-        }
-      ],
+      "targets_hit": 0,
+      "next_target": 136.79,
+      "next_target_pct": 8.74,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": true
     },
     {
       "ticker": "SPY",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 766.73,
-      "open_high": 764.35,
-      "open_low": 762.65,
-      "open_range": 1.7,
-      "vwap": 766.29,
-      "ema200": 762.67,
-      "above_ema200": true,
-      "entry_price": 768.63,
-      "change_pct": -0.25,
-      "day_change_pct": 0.49,
-      "volume": 109173177,
-      "targets": [
-        767.75,
-        771.15,
-        774.55,
-        777.95,
-        781.35
-      ],
-      "targets_hit": 3,
-      "next_target": 777.95,
-      "next_target_pct": 1.46,
-      "last_signal_time": "11:50",
-      "bars_since_signal": 49,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 765.93
-        },
-        {
-          "kind": "Sell",
-          "time": "10:40",
-          "price": 766.31
-        },
-        {
-          "kind": "Buy",
-          "time": "11:50",
-          "price": 768.63
-        }
-      ],
-      "active": false
-    },
-    {
-      "ticker": "STLA",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 4.64,
-      "open_high": 4.63,
-      "open_low": 4.53,
-      "open_range": 0.1,
-      "vwap": 4.66,
-      "ema200": 4.64,
-      "above_ema200": true,
-      "entry_price": null,
-      "change_pct": 0.0,
-      "day_change_pct": 2.31,
-      "volume": 144949005,
-      "targets": [
-        4.83,
-        5.03,
-        5.23,
-        5.43,
-        5.63
-      ],
-      "targets_hit": 0,
-      "next_target": 4.83,
-      "next_target_pct": 3.98,
-      "last_signal_time": "13:20",
-      "bars_since_signal": 31,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 4.68
-        },
-        {
-          "kind": "Sell",
-          "time": "10:25",
-          "price": 4.62
-        },
-        {
-          "kind": "Buy",
-          "time": "11:40",
-          "price": 4.68
-        },
-        {
-          "kind": "Sell",
-          "time": "13:20",
-          "price": 4.68
-        }
-      ],
-      "active": true
-    },
-    {
-      "ticker": "TSLA",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 385.3,
-      "open_high": 383.07,
-      "open_low": 375.5,
-      "open_range": 7.57,
-      "vwap": 386.12,
-      "ema200": 393.75,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 736.23,
+      "open_high": 765.97,
+      "open_low": 762.24,
+      "open_range": 3.72,
+      "vwap": 741.7,
+      "ema200": 751.15,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 1.45,
-      "volume": 154955869,
+      "day_change_pct": -3.82,
+      "volume": 385487795,
       "targets": [
-        398.21,
-        413.35,
-        428.49,
-        443.63,
-        458.77
+        773.42,
+        780.87,
+        788.32,
+        795.77,
+        803.22
       ],
       "targets_hit": 0,
-      "next_target": 398.21,
-      "next_target_pct": 3.35,
-      "last_signal_time": "15:30",
-      "bars_since_signal": 5,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:50",
-          "price": 384.14
-        },
-        {
-          "kind": "Sell",
-          "time": "11:00",
-          "price": 384.32
-        },
-        {
-          "kind": "Buy",
-          "time": "12:20",
-          "price": 387.75
-        },
-        {
-          "kind": "Sell",
-          "time": "15:30",
-          "price": 385.77
-        }
-      ],
+      "next_target": 773.42,
+      "next_target_pct": 5.05,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
-      "ticker": "UBER",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 69.89,
-      "open_high": 68.64,
-      "open_low": 67.36,
-      "open_range": 1.29,
-      "vwap": 70.8,
-      "ema200": 68.9,
-      "above_ema200": true,
+      "ticker": "TSLA",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 342.8,
+      "open_high": 371.85,
+      "open_low": 365.07,
+      "open_range": 6.78,
+      "vwap": 345.34,
+      "ema200": 367.97,
+      "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 2.37,
-      "volume": 43610238,
+      "day_change_pct": -7.78,
+      "volume": 285660925,
       "targets": [
-        71.22,
-        73.8,
-        76.37,
-        78.95,
-        81.53
+        385.41,
+        398.97,
+        412.53,
+        426.09,
+        439.65
       ],
-      "targets_hit": 1,
-      "next_target": 73.8,
-      "next_target_pct": 5.59,
-      "last_signal_time": "14:40",
-      "bars_since_signal": 15,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:35",
-          "price": 68.79
-        },
-        {
-          "kind": "Sell",
-          "time": "12:35",
-          "price": 70.8
-        },
-        {
-          "kind": "Buy",
-          "time": "13:00",
-          "price": 71.22
-        },
-        {
-          "kind": "Sell",
-          "time": "14:40",
-          "price": 70.79
-        }
+      "targets_hit": 0,
+      "next_target": 385.41,
+      "next_target_pct": 12.43,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
+      "active": true
+    },
+    {
+      "ticker": "UBER",
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 68.38,
+      "open_high": 71.09,
+      "open_low": 69.34,
+      "open_range": 1.75,
+      "vwap": 68.69,
+      "ema200": 68.7,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.38,
+      "volume": 20696321,
+      "targets": [
+        74.59,
+        78.09,
+        81.59,
+        85.09,
+        88.59
       ],
+      "targets_hit": 0,
+      "next_target": 74.59,
+      "next_target_pct": 9.08,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "UNH",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 409.37,
-      "open_high": 397.09,
-      "open_low": 392.5,
-      "open_range": 4.59,
-      "vwap": 404.23,
-      "ema200": 405.89,
-      "above_ema200": true,
-      "entry_price": 400.26,
-      "change_pct": 2.28,
-      "day_change_pct": 3.22,
-      "volume": 8061154,
+      "session_date": "2026-11-05",
+      "state": -1,
+      "price": 396.09,
+      "open_high": 413.65,
+      "open_low": 409.42,
+      "open_range": 4.23,
+      "vwap": 405.58,
+      "ema200": 403.94,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.95,
+      "volume": 4722188,
       "targets": [
-        406.27,
-        415.45,
-        424.63,
-        433.81,
-        442.99
+        422.11,
+        430.57,
+        439.03,
+        447.49,
+        455.95
       ],
-      "targets_hit": 2,
-      "next_target": 424.63,
-      "next_target_pct": 3.73,
-      "last_signal_time": "09:40",
-      "bars_since_signal": 75,
+      "targets_hit": 0,
+      "next_target": 422.11,
+      "next_target_pct": 6.57,
+      "last_signal_time": "10:15",
+      "bars_since_signal": 61,
       "signals": [
         {
           "kind": "Buy",
-          "time": "09:40",
-          "price": 400.26
+          "time": "09:55",
+          "price": 414.46
+        },
+        {
+          "kind": "Sell",
+          "time": "10:15",
+          "price": 412.62
         }
       ],
       "active": false
     },
     {
       "ticker": "V",
-      "session_date": "2026-11-04",
-      "state": 1,
-      "price": 436.66,
-      "open_high": 429.59,
-      "open_low": 423.28,
-      "open_range": 6.31,
-      "vwap": 432.02,
-      "ema200": 427.18,
-      "above_ema200": true,
-      "entry_price": 431.08,
-      "change_pct": 1.29,
-      "day_change_pct": 2.16,
-      "volume": 7197448,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 424.64,
+      "open_high": 442.23,
+      "open_low": 438.29,
+      "open_range": 3.94,
+      "vwap": 430.06,
+      "ema200": 427.93,
+      "above_ema200": false,
+      "entry_price": null,
+      "change_pct": 0.0,
+      "day_change_pct": -3.67,
+      "volume": 9043246,
       "targets": [
-        442.21,
-        454.83,
-        467.46,
-        480.08,
-        492.7
+        450.1,
+        457.97,
+        465.84,
+        473.71,
+        481.58
       ],
       "targets_hit": 0,
-      "next_target": 442.21,
-      "next_target_pct": 1.27,
-      "last_signal_time": "10:40",
-      "bars_since_signal": 63,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "10:40",
-          "price": 431.08
-        }
-      ],
+      "next_target": 450.1,
+      "next_target_pct": 6.0,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "WFC",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 87.43,
-      "open_high": 87.8,
-      "open_low": 87.16,
-      "open_range": 0.64,
-      "vwap": 86.84,
-      "ema200": 86.12,
-      "above_ema200": true,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 84.62,
+      "open_high": 89.58,
+      "open_low": 88.83,
+      "open_range": 0.75,
+      "vwap": 85.12,
+      "ema200": 85.59,
+      "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -0.07,
-      "volume": 17480100,
+      "day_change_pct": -5.02,
+      "volume": 19841035,
       "targets": [
-        89.08,
-        90.36,
-        91.64,
-        92.92,
-        94.2
+        91.08,
+        92.58,
+        94.08,
+        95.58,
+        97.08
       ],
       "targets_hit": 0,
-      "next_target": 89.08,
-      "next_target_pct": 1.88,
-      "last_signal_time": "09:45",
-      "bars_since_signal": 74,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:40",
-          "price": 87.96
-        },
-        {
-          "kind": "Sell",
-          "time": "09:45",
-          "price": 87.38
-        }
-      ],
+      "next_target": 91.08,
+      "next_target_pct": 7.63,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "WMT",
-      "session_date": "2026-11-04",
-      "state": -1,
-      "price": 129.23,
-      "open_high": 127.38,
-      "open_low": 125.84,
-      "open_range": 1.54,
-      "vwap": 129.84,
-      "ema200": 127.69,
-      "above_ema200": true,
+      "session_date": "2026-11-05",
+      "state": 0,
+      "price": 128.32,
+      "open_high": 131.82,
+      "open_low": 130.35,
+      "open_range": 1.47,
+      "vwap": 129.42,
+      "ema200": 128.63,
+      "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": 1.74,
-      "volume": 40642085,
+      "day_change_pct": -1.99,
+      "volume": 43990832,
       "targets": [
-        130.46,
-        133.54,
-        136.62,
-        139.7,
-        142.78
+        134.76,
+        137.7,
+        140.64,
+        143.58,
+        146.52
       ],
-      "targets_hit": 1,
-      "next_target": 133.54,
-      "next_target_pct": 3.34,
-      "last_signal_time": "15:55",
-      "bars_since_signal": 0,
-      "signals": [
-        {
-          "kind": "Buy",
-          "time": "09:45",
-          "price": 127.57
-        },
-        {
-          "kind": "Sell",
-          "time": "15:55",
-          "price": 129.23
-        }
-      ],
+      "targets_hit": 0,
+      "next_target": 134.76,
+      "next_target_pct": 5.02,
+      "last_signal_time": null,
+      "bars_since_signal": null,
+      "signals": [],
       "active": false
     },
     {
       "ticker": "WULF",
-      "session_date": "2026-11-04",
+      "session_date": "2026-11-05",
       "state": 0,
-      "price": 11.68,
-      "open_high": 12.97,
-      "open_low": 12.42,
-      "open_range": 0.55,
-      "vwap": 12.04,
-      "ema200": 11.93,
+      "price": 10.38,
+      "open_high": 11.35,
+      "open_low": 11.0,
+      "open_range": 0.35,
+      "vwap": 10.2,
+      "ema200": 11.0,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -8.82,
-      "volume": 69873144,
+      "day_change_pct": -8.15,
+      "volume": 76813844,
       "targets": [
-        14.07,
-        15.17,
-        16.27,
-        17.37,
-        18.47
+        12.05,
+        12.75,
+        13.45,
+        14.15,
+        14.85
       ],
       "targets_hit": 0,
-      "next_target": 14.07,
-      "next_target_pct": 20.46,
+      "next_target": 12.05,
+      "next_target_pct": 16.06,
       "last_signal_time": null,
       "bars_since_signal": null,
       "signals": [],
@@ -5309,32 +3032,53 @@
     },
     {
       "ticker": "XOM",
-      "session_date": "2026-11-04",
-      "state": 0,
-      "price": 169.44,
-      "open_high": 174.61,
-      "open_low": 171.26,
-      "open_range": 3.35,
-      "vwap": 169.9,
-      "ema200": 174.38,
+      "session_date": "2026-11-05",
+      "state": -1,
+      "price": 167.68,
+      "open_high": 171.76,
+      "open_low": 170.5,
+      "open_range": 1.26,
+      "vwap": 171.13,
+      "ema200": 172.15,
       "above_ema200": false,
       "entry_price": null,
       "change_pct": 0.0,
-      "day_change_pct": -2.77,
-      "volume": 20937921,
+      "day_change_pct": -1.98,
+      "volume": 14293366,
       "targets": [
-        181.31,
-        188.01,
-        194.71,
-        201.41,
-        208.11
+        174.28,
+        176.8,
+        179.32,
+        181.84,
+        184.36
       ],
       "targets_hit": 0,
-      "next_target": 181.31,
-      "next_target_pct": 7.01,
-      "last_signal_time": null,
-      "bars_since_signal": null,
-      "signals": [],
+      "next_target": 174.28,
+      "next_target_pct": 3.94,
+      "last_signal_time": "11:20",
+      "bars_since_signal": 48,
+      "signals": [
+        {
+          "kind": "Buy",
+          "time": "09:40",
+          "price": 172.42
+        },
+        {
+          "kind": "Sell",
+          "time": "10:10",
+          "price": 171.77
+        },
+        {
+          "kind": "Buy",
+          "time": "10:25",
+          "price": 172.38
+        },
+        {
+          "kind": "Sell",
+          "time": "11:20",
+          "price": 171.66
+        }
+      ],
       "active": false
     }
   ]

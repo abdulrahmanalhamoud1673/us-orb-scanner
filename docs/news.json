@@ -1,288 +1,368 @@
 {
-  "updated_amman": "2026-11-27 01:06",
-  "count": 35,
-  "up": 1,
-  "down": 10,
+  "updated_amman": "2026-11-28 00:47",
+  "count": 45,
+  "up": 19,
+  "down": 4,
   "items": [
     {
-      "title": "I’m terrified of a market crash. Should I put $400,000 of my $1 million retirement savings into an annuity?",
-      "url": "https://www.marketwatch.com/story/were-in-our-50s-and-terrified-of-a-market-crash-should-we-put-400-000-of-our-1-million-retirement-savings-into-an-annuity-1943f240?mod=mw_rss_topstories",
+      "title": "مؤشر \"داو جونز\" يرتفع الجمعة بنحو 600 نقطة مختتمًا أفضل أسبوع له منذ عام 2022",
+      "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNMEl0UXM2Y1IwSjB0WmVYbllxeE5rczFTSmllaW5iRHd0Q0xQU0c4RG9DUE85SlZsZ09Wbnh0cW0weVlwNlpmZUEyNnJMMnRPd0ZzaWkzY0t2Y19iRHJUeEppRWxXelZfZmJSRng0Q2p0MUFXZ1B4VThIa25UdDkydWxJZjF2eUhWamJKLVExMEVEeFgwQjdUSW5PWlNaRHVzZ3M1Ty1INWRxdFI4UVVuTkh0SVpSZEVueTRkYmVxMkxGVTB0YndzMk1zNW4zY2NibnN6ODFVbTVTYzZZRTVQbExyR1hRUDQxSDVicXRJTjZvbVBja0NnVVV0eTFvUDBCVm1ubFhPMnpyc1pzY1ByeG1MMDdnQWw1VWZRX0ZibzFfdw?oc=5",
+      "source": "جريدة المال",
+      "direction": "up",
+      "ts": "2026-11-27T21:22:52+00:00",
+      "amman": "00:22"
+    },
+    {
+      "title": "عملة البيتكوين تخالف موجة صعود وول ستريت وتتراجع مجددا إلى ما دون 60 ألف دولار",
+      "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNSkJCM1NkdURFWUViVmRNbmxOS0Jqc0hhUy04Y0JIczY4QUdZNU5PajhqTGxWcVkxck02OHlKSHVNQ3VUd0V0aEJoOGhYbzhrSG55SkF4Z0JXQWkzTF9Pa0RyS3BBb0ttVGgyZW1zRmllVm5PUUE2VEdmTk5RajR5emlQSFBuUGdiYl9HSEZLTlVHT2RtQm44TFlvZjNoS0poRlo0V01TMFgtbVNDZG93NzJ1X1k0clJoUk90bEMyUWlEX015XzRDWFQtclgyTXBmVGZoXzdlb3lYeThLa0ZaN295RVctY3FRcnhadHRxOXVVVXV0SVRodWVfRTVrSW1SYXpOcEtRZWRMUG5VNWI4NXEyT1g3R0pncnMyRjZDaC1KQmVWWUlqTjRaUmw1ejhHUXlOaEVVOXYzVG1zUWo2eVlfN3hVc1U?oc=5",
+      "source": "جريدة القدس العربي | Alquds Alarabi Newspaper",
+      "direction": "neutral",
+      "ts": "2026-11-27T21:10:34+00:00",
+      "amman": "00:10"
+    },
+    {
+      "title": "بيتكوين تخالف موجة صعود \"وول ستريت\" وتتراجع ما دون 60 ألف دولار",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE9zbHZUZEZybUR4MGZYN2ZYcU5IMGV2TXdpQnNvTTRkbUl5cE1xUktYVGVKYmhVbVpHNlE2Ug?oc=5",
+      "source": "موقع 24",
+      "direction": "neutral",
+      "ts": "2026-11-27T21:00:37+00:00",
+      "amman": "00:00"
+    },
+    {
+      "title": "وول ستريت تغلق على ارتفاع قوي مع انتعاش أسهم الذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5Rb2hSaU9iT014UVlfcTUyTnhtVDNMWjA0ZzYwTlhkTmd4Vi15QVBRZmhnWHVGZWVFbmFEY1F2TGphSFhwSGl2YWpLQU5ldkk2cVk0?oc=5",
+      "source": "شبكة تواصل الإخبارية",
+      "direction": "up",
+      "ts": "2026-11-27T20:57:18+00:00",
+      "amman": "23:57"
+    },
+    {
+      "title": "These stocks soared the most during a wild week highlighted by Huang’s return to Nvidia",
+      "url": "https://www.marketwatch.com/story/these-stocks-soared-the-most-during-a-wild-week-highlighted-by-huangs-return-to-nvidia-578b3f9a?mod=mw_rss_topstories",
       "source": "MarketWatch",
-      "direction": "down",
-      "ts": "2026-11-26T21:45:00+00:00",
-      "amman": "00:45"
+      "direction": "up",
+      "ts": "2026-11-27T20:16:00+00:00",
+      "amman": "23:16"
     },
     {
-      "title": "لا يتبقى أمام الجنيه الإسترليني سوى فترة الصمت الخاصة بالاحتياطي الفيدرالي بعد تقرير بنك إنجلترا الخالي من المفاجآت",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOThYV0FkY2NoR0VIXy1fVmU1UUpQWEo5RXFucHRRSHpXbkJmYUtiU2hTUURhYldkbjY0ODFfajBKU243U1o1aXBIX0RTc0JkbVZmOHktYVVrc3Q5ZFRsUTl1R2dRQi1zdDZMRkJqMG43NzdoUDhvbUtuZnlNX0RLcUxEV2RtYUlPMmJLVWVEZnJEU1RCQXFHVXpGX2RnX00yWlc3LVRvQTVldTNKMFFqdWRtSi1Pcjg4SE9DekxmYzVyVTFMdTVF?oc=5",
-      "source": "FXStreet",
+      "title": "وول ستريت تغلق على ارتفاع مع تعافي أسهم الذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQcFBtZTlPeHRSTGx5T2FjcXd0ekNIck1KY1o5dktpU1haYW9MLXQ1RDZXYW9rOXd2MXVLMHpqaVpLWUdSWnFaSnpiUGdnSE1NRUpRMHhlMkdtdTZzQ1FpZFdKSkZyOENnRTEyMC1mV3hNb0pnbVMwU0dhNG1hZjZXNkFfZ21jcnpMNDFaVDVFLW1NdmJ1QktWSjM0N3RYNFdyWC0wRDdoTVFlQWp5djQxT3AyczVILXVKTDZlWEx1SEF0dGF3TFd1bXRwall2b2Nia3JkOFBYT2pURGsxUzJod214MUVjandFaE5YWEhzMzNQMkNCRTlKdFUwX2c0dDJHMjNFT1lpY3pTeDRQZWt0QlowQ095cXk0aXJPMVg4MlFHcWZtZXN6VndkN205VVlyTjhfenJuX21DeHlDLXdlUWdiSlJFMndOSDBZQ2d2TVJTSFVQdVBtUEZJenJVSHFsMDBoUg?oc=5",
+      "source": "الجزيرة نت",
+      "direction": "up",
+      "ts": "2026-11-27T19:43:36+00:00",
+      "amman": "22:43"
+    },
+    {
+      "title": "«الذكاء الاصطناعي» ينعش «وول ستريت».. و«ستوكس» الأوروبي بأعلى مستوى في أسبوع",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMOFpKazFpLVg5YkhEdG80MlFtLXFpbVkxQzNwcE5sV3lXYlVqY29yLVBQS1BPZml1LWVxc3BNSGVGY0VBUHFRV1JKS3ZQNlVKODZHUTEzQXN5Z1o0RzhFejZ4czhBSWxVU2theEFR?oc=5",
+      "source": "البيان",
       "direction": "neutral",
-      "ts": "2026-11-26T21:17:48+00:00",
-      "amman": "00:17"
+      "ts": "2026-11-27T19:01:00+00:00",
+      "amman": "22:01"
     },
     {
-      "title": "شعبة الذهب تكشف سيناريوهات محتملة لأسعار المعدن الأصفر",
-      "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxOXzBKNEk5N1NWM2o3dkxrdjJQRlhDeWE5SWpoZFhtdE9JVW5IM3hVZUdYZWhSRkpnVHNrcFdrRjZ3RzBVRHRtcFY2SXYxYWNldHhTeld1SFNtX21hbWc4TnpkZUpDbGozTExZZGVQNlphMlZfNTFNUWJ6b1NueVUtb0w0eEw0aDRGaWJGN2lqU3owTnZRUFk4cmRzSjFFUHR2aENXd1RmUFRGaVF1YTRRSjU2c3dCYV9tXzNsNy1SQlBPRmlOb0YydFBHOXR3X1hiak93d2hjQXhmRENtS0xKWDdqLTBadmktcnVHM3lWeWVrazhvTUFHR05hcTZBOXprbWRBdUJOT0FPMHVTbVg0QnBmR1hLRFZ6aWxRZi1SOVlqU1FFYXBPZFN3RTJ4Qm1KaVVkTUVCa1BieW9YWm1qY2JGZ1I5Y0M0NzFvQklsM0gtZG1EZUdUaXBmTDc1d0l6ellBX1YtU2VUcmJrQUNBVlZQUjVwM3ByMHlZNzFR?oc=5",
-      "source": "بوابة أخبار اليوم الإلكترونية",
+      "title": "The warnings behind this week’s stock-market rally",
+      "url": "https://www.marketwatch.com/story/the-warnings-behind-this-weeks-stock-market-rally-86e5319c?mod=mw_rss_topstories",
+      "source": "MarketWatch",
       "direction": "neutral",
-      "ts": "2026-11-26T18:06:40+00:00",
-      "amman": "21:06"
+      "ts": "2026-11-27T18:40:00+00:00",
+      "amman": "21:40"
     },
     {
-      "title": "استقرار أسعار الذهب بالقرب من 3570 دولار مع إبقاء رهانات رفع الفائدة من جانب البنك الاحتياطي الفيدرالي Fed الثيرانَ بعيدًا",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LVkpqdXA3RFJkX09tODFYY1M0VGIwUDNGM1NCZkVLTzAwTFZ0XzVVX2pibk4zVlNHR0pFeDktRk9nZjZLVUFnRFRURU1tb3ptVkxv?oc=5",
-      "source": "شبكة تواصل الإخبارية",
-      "direction": "down",
-      "ts": "2026-11-26T18:02:43+00:00",
-      "amman": "21:02"
-    },
-    {
-      "title": "متى يتوقف هبوط الذهب ويعاود الصعود؟ هاني ميلاد يكشف سيناريوهات محتملة",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBwZ1hJV1JfRkhUXzRHTm13cFRCSWx1UWMtT1JUa2Z5Sk9jRFlxUG5NclJOU2cta18xQnJjYkoyVUx0NXBJeTJqYTRMUGJBVWthcnE0YVpTak9VQzNXZDRr?oc=5",
-      "source": "المصري اليوم",
+      "title": "وول ستريت من حافة السوق الهابطة إلى أفضل أسبوع منذ أبريل 2025.. والرقائق تقفز 9.3% بواسطة Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zbFNYVnktYlpDanlFTktVM05oWG1lN2I1eTQ3bU40ZFhVWmZFM1lnWGVLa2pqMTVWUEc5RmYwZVllSTNCLWFibXFCNlRTMlpKNFQtdkQ1ZC11NXJXYVd0RUkyZTN3UGdVSjJqOHlGLXU?oc=5",
+      "source": "Investing.com",
       "direction": "neutral",
-      "ts": "2026-11-26T17:51:00+00:00",
-      "amman": "20:51"
+      "ts": "2026-11-27T18:33:00+00:00",
+      "amman": "21:33"
     },
     {
-      "title": "الدولار الكندي يضعف مع تقييم الأسواق لاحتمالات رفع أسعار الفائدة من جانب الاحتياطي الفيدرالي وبنك كندا",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RR25wWHpmMmJhd3RHeFlPTVlWVUdwRHpoOTRpcmkzVDFfdkt4N1gwS3JHOGpYTmNRb3Z3Ykg2Z2dzZlFaY3JKYVl1djQwYjVQRzFF?oc=5",
-      "source": "شبكة تواصل الإخبارية",
+      "title": "وول ستريت تغلق على ارتفاع والداو جونز يحقق أكبر مكاسب أسبوعية في 4 سنوات",
+      "url": "https://news.google.com/rss/articles/CBMi7gVBVV95cUxNUE5ENjZnbmdELUg3TjloQXVOSXBHX2ZmZ3NjTXJ0UU00cThvS2NzOUVIT1JfWmkwQkhoWXJhcnhiUDBDT01Wc01TZExVLW1BU1pnVDNIam9JN19nNTlRRDhaSW44NTFrVWpMaFZzU2JjbmtuU3Nya2NjMHlfVEZMUkxNbXhELW81Y21DMTBIbGFJTklDcm9zbUFCUzFOc2ltVnhTZEU3Qllmd3VXOTNEWDNYSjJWbGhLX0lZdndqcDlUOEY0UFZIOXVIMk44S1hnWlFIb0xPdGZjSFFMbzR1Smh6cXV6NkFRWV9Wa2ZsQVlsSUxPdnN3aWR4aUFrcGg3S0VpallHdWRTN1RuRHRJbUpObk9ZMnZ1OGJiZTlqVmdhZWlicWdVT0o0MWJtdk5DSm5sckRFTXpoeXpIeVFIVlFqdndCX0RBNmpKX21VMVlDSkRlMHpmaWV1QXBZc2ltZjZUdWkxRHNPSHN1UVFZUTBUSzNxQ3U4SEF0OC12Y016Z3dHMjVoU29BOXBubF9vUEI5TG9jcU5rUTdTclpkcVJDTW1wbGlHV2doSkpzWGZNX1ZyNGZtVDk0S0hrOW1kUmF5UEhSblY1Q2QzbUpwUGlEVmJ6OEtiZ1Q5d1hPVF9XOE5sY3hreFRHYWYzbzMza2twZ0UwVjcwN05QVFZFbk5oQ1QyaFdmc3VBUm1ybmZoZDljTXZCd0NWTkIybHNYSjlFSkhkUE5GTmM1T2tBMnVqVEMtempNcWJrbmhNbFBkaUVvUUVFZ0w0d3VBUzZjMmhPeURHaDdTM2E2V1Z3R043SHZNLUFYZFRXd29PSUZad0FjSkxTdUo3dWgtSzh1ZWJrZUlWcHYyYm14VGJReUJtTkdjZ29WQ2UtTGM2d3pKZFNvdXVoWFZ3Y0tGV2FzcmxRdUlXTGRvUnZrSjc1X1ZsVXZVNUVJV213ZHJRTGd0MHNTeVhxRkd0Zjh5MndFVXBxdUhvUDByXzJtUWc?oc=5",
+      "source": "FxNewsToday.ae",
+      "direction": "up",
+      "ts": "2026-11-27T18:29:15+00:00",
+      "amman": "21:29"
+    },
+    {
+      "title": "وول ستريت ترتفع بدعم أسهم الذكاء الاصطناعي.. وناسداك يقفز 1.6%",
+      "url": "https://news.google.com/rss/articles/CBMi1AJBVV95cUxOVzYzWU5nWElJX25nUDBGSDk5c3ZJWDFnNmNwRHZMb1llVHVud094TnNCLXVIQ204NkJWOVQ3NWRFNXhhTG5zSy02UzdBdzJNQ3VtUTJIUGZ5ZXZDWFVNSzdIRW5Nc1FSX1haaVFYYld1d1I2UllJNzFhXzBPcGdnNmtYMlJBaUo4aGlIM3pxU0pUbmxqZ0hVTFBydmI3RDItcFNXbmdQcmRCTzR4OVRuMDJKLU5MR1ZQRWpnRDlFNzVVVzVzRUtvSnViNUpvdGxJUENHV3lFLXJIdkxubW1vQS1XcnlhbVFwcExQOGtEOFFpVER5MFExUlNLcXc3NHlhUUlxdGdqM014V0ZraGlwRy12dERKWUdWVVBJOHRPRTl4Ui0wVHR5UXZkX1FKVmVIbm8ydHlGLV9aNWV1Z3l5T2dVRG9QRXVibVhvVWd6MzEtYi01?oc=5",
+      "source": "جريدة حابي",
       "direction": "neutral",
-      "ts": "2026-11-26T17:33:36+00:00",
-      "amman": "20:33"
+      "ts": "2026-11-27T18:18:35+00:00",
+      "amman": "21:18"
     },
     {
-      "title": "الذهب ينهار والسوق يترقب قرارات «الفيدرالي» بشأن الفائدة",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAwRmlLWjFGTlF2aHVfYmZzYjhXeGZ3d1FqNUtNeG5LeVY1VTVSWTBBcnlTejBfZE5JZ2MxX0hEazNrbGZHQzJJTEdPcC1nczhWNTVNemkwdzdMVk5oU05v?oc=5",
-      "source": "المصري اليوم",
+      "title": "بنوك بـ«وول ستريت» تقترب من تسوية تتجاوز 400 مليون دولار",
+      "url": "https://news.google.com/rss/articles/CBMi4gRBVV95cUxNamZCZzdyVXU4WWVOS2o5UTVQVUtqM3BnSUxzNVZuYnZKSWV6X1NNb2VtN3c1dWdYWDFPOWZpZXJUMEx3WFh2anJXejlRRU4xNzlERnNpN29yNEVWZnFsTkw0UUZsZFk3ODZYbUFhTHhwejg4VFBUS2pjV1puRkFONWsxeThIakJweXJGT0tFUmd0V0FQaVFvbHZXZF9jRGh4YW1TOGFpZGloS3p1dXBoQXpKSGppVm1lM1BnZW9kWER1d1VpcXZ5cTItMkxOYmtWdjdYUUZpOTdfQVkyYzNnaGJZMFQzYXRmWEYyX2V6UFU4ZlJWQlFocHR3RWIzU0c3cmpKaWZhRWtpaWNuVGZucDg2aTRMUUkzRjVtRGJoS0tEMGppdVlsYXJvR0V6S3BfUk11cWItZGl6RDdCVzZPaGdJYXdoOTJPTzNMV0Q3RE4xNTBHSkpTU2hTcnBXeFl3ckVHSXRlM2NKUVhoT1E2T01rVk1WVVBaUjVqZDM1Wk9QbmYzakItYWhjN0lUMlhLSGN1UXNOOTJkbTRaVHRfMXc2Skl5dXY5WTVBcXJvb3pPb1dlWkhpWU9uNXpsa1RBVkNMRUxxUVdtTURCNWtmR1IxbEJxOUdwQzRPdzU4UnNHN3BIYzJWYjRsMkRGeGx2VnZMaEhObWwzYVQ1TFU3SHIxOGx5VUsxcGlReHBkLVJSOVFDWUxoTnFydms0dXJsVmdoVzA0cHpIR3IyZVpNTnJwN19FMlVCbTZ5TDF6RzZVRi1BUWNvN3pWSFlZanZoWG1QUGJaOHR6bG5LZ1BhQWVn?oc=5",
+      "source": "صحيفة الخليج",
       "direction": "neutral",
-      "ts": "2026-11-26T16:57:00+00:00",
-      "amman": "19:57"
+      "ts": "2026-11-27T18:12:59+00:00",
+      "amman": "21:12"
     },
     {
-      "title": "الدولار الأسترالي عالق بين توقعات تشديد البنك الاحتياطي الفيدرالي Fed والبنك الاحتياطي الأسترالي RBA",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNDlnc3hHME1oZnlkeHBkNzJ6Yi1GQ29Lcmg3TmRlTTh2ZHlUSm9Ua192alBUQXBPbmRHZ3JSTmczdE9NMkZpYm1fN1VweG4zTWZYSU5UVzA4Q0IyekZldkdjd05tRUhzcDRuWDVLU3oxeTRvMWs0QWVmOEp1MlZnN29NanBRS3NqQ1FuUm9XTmJvcFhjVHJ3MldB?oc=5",
-      "source": "FXStreet",
-      "direction": "neutral",
-      "ts": "2026-11-26T16:41:55+00:00",
-      "amman": "19:41"
-    },
-    {
-      "title": "الاحتياطي الفيدرالي: تم تسعير رفع تدريجي لأسعار الفائدة – كومرتس بنك",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RNnlCMXA5eXNLWC1ZOExXYlJTRmJTZzhoN3JHY3V4RGtKRnBlNnczeGJjS3g4WHRZOHJWOHJDeHp6VW1zemJORTRIUloxd2VGZGxz?oc=5",
-      "source": "شبكة تواصل الإخبارية",
-      "direction": "neutral",
-      "ts": "2026-11-26T14:44:35+00:00",
-      "amman": "17:44"
-    },
-    {
-      "title": "الاحتياطي الفيدرالي: الأسواق سعّرت الرفع التدريجي لأسعار الفائدة – كومرتس بنك",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPclo2NGRMZUN0Qk1WODNVN0paWWlvbkpWNDU1ZU9zdmtwS2dMc3hGbHhaYk1SWkxZeGUyQ3p2SUxFek42TXBzSEFwZ3J1SWNEb3ZtbE4xU1JGTnNydnF4ck1vVjV0YmRPQTRlbFNidTEzQWZFOHFSNXZTWXlaSk9XVkc1Q2RqZWVYRnlPYlJvdGlrd1Rra244?oc=5",
-      "source": "FXStreet",
-      "direction": "neutral",
-      "ts": "2026-11-26T14:43:45+00:00",
-      "amman": "17:43"
-    },
-    {
-      "title": "اليورو مرشح للتحسن مقابل الدولار.. لكن فرص التعافي تظل محدودة",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1USWsySGNINjVUbWl5bV9zT2p0Y1I0V1JIQ1lVWVhZcDAxMHBmZ05nbFJ5eGZjQnBmQVl5a1Vzb242MWJ0X1FpR1psZXRNaGU0ZXBfaA?oc=5",
-      "source": "إرم بزنس",
-      "direction": "neutral",
-      "ts": "2026-11-26T13:43:16+00:00",
-      "amman": "16:43"
-    },
-    {
-      "title": "لماذا لا تطبع الولايات المتحدة الدولار للتخلص من ديونها؟",
-      "url": "https://news.google.com/rss/articles/CBMi_ANBVV95cUxNSE5QcGt2Z1N0elU3MFZQdVYyeENiZFlyZExmZ3ZkX25ZMEhrb2lSUHp5TTJ0UzMtcTZhVXJPSjZqMjhqbS0xVGhqMlZ6cGx1cHlhUWViNC1lUkxuTlRrMUxHWE1GNGduak1RT2dsV2ZSaVVwd0FvWEplY2ZkVUc1MENxVzZfVVhmVzFyVGVvNmxqS2RLUDR6dXZaQ1ZVSmFiaGRKeHZQX1RzMkdZUUdnTTlMYzA4amZiaWpvZGdWRXZlSTF6R1VYNkJWa1h0OHZ4VUFqMUFfc0lzaWU5a3p5NVl0TThIbmF1SHdkYm43dkpZTG9Ca3RaYVhGNEVjLW5aNWV2aUdWaUp6RkRDYzZYbUphVGh5RlVteDVNMHNsQnRzX2lBbUEtLWZLQXpJTGFKdU9fVll5MmxEaC1QN3hVZFBLT3BCVk5TSEdMemFWa1lDb0hLdXJQeXhmdi15MGtBWUNqbEpOQW1idmtIRy1IOXZUNHhGdV9wUHRJOGpJdW1ZTDUtekNaa3loTWZWaDRlRmlIOVNuUzhsVWxUT1VybWdscWVSU0VOY2g3OFA2Uk9UdUF3c084XzFIM1NNMTlRaVpYLTdBYUcwMHY1WFl5Rl8zOGVzcFhubC1mQTZ3cTBRRUVwckdRYzFwbmxBQ3BoZWhIdFQxTFF3NGFr0gGCBEFVX3lxTE9MZ3F5X2Q1ZjNhUEhrMDNLR0xWVmd0Q2FfQ240N1kwdzMzM29CY0Q2aWJ1b0FMMzVVMTB6Slk2UFZuT0wxU0FnN3prM1BZdnRycFpsM2h0S1d1SmRlcEpVVmh3WElCLWVpemVKRXR2S1ZSZFVxSVB5YlRIOUxTNFFvREU0azBMS1JBVEx1QWdjOTdRekN2SkgtdlpJaDBRODJrR3BubGNDUHROWUdGNmVQUG85Mlh5OERGRnh3WFMtc2U1Wk1rNlUzOXdQSFB3Yk12Xzc4S0lpdjBTTk9zQUF2VHFCa3dNck9mOHNteklWVHlFZzNBa281NUNGQjA1TUY5TmF0a3FUdUlHcEd2cVJRZjE2Y3l5LVVNTlNacHpSXzRuay1PR2dZU29ZVjZ1OGtpUWZHWXBwN1oxN2otQ2F5dGRWbVRGNFdpNHl4MUVkMEY1dTBlczc2UjBQb2FTR3BlV250YU9La3ZJYWNoa1lWWHVDSllhdVg4djI5YkJ2NUdHZlc0bFd1NV8xblgzUVRrbHNtWmJBclBUZVJTV0Z6cVB1RWM5aklIb1pJNUU3NXV4bUJBYkpxd2wxOF9WaFliN29BR0ZlUnFnbWNVbktsSDV6aDdGbWFqMVJkMFRCQVhNUENTNnJKRllMaUpWcmw1MEYwcVNpWi1XeVVsTnY3d3c?oc=5",
-      "source": "Masrawy",
-      "direction": "neutral",
-      "ts": "2026-11-26T13:43:15+00:00",
-      "amman": "16:43"
-    },
-    {
-      "title": "يتراجع الفرنك السويسري مع تراجع العزوف عن المخاطرة وثقل الرهانات على تشدد بنك الاحتياطي الفيدرالي Fed",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOW5kcVFfbnZTZXJiakJvemsxUFBvZjNPQ1c1TXp3TkxhQnN6QmluRFRmZzF0bEtERlV3YUNkWHVZYm4zTU53VVd3TFZfWWJQdzB1QmtZVlBLT1FGZVNmdnBULUlPOVE0SVVsSTFQMFpxWnFDWlZzS01XUGdhVTlwN2p2VkJZRDYxc3F0V0Zac3FKaVk3V0lWSUdJVHphN3B2MThhQXJZU0d4b0NiM1I5OFFzOXI5ZC1SVndmQmNxRzNYQQ?oc=5",
-      "source": "FXStreet",
-      "direction": "down",
-      "ts": "2026-11-26T13:20:13+00:00",
-      "amman": "16:20"
-    },
-    {
-      "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
-      "url": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html",
-      "source": "CNBC",
-      "direction": "neutral",
-      "ts": "2026-11-26T12:46:55+00:00",
-      "amman": "15:46"
-    },
-    {
-      "title": "أسعار الذهب تعاود الانخفاض بضغط من توقعات الفائدة الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxQNVdkRE9OSjZzbFFIazl5NkFMWDdtUUE5MjhiT2dDOFAtTERqZEVXdFZCTWFYUGRfMG5oZnc1RzVXS2RXMXluR1ZPbUJ3N2dreHN0eVN3TnFIN3J1WjhBREZyQThmOVNQRW05cUxWQXFfbE9SWjFWNVR4dmxWcHBiLUQyZmxGVFlXbzFXYU0zUzFoYmNDaWJ1Nmt3ck5qNVJ2UklMaXp5d3pEMVZTdnhGVEJDSTlmVlZnZ0ZRemFad0xnQ1kzODVOUjdVOVdQMWozQVpHYWVmNTJvZDhpTU95UTZyWFhVc2U5dF9KVEFNZzVwaXN4X3JpTHVNV2J0OEtUMkxiSDJXbDhQMHdXbUdfYmNzQ0pnbUdEc2JNMjlsOFI4Q2FqMjhaOG5qODZ4ZlRJRmNqcmpvVHhOVDNhYXE1SkZySEl1aFE1OHNBSXpFeEp1WlJFQzVvTHFCbUlkTGZPcXhjdUx6WlZBWkpQYU5IbHdBbW1VN2dvOEp0d0RKbHpSd2ZudE5aTW9JMDk0LVkwcHppMkFPUnFlN0FBR2tETHJQRXZERzBVY3l0SU9ZTVgzQzVYVXprU3hQcFlSWDIzMFc3VGpTTmpPRFltSEpDMlNxZGVRTkJuSGk4azlJRzRyaXl6cThlZGRYRTVhbHMyM0RqdjBZT3g5OEp3MURJaXRoQlpITEUzOEE?oc=5",
+      "title": "الداو جونز يغلق على مكاسب بنحو 600 نقطة مسجلاً أفضل أداء أسبوعي منذ 2022",
+      "url": "https://news.google.com/rss/articles/CBMinARBVV95cUxNWnY1bE9ITXlESjJTcWFxd1BzcVUwQnByeXRycEgzdUZfOVBJSFdUdzJZLWtzb2Y0SVNRT24tbWItOEdjTjE1Z0dxc1hDSmJ0VlpPekZERDE5bldydEFSekJ1Q3NBR19fT0xmaGNxRXhUNm04elhvS29rZHBXSWpOUXFGSnBGN3J3MkxYRUVoa2o3ZWVXelpCZERua0d1WWptOUs0X1hXdUozUHVNenJwZTJlcC1KdTU1VWdhQ0dINTM5X2tWUGhEWXNSQVl0VmxibUE5aWVtNzdoQUM4XzdEbkpxWWFQQUhzbGNBNkhNQXFUbkszVkdnQV9ZQTd2VzBVNWZNSkdZYlcwRERjZXEtdlFHZ09YLTV2SU43SjVlVTctdmRWU1N3VzNkd08wMXVRVHdScUg4RGhiWmE5YWZGbHEwSm5yZ282U1NTQklOdTRTb1JCdzVKcXdiaE5iWElCYUlBYW1zWmFCUW9PdzVUMS0xUEZyY1BFbjlibTN1Uk0zSVNjbEZsemZoWlBHb0xpV1k3NUcxZjB3S3RkOUgyZmM3RmpCTHUwNWE2aVN1V2lRSzEzcEwyS1hSLXJYaE5sVk5xMUI0ZU1mLTlUWUcxMXczejBOaFloX3lfRmxqT2RLYlVUeGRrMlZTdDRhLVhaUnptLXh4cHh0cmwyRnR4Q0RmRTlyMWpuWXdmQlNLVXNwTjVIaUJPa1c3b1U?oc=5",
       "source": "المتداول العربي",
-      "direction": "down",
-      "ts": "2026-11-26T12:04:15+00:00",
-      "amman": "15:04"
+      "direction": "up",
+      "ts": "2026-11-27T18:12:55+00:00",
+      "amman": "21:12"
     },
     {
-      "title": "أسعار الذهب تتذبذب وسط توقعات رفع الفائدة وتعافي أسهم الذكاء الاصطناعي",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPZ2lWaU8wZHFUREVfb1NJOHo5SEczaUliLUxsa00yekx2ZWQ0MUFUeTUzT3kxaHB4Zjlvc2Y1OFFCWllZVl81VFh2dE8xWmhsSkhSQWt4WlhMd0hZQWlaVFlaR002c2pWd3dsRzVCWVZBUkpnVXFzVGgtUmI0NHJ4NG8zSU1jSmhEVlVGdDhKMlpWM0p3eTZMa2ZPNFF3eUtGZ2tkcTA0dzlMQW9LSk9YaExJZTM0QjlUSTdBTExlTzZWQzFCMFZLS0ZZSDRseGlIaE95d0VXNVo4RDRuQ3FjcE1XejRKQVRaVTBJMm43OTh0aWNiMW96dExCbEw0VzJHeGRfc1NleXNMZw?oc=5",
-      "source": "الشرق بلومبرغ",
-      "direction": "down",
-      "ts": "2026-11-26T12:02:27+00:00",
-      "amman": "15:02"
+      "title": "الدولار الكندي يستمد الدعم من رهانات رفع معدلات الفائدة من جانب بنك كندا BoC، وبيانات الوظائف في بؤرة الاهتمام",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWm5xanVEQkdrRGxRYmRWbUloZmNoM2tTYUxFcjBmZjM2Z1o4SWNKQjRQU1pqajhSWmI4YXRuVnBXZFhqbXBGdllidEl4Wjh5NkcxSGd6YUpIVm0yaTI4eGVVbkM5VC1vRE1ZTEtiOGJDMWtNRFl6aHM3NGVnTlpvTnhqQmxyS2NDSmV1RENPZDU2a0ZZZldscUJ1TGNvcDFDaUY2eFRQMUVYaEZpcGRWOGJRU05BeHRDdUtzN1NFUXZJUzZy?oc=5",
+      "source": "FXStreet",
+      "direction": "neutral",
+      "ts": "2026-11-27T18:11:13+00:00",
+      "amman": "21:11"
     },
     {
-      "title": "ماذا ينتظر الذهب في آخر اجتماعات الفيدرالي الأمريكي خلال 2026؟",
-      "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxNcUN0UFJTNDdHaEJKbjA2NzAyR09Ec1hBLV81R3ptV2J0d2QzaHZyV3BtNHR2NFFsMFZQSm1ac19zOThzSHBoM1h6Y3RENl9vWDBiZ0dIczhFa1NpMXh0UU9qbWNYYXBJNHNYcm5Yb3JOODBnbElQN25rZWhjalNsV280UmhqYUczcWx0ZXJiaXNfVjhvb1ZzU1gzS1UxSVh1OHFyVzNoNG5zSGtqMW9GYWhMLUV4NlVwV0NzZXVWTkt4MERaQ2lBS21zSGRXaUNlQXYzaFNoUW5TNmtDX0ZmNFpKQ1NKU2QtUkVQUHVPYlkwNjd5TmJabVZnUTdoZFBOWHVOVWxNbm1vbFR1SXBaN0Q1dFhrQmVPUHp0cXpXWjdCLTJQYVdQS2lZZWhZVm9ab2FkcDBFSk1VdUF0bS1QSmJtQ1BlOHZmbHNva2x4VkdjMkpiakk2Y2pEc1RNR04tdlpDRU5DTjhFZHdPSmpyclEwYU9WWm1QR2x4enF4VWZMRTlMX0wyaDlRZXZmQmtjMElPcDJfc1d6SWRQZXE1UVhjaC1NbVdEano2ZlF6Z2VfcTNvbTMyWVFiNHNkSXdDQXFLLUF6WEIzdHVJVjJlSmY4RVc0VnFwUmdRU3N1b2pjNGJfX1RVV28wUnJlOEs5RkUxUF9BWHhTTEh0SGhYMFk2eE1YVzBXN09V0gGQBEFVX3lxTE9PcHFtdFV0OE5paXRqZXFlOGNGdXB2VEFDMF9JbHRDMDdvTm4wbFFtcTZpbGZLUTM2ZjVRem9aMXVIMjZUSGNYeHcyS2IzZWpYMDNsQnZnaGc0NDNzNFhGWmpBU1NRRGxHSVliQk5xS29FTFphT0Ryck5RQ0l3cGVRUUpidFF4QmdfNWdnSnA2cTFzZTNpbnBITy1XNGh4bVBNVTd6ZHh2N0tqUTVtQUQ1emJZSmxRXy1ibUJaVjVUdDNrc3M1NTJ5UFIza2Z1VEV1YTdmSjU2VnZWYS1Cc2lrOFNXLXBIV3NLUVRBdEtrbWtQZUtHMG5NR210WkFpQ0EyRjBrbnY5RzJUYm1RSEpDb25MdTNzeGdtZU8wcXhWWDJSRWYyb3VncW5qZXlDRFRtUEtQWC03M3BidTI3WU1FN0ZZY1BpMlcxMXNJY2hpc2pJeG41UG1HdW92OTk4LXkyS3JvNDZqS09sYzVrVUd2N0piZVZnWkpvV3o4VU9XckR2d3dBbE5CV0xKQzBKNFBHaGNOYnZwLVZmZWhUdldhNDNSMnlOeE5kblZDSUxIV1BZNTZPUzE5dkQtdGMzdFg5VlVhR2R1ZjdlUUtxdmw5RGRrUjV3VzM4ZUlnQ2xPb204UWxxZmhROTR3ZjlsWGgyM0t0RUZNNjU5aHgzUmdoNThQeEVld0hpUkwtT2xMVg?oc=5",
+      "title": "تحوطات بـ25 تريليون دولار.. السر وراء صعود الدولار المفاجئ",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE45SElnMUh2UTVKZXQwUWFhYmZVOTNXTGNPc3M0LUpSS3pwQUg0aGY0elY3VmkxTnhjZ1ZDZA?oc=5",
+      "source": "موقع 24",
+      "direction": "up",
+      "ts": "2026-11-27T18:01:14+00:00",
+      "amman": "21:01"
+    },
+    {
+      "title": "أسهم العظماء السبعة ترتفع في وول ستريت بعد عطلة عيد الشكر",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1iY3N5MDdsdmdqNVZVMEVzdmFxMlU3X0ViVG1CaFlpcnhrTXFlTVZZTlF2UTQwSEthX0FKYm0tMFlTRGM5SHc?oc=5",
+      "source": "الخلاصة نت",
+      "direction": "neutral",
+      "ts": "2026-11-27T17:12:31+00:00",
+      "amman": "20:12"
+    },
+    {
+      "title": "ارتفاع الذهب والفضة حتى مع أن رفع بنك الاحتياطي الفيدرالي لسعر الفائدة في ديسمبر بات شبه مؤكد",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbGhUQWkwajhiOU9ZUmFLWGZoME4zdkJZTjdlZG5rZWE4OFhIWVJieEhoY2Z2WlFuRl9USW54dlNpNFJzdTRacndTNm1UZTNnRVpsNUJPeWlNRjdnQ1BLUHluRVFsMUJidmItSWN1VUZEMXZNdU5BVEVLRGQybEhWekc3Rzd3Z1NHaXRtSk50aHNGNFRxSGRKbENEek05anlxbHh6WG1tQlB4cXRCRDlpVExoM0lRclh6d1l6TXAzSUt3dw?oc=5",
+      "source": "FXStreet",
+      "direction": "up",
+      "ts": "2026-11-27T17:11:16+00:00",
+      "amman": "20:11"
+    },
+    {
+      "title": "ناسداك يتصدر مكاسب الأسهم الأمريكية بمستهل التعاملات",
+      "url": "https://news.google.com/rss/articles/CBMi5gRBVV95cUxOa3ZHRUFFMGZDYUZjZ1QwMnlBYWpiNDJtTzNUcGVfWTAtTlVpVjYtRHpqTTRaZlFwbVotNGZOY21OZVdsWVJxVkJtTTExbUY5WEI0dWtSX05BUUZCNmdwbWlhMjA3enF5UHBBOXQ5c1BXNTd6UXhTWVVqcks5SUU2R0dsb3hxemdkcktsT1hjVUlFU0Y0MkhJZmo3WFUzY2lCZDlNRWF4WE4xTkVrcGJoZGlkbUpiZ2JpR1BmRzlTQlh5ZG1KQWJDSkxTVDFNSXFEenVMZW9LQzdiV0FNWENRSDlIVXhuZFBJVHgzNFh0NlY4eW9vcTcyYzJDTnlXWGU3UXRDSVE5SlFQZmw2dmhCalBTWFlfa3hOYmFGSk9ocGZLRWhFa21TLUxTNktiaHU4c1hPajFRN3dIdDdUTEJsUFU4ak5PZXhhcFEzdFV0cGhKdElDYlZxSDdJM09CdUtkS05mM1NvNEdYTHFvdk8tN0FYUjRlVVVDcGNTTlJWWWplczdnczJDdVVZQ0tTMURobEs0RjJLVjVnZnRjWUZmTDR6T3FmZVRuTnVqcGdNcUxYZWo2ZzdCYmdFMmpKeU1tQUtTQ1hFV2ZjcndjQ2p5U3p2akpZdk1sN0w0Tkt3X2FhT0loVjZ4czc0SndjSjlQVFRlYVYtOHNQTjhEb2ppR2sxbU94MW1TQUZsSzJlZ0lFbGJ4YWpINm1rdnFtT01MMUtHUjNscW5PdlJDQVdhR216azdmdnRPZGJtN1FDU3pIS2pZQ2hBck82WC1Vc29UbXZPZENtZTFkQnJEczhCUy1fWExXd9IBU0FVX3lxTE9yWjJreHdPWldrN2dNbS1ieG4wTnhFdFctNm9tdVNmVG9Xbzc0MmptQzBCTkRXQ3NDaHdzYm5rUlI0TnZhVlBlV1Z1NzFMZU1tQ2lZ?oc=5",
+      "source": "alyaum",
+      "direction": "up",
+      "ts": "2026-11-27T16:30:00+00:00",
+      "amman": "19:30"
+    },
+    {
+      "title": "توقعات الفضة الأسبوعية: يرتد زوج الفضة/الدولار XAG/USD من أدنى مستوياته السنوية، ومن غير المرجح تحقيق مكاسب إضافية",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdms2OUFfTjVwWk45M3NRNzFUOVBmdXBOY2lnRTktVXpYbERuOVhCeks2LVc5SjM4S1Rqa21BRm41eVBSMXh6Q3ZxWnFaUnNJZWVvcWNSd0hKMjMwbWdwbVBSejE3ZDBDQk9tTzVuaDdGQl9sald4cFBjWlVUV09vakQzdEpVbVZIYk15UFA4Z2wwS3JiRjJqbHA0N0Y4bzRtUDVVVE12ZjRXMWVnRUxYMUlpaFNMX2doaFZFZ3lfQ1NKR01HcXJ5R1JtVUFDa2FIdlY1OA?oc=5",
+      "source": "FXStreet",
+      "direction": "up",
+      "ts": "2026-11-27T16:17:31+00:00",
+      "amman": "19:17"
+    },
+    {
+      "title": "ارتفاع أسهم العظماء السبعة قبل جلسة مختصرة في وول ستريت",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5RamVUcFdPbVc4c19GMEl2dXVWbmlBRlB5VVpGcGJsNGZKR1VmaFdjcUpuQ1BqemwxdHEwczdJZ0txSlhuc1o4T0hFLUMtNm0ydElUR3hn?oc=5",
+      "source": "جريدة البورصة",
+      "direction": "up",
+      "ts": "2026-11-27T16:11:51+00:00",
+      "amman": "19:11"
+    },
+    {
+      "title": "تباين وول ستريت..مكاسب لـداو جونز وتراجع ناسداك مع هبوط مؤشر الخوف 6%",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE00YWlUT3g3ZEE1czlVNUhnREh4bFFhSXQwODBzcjh6RG9UalhYMHdjZ20wSlVHaWpPZ0JDNDlnemdPNVI3?oc=5",
+      "source": "جريدة الدستور",
+      "direction": "down",
+      "ts": "2026-11-27T16:03:27+00:00",
+      "amman": "19:03"
+    },
+    {
+      "title": "هل تدفع ضغوط التضخم الفيدرالي لزيادة أكبر في أسعار الفائدة؟",
+      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxQLU5FOEJfZzFLSU5JRnlWajRJTktmU0o2ZmR3OEw5UkRubVo1dXNyLUhBX2JJMTVzNTAyeGR5YmFILUNUMGR4a2NaR0xJZXh4NlJ2TUtSXzFoOFpjTkgyYndobTVFMGdCQVk0NjN2WF92QS1EeHVuYy0wYkM2YmI5eXFzNEpkS1FFNGxub211MEV4NUl6cDV2dUdJSjdWZ0hNYnZNOEVBVlVXTjQwa3N4YnNEb2w2V002X0UydlU1TlFkZGdka2wwdnl2ZkpiZVA1b2FqVHVRR3U0enlxbjhlODlnem5acUVxbWJsSHBXRU94dzNiSzBkWHFDWW5yOC1iVmJqdXVkUFpXWG9vb3dVUEppb3ROclR6UFVwakt6Tms2LWJFZzQ5NW5sYWR5bTNSWWZYNWtseVg0SXowQzVBbTRPTEtIY3dGRFFXMXFlenotc0stRlc1Rk1sSEcwTnJmQk1TQ0NobXMwTzktWXBqWndJRmN5OHEtYUpXUUNGY0NsdFNWa3c4Qm5ZS2E2VjRZZlpmejFSQndfX1FJNzZoODlvdU95Z2diM0tLbGRiUVl3c3FiaFFXbnM5OUc3VWl5U3VlMERaOV8wMFdSNF9DZmlJak5PV2NJMktVZXRwc1Q1M2RVUFRiY2VhcnQ2cUduTU5tRUY5bU53cXJLQ1d2TjdoOGlNLTJldDF6cnln0gGTBEFVX3lxTE1lbUFFSFFNMk8tWFppRW9NRHdld3ZJcnY4bHRaT1lhUEVJWVpEZ0NYLTFYNkJtSGNpV1dIRFF5eUhkSmM3M1F6RUJUZnBwb2xqenQ3ZHRyR0FYR2wtdUMyWWRKVl9HNXFQX2xteW9LaWJGX21vTFBFWVozZlN3UTNxOXhUU2Rzbks2eVE0enJnOFNWMXBaNWE5a0tzNmJZTHFCVW93RmV3V0xpLXFpUHI3cUxhdkFxX3MyTk02WS1DWEVyOWNnTnpkNzlTdFpBTmlJTGxBaXZUUUV1Ny1JSDVXRVcxLWNCbXgzOVBwM3N3QnlraGJIN0VrX2lpSHdrbWdDaDF5WEJtdF9Gbl8teVJhbUtIeWdfS0x2VlRnSmdoblZsbkhiWnA4QVFCTnRCS3Y1SEF1bjJsLVNqc1hHcDlmQXU1SVEySHY0V3Q3NmEyX2pCOTZSYi1teDdfRjZnczlhRkFzOEVqSmhsNTBYQ3VJbE9fLU44ZWFlaWdBY1JoZEhkYW5Fd1Z0OE5WaDJmOW13S2RiNTRqRUFqU0duaVlXZkxHeXFsQWpCbnlKWG1nV2c2Y1hrWk9ZSWEyZXB2YWhfcHpZTTZCQkpYSk9DQlJGTURIRXJPUWlXSWRxRTZOWmV6LUhoYkpPOHBVSm5yZzJadGQxTGI1M0VyZm1DblZSek1GLVQwSmlMMjJzQzFuYWpITQ?oc=5",
       "source": "Masrawy",
       "direction": "neutral",
-      "ts": "2026-11-26T11:48:55+00:00",
-      "amman": "14:48"
+      "ts": "2026-11-27T15:51:19+00:00",
+      "amman": "18:51"
     },
     {
-      "title": "الذهب يحاول التعافي بعد هبوطه إلى أدنى مستوى منذ سبتمبر 2025",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1fREphTi1MVW1sTDRkSTVpZGtmOERCdWNwMVVrMlFYeG41T2pLR2FFZ19PWEZBQ2k0dnd1dlRXbVZSS2VqSDVRTTFR?oc=5",
-      "source": "eDahab",
+      "title": "ارتفاع الجنيه الإسترليني مع موازنة تشدد بنك إنجلترا BoE لرهانات رفع سعر الفائدة من قبل البنك الاحتياطي الفيدرالي Fed",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90UmdKaDVCMktmNlRhLVpjY3ZRcWFUazZIdTlHMzNWWVo5YlVkWk9CSjZZUGs3SlNwRnVXSFZaY09oSTYyNzFOaDd0NFV5WUdpWU9N?oc=5",
+      "source": "شبكة تواصل الإخبارية",
+      "direction": "up",
+      "ts": "2026-11-27T15:34:41+00:00",
+      "amman": "18:34"
+    },
+    {
+      "title": "وول ستريت تعزز مكاسبها في جلسة مختصرة.. ناسداك يقفز 2% بقيادة الرقائق بواسطة Investing.com",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RZVczbUpjVDN2QjQ0ZDNheG1MYUtzSG9VUFg3MjlBVmlFS2labHpGZVc3LWJZWng2Mi1VSEQyM3E3emg2TlBuOEI0dVZscmVnTC1TZXNXUDBuYVRwMjhLb0tmSmt1NElCUlRhaVlYNnA?oc=5",
+      "source": "Investing.com",
+      "direction": "up",
+      "ts": "2026-11-27T15:20:00+00:00",
+      "amman": "18:20"
+    },
+    {
+      "title": "ارتفاع الأسهم الأمريكية عند افتتاح وول ستريت بفضل الذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMivwJBVV95cUxPRmZIUHlRd19TWGtoZUNsRDFFS0tPRktNNXFxb3dIU2VoR29aQmdlMXE3aXN5WGZrU3dlVGt2X3dwUkhGQzh4cjBFSnZaUzJXYXBLdVBqYk1lVkR2UE5ORk9vX0hPT05OMzNaTWVKMDFwVDUyalptMUdRcGJsMEVZbFJseVhYT2FOVTFOUTNaNlNZY0RHWnhVR2VjMVItX2E5d3ppRDhxakdvTU1YTmZUWnFKMFhweWlDMGxXWDd5UnBPNHQyOGhheGNiV3U1SU5lalQ0TFFKN0k2LXp6U3REVmZEbm4weTkzWFI5TlYwcEY2dWZPQlJJUzlqaGl2WWxYVFdJOXZBNGVXM3pvVGhYRldydnkxU3RfUFdyb2piN1duWGtxX1Z4Skd3c1hST25xSzRTZFJVZWp0Qkd5ZmtN?oc=5",
+      "source": "مانكيش نت",
+      "direction": "up",
+      "ts": "2026-11-27T15:14:53+00:00",
+      "amman": "18:14"
+    },
+    {
+      "title": "«وول ستريت» تنتعش.. أفضل أسبوع منذ إبريل 2025",
+      "url": "https://news.google.com/rss/articles/CBMiiARBVV95cUxNWTV5YkxRYlh5Wjl0VmFfVVJXTWdrQ2pOeldWb0tsU2pLMC1BTFEtekZ1bk4tSXNfU2JwNjRlT3hfRWhodXVQaEdwQTZVTHMyaVBiQlpoMjAxdkxOZW41eGVrMHFyWnFxNUtCTGx2WV92RTJsZzJVTERFbkdESGYtOWlmYlM0dFZ2YWZEdU9KTWtEWnNCVGNfSW9FQlNrUWhLdXI3LWk3NzBLTWVBbXZmbkw0YWJVelEzbWRGbVVuMmJMWHdoUjAzZmxZZTlIMUoyRjlYdDRCQ3BwSlhpSFRxVTd2Z3NRUExIdUF1UVRvSjdWMVlvc0tCLURVTnRTczBpaWZ2cUdEOXgyNjl0akdadVBJN1ZKSEM1amVmVElpRFh3RXNlbHFZd3Z2MUhOV09fMS1UNlRoYkIxSmkxQTZJcUJOV2wtZWxGNW9JMG9EQ1NVQWdHcFA5czBZT3FtakQwbW9ROGR4Qll6czREUS00QmIxOE4zVExxbXpubkNrMmRKWmxCVEh5MU4yZTlyZzJ4YTRES2dLY09seThFU1QycjJlVlROMklZSU43UTk3STdVRUJ2QllLSUtrYWFFTjhPNmlqQjg3LTRUMjFzMWsyQVRURG9ZcUdYNjhEWVV2WHJuY19ldnlMOURBS0duWTgzSGpFRHBNeTRkOFgwVHpJSWFhQ2s1QW5F?oc=5",
+      "source": "صحيفة الخليج",
+      "direction": "neutral",
+      "ts": "2026-11-27T15:00:07+00:00",
+      "amman": "18:00"
+    },
+    {
+      "title": "العقود الآجلة للأسهم الأمريكية ترتفع قبل إغلاق مبكر لـ وول ستريت",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBLcnpQMnVSYnZlZzJrdjgxUUxadkhhWHpFczVUM2xObGJjejJEZ09heFhjYlY2RkFuekJ5WUQ5YUpPVU1TMnc?oc=5",
+      "source": "الخلاصة نت",
+      "direction": "neutral",
+      "ts": "2026-11-27T14:56:34+00:00",
+      "amman": "17:56"
+    },
+    {
+      "title": "الأسهم الأمريكية ترتفع عند افتتاح تعاملات وول ستريت بدعم أسهم الذكاء الاصطناعي",
+      "url": "https://news.google.com/rss/articles/CBMigwVBVV95cUxNeEF4MkZfczRrRndSRnhpYlo2SzM0UEpXdzlBMFF2YmpMSFZGM2d1al9SNEtTSzdUQW11ckhnRzdDV3V0R2Jmb3hIdVJubjEzSGM2ZjlEWGZWd3otSXhzZktNcXpPd0VBbEZLNXJEc2I4OWx1TUg3Z0ZBdHpRMUU0YVBDM29OLWdrTVBuX25qc2N2SmQ3dU56NUxoNHJtbm5LTHFrX1EwdkJsajZMZ0NCcG5Gb0NTM3JOSVVmbS1lLUhRYUVJd2dNSWV2ZGpEUFpKLWY0TzYyVEQtdjhUNmNqWVRqZnlSWkNsZWxxVGZTa01kQUJvV3J6eVlmdnVLWjhNaGZVLVVIc3VIbFlGZi1jbGRfZFBhczcxb2Q3TnZ3UlJxVmhhSUNpamJjUmk4WlJtNXFIcEJhTGdScDRDbHlybG1hbXgtVjJST05NZkdLMmtHVHN4d25DVDdZczJOaVJId1Y2elJRVDhiQkRKdWE4VFM4Uld0Z0dkY2ttRk90QlZoT05wY1M5QUQ1eW8ySjNZYVh3RmJXemxRa2NaZzR5TXpHQUY3aFA2YmlUS0QwWVZfOER5bTU5MWdheUU4bnZEZ3NwaUZ6R3JpNzE4ZGpQVE8yMXFxRGNDaEJxRXM5TkNkb19aaWJqT0tSTW80NGtHZThBQ3NjcVVvWjlUR083UWZXb3gzb2IwU0lmNkVPSzZMRlY2VU5MQl9xN3NkN1Z3UUgzVDgySi1yVnZ6TUJKZjZfcmNGMzJBaEhFb01yenB2MWswZ1ZpMDJZendBZ2ZUZEtGVWg4SGZiNkdZa0ZzbzZOeUhwcWlyRWNFSmZ3U0xfN2ZYN25rcVVVbGdkN2VWYTIw?oc=5",
+      "source": "الجريدة العقارية",
+      "direction": "neutral",
+      "ts": "2026-11-27T14:50:42+00:00",
+      "amman": "17:50"
+    },
+    {
+      "title": "الداو جونز يقفز 500 نقطة ويتجه نحو أفضل أداء أسبوعي منذ أبريل 2025",
+      "url": "https://news.google.com/rss/articles/CBMi-gNBVV95cUxOcjB3S2l2XzlRSVZhaWlQQmpjRnJMbWRHZWtsckVneC1jVVpHRFlscU5nT2Fza2t0SlFxcGdTVVpqQ241MmRvSEVHOVpOTDcyUGhjdjEtOVFjclZ6Rlo3Q2tTMUN4anM0SWZBQkNvRE1aTTJHbnowenYwRjlubDh2cnRYZjI0VGtuaFliYkNPWkI0c1ozTlF0YTRpbERYb2RyaVg1bzJ4R0tjdVFBUzQwNHZRU2t1VHlXLWRNbU9XMXF6NWRFeUxxRThoNno2cGstbURfa0FxamFsX3l5c2pDUlFFNXdTWWd4bkN2REt5Qng1NnN5ci01cEFIWkNkYm92cnVFNFpTamNxREFkYWFabnZjVGtGZUFiQWtsUWxKQmJIUjd6LWlURGp2XzhWQzlTWlhraHpZQW1VYmZScHFkTlZqbmhpVkZTMkVTLVlVWWRiSVpOYjNKNUtjelNzWnY4SlFBbHF6NkJlbVBtbGtnVVZxdW42eXpWcmJ3b2RkXzB3eGNUUUFRWk5aTHp1SEtpX19yZUx3MmRHa05WZHZ3TGh0TVBnVnlHRFNvdU8tTVJJNVU0cE43MGVaVF9xQnhNcFFIRGZrWDM3V2hiTkxISTNrR2g4VElMTTFaelBBYkhNMEJBMXR4bmNXd1hXVVRJNHRTbzlfc0NFdw?oc=5",
+      "source": "المتداول العربي",
+      "direction": "neutral",
+      "ts": "2026-11-27T14:48:17+00:00",
+      "amman": "17:48"
+    },
+    {
+      "title": "هل وجد الذهب قاعًا أم أن هذا ارتداد قصير الأجل؟",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYVB2aHQxV2lzMWFfOE1SY1Vfb0IwMzc2ZVZFd3NTSGN6enRzOWVEbDZmMDVDRDlEWk0xVXp6Y2pQQkhnLXMtUkkwUTBVVVUxWV9nQzluc3A1U01fbksyUmstbFZVMUJZcXBPbmxrOUZsSTJITzJQVVc2blFqb1NiYUs2cTdTMHE5cE1qY04xQUR1ZFVQa0VZeml5VlpzaW1EVTl0WFA1T29fQnFGOVh2M0NXQ2I?oc=5",
+      "source": "FXStreet",
+      "direction": "neutral",
+      "ts": "2026-11-27T14:46:07+00:00",
+      "amman": "17:46"
+    },
+    {
+      "title": "🔴 المؤشرات الأميركية تسجيل مكاسب أسبوعية.. داو جونز يختتم أفضل أسبوع له منذ عام 2022",
+      "url": "https://news.google.com/rss/articles/CBMi-wRBVV95cUxOZzVSYTI5MmVTZkRTTUtTQl9KZ01xdC1FRGhiTFFYNFVHcGpjNk1FQWJKcWdib0VMY3FXdUFaMzN1eUU0UTFGWFpMR09pLTQwOWZ3N2dfQWNNcnFvYzc2NkRTZmtRdk9Za19jd3NkdEdfSjA0OWU4ZW1IZFE1bkN3ZjlmNGNjOHYwLWVxYzVNRG1qMGVuMThBY0R6NGZJM3dRcExaRVhIWlhzdHd6dlpqZnF3elZ5VGFzQm5GZkVZaU56TDNQa3JFMGd3blp1bEhBRnd5bGdaNWp4U2dTTVJyVUU1YXU2TldWdklZZEttTWI1Q0xGNDdpM3FGMFVtOGo4VTRmT0RndnhjYkd0YWtPZzhnWmZzdWlzZVMtMzlOYnJibnB0NGtWVl95Rjl5aHZwU18zSkhrV3VCdDRvVUJKOHFHM0k3b0EtOV9HcUJFTUNlWXRGQlFwbFk1M3JpUVRjeWE0aUVpOGdXZWhiblIyaWk3YnBqOTE4OUs2RkdWZkllTXZQMldQNkZNeVlxRDJhS0owNmJ0MVdNbUFqbk1HVG43OC1Wd21xWXh3YnAwY2I0QTlfUUZCeGg0VzZybEtSSi1Pc0JjWlM3TmJ3eHN6UFhJdHlnVm93V3FfYkZpR1hHWDlwZ3BJQ01XU0l3NF94cUdiXy1lTHNNYUpIVkItOGNhZC1aOF8ydzlkbWo3NTdSejFYY0xVLWpYRDdPVkpjdEN5RVNGTC01dFdwRVZFaUpGTjFwdC1jNk1yMHN0dC05QmJQMzk3WU9LOHQtY2taT2JsNzVWM3hkbndyRGlnSEctVlQzZW5zRk4wU0VzZDdrdm92T0J0d05XOA?oc=5",
+      "source": "CNBC عربية",
+      "direction": "up",
+      "ts": "2026-11-27T14:19:13+00:00",
+      "amman": "17:19"
+    },
+    {
+      "title": "هل يواصل الدولار صعوده في ديسمبر؟ الأسواق ترفع رهانات تشديد الفيدرالي",
+      "url": "https://news.google.com/rss/articles/CBMixARBVV95cUxNOUJjVEpXLVgzYzVFemw0cmFIbmpHTWlVVFgwcFIzUGNJRjk1WEwwaFJRa0xHb1RraTlkUV9vVll6TU1HdTFSNGZUcFdjVkUyRlVNQU96ZmxEWkZCb1NvVll1bFpHSDVKQ0xsRTBVakFobHNockFkMzJ5VFRMX1NKRGRfRjFrNE1Id0F5TnVObnU2TnlXXzNhdXJ5dkFoOG5oYnFFZUgxcU9UcHN6dXlCeC1nbmFjWVBKVDFmX0RxVFdpWHRfSUFPTGY5am90TzBfdVA5M1BLMEZTeVRYRGcwTnYwZXVYNXkyTTFjbEZQZDZUQ2NySFFTTG9wSExnTHZaUm1wdnR4STdtbnEyQmptcVpWUk9aNW9KVG5GTGp5U1JvXy1VaEhHVzJ1aUwzS0FkZ2lVNnhTZXU2bFN2QjI2UzB3TkFBbFc3YS00bTNJY090Y1E4a1dJbFpfb3JKUUJXOE5ZSzFGX0hjdFU0MlhQQ2dWVEJzeGNUdWxZTndpOWd0czROVUkweENuMndEQTEtNTZ4ak9OV1ViMGFVM2RUVVJ3ejBTY2dSQUF2TUJvdlRvVGJ1aEhRbVIxTVVWOHZuNnk2YlEtSHo4NW1zdUY1T1YybjlKUXJFNXQ0NnhjekZYVzh2RDl4SmhRV3k5Mk1lMDlaSDBSd19SUE5CMUwweEo0cF9Da2JGUHBsSU1wZFRQRkV1bFpGWFN4TXc3WlJyT1ozUVpqYTJ0OW1tVEF4V3dzU29SOXNiMG9Qc1N3WDIyWFRi?oc=5",
+      "source": "المتداول العربي",
+      "direction": "up",
+      "ts": "2026-11-27T13:58:06+00:00",
+      "amman": "16:58"
+    },
+    {
+      "title": "الدولار الأمريكي: رهانات تشديد السياسة النقدية من جانب البنك الاحتياطي الفيدرالي تحد من الخسائر مع انتعاش الأسهم - ING",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUkY2QVF5VVFubnFuQVFtVXEwS3pwWTVmejhVS3NfWU9UMjdNVTFWdnRsdjRULTdXM19IdE1lcFlPRlFpcTlJSk5fZUh3UlVPNlpPZUZobUtWZVdhVXdWU2txRGQyV3kxWXBLajZFYU9ldkEtRC14VWpfcWpFVUl4VGVoSGFDT3lCZElXRHZCbms3UWJyY0F1cDlLZnhDM0lncTFkRWtvRTBuY3lGSFlwcDl3bVVZcVdBUEpYVjF1NA?oc=5",
+      "source": "FXStreet",
+      "direction": "neutral",
+      "ts": "2026-11-27T13:25:39+00:00",
+      "amman": "16:25"
+    },
+    {
+      "title": "ما الذي يعنيه رفع الاحتياطي الفيدرالي للفائدة في ديسمبر لارتداد الدولار الأسترالي",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcU13czV0Nng0Z0VUV1ZsSkpWZXZIbWhjNzBwR1V5Yi1aN08xVDF1OEpLeWk0UmluY3Zld040NW9HT096ZjNwMUdPaWVia3pwSEhRQWNMNDdzMWFZcXBqal9FTzF0ZnJMcVJRaUZSa3pxMDkxLU5GQ3VSazZtWFp6dEpzVWg5b2pKVW1tXzJTUWhtU3dVcVRoTk9wblQwejJhZFF2LU51RQ?oc=5",
+      "source": "FXStreet",
+      "direction": "neutral",
+      "ts": "2026-11-27T13:04:14+00:00",
+      "amman": "16:04"
+    },
+    {
+      "title": "الذهب يرتفع إلى 3670 دولار للأوقية والفائدة الأمريكية تحدد الاتجاه",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAybUhTdW90MHdIdzFvcC1DaDJ5Vm01T1NzUXpKa0dCeERPU3FGcXZjOXFJbzBDdFRmbmxGVldWLWdRUUlKT3lNN09ENk5kRVkxYUNNa1lNdFlFd1ptT1NV?oc=5",
+      "source": "المصري اليوم",
+      "direction": "up",
+      "ts": "2026-11-27T12:45:00+00:00",
+      "amman": "15:45"
+    },
+    {
+      "title": "الدولار الأمريكي: توقعات برفع الاحتياطي الفيدرالي Fed لأسعار الفائدة مرتين مع صمود سوق العمل – كومرتس بنك",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbjhveTl0akZDZkc4cFFROTFVQkNmellxTkI2dVdMT1FHVUQwTVpnVVMyek8wcTlIQklmZUpYSmZTbVp1QnFQUlFRdU5qV2toOE1yRzNBNURSTGpwUHlycXJOM1VVQXhobUtjUFlWQjZCN1VLdkJvYUNPbzNuYkVIMGd3bDctR0ZrUjBRTVlyWDAwWmo3OW9TNlRfaHVLMkFSbF9oRndJem11eGY2OWpGRTdtQldEcjJHQVE?oc=5",
+      "source": "FXStreet",
+      "direction": "neutral",
+      "ts": "2026-11-27T12:35:54+00:00",
+      "amman": "15:35"
+    },
+    {
+      "title": "تدخل ترمب في \"إنفيديا\" ينسف قواعد \"وول ستريت\".. هل انتهى زمن السوق الحرة؟",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnb1ZZZWtNZkc2TGZCM0xwMVZIZE5IdW1PX2lueV90U1V4UjhpVHhBeUFia3gwbHhSZVVnemw4TGpSSDJwVHUtUVV3djhsYmpMamlJ?oc=5",
+      "source": "شبكة تواصل الإخبارية",
+      "direction": "neutral",
+      "ts": "2026-11-27T12:34:57+00:00",
+      "amman": "15:34"
+    },
+    {
+      "title": "ارتفاع جماعي للبورصات العالمية وسط ترقب استئناف تعاملات وول ستريت",
+      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxNRlA4VVpZdlJUc0RkazZ3dFE2RHZaeWFiYlE4U1N0bTNUUUJlb0NINjkzMHhiSlJHNzZld2hkYl9wZ3k0VDVyVE5Jal9BcU9GTXpQT252aXNLa0cxUTYwQUtfaFhOU2hnQno0cFc4MTdWNmh0Q3J4akY5YW42MXlnMjIxY3Z0Nzk4d2EydE5IVkU5V0hUM1NBNU9oUzR2dnVqeVhqc28zWVVOTGVvLUhDY2FMaGRIUWpvWi11bkczSjVTUFpVUThQSzc0aEVfVUdHT3M5a3BNTzROM1NaS2xyUUVneEJneEU1dkY2UEJ3Vl9kVEk4VnR2cVo2U1ZZQllIaWN0MldIQzFwTnVMLUE5Y3dHdGowRkhXTGxvakRpU0tzLVptcmJKZ3h0ZmM3WGNmbjNManhsS1h0ajBHOXVFLVE2OHhiTE01cE9fanlYTGpsckZvZl91MGtNcUdFV1J4cko1OHNNMS1IM01vZkd5SktvX3R1YUY3S1AxQ0Nra21waVhXUWJ4SnB2ZFdMYng2S0ZSaDVYRmJMUlpLN2pzT2RDdHVyOWFFNVlmbVdiUFAxYm5Nbk13emhIZ3A5TEIwd09YYm1YYmg3ZlZvZG1NaE9Bdnh5dzB2NllGYWJRU3plVXZ4NUZWMUctYnlzUVUzMnpGWGtHTkpiYmkwYnZRM3F2aHhKU1otNkw1emFQckFYUFlUZ0HSAZsEQVVfeXFMT3A3SDI0d3p3bmFySFZfQ2tmSzB4QkNLR1RfWkJfbkpJVzRzQTg1dDBXS0Noa1d4VkpvaXRLb0c2ZGJlSjhCZnlST3RhSXZxa2tfSHM1a09KSGhmbDg2R0JKVVo5a3c3WTItUmR2WFAwQ1hGaVM2NXNWbElLS0dXY3BxX01YVndXRlBqRnJtM1dtZEtUMHJ5eEd1VDZMOVdSYUdFenlpbzRLUGNyZ2NZM1JkUjVEWGNYQkczb2RaUEhSLVNJbHhmV3RiMVdxc3NJZ1ZqVHliMXlPbkpzbmxDVHR1LXdyQkRTVWFvbmxTNFUzUnpUXzBOSy1hcXN5cTIyWU9ZWlBIOHNEbU5jMHREMXFzY0FsSEs3WE9xVVV6SDNoVkpVdGtfQnVPM25ic0lyUjV6RmNEdXBxdXVramhaSTh5WnpOWjhoSXBjaEFXdExnQk51bUdLM04zMUV5YnhIY1MtdUx0MW9KSG5wRnNkVk1LV21tUExac051R2x6aGpIMkJZeVpESmxzZWFDYXltOTdYcXJEMzZTajZzaHRrem0xd2NwU2t5TzlPem9lQ2xvenpMNVJFdzI3XzhLTlNJUjdIaHlsVGJlQkxzWWd0YUQ1eENQQXE4dnBueHhUdmZLblhBS3RYeGxPNUtHQnE1NUVfVTdGSDNXZWJHQnU2eFBoeEo2RE1OQ3B6NXl0a1MxVVU3aHV4X1hEQjQ?oc=5",
+      "source": "العربي الجديد",
+      "direction": "up",
+      "ts": "2026-11-27T12:13:56+00:00",
+      "amman": "15:13"
+    },
+    {
+      "title": "تؤثر ضغوط التعريفات الجمركية وأسعار الفائدة بشكل كبير على المستثمرين الأمريكيين.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBwdk9ROG5NMlNVeElDSFV5eEVzb1hrQWVubXFlSS1IR1FuZWpnXzBGZDYzVlpEb0VpaUtiZDloQUNFb0psMF9wQmhxTGJwbHhINGQ3OVdRRGw1bDhWU0I0QVNxeFlpNXhZYjdVQjZJZjhXaXlRc3BUSDc0TURxUQ?oc=5",
+      "source": "Vietnam.vn",
+      "direction": "neutral",
+      "ts": "2026-11-27T11:46:53+00:00",
+      "amman": "14:46"
+    },
+    {
+      "title": "بعد تراجعه لأدنى مستوى منذ 2025.. هل يستعيد الذهب مكانته كملاذ آمن؟",
+      "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOcl9DdkpDaWdTQVd5NzZsZkpVSS1STzc4b3lEQUxZMGtSN1pkeDVGc0FzRFFkTEcxOHNVYzcxdF9mNGxxVE56Y0JIQ0xDaTJ6ZzRiZVRQWTJBQmh2enVGTS1kQzRzOHpmM2hfeXE1VlByQkczYV80dFZnbFdPOC0wTW05bEh4anExeDhwQUNlOHlUQzdCaGZJekVVMlhkY3g4Z0pFYkV6TlR0N05vZFFxWXV4NVA0dW15MXVhdUpYNGtnNmVyTFJQNXRNcWNLOTZZQmRCcWVUWlZQbnY0ZFE3VXkzdnN6cVdWZDJfT0RlNkRabWUzbHBHTlkwbkM4QzhwWGN4LWRIem01bTB3azExdHZIOWJBNG1KcHFOX0lrc1pNWmFpWVNDd0dVQjl0cUlOTl9VVFZtLWZ5c1c2ZE9GUmlOVk0wUUZJTS1BaG9yVmRFSHI1elNfQncyb24zYXpZdzJyX1JPT09aV2xGTjR1bjBKaHdjYVlWYU8xcUljcWFTXzQ2UjZiNWV4VjV5T2pPZTMtNF9ZV0FOLWpnOHZoZnN4MEMzUmdHVW01ZTg2TEo4cDl10gGvA0FVX3lxTE11UU9oQzY2d0pUS2ExT0Nid2FuTGtnQWhiTVh0b0VMbmdyX19BcUpUUVJBdEFhT2tTcTZFOXd1ZEM5VVlTQjU1MDR0U3I1M0RGRHRrVWxveXBvUEE4RTRvZGRYNlNZTktqU3dHbDJwSW8xUlhCenFUTmprcXhSWk5iN0ZFTjUwY3oxOTM5MENnaFBVU0JiYmY0R1pDZ2lPdnN1OGdCSkZVZVJiSWNKNk5RVFBIRmk2MmFhV19leTY0X0F4QTJYXzcyLTVwYjdiOHNwbF9oVVdBX2dKVmJfZzNZbUptT1dZbUZWUmx2bE5ZSjItLXYtTlpyb1F3SFJmaXQ0SldvUlVSaEkyeVJxMTlTMFA0VDVhWnE3emREcHFiS3lBVS1GQlRZZWx4dC1vVEdxa2dESEZBOWFDelg0OWt6RFcxSGV5bXBNOU91QzREUTJNeFVTazBZbDhmVXhFU3lfRURlNFZWWVlhd3hKR3VfaVk2ZXZxRTZvZ0I1SF93Z2Z2UFdWbjJNcEpHcER0b0UwVF9ycGFKZHFpYXdBR052eVphWGVRRVpUUjl2R29J?oc=5",
+      "source": "اليوم السابع",
       "direction": "down",
-      "ts": "2026-11-26T11:06:06+00:00",
-      "amman": "14:06"
+      "ts": "2026-11-27T08:50:00+00:00",
+      "amman": "11:50"
     },
     {
-      "title": "نصف نقطة مئوية على الطاولة.. التضخم يشعل خلافاً داخل الفيدرالي الأميركي",
-      "url": "https://news.google.com/rss/articles/CBMiwgRBVV95cUxPN2dlSEh0RXFJdmxuQWVtTmQtbkRELWNDcV80cEVMdWF5V2F3N1B1VDliejF3R21ZS3ZyYkZQckktU29hQ2pwc01NLUY5bkFPeTJNNTZiaXNSYzVsTzNVN05fT1ZDUDYwZ3FfZHBXTWlwOUI2d2IzYUhscmhaUjRuekxTNjBUTFJFeTV0RF9Rb2swOHBlWVZiRWM1aWxvTWMyS0MzdjBNeElfMUI0cXU3U1ZZT0Z0UkdOaGJqN3d6T1ZfbFJnb3dfZGtPTlVyRzZwUVJ2c1gwcENyVlJscHRwbjhpT2dSV1N3bERqUWlMbE1WbUJFY2ZzQVBoUERXMzNrbTlUN2dUV0NqUG83Q1BpN0VLQUpZVlNZT2ZyX0xvMnVhVEg0TzQ3YlpielZVQ0tBSTB5NnlmRUxyQUVraHBWWldFUlFhSXR6NTFENzYtbEdFa0hibEpNSk1hNF8yM0prdUZwVzJfNTdJSkxFN0dsckxjU3diZ2RGZWFHck1XeTI0WkxBRjIySHA3aFZGOVo0YTF2Zy1FUHdieWNKVDEtNGlxYzA3eFBPUDdQOHkyMld1Mmg0cU1pcm5MTjFPRHNkQ0NJN3VxTzlvMm1nbl83Rkg1ekFzb0M5MkNxWmVUNndGbTNhallpZ3dpeHd2MmE5UEZLWWprSUVqdlJ0MVpjTWdSQTF3d1RyeXZSZ3ZlTUJJeTh2bklHV3NnRTNEb3htUXdLVkFWRlE2QmlhTmEwNUFOc3VEaWRZUlZ2MTBrY2ItUQ?oc=5",
+      "title": "الأسواق العالمية بين رهانات الفائدة وتقلبات الأصول",
+      "url": "https://news.google.com/rss/articles/CBMizgNBVV95cUxQZHpRS0dlZDZKZjgzeHBpRF9UalQ3bkVlaDBsMlpGOXYycW00X2ttMWxQbFliRGpaVXB3QnJPbGhYcEdyN3dzSDZfbWRYRzYtZkloOWtYT29iaVFSVkxXSkpmaXRrMXBhUG9zd1pLczhNMlVlbUkwZlZnUmQxeEt6R2gyYmlRbUxLalJnaEZ3NmNSbnR6bTlIZDAwR2ZHVEJ6UlMzcXNoQVFaTDhZQ3lLUzZ1SUlWaHhFS3R2Uy1Tdk5LcTZUdG04VlI3dWFDSGdGNVEyeV9oM21SX0xMM1UxaUprdTJteDZsckFnTEFRWWg0dlNSVGk2bnU5bTMwTjdScVpCbDY5WUx1c0FKSGpJclJNZm5QQktSX1FHbjdMNldvLXhNNDZfOUcyLV9UT2RCaktUWVlsSkhJMllPdEd1b2ZESk5TM25mQnNZVzFBLUJEdVlLRm9rbTRaMGdrSld4RjBCNlJ2RUN0T0JwWmpOcmh2X05FSkcxcWd4dkJfYkpuSjA1dVdIRXd4d29jQmZMTnFOdW9yU255aDRRbXQzUDliY1g1UzM3YVY3N1lldGdRSV9TTG1ZcXo4VmZubjJQR1pNRUdDMldUUXFVMlE?oc=5",
       "source": "CNN الاقتصادية",
       "direction": "neutral",
-      "ts": "2026-11-26T11:03:32+00:00",
-      "amman": "14:03"
+      "ts": "2026-11-27T05:43:22+00:00",
+      "amman": "08:43"
     },
     {
-      "title": "مع ترقب رفع الفائدة الأمريكية.. ارتفاع جديد في أسعار الذهب اليوم عالميًا",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBUWEQ3bXJBSEFXS2ZIcmZOMWl4T3dqeFJWSDIwVHUzaGtESHNmR2RVUEhTTXBONGZKZzd0dTVGMGtoRVVtZVNxWnczeEpUUXVPeHFTNmdxbF9iNzNOMmZv?oc=5",
-      "source": "المصري اليوم",
-      "direction": "neutral",
-      "ts": "2026-11-26T10:45:00+00:00",
-      "amman": "13:45"
-    },
-    {
-      "title": "أسعار الذهب في مصر اليوم.. عيار 21 يسجل 5635 جنيهًا - الطاقة",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxOc1hRYWVuVFFtTjNRT0tjd2VBTmFrTWRsaHdiWWtEUk0yZXBEbjI5Rk5KWXBFTy1hOTFvRXE3YVhVM0tHNXZxWDJEVE9LNFpFRTRZMkYyOFNGSDRlRGNvRFhwTlg4Zk1hdEdaRXNubHE1eTZjWGZnUWpVR2lWTE4xTTlyTHMzbVZZNVlwZEM4SktwUUF4MXNJQVNDVnlvTDBYa0FVWXFsOEdMajd2NXBZdHprYnFVbzRCU1ctSkN1SlZfejRDZGp0eEdweVkxZmFpb2trbURhbVFtTVZKU3lpU3c1eDJvUVVyRkNqWlF5MlgzRXFkOGJCOE1BVUxNbDVoQzh0QndkMUdGZTVRM0ZfY2JTZU5oOFFjZ2pyRW1WMWdyd1lTMGhXa2xxQ0JJdjFvTHRaci1OQV9sLWpUR3V6YXo2R3VJRnRMeGc?oc=5",
-      "source": "أول منصة عربية متخصصة في أخبار الطاقة",
-      "direction": "neutral",
-      "ts": "2026-11-26T09:59:04+00:00",
-      "amman": "12:59"
-    },
-    {
-      "title": "مخطط اليوم: زوج الدولار/ين يعود للاقتراب من مستوى 160؛ الاحتياطي الفيدرالي وبنك اليابان يستعدان لمزيد من رفع أسعار الفائدة",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPS0xjRWYtUllhMnVVWTVGblV4RDhuVlRSdnpLbEFfYi1wazAweXQ3UzJrU01IMXhHYURQcmppSnMxV3pPVVZEQlI2VTJnZGxHOGNyaGdUUW9oUTY4b3RwLXJROE5wR0ZKaV9rSzFhRUlZWWtHc1VobXBGUzFDeDBjV2NWeUp3ZjZtWTl6Z01sUnVZTmhTLXFKOHM3VHNyV1Z3Q3pSTVZtbWtTLVEwTE5UbnU1WjkyT0xoZ2VyYXoxTHQ3UC1XWGlSMWhGZndkZDc4WmFkRDRKeVd2bnNZYlYxTUJ6U0diV3RUMWdV?oc=5",
-      "source": "XTB.com",
-      "direction": "neutral",
-      "ts": "2026-11-26T09:43:23+00:00",
-      "amman": "12:43"
-    },
-    {
-      "title": "الذهب يرتفع بعد هبوطه إلى أدنى مستوى في 15 شهرًا مع ترقب رفع الفائدة الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5KY0JhcjZPZW9uSk4xdVVQSDA1ZTREMlYtdUR1bndlYlRQUTh3LVRxUHlMSVlSRHlINTJoSzhKekpKSkxLbjJn?oc=5",
-      "source": "صدى البلد",
+      "title": "رغم خسائر وول ستريت.. الفيدرالي يستعد لرفع الفائدة",
+      "url": "https://news.google.com/rss/articles/CBMiqANBVV95cUxQd0dvU2tiNlNCbm9ZLVdqSEI2SmNOb3E3SjNpcU5UUFVQSjN4dGg0VGJOVlgzTG9yRFFoYlRLSkduSFNXRnlaWkpoUnVQUC1vcWRHbmt0bUpLMEYxVERRRnI4Q1JIQnAyUFVVaGdYQl9wdnF2RHNpdWhIX2NLNnBiR0hDYWdTSFRzNDU3cWxMdXRRdGhSSUFPWXVDSmVCZDJUZXd6Nk9BamU4T1VmUDJOU1RPSXhxLU1NZ3pub0tlRE1zN3V4WlVBV2xvYlZ4T2tUUm1sMGRNOV8zOHg3QTAtZy1xdnlJX2tHUnlQRDhZUTVxc1dkS3QxSWwyMXdPNThQbG5vZ09ZZFNEU08wUnlaemlnZUdnUF9Oc0hnd0NBMXg5Skh1Wk9yaklKT3czZ09lVzlCZWVxLWRHeUxQVUhObjVpU2JhTWh1LUxzMVJzNG1peWJCTUhIdWktUV95cjRBV2RGbGRndGw4cEt3c0NkTm15RHpFZkM3ckhxbmw0bk0xcGhqTXJfb05jRDFKdzlCWGVvM0N2MGdPVlpGRm1ZdjJxMHNIelJF?oc=5",
+      "source": "اقتصاد سكاي نيوز عربية",
       "direction": "down",
-      "ts": "2026-11-26T09:16:00+00:00",
-      "amman": "12:16"
+      "ts": "2026-11-27T05:43:11+00:00",
+      "amman": "08:43"
     },
     {
-      "title": "رسوم ترامب الجمركية 2027: التضخم والفائدة ومخاطر الأسهم",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaFBtNl9McEJ0QnZQZ19ScldnYXVUa0Z5clhIN2ZMaXJSMkI5OWdHR1JUUlVlaGFNYXlXMVYxTHU4UW1sT1lrQWNkbEFIc2xqMElBMzRObDQ2WUpSQndkeXo5c1lvZU5pTkNKdEJsU3VxeEk1X2dOelYzdWMxQTZfeldrRnNlQy15ZTR5Y0ZxUmNBZENKNzh5em1fV1lFQWFQcWo1OA?oc=5",
-      "source": "www.equiti.com",
-      "direction": "neutral",
-      "ts": "2026-11-26T08:55:44+00:00",
-      "amman": "11:55"
-    },
-    {
-      "title": "يتردد ثيران الذهب دون مستوى 3600 دولار مع دعم رهانات رفع الفائدة من جانب البنك الاحتياطي الفيدرالي لقوة الدولار الأمريكي",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPbmlDbGJJTVFaRWNud1poTjBNeGpzLWhtS2EyY1p2QWdzUVdJbUFEMnFDOURsaFJVZmVLcFdyTmVoeFJlTEFlcTMyeU5vMEJGd1V2XzRkS09fdlFZM1l0NGdZejA1bkRxeUdFV3VGdGxXOUlfNWlkeWhqeG82SUpqTXBrRnU5QWhWc3VyWVUySTRBLVV3dEo5UEI1LUt0dmVGa203NS1nQ096Z0R3Y2FwaVZwcENfY2Zyc28zWHNYSlNUVVNUcVFKLXkwaHVGRFNiVGx0aVdXQU1XM2MyNVFmRWxBWnQtZl9mMXc4cl9LWVlyS0syMkIxcWhiWFVxMWs?oc=5",
-      "source": "FXStreet",
-      "direction": "down",
-      "ts": "2026-11-26T08:45:53+00:00",
-      "amman": "11:45"
-    },
-    {
-      "title": "سعر الذهب العالمى يرتفع وسط توقعات قوية برفع الفائدة الأمريكية",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxNVHNyOGF2MnZnOVB4NFJaTWc0eHdFaG9fZ3dtd0pSMmo0Z2RZUGZZVllMX09tRENwZi15SE55dEVYbkNWV0ZpSHVmZkdSVHJfWG83STgzR2YwaGZaVzBxZ3VmRWVyNjhPMlhRTlVxSjhvR0VPcGZIeXFQMk9ISXRWS3VHNWZGU2p0TGRnOEVEV0pPM0p0aDVfbUh3cGE4REZiNUtsOEpqMFNFbjZSZTAwXzRGczVWRGtFZVBfU1dFYjBMZkdTeEp1aDBNNzNjdUp3alpyV0haTnNtRVh6SlNQX2dEWnVJaXZ6UE54dlhydThEeE53YU13d1AxcUN1bGtHX2I3VWpUOE80cWZSaG91WU03dVhqY3N2MzVLSmg3RFk3RllHbXhZRlBCZnAtdHA2RXgxNFRUOUx1R2RfeDNJWFN3UTNGckdJVUhRUTVzamhqNHFZY0E?oc=5",
-      "source": "جريدة المال",
-      "direction": "neutral",
-      "ts": "2026-11-26T08:42:26+00:00",
-      "amman": "11:42"
-    },
-    {
-      "title": "انتعاش الدولار مع دعم بيانات سوق العمل لتوقعات رفع أسعار الفائدة من قبل الاحتياطي الفيدرالي",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQnZ6Ui1ZNmxTWUt3VEMzSGVUa3hKaTR4clZvbk9qSkRfRWo3cHMyV19hNFZIdHNWY2xwR3VzeEtVWEhMMG9iazJiSTExai1Tc0hhVERYWXJhYm9SN1JzZXNDSnpFQ0p2V2ViMWY4QWNBTlRXR3Zld05TcTZPRW5fWlQ0MWtTOHJLYUpfSkJuSEdGNURDYWtycTZmYVhSVWdTV0pqaTVWeVZHb0NvbUIw?oc=5",
-      "source": "VT Markets",
+      "title": "سعر الدولار الأمريكي يرتفع، ومرشح لتسجيل رقم قياسي شهري منذ عام 2024",
+      "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxNWk1jSF9oMGNkVkNCR1o2Y0hwSDJhU2xpTlBrTnY0aHBISDFKVmFTZnVYcUw0Z0lYYWxKd0pma1RsU0EyMk9aR3VYM2U0SDVreFhOc0VVNjAzQV9hWElxcnJoWHRTbVB0WWhGbTY3TmI0bkotaF9ISjVOVjFXTTc3Y09fcG1adEhwaTktZ2s1YTBnRUtqNk0zSG9mdzBUYmdabzUta3ZyZkNGSFlBU25zZWVYS2dXaUhKTnY2YUZoMjBBTnd2ZTg4YjFnZW1UR1BTQ3g3OHJHU0hhdUkwMjRNdjN2cXdlZnFwSXhDZHFoNERBanptYjN4MXRrSHJmc2V4b1JLQlZaTU45eHI1VFJ6NlhfOUtqeXhtVnNJUWY1YXZRQVFmZkV4cGt2TUpkZnlBdTlCc3FkZVYtTVlHcWZrWEJ4MFBhRGN5XzhDbDR4bU8wangwdGZncHNiSWtoUGxWM3JUUWg0amQ0VFRyR3ZRU2hGb0RWb00wclFOWWx6MlE5YURTV28yUVNUMTBjZlFyNk5TbU9KTFAwYkZVQ1ZPSzJVM3BFa0hNczBvRW1LbWVGMkpxbzY2QTV2emY4REs0bjBNUnBBN0JqOEpQVjNWNzluMFZEVVBPczFDUVl1R0U4UU5xNUhCWFFrZUtiWFIzdjVNZ2dNNUZPemthWk1yVFNTTGRNNy1mdENB?oc=5",
+      "source": "IDNFinancials",
       "direction": "up",
-      "ts": "2026-11-26T08:08:56+00:00",
-      "amman": "11:08"
+      "ts": "2026-11-27T04:40:00+00:00",
+      "amman": "07:40"
     },
     {
-      "title": "أسعار الذهب ترتفع 30 دولارًا من أدنى مستوى في 15 شهرًا - الطاقة",
-      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPMVZVczFPdjRiR1Z6TXFaYm5TTlJ4cjU2NXBtYXlzR2UzclpfU1VacGg1dVU1d1lON3VKOHNTNDlHLVhHYnRtdkRmS2hCeWZTcDQ0cnpHUE0xekNXTVQzZDZ1R08zcHhQMkJ4Z2tscXhtYXRWZWVsUUkyRTBoVjVxbl9XUER4SGwtdGEtdG5YTzJReU8yU3EweHlHbWNudlpacEVPQ3VrelNxN2p0TVoweXp3VFNFVGMtd2Y5akY0TUcyOEJmbXhnUGJFdnN2aWJRZWxjT3hyY1J3TzlybWJHTGtUVG9vR3JsUDJoM09xRkViRkE4WE56YjM0R3E1bHhLU3JHVXRMRmZsVjBKekNrSmlZcEI5b0E0SnJ6ZG5TNnE4NEZ5YlVDS3NrWTJ6WmZHQkRlRWUtVVBjYnQzV0JmSXZpR29pOVpDZ0E?oc=5",
-      "source": "أول منصة عربية متخصصة في أخبار الطاقة",
-      "direction": "neutral",
-      "ts": "2026-11-26T07:04:43+00:00",
-      "amman": "10:04"
-    },
-    {
-      "title": "مفارقة في رهانات الفائدة.. تضخم أقوى واختفاء سيناريو نصف النقطة",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4ME5QemZBRjdtX0xzb3BOWEZDZGhnLW96QTZaREdnUEN1cF9EUDVuLU5ES0dXallTTWNXTTFCSDRnbEJTOVlYZ2NnYWJNSV9ISWlRTS1zNFAwcUtIX1E?oc=5",
-      "source": "إرم بزنس",
-      "direction": "neutral",
-      "ts": "2026-11-26T02:52:50+00:00",
-      "amman": "05:52"
-    },
-    {
-      "title": "تضخم الولايات المتحدة يخترق 3.8%، والأسواق تتوقع رفع سعر الفائدة من قبل بنك الاحتياطي الفيدرالي",
-      "url": "https://news.google.com/rss/articles/CBMizgVBVV95cUxORXZSUHdyOWxLb3hJeFRtS3pxbGZFWFBRVnNLZVNRR1J1aVFHR3Bpd1dmNWtfdUw3QjdtWjNmWjhMclFXRmZ2SVNmZlBaWnM2bjQ4c3FRR3VrS3pjamVlRERIVE0weFc2V1BCQklBOFlNVTBVOF9LODFZVUxBN1R0U1F3M09Zd0ZqUTNidkJ1b3Bfa2s0MXNtT21fVVBvOWxTTDFweWpmb2NGUEVrTURWRHlwRVNLQW5QUVZYMEd0anZpSTBhZFlPWUNMcWJOQmZDa29VaG1qMWwxWGNhdjk2akpGQ3A5dVQzaFljWWVxcXpmbEJRU0kzNlpqV1U3bnNwVkNmZVpWWWIta25LSTBObnREMVc4N1lmcW03RmtXWkw0WTJHb3gtVVYyMFoyeFAyNVlyOHE5dFVHYUJQOFc0N0VpOUpYUi0zcHR5clVQaU50eFp4TkdVb3FBT0ZjcEkzLXBtdEd0VmdVRHBjcGc0b3YxSVFuNEdMUGxkOFFYeEZsdVllSjNlUlliRlFNODRzaExKMHB2U0lYdF91cnEyal8zUnd3Rk5qc2RLM2RNbTBYZEphd2VEMkF1dzFfZ1FPVXRBVC1BdG1NR2xRZTJYOU02QlJUalRlS1UxOTN1a09IejdZcnBGcUJvMllBUEFtekhDd1JQRXpPNVEzOGRjblQ0bHVTRTNQZlNpX3RCVEVqTXJ5Uks2WVJYcEVFcDM0MHJFMjNxaW81WDBoQ2x3M0haZTlvYXZYZFlxeG9wQ0lKLXl4REJiNkRRRVQyQ1NNNDZUNEVSWHJVQktWLXgwLVBnTWdFOWFKazBtTmlaSmhMWHc5eUkwLVNEY0dOU19sMDQ3RnRTUHpFUEtSMlFacThkeHNQTjczcmFaaU5uc09yeHNHSXo1c2l5RUlzQlV4VS1NNmJDUzVoSGJCTkFQaDhoM1ZzSDhxSkRiazVn?oc=5",
+      "title": "سعر الذهب يستقر عند 3,565 دولار أمريكي، والأسواق تترقب سياسة الاحتياطي الفيدرالي",
+      "url": "https://news.google.com/rss/articles/CBMi5ARBVV95cUxNZU02c0VuS0xVWnVEdmlKcGNPa2R0dGhlWkRkbHRER1RsT0VZdnh0T0RWWUp0UndnQWY5elR4Rl9RNnZ1b3JPV0JXTGNfZFhzQVZfX1dwbW54WGdSWjVUNWh5NDhSX09UeFFWUFJJZ3RHRnRXbE0yN205dDN5RzhMYVp1S0Y5OEFGVkUxU2tWU0hOc3dINi1LbVFETVNldE5wOGMwc2g5YTZjaFhUbXkwVVYwT19adFVHUUpUQW16am1RamZlLThjT1NxMEEwbWdSX0NpNnUxWHN5QlVDYldzMnZvXzlfSmhkRlkwYURPUm92SFpEemNPU0ZDakVtSG1XSnRuZzhuTzNFM1pWajF5Z3NsdnBEWDI0T2lJZklsbUVEOUxpSlBFZS1zeWowenBWTm5RY0lVTGk0RWM3MEFqeXh2SmxVYXd6OFB6OTZCcDZ3MmtHVm02eHJCajRrV29QRFRWWUJhTUhSSGF5ckh0YW8tQkFoMV9TUGZsT2ozRVhUTXZHaU91SGNnaHM4UTNMYktYaWk1TVBFUFZSUEJoRG5tdU04NDVvNjNwZjQ2Q3VNajJEQXhNR2V5S3hkem5YUVUzYVIxcHNLMGhPSE1GNXY4UkpQOGlJc3F3bzBnRU5mdkFidjdPXzJBUGxuR2ZhbmhWbWxRX25NSUZmSEROdU9FVFpDMTgxcFA3ZWpHcFJhZS1CLWRnUDdsYWw0aS1ZSE1jNzEtdXJrX2VzVmFLRnNCblBQUEFKVHRyZ1h5ck9NRUJqRkhsV1ZUV2daREZvZ3NBVnJkRE5jbkh5R3ZkTFRvaS0?oc=5",
       "source": "IDNFinancials",
       "direction": "neutral",
-      "ts": "2026-11-26T02:20:00+00:00",
-      "amman": "05:20"
+      "ts": "2026-11-27T04:00:00+00:00",
+      "amman": "07:00"
     },
     {
-      "title": "داو جونز يتحول للارتفاع وناسداك يمحو معظم خسائره - ارقام : اخبار ومعلومات سوق الأسهم السعودي",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBmX3ppaWVXdS1MWWxHTnhxQmZ6cFpuV3ZIeGRmc0otMjNyVUZYeVpwZUFMdEtSVVRpM2NXMGdJSl9tcDlocFdUQ3FNS1g2eERGRjNWOXNXS1JVU0NHSUxqVVZWaDluNUZXZlE?oc=5",
-      "source": "تاسي",
-      "direction": "neutral",
-      "ts": "2026-11-26T01:30:00+00:00",
-      "amman": "04:30"
-    },
-    {
-      "title": "ناسداك و«ستاندرد آند بورز 500» يتراجعان وسط موجة بيع لأسهم التكنولوجيا",
-      "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxObGhHMFZ3Q2Q0ZzB1UmdMUVJZVlNnUTUtMkxwX3dISURIU3Y5THVYdjJ1Ynd6dFVyQnRNcks3MjFlUmZKMFI0OVRpdTdyb0Y4TTNNZldEbjlTRDc5ajlDbGFZaUpzWElhWUpEc2FZNWY0Q2oyeVpKWkk4QUg3ZDJ0am9kRUZrUVpaUTdzVm5JNnpqMGYzdHZBZ08zSUdxVElwcktLT2J6UlI1V1JtcTkyYjFkQ2loSUtyZnZ4VjRhZHhCVy1ZeFFpb0tZaUx6TXFWLXVYVTFveEplejhHTXN4SEtHMmw4VEo4RXVoX0JmZHByUFUzb1g1Q2MtbGdxWFBMbVE1Nlc2V0hpLWpsMC1WSnc4N2luc3JfNFNoaTJzT3N0MHhvMEw5Q1ZvMUlGbTJWT3BxUmVGNTgzejJfbkdaSlhPd1NWeXRRTllJRU4xUC1hVi10NkZ5M0FUOFg2bktjYmhtTEJ0U3JrM1lfbEZjaWV1WUZEU0hoNXdhcElmTTIzX3lONU00SXpzT2ZkZ1UtVElSTkJ6X1A2UURQb19ka3NENzA0b0UtSDZ1R2dNVnhPMV9uNng1dDdwRDIzc0dfQTVUVGtSOVRyLUcyZGlrSlI2MmJLaDkxWWFXS2QzRHFYYURtRWRBVWV4ajBPZzlmVG14enJaUlJVWlhfQkNPZ3NLVmxLSGxOWXg4?oc=5",
-      "source": "شبكة مصدر الاخبارية",
+      "title": "وول ستريت نصف جلسة اليوم.. وتراجع مخاوف الرسوم الجمركية ينعش أسواق أوروبا",
+      "url": "https://news.google.com/rss/articles/CBMi-AVBVV95cUxPNy1qdkt3SGpaZGJLd0t4dlV5aDJVekpfODVQek4zWTRfXzBMd3lKV0FLcXBPelZWMlJDZjVjbjZKZndZOF8xZGJOVFZxb0JPd0FJZFRxREVaNUdZNTlqUENhSi1CLWFiZUJDRDNIRnBCUTliemY1QmV2MTN3NXVNNldPU0YzWkVBbE1WNTE2cmNWd25RYUxNaDRHS0duWm9ETnc2UDhMcDFiWTRKWGo3WU1TMHljaDlnZ3Zsb3pxNmQ0Ml9qTk5tR1FmUTBXUWpRazhrZi1rRWoyaXhXZGhFMzVzZ2lYX0VnUkUzSUJIeUs5eklQM3l4akRFSzM2WUgxbmhPN2ExcUQ4a2JldmZqaVBJeVBYMllEc00yT0NRa1drQzF2ZTN6NkxzTC15bkFTOFJvSkVzel8tUlM0X3JqdDZvWHgxQ19SUk5ZSnZmNzVNZjhLU2VGZmRlQTk0cEdLeU9nZW9UT1ZvRExOLWZKZzFvNjFnbGZQUjBDSWthMEZaY1pkTEtNNVVtaDIxZDVlRlNCTnFVdFR5TjRaS3ZPNXZ1QVc5RUpVaW1kSnU2NHJiVWstanBCa0tTLVZtN3h4bTZpNXRUREU4TFVMYjZqUnN2ZGVYRHBUU3gwc1FCOEZRcWJWczdsNUktc1pRZTZGY0tPaF92VWU3OGx2QTVqdVFZaUQ3R0cxMzB6TTMxRzlHWm9HOVB5eDRfY2hzY1p4LWs4M0NvRnVVUVJfSUtrLXNrWXJkajlNOHMzTG00bUlVYWFWaUViZkg2amhIZkRNT0wwYXNFa1hFdGhDTTdVOXdPR2NWd2ttM05JRnZMVHdkLURnZl93cVN0elR2WTlwNURXcTF4bVdXeGJyVm0zTDFDYzN5NUNRWWRST3hPQjZucjhxdEJhZjB5amJOQVJ4cnIyQ3o2TzVCYVZjMlZLN2pRbXV1ZXR6ZUlybkxPYzlzOFQtT05GRFNsMmJWZTEzVjVWWU9rcGU2UFRTR2JpbnN5ZGZua2RI?oc=5",
+      "source": "صحيفة الخليج",
       "direction": "down",
-      "ts": "2026-11-26T01:20:22+00:00",
-      "amman": "04:20"
-    },
-    {
-      "title": "أسعار الذهب تعوض معظم خسائرها وتتعافى فوق 3500 دولار للأونصة",
-      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNNlFPZm5IcWs5SElxWk5iTGlQSGRKVW9kVWZKaTh4MmlTRVF6bFZHWVNwY1RudVJPYzZvMmhuWktSZ1FwbmlyV1FvaXJmbEIxWDJnSTJmaHdHZkh1czBnSzNIU0w4NlVqZElIZWRYRWxNRWt4LWhaazNWYUNnZjFVamVOLURZX0FZcktVbmdqaWZjNFhWLU5zeS1ER2dpVzhreVZHNmFCejVpc3l2a0E2UWszRTc1NS1rSGVCUGVabUZkWWxCS1NjUUt4cU1oZEt0MEVTWnowX2U3bENHQjBYbjdDT2pfeTBIR2g5UUlzbDcwOHk5UlF0ZGxsemVvOEZiVktxenV0ZXlxUQ?oc=5",
-      "source": "الشرق بلومبرغ",
-      "direction": "down",
-      "ts": "2026-11-26T00:35:17+00:00",
-      "amman": "03:35"
-    },
-    {
-      "title": "فخري الفقي: أسعار الفائدة المرتفعة تبطئ النمو الاقتصادي العالمي حتى 2027",
-      "url": "https://news.google.com/rss/articles/CBMirwRBVV95cUxOM0IzWlYzN3BjYUF3bGJvTDFFY0VhOTVYSTRXZVYtZEI5YWkwNjNYR25wLV8wS1VvdFFrcm0tMHhWc2h0UVJzVUpkdEtTcS1feVRXV0FKVTBEclRqZk1JeVZkMmZOWFR3ZjRXZEhBVzdSV2NHU1VCV21YbW5UVVVZSE1nOTVRbmR4cWJ4b0VVUjBfQ2FlSXprci1KYl9BLTBha0VCLWR2d2kzM2Q5ZkV6QkRabld6VllYa3Y2RmpkWU50TllUOXhfY2tQd3RoakFXT3ROOFBfR3B5aW9FeFZrSzdjbE93c1ZuMDVrbjBqcEZaQkNzaVlnWkJlbU9sbGtIVVNXbzBwNDU2cUVvS0FRQzNlSnhZalVEM2J1WjVMM3BUYXp6VGNud3ZvdUlBYlliSXVLNUdmempYUnJSNVpZRjhzX1cwdjBucnUyN2ppUkF6OXQ1N21fZEhLTmFzMWZhbzJKdDdRVm1sTDdwOTFuZ0Y0d0hpTWFidDEtQWNYaXRNMENwZ0Y1N3l1S2FQWnVBZ3dVQkRuRlNJQTNucmNGYWFpS0lyaHN4eTg2WldsY2dkLURGdDRibVpGdVJDZVlGYWNrblVYdk80WEJHTkZRakdRYnd5Y194TmlHcU5ENmcyYXJGb3I0TUNTcnBuNXhqQXhrMUhJcEwtZ3d6dUN4T2VzVmFPdnpacEVFOWxha1BYVlVCb3RGMGVXV2VkcWFLTG1BT2FJR2kyTUMzeDlB0gGqBEFVX3lxTE5PSV9Bdm90STVvYVJtWWtiWmVVQS03NDBzOG43VnB2QndpTHF1aE9GLXI5VmxJLXkzd1RRd3ZLUDhrQnNjX19KeWYyNExsOWR6TnRyZmVWdHcwaW5DR1lfMDZjT0ltdEJUNXhIRFgtVlRWdm9ZOXpUYjRfbGg4RzA1RWtLckNheDdtR2JDT2R3dEFYMTlvbHhqcnR5MHcwZzhvVmwwQy1lTDQzY1ZZNllWSk96WUlQNXNDV0JZcUlzend1N1lzaHpaTTFvbmtFUFhCLS1jVUhtbE9ieG53OW1MOXliaC1KREZYS01vRFEyczBGS1hoZUp6U1dEbnBQZFh6RTJXS09uT0xrZjlKRW10YTdRZnhJRDcwR1p2d1Q1cVVQQWUyLVpIQ2ZFZGNvSmJhRzVsT1E4ODZPdVlMVFBncXU0SFpDYjRSbjVHT1VVdk5nVVNHWW9wR2RKYXI1b1dKM09lOWhXclNBVWM4eHdWRHhDaC1vMVh3Y3gxOEFZZDAtcWplZElhZFQ1ejAwQjZ6SC1iRU1NMjRZRUVzc2ptLVkyYlFfN1VWbUZweVR0V2lRaWZTSlExT2Q4YmtJWXBLWnpSNEhyMm5MRWFDbXJCWm11NjBUaUh0YTdnOTR5S25NeGlqSWRvMk5PaGQ4WXduMC1UOFROUUs4Y2YxTmk5Mk9FR2JUVE5RMXA4SEVqR0pUemFJUUlwSDhyTkR5bGNEUXVLOHZYaVNB?oc=5",
-      "source": "اليوم السابع",
-      "direction": "neutral",
-      "ts": "2026-11-26T00:00:00+00:00",
-      "amman": "03:00"
-    },
-    {
-      "title": "مجلس الاحتياطي الفيدرالي الأمريكي يبقي سعر الفائدة دون تغيير",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lYk9CWGJlY0FjTjFxUVp1a1JyR1k5QTF6ZGdvTmp2azl1QmxveTZZNWdTTVc0cHIyWFQwdzdmb1JPRWNUYlVYdXk4ZkF1Q3Qzd01NNFpsQ21Pem01Wmo1Q09R?oc=5",
-      "source": "وكالة الأنباء العمانية (العمانية)",
-      "direction": "neutral",
-      "ts": "2026-11-25T23:12:42+00:00",
-      "amman": "02:12"
+      "ts": "2026-11-27T01:33:04+00:00",
+      "amman": "04:33"
     }
   ]
 }
